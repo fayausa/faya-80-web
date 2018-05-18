@@ -1,0 +1,1020 @@
+{
+	"event": [
+		{
+			"eventID": "C8",
+			"title": "Hello XR: An Introduction to VR, AR and MR",
+			"technology": "web security",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S51"
+			},
+			"date": "14/02/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.<br>The 8th edition of FAYA:80 Kochi, Hello XR: An Introduction to VR, AR and MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.strong>Topics Covered:</strong> Immersive Technologies and the Fine line between them<br>What's New in the XR Spectrum<br>How they can be Leveraged by Various Industries<br>Design Considerations and Best Practices for VR and AR"
+		},
+		{
+			"eventID": "C7",
+			"title": "Essential Web Security for Developers",
+			"technology": "web security",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S45"
+			},
+			"date": "10/01/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey.<br>In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced.<br>The 7th edition of FAYA:80 Kochi, Essential Web Security for Developers, was a discussion on what exactly needs to be done to ensure that applications are protected from cyber attacks.strong>Topics Covered:</strong>Understanding Hacking Techniques<br>Hackproofing Web and Mobile Applications<br>Malware, Ransomware and its Prevention<br>Demo"
+		},
+		{
+			"eventID": "C6",
+			"title": "Artificial Intelligence - The First Step",
+			"technology": "web security",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S53"
+			},
+			"date": "13/12/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+		},
+		{
+			"eventID": "C5",
+			"title": "Singularity Series - The Robots' Guide To World Domination",
+			"technology": "web frontend security android",
+			"eventbanner": "5.jpg",
+			"speakers": {
+				"speaker1": "S54"
+			},
+			"date": "08/11/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The 5th edition of FAYA:80 Kochi was an opportunity for all to take a quick look at the technological advancements in Artificial Intelligence and Robotics, heralding the oncoming Singularity.<br>Human history will show that manual work has been replaced by technology and automation, time and again. For better or for worse, how has this affected the world? What is next in line to be replaced by technology? How intelligent can AI and Robots get? Will there ever be a point of time in the future where AI can perfectly replicate human creativity and the ability to procreate?<br>Will Robots threaten the superiority of human beings over all other things on the planet? This second installment of the Singularity Series by FAYA:80 was a factual narrative on the human technological history and the predicted future.strong>Topics Covered:</strong>Future of Technology<br>Technological Singularity<br>AI vs Human Brain<br>Challenges and Opportunities"
+		},
+		{
+			"eventID": "C4",
+			"title": "A Roadmap for Angular 4",
+			"technology": "web security frontend",
+			"eventbanner": "4.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "11/10/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 4th edition of the Kochi chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+		},
+		{
+			"eventID": "C3",
+			"title": "The Changing Face of SEO",
+			"technology": "web security",
+			"eventbanner": "3.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "13/09/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 3rd edition of FAYA:80- Kochi chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+		},
+		{
+			"eventID": "C2",
+			"title": "Strategic Media Production for Technology Product Companies",
+			"technology": "web security",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S55"
+			},
+			"date": "09/08/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Creating your own media, distributing it and monitoring its impact can be a long process, which may become confusing and overwhelming if it’s not well-managed and carefully planned. Designing a media strategy will help bring a competitive advantage, but only if companies have the necessary skills to make the most of the opportunity it presents.<br>The 2nd edition of FAYA:80 – Kochi Chapter dove deeper into building a sustainable competitive advantage with the help of Digital Media Strategy.strong>Topics Covered:</strong>The CAT Story<br>Technology Product Start-ups/Corporates<br>Crowdfunding Platforms<br>Successful & Failed Campaigns<br>Case Studies<br>Future Prospects"
+		},
+		{
+			"eventID": "C1",
+			"title": "Deep Learning in AI",
+			"technology": "web security",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S10"
+			},
+			"date": "12/07/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+		},
+		{
+			"eventID": "K8",
+			"title": "Discovering Cross-platform Mobile App Development Using Xamarin",
+			"technology": "ios android",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S56"
+			},
+			"date": "17/01/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Writing a single version of code and using it on multiple platforms is a chance any software developer would jump at. Cross-platform application development has been a reality for a while now, but it came with its own set of problems ranging from testing issues to maintainability and sometimes even compromised user experience.<br>The Xamarin development platform, however, was a game changer. Considered to be one of the best, it allows cross-platform mobile app development for iOS, Android, and Windows Phone in C# and .NET.<br>The 8th edition of FAYA:80 Kozhikode, Discovering Cross-platform Mobile App Development Using Xamarin, was an opportunity for all developers and other technology enthusiasts to get familiar with the concept of cross-platform development.strong>Topics Covered:</strong> Introduction to the Xamarin Ecosystem<br>How to Fight the Learning Curve<br>Demo - Xamarin Forms<br>ML, AR demo Using Xamarin"
+		},
+		{
+			"eventID": "K7",
+			"title": "Artificial Intelligence- The First Step",
+			"technology": "web",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S57"
+			},
+			"date": "20/12/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+		},
+		{
+			"eventID": "K6",
+			"title": "Deep Learning in AI",
+			"technology": "web frontend",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S10"
+			},
+			"date": "15/11/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. It’s time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep Learning is revolutionizing Artificial Intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 6th edition of FAYA:80 Kozhikode was a deep dive into the advancing trends in Deep Learning, their impact on our ecosystem and their successful application in business leading to the creation of next-generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of Different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+		},
+		{
+			"eventID": "K5",
+			"title": "Launch it with Docker",
+			"technology": "web frontend",
+			"eventbanner": "5.jpg",
+			"speakers": {
+				"speaker1": "S12"
+			},
+			"date": "19/10/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. It provides an overall consistent environment for the application, right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 5th edition of FAYA:80 provided the right platform for the technology enthusiasts to understand Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session provided a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo"
+		},
+		{
+			"eventID": "K4",
+			"title": "The Changing Face of SEO",
+			"technology": "web",
+			"eventbanner": "4.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "20/09/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 4th edition of FAYA:80- Kozhikode chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+		},
+		{
+			"eventID": "K3",
+			"title": "Security in Web Applications",
+			"technology": "web security",
+			"eventbanner": "3.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "16/08/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Money and other sensitive information change hands over web applications and these are seen as opportunities by hackers. A recent study revealed that more than half of all digital breaches are web applications-based. But review of security before and during production of applications is often neglected.<br>The fact is, securing application environments presents a unique and consistent challenge to IT teams.<br>The 3rd edition of FAYA:80 – Kozhikode Chapter, was an eye opener for all those concerned with web security.strong>Topics Covered:</strong>Basics of Web Application Security<br>OWASP Top 10 Security Vulnerabilities<br>Security in DevOps"
+		},
+		{
+			"eventID": "K2",
+			"title": "A Roadmap for Angular 4",
+			"technology": "web",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "19/07/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 2nd edition of the Kozhikode chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+		},
+		{
+			"eventID": "K1",
+			"title": "Mining the Opportunities of Bitcoin & Blockchain",
+			"technology": "web",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S5"
+			},
+			"date": "13/06/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+		},
+		{
+			"eventID": "T57",
+			"title": "Applying Design Thinking into Product Development",
+			"technology": "security",
+			"eventbanner": "57.jpg",
+			"speakers": {
+				"speaker1": "S1"
+			},
+			"date": "07/02/2018 5:00 pm",
+			"youtubeID": "9sCBRlkZaZY",
+			"rating": "5",
+			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"
+		},
+		{
+			"eventID": "T56",
+			"title": "AWS Lambda: Build your First Serverless Application",
+			"technology": "web security",
+			"eventbanner": "56.jpg",
+			"speakers": {
+				"speaker1": "S2"
+			},
+			"date": "03/01/2018 5:00 pm",
+			"youtubeID": "L2xXG2rrNV4",
+			"details": "‘Serverless’ is the newest buzzword on the block. It can make your server resource management more convenient and cut infrastructure costs dramatically, while increasing the efficiency of IT spend.<br>AWS Lambda is an event-driven, serverless computing platform meant to simplify the on-demand applications building process. With serverless computing, your application will still run on servers, but all the server management heavy lifting will be done by AWS, leaving you to focus purely on your application's functionality and code.<br>The 56th edition of FAYA:80 was an opportunity for all developers, devOps managers, senior level managers and other technology enthusiasts to journey into the world of AWS serverless computing, guided by the chief evangelist of AWS himself.strong>Topics Covered:</strong>Introduction to Serverless Systems<br>Why Go Serverless<br>How to Build a Serverless Application<br>Live Demo & Debugging"
+		},
+		{
+			"eventID": "T55",
+			"title": "Making Digital Marketing Strategies Work",
+			"technology": "security",
+			"eventbanner": "55.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "06/12/2017 5:00 pm",
+			"youtubeID": "p8A5GNb6XnY",
+			"details": "Digital Marketing, today, is recognized as an integral tool in any business’ marketing activities. However, the Digital Marketing strategies that are employed by most are clumsy and even the marketeers themselves are unsure of the efficacy of their strategies.<br>Google’s frequent algorithm updates, including the one earlier this year, make digital marketing a rather tricky area to master. These updates should translate to updates in the existing digital marketing strategies as well, something that is often overlooked. Similarly ignored are SEO and Content Marketing. The need of the hour is to integrate SEO, UI/UX and Content Marketing to form an effective and wholesome Digital Marketing strategy.<br>The 55th edition of FAYA:80, Making Digital Strategies Work, was an opportunity for all to ensure that every buck they spend on Digital Marketing will result in conversion.strong>Topics Covered:</strong>Take stock of where you are headed - Digital Marketing audit blueprint<br>SEO strategy for Google’s AI-powered RankBrain algorithm<br>Bridging the gap between SEO, UX, and Content for better relevance & rankings<br>Burning money? Getting the most out of your paid advertisements<br>Effective utilization of Analytics for CRO<br>Case study: on-page SEO & PPC"
+		},
+		{
+			"eventID": "T54",
+			"title": "Bitcoin: Beyond Myths & Hypes",
+			"technology": "security",
+			"eventbanner": "54.jpg",
+			"speakers": {
+				"speaker1": "S4",
+				"speaker2": "S5"
+			},
+			"date": "01/11/2017 5:00 pm",
+			"youtubeID": "DMl2X6CQOZc",
+			"details": "The word Bitcoin has been flooding our news streams recently. Simultaneously hailed as the next big thing and criticized as a scam, most of us are caught in this crossfire of myths and hypes surrounding Bitcoin. The need of the hour is a simple and objective understanding of what exactly Bitcoin is, what it means to the global financial system and how you can own, transact with and secure your own Bitcoin.<br>The 54th edition of FAYA:80 helped all enthusiasts unearth the reality about this revolutionary open-source software implementation of Blockchain.<br>The session included a Bitcoin cycle demo, where the audience learned how to create a wallet, receive and send Bitcoins and manage them. .strong>Topics Covered:</strong>Introduction<br>The What, Why & How of BitCoin<br>Transacting with & Securing BitCoin<br>Live Demo"
+		},
+		{
+			"eventID": "T53",
+			"title": "Database Optimisation - A Dive into Query Optimizer",
+			"technology": "security",
+			"eventbanner": "53.jpg",
+			"speakers": {
+				"speaker1": "S6"
+			},
+			"date": "04/10/2017 5:00 pm",
+			"youtubeID": "iV6SOOaLFzc",
+			"details": "Most of us interact with a database enabled service of some kind or the other almost on a daily basis. This makes Database Management Systems inevitable in the modern world. With millions of data transactions taking place every second, even the most minor of changes can have a dramatic impact on performance, which makes Database Optimisation a very important aspect for the developers to understand.<br>Even if you have the most powerful hardware available running your Database Server, its performance can be negatively affected by a couple of wrong queries, which is where Optimisation comes into play.<br>The 53rd edition of FAYA:80 took a deeper look into the practice of Database Optimisation, and provided a chance to use Query Optimizer as a case study and uncover its internals & best practices.strong>Topics Covered:</strong>Database Concepts<br>Storage, Indexes & Statistics<br>Query Optimizer & its Internals<br>Query Execution Plans"
+		},
+		{
+			"eventID": "T52",
+			"title": "Stepping Up to Swift 4",
+			"technology": "ios",
+			"eventbanner": "52.jpg",
+			"speakers": {
+				"speaker1": "S7"
+			},
+			"date": "06/09/2017 5:00 pm",
+			"youtubeID": "LxW4Y3IaxDI",
+			"details": "Swift is by far one of the most sought after programming languages for macOS, iOS, watchOS and tvOS. This powerful and intuitive programming language has modernised the way developers build their apps. Swift has been years in the making, and since its release in 2014, continues to evolve with new features and capabilities. Now we stand at the threshold of its fourth version, Swift 4.<br>Swift 4 attempts to transcend Swift 3 by building on its strengths, delivering robustness and stability and providing source code compatibility with Swift 3, thus enabling coders with a much more efficient platform to build their iOS apps on. This is the first version of the language that doesn’t break your code.<br>The 52nd edition of FAYA:80 was an opportunity for all to upgrade their skills to Swift 4.strong>Topics Covered:</strong>The Swift Timeline<br>Introduction to Swift 4<br>What’s New?<br>How to migrate to Swift 4?<br>iOS 11 & New Features<br>Basic Overview of ARKit and CoreML in iOS 11"
+		},
+		{
+			"eventID": "T51",
+			"title": "Singularity Series – Tools for an Exponential Tomorrow",
+			"technology": "web",
+			"eventbanner": "51.jpg",
+			"speakers": {
+				"speaker1": "S8",
+				"speaker2": "S9"
+			},
+			"date": "02/08/2017 5:00 pm",
+			"youtubeID": "muQFOuEiAFo",
+			"details": "Technologies are advancing exponentially, rapidly transforming age-old established patterns and processes in our world. The luxury of time we had in transfiguring computers the size of a building to the desktops, laptops and smartphones of today, cannot be expected for the next major shift in technology.<br>The top 10 tech job profiles of today did not exist 10 years ago and today’s may not exist in another 3-5 years.The August edition of FAYA:80 provided rapid-fire introductions to the concept of Singularity and the exponential technologies, including AI, Machine Learning, BlockChain and next-generation computing. An understanding of these exponentials can lead to a completely different approach in solving some of the most challenging problems of our times.strong>Topics Covered:</strong>Singularity – Why, What, How<br>Models of Trust & Trustless Systems<br>BlockChain<br>Game Theory & Financial Models<br>Artificial Intelligence – A Primer<br>Machine Learning – History & Landscape<br>Build your own BlockChain – Live Demo"
+		},
+		{
+			"eventID": "T50-9",
+			"title": "Disrupt Kerala 2017- Panel Discussion - Staying Relevant at the Age of Disruption",
+			"technology": "web security",
+			"eventbanner": "50-9.jpg",
+			"speakers": {
+				"speaker1": "S67",
+				"speaker2": "S58",
+				"speaker3": "S61",
+				"speaker4": "S68",
+				"speaker5": "S69",
+				"speaker6": "S70"
+			},
+			"date": "05/07/2017 3:40 pm",
+			"youtubeID": "oMelc8RG3cI",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-8",
+			"title": "Disrupt Kerala 2017- Decoding Phantoms in the Brain Using Technology",
+			"technology": "web security",
+			"eventbanner": "50-8.jpg",
+			"speakers": {
+				"speaker1": "S66"
+			},
+			"date": "05/07/2017 12:00 pm",
+			"youtubeID": "wT-Y4Dm_HmI",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-7",
+			"title": "Disrupt Kerala 2017- Fairness in Civic Technologies",
+			"technology": "web security",
+			"eventbanner": "50-7.jpg",
+			"speakers": {
+				"speaker1": "S65"
+			},
+			"date": "05/07/2017 11:00 am",
+			"youtubeID": "k-rsDfR7DqE",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-6",
+			"title": "Disrupt Kerala 2017- VR, AR & MR: What’s Real, What’s Now, What’s to Come",
+			"technology": "web security",
+			"eventbanner": "50-6.jpg",
+			"speakers": {
+				"speaker1": "S64"
+			},
+			"date": "05/07/2017 12:00 pm",
+			"youtubeID": "-R4TdER72qE",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-5",
+			"title": "Disrupt Kerala 2017- Software & Hardware Breakthroughs in Bionics and IOT",
+			"technology": "web security",
+			"eventbanner": "50-5.jpg",
+			"speakers": {
+				"speaker1": "S63"
+			},
+			"date": "05/07/2017 11:15 am",
+			"youtubeID": "biHH55AmRwU",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-4",
+			"title": "Disrupt Kerala 2017- UX at the Age of Disruption",
+			"technology": "web security",
+			"eventbanner": "50-4.jpg",
+			"speakers": {
+				"speaker1": "S62"
+			},
+			"date": "05/07/2017 03:00 pm",
+			"youtubeID": "FVlpCMdOeK8",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-3",
+			"title": "Disrupt Kerala 2017- How to Grow Faster & Smarter in the Age of Disruption",
+			"technology": "web security",
+			"eventbanner": "50-3.jpg",
+			"speakers": {
+				"speaker1": "S61"
+			},
+			"date": "05/07/2017 02:00 pm",
+			"youtubeID": "uflPL4VueTM",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-2",
+			"title": "Disrupt Kerala 2017- Designing Machine Learning Systems",
+			"technology": "web security",
+			"eventbanner": "50-2.jpg",
+			"speakers": {
+				"speaker1": "S60"
+			},
+			"date": "05/07/2017 12:00 pm",
+			"youtubeID": "iiPk8ghxDpE",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50-1",
+			"title": "Disrupt Kerala 2017- FOSS - Role of communities",
+			"technology": "web frontend ios android security",
+			"eventbanner": "50-1.jpg",
+			"speakers": {
+				"speaker1": "S59"
+			},
+			"date": "05/07/2017 11:15 am",
+			"youtubeID": "Vtiqj1hCH4I",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T50",
+			"title": "Disrupt Kerala 2017- Keynote: Tech Disruption – Opportunities & Threats",
+			"technology": "web frontend ios android security",
+			"eventbanner": "50.jpg",
+			"speakers": {
+				"speaker1": "S58"
+			},
+			"date": "05/07/2017 10:00 am",
+			"youtubeID": "LMlbRsiYgpw",
+			"details": "Disrupt Kerala 2017: Break the Echo Chamber, marking FAYA:80’s 50th edition, was a melange of technical sessions, workshops and panel discussions, celebrating FAYA:80’s successful run for the past four years.It was a tech summit like never before in Trivandrum, with world-renowned innovators, veteran technologists, and prominent entrepreneurs coming together to discuss the disruptive technologies in IT and shed new light on future trends and technologies that are on the rise.<br>The sessions and workshops revolved around the driving technologies of the future – Artificial Intelligence, Deep Learning, Blockchain, User Experience, Mixed Reality & IoT and were headed by Michael Gord, Founder of Bitcoin Canada and the McGill Cryptocurrency Club, Amrit Sanjeev of Google, and other leading technologists proficient in global technology disruption."
+		},
+		{
+			"eventID": "T49",
+			"title": "Deep Learning in AI – A Closer Look with Image Recognition",
+			"technology": "web",
+			"eventbanner": "ai.jpg",
+			"speakers": {
+				"speaker10": "S10"
+			},
+			"date": "07/06/2017 5:00 pm",
+			"youtubeID": "dXRf_jUyxBU",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. The May edition of FAYA:80 provided a stepping stone for the technology enthusiasts to explore AI and its associated concepts. Now it’s the time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are. The 49th edition of FAYA:80 lets you take a deep dive into the advancing trends in Deep Learning, their impact to our ecosystem and successful applications in business leading to the creation of next generation products. Get the chance to use Image Recognition as a case study and learn how to implement AI, uncover its best practices & limitations in building intelligent applications. The session will be equally beneficial for Web and Mobile application Developers, Testers and top level Technical Managers and other technology enthusiasts. Join us for the session to know more.<strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of different Neural Networks – ANN’s vs CNN’s<br>Case Study – Image Recognition<strong>Sessions:</strong>Techbites (Speaker: Arun Unnikrishnan, FAYA)<br>Deep Learning in AI (Speaker: Manuyash Chaudhary, Accubits Technologies)"
+		},
+		{
+			"eventID": "T48",
+			"title": "Artificial Intelligence – The First Step",
+			"technology": "security",
+			"eventbanner": "ai-first-step.jpg",
+			"speakers": {
+				"speaker1": "S11"
+			},
+			"date": "03/05/2017 5:00 pm",
+			"youtubeID": "RnxqTfPEvhE",
+			"details": "FAYA:80 hits the floor again with one of the most driving technologies of the future – Artificial Intelligence. The last decade was dedicated to building a ‘mobile-first’ world where smartphones took control over the advancements in technology and lifestyle. Lately there has been a dramatic change in the course of action. The big shots of technology have set their sail to build an ‘AI First’ world to unlock capabilities that were unthinkable a few years ago and build a future twice as good. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars stands testimony to this technology shake-up.This technology ‘Renovation’ has already begun and will be in its full swing in the next 3-4 years. Only the people who are equipped to face this technology make-over can bypass the capabilities of AI Powered systems and stay relevant in the AI – powered world.<br>The 48th edition of FAYA:80 provides a platform for the technology enthusiasts to capture ideas on the evolution of AI, its emerging areas & intelligent applications and hence speed up their learning curves to stay ahead in the race of technology. The session will be equally beneficial for System Administrators, Developers, Testers and the top level Technical and Non- Technical Managers.<br>Join us for the session to explore more.<strong>Topics Covered:</strong>Basic Concepts<br>Evolution of AI<br>Intelligent Applications<br>Emerging Areas<br>Demo<br><strong>Sessions:</strong>Techbites (Speaker: Arunima S Kumar, FAYA)<br>Artificial Intelligence – The First Step (Speaker: Suchit Majumdar, UpX Academy)"
+		},
+		{
+			"eventID": "T47",
+			"title": "Launch it with Docker",
+			"technology": "security",
+			"eventbanner": "docker.jpg",
+			"speakers": {
+				"speaker1": "S12"
+			},
+			"date": "05/04/2017 5:00 pm",
+			"youtubeID": "AMHC6f3OQtM",
+			"details": "FAYA:80 is back on the floor with one the most talked-about infrastructure technologies of the latest times – Docker. Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. T It provides an overall consistent environment for the application right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 47th edition of FAYA:80 provides the right platform for the technology enthusiasts to know Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session will be equally beneficial for System Administrators, Developers, Testers and even the top level Technical and Non- Technical Managers to gain better insights on Docker. The session will provide a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.<strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo<strong>Sessions:</strong>Techbites (Speaker: Mohammed Thaha, FAYA)<br>Launch it with Docker (Speaker: Amal Dev, UST Global)"
+		},
+		{
+			"eventID": "T46",
+			"title": "Fuel Up JavaScript with Functional Programming",
+			"technology": "web frontend",
+			"eventbanner": "javascript-FP.jpg",
+			"speakers": {
+				"speaker1": "S13"
+			},
+			"date": "01/03/2017 5:00 pm",
+			"youtubeID": "tJUXSnewOKo",
+			"details": "JavaScript is the lingua franca of web development for over a decade. It has evolved tremendously along with the Web and has entrenched in modern browsers, complex Web applications, mobile development, server-side programming, and in emerging platforms like the Internet of Things.<br>Eventhough JavaScript has come a long way, a reinforced makeover to it will help build concurrent and massive systems that handle Big Data, IoT peripherals and many other complex eco systems. Functional Programming is the programming paradigm that could empower JavaScript to to enable more effective, robust, and flexible software development.<br>These days, Functional Programming is at the heart of every new generation programming technologies. The inclusion of Functional Programming in JavaScript will lead to advanced and futuristic systems.<br>The need of the hour is to unwrap the underlying concepts and its implementation in the software development process.<br>The 46th edition of FAYA:80 provides a unique opportunity for the JavaScript developers and technology enthusiasts to shed light on the functional programming paradigm and on writing efficient functional code in JavaScript.<br><strong>Topics Covered:</strong>Functional Programming Core Concepts<br>Function Compositions & Pipelines<br>Use of JS in Functional Programming<br>Techniques for Functional Coding in JS<br>Live Demo<strong>Sessions:</strong>Techbites (Speaker: Jeen P. Xavier, FAYA)<br>Fuel Up JavaScript with Functional Programming (Speaker: Shine Xavier, UST Global)"
+		},
+		{
+			"eventID": "T45",
+			"title": "A Roadmap for Angular2",
+			"technology": "web frontend",
+			"eventbanner": "angular-2.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "01/02/2017 5:00 pm",
+			"youtubeID": "shzcVIR7UWA",
+			"details": "Angular has created its niche as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade our skills to match this full-platform successor of Angular 1. Angular 2 is empowered with a revamped core architecture, TypeScript for development, and data binding model to provide a better framework for building complex applications for both Web and mobile platforms.<strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo<strong>Sessions:</strong>Techbites (Speaker: Liju George, FAYA)<br>A Roadmap for Angular 2 (Speaker: Amal Shehu, Neoito)"
+		},
+		{
+			"eventID": "T44",
+			"title": "Getting Connected with IOT",
+			"technology": "web security",
+			"eventbanner": "IOT.jpg",
+			"speakers": {
+				"speaker1": "S15"
+			},
+			"date": "04/01/2017 5:00 pm",
+			"youtubeID": "mi2eDcdM7LM",
+			"details": "After Cloud Computing and Big Data, the next generation of internet is connecting devices and things. Internet of Things (IOT) is emerging rapidly and opens up new insights, services, business models and revenue streams that complement the conventional business. The tremendous potential and limitless opportunities in business unwrapped by IOT has made a lot of buzz around it.<br>FAYA:80 opens doors for the technology enthusiasts to clear the mist around IOT and initiate steps to know IOT more closely. Join us at the 44th Edition of FAYA:80 to take a closer look at the technology shift and business opportunities in IOT.<strong>Topics Covered:</strong>Introduction to IOT<br>How to approach the Technology Shift<br>Business Opportunities<br>Stepping into IOT<br>Live Demo<strong>Sessions:</strong>Techbites (Speaker: Arun Unnikrishnan, FAYA)<br>Getting Connected with IOT (Speaker: Vijay Kumar M, Webyfy Infotech)"
+		},
+		{
+			"eventID": "T43",
+			"title": "Power Up with Performance Testing",
+			"technology": "web security",
+			"eventbanner": "performance-testing.jpg",
+			"speakers": {
+				"speaker1": "S16"
+			},
+			"date": "07/12/2016 5:00 pm",
+			"youtubeID": "-kz3gORy-CY",
+			"details": "In this age of Performance driven systems, Performance testing has become a very critical activity to be done on all systems irrespective of them being web, mobile or ERP applications. There are a plethora of tools and frameworks available for carrying out Performance Testing. But the real challenge lies in obtaining complete insight from its results to exactly gauge the performance of the systems. In fact, Performance Testing is an area that needs to be explored to harness its true potential to achieve high speed, scalability and stability of the system.<br>The need of the hour is to understand Performance Testing beyond the results by breaking down and analysing its concepts and frameworks.<br>The 43rd Edition of FAYA:80 provides the opportunity for the technology enthusiasts to understand Performance Testing and explore its possibilities to adopt it in their projects.<strong>Topics Covered:</strong>Introduction to Performance Testing<br>Generating Load using Jmeter<br>Use PerfMon to monitor application<br>Result Analysis<strong>Sessions:</strong>Techbites (Speaker: Krishnakumar C., FAYA)<br>Power Up with Performance Testing (Speaker: Anand Ramkumar, Experion Technologies)"
+		},
+		{
+			"eventID": "T42",
+			"title": "Evolving Test Automation",
+			"technology": "security",
+			"eventbanner": "test-automation.jpg",
+			"speakers": {
+				"speaker1": "S17"
+			},
+			"date": "02/11/2016 5:00 pm",
+			"youtubeID": "xG7vrBhj_lw",
+			"details": "Software Development Process has attained a reinforced makeover with the involvement of Continuous Delivery and Continuous Deployment.This scenario has made real-time Testing a very crucial and pivotal component to serve its business benefits. Today, knowledge in Test Automation is inevitable for any developer irrespective of his domain being Android, iOS, Web or QA.<br>There are a plethora of tools and frameworks available for carrying out Test Automation. These tools helps to control the execution of tests and compares the actual results against the expected result. The selection of the tools decides the efficiency of testing. A session on the evolving tools and frameworks on Test Automation will help the technology enthusiasts to streamline their knowledge in this domain.<br><strong>Topics Covered:</strong>Tools & Frameworks for Test Automation<br>Functional Automation Using CodedUI<br>Automating Mobile Application<br>It’s Scope & Limitations<br>Execution and Result Analysis<strong>Sessions:</strong>Techbites (Speaker: Anand R. Nair, FAYA)<br>Evolving Test Automation (Speaker: Sarath Varma Asokan, Se-Mentor)"
+		},
+		{
+			"eventID": "T41",
+			"title": "Mining the opportunities of Block Chain & Bit Coin",
+			"technology": "web security",
+			"eventbanner": "blockchain.jpg",
+			"speakers": {
+				"speaker1": "S18"
+			},
+			"date": "05/10/2016 5:00 pm",
+			"youtubeID": "cqbX_2Rg5So",
+			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin has taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in Business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 is designed with the motive of providing insight into Blockchain and build a futuristic eco system in kerala.<strong>Topics Covered:</strong>Basic Concepts of Blockchain & Bitcoin<br>Scope and Its Limits<br>Opportunities in Blockchain & BitCoin<br>Re-engineering Business with Blockchain & Bitcoin<strong>Sessions:</strong>Techbites (Speaker: Godwin T, FAYA)<br>Mining the opportunities of BlockChain & BitCoin (Speaker: Praseed Pai)"
+		},
+		{
+			"eventID": "T40",
+			"title": "Big Data & Hadoop",
+			"technology": "web security",
+			"eventbanner": "bigdata.jpg",
+			"speakers": {
+				"speaker1": "S19"
+			},
+			"date": "07/09/2016 5:00 pm",
+			"youtubeID": "zmF6-Cx8gHM",
+			"details": "The 21st century has been earmarked as the age of Big Data. There has been an unprecedented increase in the quantity, quality and variety of data generated worldwide during digital processes and social media exchanges. To extract meaningful value from Big Data, we need optimal processing power, analytics capabilities and skills. Hadoop is one of the powerful tools to harness the power of Big Data. The pioneers of technology have unleashed the potential of Big Data and Hadoop in the recent years. But its outreach among the technology enthusiasts in a bigger picture is still at its budding stage.<strong>Topics Covered:</strong>Big Data Fundamentals<br>Hadoop Fundamentals<br>Big Data Analytics<br>Case Study in Hadoop<br>Case Study in Analytics<br>Live Demo<strong>Sessions:</strong>Techbites (Speaker: Rashmy S.R.)<br>Big Data & Hadoop: The Bigger Picture (Speaker: Deepak Varma)"
+		},
+		{
+			"eventID": "T39",
+			"title": "TensorFlow – A Closer Look",
+			"technology": "web security",
+			"eventbanner": "tensorflow.jpg",
+			"speakers": {
+				"speaker1": "S20"
+			},
+			"date": "03/08/2016 5:00 pm",
+			"youtubeID": "5CipHXEgKUk",
+			"details": "The last few years saw a huge hype in the popularity of Machine Learning. The July edition of FAYA:80 unleashed Machine Learning by breaking the myths and hypes around it. Now it's the time to make use of the Machine Learning capabilities to transform and re-engineer daily business.The August edition of FAYA:80 provides the right opportunity with its session on TensorFlow.TensorFlow isa highly scalable machine learning system open-sourced by Google.It paves way for any individual, company, or organization to build their own systems using the same software that Google does to fuel everything from photo recognition to automated email replies. TensorFlow is power-packed for the users to gain expertise in Deep Learning as well as in other forms of AI, including Reinforcement Learning and Logistic Regression.It can run on a single smartphone or across thousands of computers in datacenters.<strong>Topics Covered:</strong>What is TensorFlow?<br>TensorFlow Computational Model<br>TensorFlow Capabilities<br>Visualise Learning through TensorBoard<br>Tensor Flow Performance and Parallelism<br>Live Demo: Build your own Image Classifier"
+		},
+		{
+			"eventID": "T38",
+			"title": "Machine Learning – Breaking the Myths & Hypes around",
+			"technology": "web security",
+			"eventbanner": "38.jpg",
+			"speakers": {
+				"speaker1": "S18"
+			},
+			"date": "07/07/2016 5:00 pm",
+			"youtubeID": "ZrB3Mi7YWfY",
+			"details": "Machine Learning and incorporating it into daily practices was the focus for this session. As organizations evolve and embrace technological advances, Machine Learning has become a key currency to gain an advantage over competitors and push business-success. With the big guns of technology like Google, Apple, Amazon, Facebook etc. rethinking everything around Machine Learning, it has transformed the way we do business and is impacting most parts of our lives. Machine learning has given us self-driving cars, speech recognition, effective web search, and a vastly improved understanding of the human genome. It harnesses the power of Pattern Recognition coupled with Computational Learning theory in Artificial Intelligence. Using algorithms that iteratively learn from data, Machine Learning allows computers to find hidden insights without being explicitly programmed where to look.<strong>Topics Covered:</strong>What is Machine Learning?<br>Basic Learning Concepts<br>Supervised Learning vs Unsupervised Learning<br>Popular Machine Learning Algorithms<br>Scope & Limits of Machine Learning<br>Machine Learning – Is it Statistics in Disguise?<br>Re-engineering Business with Machine Learning"
+		},
+		{
+			"eventID": "T37",
+			"title": "fastlane — Automation and Continuous Delivery for iOS Apps",
+			"technology": "web security",
+			"eventbanner": "37.jpg",
+			"speakers": {
+				"speaker1": "S21"
+			},
+			"date": "01/06/2016 5:00 pm",
+			"youtubeID": "pKxaKLq_XMU",
+			"details": "this session dealt with Fastlane which provides the easiest way to automate building and releasing iOS apps. It is a set of tools that helps to unify and automate the app deployment or release process within a single streamlined workflow. With Fastlane, one can establish Continuous Delivery (CD), a design practice used in software development to automate and improve the process of software delivery.<strong>Topics Covered:</strong>Introduction to fastlane tools.<br>How to orchestrate fastlane tools to unify development workflow.<br>Automate Continuous Delivery to TestFlight, Crashlytics Beta and App Store using fastlane.<br>Accelerate development using fastlane tools and Continuous Integration.<br>Use fastlane tools for launch activities like generate screenshots, on board beta test users etc.<br>Demo with fastlane and CI"
+		},
+		{
+			"eventID": "T36",
+			"title": "Introduction to DevOps",
+			"technology": "web security",
+			"eventbanner": "36.jpg",
+			"speakers": {
+				"speaker1": "S22"
+			},
+			"date": "04/05/2016 5:00 pm",
+			"youtubeID": "DoF8HQ8wULk",
+			"details": "This session dealt with DevOps, a practice of doing things faster in an automated and repeatable manner that emphasises the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes. It aims at establishing a culture and environment where building, testing, and releasing software can happen rapidly, frequently, and more reliably.<strong>Topics Covered:</strong>Introduction to DevOps<br>Why the world is increasingly moving towards DevOps model<br>What it takes for this movement – in terms of understanding,<br>mindset, tools and infrastructure."
+		},
+		{
+			"eventID": "T35",
+			"title": "Beyond React - Flux and Redux",
+			"technology": "web security",
+			"eventbanner": "35.jpg",
+			"speakers": {
+				"speaker1": "S23"
+			},
+			"date": "06/04/2016 5:00 pm",
+			"youtubeID": "Nnz3D-H6sHs",
+			"details": "New modes of UI development has always gained popularity in the WebApp-development regime. While the previous session was on React JS, this one took the audience beyond React with a detailed discussion on Flux, Redux and immutable JS.<br>Redux provides a state container for JavaScript applications that will help applications behave consistently in different environments. It is an evolution of the ideas presented by Facebook's Flux, avoiding the complexity found in Flux. This session helped the attendees harness the power of Redux and Immutable.js by exploring the library and its main concepts. Understanding Flux, Compare flux and redux, more on Redux, Immutable.JS and normalizr.JS are some of the areas that were covered.<strong>Topics Covered:</strong>Understanding Flux<br>Difference between Flux and Redux<br>More into Redux<br>Immutable JS / Normalizr JS"
+		},
+		{
+			"eventID": "T34",
+			"title": "React.js: Rethinking UI development with Javascript",
+			"technology": "web frontend",
+			"eventbanner": "34.jpg",
+			"speakers": {
+				"speaker1": "S23"
+			},
+			"date": "02/03/2016 5:00 pm",
+			"youtubeID": "CILswTXxoNg",
+			"details": "React.js is still a rather murky topic for a lot. And so this session explored its workings and main concepts like Components, Virtual DOM, One-way data binding etc.<strong>Topics Covered:</strong>Components<br>JSX<br>Data for component<br>The component lifecycle<br>Component Methods<br>Component Breakdown"
+		},
+		{
+			"eventID": "T33",
+			"title": "Search Engine Optimisation for developers",
+			"technology": "web security",
+			"eventbanner": "33.jpg",
+			"speakers": {
+				"speaker1": "S24"
+			},
+			"date": "03/02/2016 5:00 pm",
+			"youtubeID": "RupDeUUck24",
+			"details": "This session focused on Search Engine Optimization (SEO) from a developer perspective. There is a common belief that SEO is to be handled by a specialist and that developers have nothing to do with it when in fact SEO starts from developers and there are many important things a developer needs to take care of before involving an SEO specialist. And so in this session, developers were brought to the spotligh, highlighting what they could do to make SEO look better.<strong>Topics Covered:</strong>SEO Basics<br>How search engines work<br>SEO myths<br>Developers and SEO<br>Tips and Tricks for Developers"
+		},
+		{
+			"eventID": "T32",
+			"title": "Getting good with Magento 2 (PHP)",
+			"technology": "web security",
+			"eventbanner": "32.jpg",
+			"speakers": {
+				"speaker1": "S25"
+			},
+			"date": "06/01/2016 5:00 pm",
+			"youtubeID": "J8bINwa4Aq0",
+			"details": "More than 80% of the shopping websites around the world is powered by Magento.  Magento 2 opens up huge opportunities for web developers to capitalize its advanced features.This session helped developers get started and learn more about Magento 2. For all newbies in the crowd, this session helped kick start their Magento 2 application, while helping existing Magento developers learn tips and tricks to get better.<strong>Topics Covered:</strong>Overview of Magento<br>Getting started with Magento 2<br>Exploring Magento 2<br>Creating themes and modules"
+		},
+		{
+			"eventID": "T31",
+			"title": "Why Ruby?",
+			"technology": "web",
+			"eventbanner": "31.jpg",
+			"speakers": {
+				"speaker1": "S5"
+			},
+			"date": "02/12/2015 5:00 pm",
+			"youtubeID": "vzyWNqnnXK0",
+			"details": "As a second step to the introductive Ruby session a month ago, this session dealt with the language in more detail, focusing on the opportunities and obstacles related to it. The session had 3 parts- the ﬁrst one explaining the philosophy & community and why the platform is very inviting to new developers, the second one dealing with how versatile of a language Ruby is, and the third being a demo of a real time front-end app.<strong>Topics Covered:</strong>Philosophy<br>Community and ease to get in<br>Versatility of the language<br>Opportunities in Ruby<br>Demo of a simple real time front-end app using Volt"
+		},
+		{
+			"eventID": "T30",
+			"title": "Hybrid mobile app development and Ionic",
+			"technology": "ios android",
+			"eventbanner": "30.jpg",
+			"speakers": {
+				"speaker1": "S26"
+			},
+			"date": "04/11/2015 5:00 pm",
+			"youtubeID": "d74rqvOyP-A",
+			"details": "This session was about all things Ionic. Ionic framework is a free and open source library for building highly interactive cross platform mobile apps. Over the last couple of years ionic has established itself as leader in the hybrid mobile apps development space. Ionic team keeps the framework updated by adapting to the latest trends ahead of the competitors. Its closest competitors sell commercially while Ionic is free to use and open source moreover its ecosystem has grown so huge that you can easily find tons of development resources from the community to get started within no time. Like most of the other hybrid app frameworks Ionic also utilizes Cordova to go native for iOS, Android, windows phone and other platforms.<strong>Topics Covered:</strong>Concepts of hybrid mobile app development.<br>Various hybrid mobile app development platforms.<br>When to and when not to choose hybrid mobile platforms.<br>Introduction to Ionic framework.<br>Hands on with Ionic framework.<br>The future of Hybrid mobile app development."
+		},
+		{
+			"eventID": "T29",
+			"title": "Getting Started with Ruby",
+			"technology": "web security",
+			"eventbanner": "29.jpg",
+			"speakers": {
+				"speaker1": "S27"
+			},
+			"date": "07/10/2015 5:00 pm",
+			"youtubeID": "SYlBDop2_B4",
+			"details": "This session was for all excited about Ruby and ready for some hands-on knowledge. The discussions ranged rom basics, for newbies, to a more in-depth look at the language for the experienced in the audience.<strong>Topics Covered:</strong>What is Ruby and why?<br>Getting started with Ruby.<br>Having Fun with Ruby<br>Ruby tricks and Tips<br>Live Demo."
+		},
+		{
+			"eventID": "T28",
+			"title": "Uncommon Python",
+			"technology": "web",
+			"eventbanner": "28.jpg",
+			"speakers": {
+				"speaker1": "S28"
+			},
+			"date": "03/09/2015 5:00 pm",
+			"youtubeID": "x8MQdEiqWKg",
+			"details": "Python is easy to learn, but still unfamiliar to many web developers. It is one of the most sought after programming languages in the world. There are great opportunities available for Python developers. This session helped web developers become familiar with the features of Python and kick start using it.<strong>Topics Covered:</strong>Quick Intro to Python<br>Statements in Python<br>Built-in packages in Python<br>Third party packages."
+		},
+		{
+			"eventID": "T27",
+			"title": "Trends and Transformations in JavaScript",
+			"technology": "frontend web",
+			"eventbanner": "27.jpg",
+			"speakers": {
+				"speaker1": "S29",
+				"speaker2": "S30",
+				"speaker3": "S31",
+				"speaker4": "S32"
+			},
+			"date": "05/08/2015 5:00 pm",
+			"youtubeID": "hNvaZWFDf9g",
+			"details": "JavaScript is changing faster than it ever has before. The ES6 standard will soon be finished and released which could increase the scope and opportunities of a JS developer. The new features, new APIs and even syntax additions are in flux. Tons of libraries are taking advantage of the new features, even though Node and Browser’s haven’t yet settled in to the new standards. But it is the future and also the focus of this session.<strong>Topics Covered:</strong>Recap on JS Sessions, Package Managers, Build Tools, Trans Compilation (Speaker:Deepu S Nath)<br>Common misconcepts about Javascript - Context, Scope and Instantiation (Speaker:Nithin S)<br>Recent Trends in JS (Speaker:Shiraz Samad)<br>What is new in ES6 (Speaker:Faiz Mohamed Haneef, Director - Neoito Technologies Pvt Ltd)"
+		},
+		{
+			"eventID": "T26",
+			"title": "Apple Watch: Start your developer engine",
+			"technology": "ios",
+			"eventbanner": "26.jpg",
+			"speakers": {
+				"speaker1": "S37",
+				"speaker2": "S36"
+			},
+			"date": "01/07/2015 5:00 pm",
+			"youtubeID": "7dv8c0HmNw0",
+			"details": "This session explored Apple Watch development including the new capabilities introduced by Watch OS2. WatchKit for watchOS 2 introduced many new capabilities for creating responsive Watch experiences, beyond just a faster architecture. New updates on digital crown, accelerometer and heart rate data, as well as providing physical feedback via the Taptic Engine were discussed.<strong>Topics Covered:</strong>Introduction to WatchKit<br>Apple Watch OS2 Updates<br>Live Demo on Apple watch development"
+		},
+		{
+			"eventID": "T25",
+			"title": "Material Design using Angular",
+			"technology": "web frontend",
+			"eventbanner": "25.jpg",
+			"speakers": {
+				"speaker1": "S29",
+				"speaker2": "S33"
+			},
+			"thumb": "Faiz-Mohamed-Haneef.jpg",
+			"date": "03/06/2015 5:00 pm",
+			"youtubeID": "6G052cpkfJ8",
+			"details": "This session explored Material Design, a new universal design language developed by Google and announced at the Google I/O conference on June 25, 2014, in depth.The design is meant to offer a more consistent, universal look-and-feel across mobile, tablets, desktop and beyond. Reusable, well-tested, and accessible UI components using AngularJS were also discussed.<strong>Topics Covered:</strong>Material Design Quick Overview<br>Angular Quick Overview<br>Material Design using Angular"
+		},
+		{
+			"eventID": "T24",
+			"title": "Glimpse into Big Data Analytics",
+			"technology": "web security",
+			"eventbanner": "24.jpg",
+			"speakers": {
+				"speaker1": "S34"
+			},
+			"date": "06/05/2015 5:00 pm",
+			"youtubeID": "ukjFqekOZbc",
+			"details": "This session explored Big Data Analytics tools. The audience was enriched with a basic idea of Google File System & Map Reduce, Apache Hadoop, Dremel and Apache Drill.<strong>Topics Covered:</strong>Google File System & Map reduce<br>Apache Hadoop<br>Dremel<br>Apache Dril"
+		},
+		{
+			"eventID": "T23",
+			"title": "A Deep Dive into Swift",
+			"technology": "android ios",
+			"eventbanner": "23.jpg",
+			"speakers": {
+				"speaker1": "S21"
+			},
+			"date": "01/04/2015 5:00 pm",
+			"youtubeID": "MDI70A5BQro",
+			"details": "After an introductory session on Swift, there was a lot of feedback requesting for more on Swift. So we obliged. This session dealt in detail with the Swift programming language.It helped the audience exploit its power & modern language features  to enhance their mobile app development efforts.  <strong>Topics Covered:</strong>Language Constructs<br>Pattern Matching with Switch<br>Memory Management<br>High level Compiler overview and optimisations<br>Demo"
+		},
+		{
+			"eventID": "T22",
+			"title": "Get Faster with Swift",
+			"technology": "android ios",
+			"eventbanner": "22.jpg",
+			"speakers": {
+				"speaker1": "S35",
+				"speaker2": "S36"
+			},
+			"date": "04/03/2015 5:00 pm",
+			"youtubeID": "utbmh23orVc",
+			"details": "Swift, the object oriented programming language introduced by Apple in June 2014, meant for developing applications for iOS and OS X platforms like the iPhone, iPad and Apple computers, was the focus for this session. A basic idea of how Swift will enhance mobile app development efforts was delivered.  <strong>Topics Covered:</strong>Get Faster with Swift<br>Live Demo"
+		},
+		{
+			"eventID": "T21",
+			"title": "SCSS - CSS with Superpowers",
+			"technology": "web frontend",
+			"eventbanner": "21.jpg",
+			"speakers": {
+				"speaker1": "S32"
+			},
+			"date": "04/02/2015 5:00 pm",
+			"youtubeID": "qa-MchZSSOo",
+			"details": "Variables, mixings, functions, inheritance, operators, and nesting for developers interested in SCSS were discussed in this sesssion. The developers left the session with a new toolset to take their CSS to the next level.<strong>Topics Covered:</strong>Introduction to CSS preprocessors<br>Sass - CSS with Superpowers<br>Demo"
+		},
+		{
+			"eventID": "T20",
+			"title": "Frontend Workflow Redefined",
+			"technology": "web frontend",
+			"eventbanner": "20.jpg",
+			"speakers": {
+				"speaker1": "S38"
+			},
+			"date": "07/01/2015 5:00 pm",
+			"youtubeID": "gvSzki6T7nU",
+			"details": "The New Year edition featured an open forum on ‘Frontend Workflow Redefined’. Mr. Praveen Vijayan (Front End TeamLead) from Flip Media led the discussions. A basic lesson of HTML, CSS & Javascript was delivered.<strong>Topics Covered:</strong>Component based web development<br>JADE, SCSS and Browserify.<br>Project scaffolding<br>Yeomen, Bower, NPM<br>Enforcing coding standards<br>BEM, SMACSS, OOCSS<br>Front End Automation Using Gulp/Grunt tasks<br>Environment setup<br>Git, Vagrant, Nodejs, Jenkins"
+		},
+		{
+			"eventID": "T19",
+			"title": "Step into the Node.JS Express",
+			"technology": "web security",
+			"eventbanner": "19.jpg",
+			"speakers": {
+				"speaker1": "S39"
+			},
+			"date": "03/12/2014 5:00 pm",
+			"youtubeID": "myHdwGa5rEo",
+			"details": "All questions on Node.JS were answered by Dr. Jayaraj Poroor during this session. All things Node.JS and why its making waves in the community were discussed. This was also the first ever talk on Node.JS in Kerala by its early adopters.<strong>Topics Covered:</strong>Introduction to Node.js<br>Anatomy of a node.js application<br>Database connectivity in Node.js<br>Step into Node.js Express<br>Security in Node.js"
+		},
+		{
+			"eventID": "T18",
+			"title": "Exploring Angular JS",
+			"technology": "web frontend",
+			"eventbanner": "18.jpg",
+			"speakers": {
+				"speaker1": "S26"
+			},
+			"date": "05/11/2014 5:00 pm",
+			"youtubeID": "7cAZZ4pdYkM",
+			"details": "AngularJS – the self-proclaimed superhero of JavaScript framework is gaining much traction now a days. This session dealt with this much awaited topic, helping developers expand the capabilities of JavaScript with the Google backed framework which is reshaping the web.<strong>Topics Covered:</strong>Introduction to Angular JS<br>Exploring Angular JS<br> Live Demo"
+		},
+		{
+			"eventID": "T17",
+			"title": "Mastering HTML5 & CSS3 - Building Performance Optimized Responsive Websites",
+			"technology": "web frontend",
+			"eventbanner": "17.jpg",
+			"speakers": {
+				"speaker1": "S40",
+				"speaker2": "S41",
+				"speaker3": "S42"
+			},
+			"date": "01/10/2014 5:00 pm",
+			"youtubeID": "WwiKB10ZIKQ",
+			"details": "'Building Performance Optimized Responsive Websites' was the second of the Tri-Series on 'Mastering HTML5 & CSS3' aimed at creating awarenes on the HTML Layout and Frameworks available and how to build an optimized responsive website. This session helped set the tone for building a strong basement on best practices of front end development.strong>Topics Covered:</strong>HTML Layouts<br>HTML Frameworks<br>Optimizing Responsive Designs<br>Media Queries"
+		},
+		{
+			"eventID": "TT16",
+			"title": "Mastering HTML5 & CSS3 - Leveling up to the future of Front End Development",
+			"technology": "web frontend",
+			"eventbanner": "16.jpg",
+			"speakers": {
+				"speaker1": "S32",
+				"speaker2": "S43",
+				"speaker3": "S40",
+				"speaker4": "S41"
+			},
+			"date": "03/09/2014 5:00 pm",
+			"youtubeID": "RZJYWT5nGiU",
+			"details": "Mastering HTML5 & CSS3 was the first of the Tri-Series on 'Leveling up to the future of Front End Development' aimed at creating awarenes on the latest advancements of Front End Development. This session helped build a strong basement on the best practices of Front End Development.strong>Topics Covered:</strong>Evolution of HTML and CSS<br>Browser Highlevel Architecture<br>Trends and Updates on HTML5 and CSS3<br>Useful Tools for frontend developers"
+		},
+		{
+			"eventID": "T15",
+			"title": "Exploring Knockout JS - Live Demo",
+			"technology": "web frontend",
+			"eventbanner": "15.jpg",
+			"speakers": {
+				"speaker1": "S44",
+				"speaker2": "S31"
+			},
+			"date": "06/08/2014 5:00 pm",
+			"youtubeID": "itWrYfPh864",
+			"details": "<strong>Topics Covered:</strong>Basic knockout JS principles - MVC, MVVM patterns<br>Building a SPA using knockout JS<br>Useful extensions & related libraries"
+		},
+		{
+			"eventID": "T14",
+			"title": "Javascript Frameworks, A Walkthrough of Knockout, Ember, Angular, Backbone",
+			"technology": "web frontend ",
+			"eventbanner": "14.jpg",
+			"speakers": {
+				"speaker1": "S45",
+				"speaker2": "S30"
+			},
+			"date": "02/07/2014 5:00 pm",
+			"youtubeID": "zbx6nxAx_Qw",
+			"details": "<strong>Topics Covered:</strong>About javascript libraries<br>Javascript frameworks smackdown - Knockout, Ember, Angular, Backbone"
+		},
+		{
+			"eventID": "T13",
+			"title": "Understanding Object Oriented JS, Frameworks & its Libraries",
+			"technology": "web security",
+			"eventbanner": "13.jpg",
+			"speakers": {
+				"speaker1": "S46"
+			},
+			"date": "04/06/2014 5:00 pm",
+			"youtubeID": "f1qfko7BsRE",
+			"details": "<strong>Topics Covered:</strong>Javascript - Myths Vs Reality<br>Understanding Object Oriented Javascript<br>Overview of Javascript Libraries"
+		},
+		{
+			"eventID": "T12",
+			"title": "Heart Bleed",
+			"technology": "web",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S30",
+				"speaker2": "S45"
+			},
+			"date": "07/05/2014 5:00 pm",
+			"youtubeID": "tos1a3GXSXA",
+			"details": "<strong>Topics Covered:</strong>Coffee@DBG Recap<br>Token of Appreciation<br>Know HeartBleed Vulnerability"
+		},
+		{
+			"eventID": "T11",
+			"title": "Mobility - Operating Systems, Privacy and Security",
+			"technology": "security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S47",
+				"speaker2": "S45"
+			},
+			"date": "02/04/2014 5:00 pm",
+			"youtubeID": "Obt33yU07is",
+			"details": "<strong>Topics Covered:</strong>Mobility - Operating Systems, Privacy and Security<br>The topics of discussion includes<br>Enterprise Mobile Security & BYOD<br>Mobile Application Security<br>Privacy Concerns for Mobile Apps<br>Firefox OS and Ubuntu Touch"
+		},
+		{
+			"eventID": "T10",
+			"title": "Making Smart Moves In Mobility",
+			"technology": "ios android",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S35",
+				"speaker2": "S37"
+			},
+			"date": "05/03/2014 5:00 pm",
+			"youtubeID": "gD2I2CN4GKo",
+			"details": "<strong>Topics Covered:</strong>MBaaS - an overview<br>iOS/Android Libraries - the smarter choices<br>App Monetization - Understanding Mobility Revenue Channels"
+		},
+		{
+			"eventID": "T9",
+			"title": "Best Practices in Mobile Development Lifecycle",
+			"technology": "android ios",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S48"
+			},
+			"date": "05/02/2014 5:00 pm",
+			"youtubeID": "_2cqa15NgUM",
+			"details": "<strong>Topics Covered:</strong>Source Code Management & Build Tools<br>Code Quality Analysis<br>Test Automation<br>Packaging & Archiving<br>Deployment<br>Usage & Crash Analytics Aiding Continuous Improvement"
+		},
+		{
+			"eventID": "T8",
+			"title": "Demystifying Cloud",
+			"technology": "web security",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S45",
+				"speaker2": "S30"
+			},
+			"date": "08/01/2014 5:00 pm",
+			"youtubeID": "ZHSPQjJ5J8M",
+			"details": ""
+		},
+		{
+			"eventID": "T7",
+			"title": "Best Practices in Secure Web Development",
+			"technology": "web security",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S30"
+			},
+			"date": "04/12/2013 5:00 pm",
+			"youtubeID": "Lmuu4tiQUYc",
+			"details": "Over the past sessions, we looked at quality software development, software testing strategies, continuous integration, continuous deployments. The 7th edition of Coffee @ DBG aimed to get the audience up to speed to create secure websites.Secure coding and deployment tips were doled out."
+		},
+		{
+			"eventID": "T6",
+			"title": "Continuous Integration and Jenkins",
+			"technology": "web security",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S45",
+				"speaker2": "S47"
+			},
+			"date": "06/11/2013 5:00 pm",
+			"youtubeID": "dANpQBW4xlk",
+			"details": "<strong>Topics Covered:</strong>Understanding Continuous Integration<br>Introduction to Jenkins<br>Configuring Jenkins<br>CI with Jenkins and Git,<br>More than CI with Jenkins.."
+		},
+		{
+			"eventID": "T5",
+			"title": "Continuous Integration and Jenkins",
+			"technology": "web security",
+			"eventbanner": "faya80.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "02/10/2013 5:00 pm",
+			"youtubeID": "",
+			"details": "<strong>Topics Covered:</strong>Basic concepts of Versioning System<br>Why to use versioning<br>Common versioning tools,<br>Introduction to Git,<br>Implementation of Git in our workflow,<br>Migration from SVN to Git."
+		},
+		{
+			"eventID": "T4",
+			"title": "Essential Testing Tools for Web Developers",
+			"technology": "web security",
+			"eventbanner": "faya80.jpg",
+			"speakers": {
+				"speaker1": "S49",
+				"speaker2": "S45",
+				"speaker3": "S47"
+			},
+			"date": "04/09/2013 5:00 pm",
+			"youtubeID": "",
+			"details": ""
+		},
+		{
+			"eventID": "T3",
+			"title": "Tooling for Modern Web App Developers",
+			"technology": "web frontend",
+			"eventbanner": "faya80.jpg",
+			"speakers": {
+				"speaker1": "S38"
+			},
+			"date": "07/08/2013 5:00 pm",
+			"youtubeID": "",
+			"details": ""
+		},
+		{
+			"eventID": "T2",
+			"title": "Angular JS",
+			"technology": "web frontend",
+			"eventbanner": "faya80.jpg",
+			"speakers": {
+				"speaker1": "S44"
+			},
+			"date": "03/07/2013 5:00 pm",
+			"youtubeID": "",
+			"details": ""
+		},
+		{
+			"eventID": "T1",
+			"title": "Apache Solr",
+			"technology": "web security",
+			"eventbanner": "faya80.jpg",
+			"speakers": {
+				"speaker1": "S50",
+				"speaker2": "S31"
+			},
+			"date": "05/06/2013 5:00 pm",
+			"youtubeID": "",
+			"details": ""
+		}
+	]
+}

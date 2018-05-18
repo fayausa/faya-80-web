@@ -1,0 +1,117 @@
+{
+   "event": [
+       {
+           "eventID" : "C8",
+           "title": "Hello XR: An Introduction to VR, AR and MR",
+           "technology": "web security",
+           "eventbanner":"8.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S51"
+            },
+           "date": "14/02/2018 5:00 pm",
+           "youtubeID": "",
+           "details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.<br>The 8th edition of FAYA:80 Kochi, Hello XR: An Introduction to VR, AR and MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.strong>Topics Covered:</strong> Immersive Technologies and the Fine line between them<br>What's New in the XR Spectrum<br>How they can be Leveraged by Various Industries<br>Design Considerations and Best Practices for VR and AR"
+          
+       },
+       {
+           "eventID" : "C7",
+           "title": "Essential Web Security for Developers",
+           "technology": "web security",
+           "eventbanner":"7.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S45"
+            },
+           "date": "10/01/2018 5:00 pm",
+           "youtubeID": "",
+           "details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey.<br>In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced.<br>The 7th edition of FAYA:80 Kochi, Essential Web Security for Developers, was a discussion on what exactly needs to be done to ensure that applications are protected from cyber attacks.strong>Topics Covered:</strong>Understanding Hacking Techniques<br>Hackproofing Web and Mobile Applications<br>Malware, Ransomware and its Prevention<br>Demo"
+          
+       },
+       {
+           "eventID" : "C6",
+           "title": "Artificial Intelligence - The First Step",
+           "technology": "web security",
+           "eventbanner":"6.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S52",
+              "speaker2" : "S53"
+            },
+           "date": "13/12/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+      },   
+       {
+           "eventID" : "C5",
+           "title": "Singularity Series - The Robots' Guide To World Domination",
+           "technology": "web frontend security android",
+           "eventbanner":"5.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S54"
+            },
+           "date": "08/11/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "The 5th edition of FAYA:80 Kochi was an opportunity for all to take a quick look at the technological advancements in Artificial Intelligence and Robotics, heralding the oncoming Singularity.<br>Human history will show that manual work has been replaced by technology and automation, time and again. For better or for worse, how has this affected the world? What is next in line to be replaced by technology? How intelligent can AI and Robots get? Will there ever be a point of time in the future where AI can perfectly replicate human creativity and the ability to procreate?<br>Will Robots threaten the superiority of human beings over all other things on the planet? This second installment of the Singularity Series by FAYA:80 was a factual narrative on the human technological history and the predicted future.strong>Topics Covered:</strong>Future of Technology<br>Technological Singularity<br>AI vs Human Brain<br>Challenges and Opportunities"
+          
+       },
+       {
+           "eventID" : "C4",
+           "title": "A Roadmap for Angular 4",
+           "technology": "web security frontend",
+           "eventbanner":"4.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S14"
+            },
+           "date": "11/10/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 4th edition of the Kochi chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+          
+       },
+       {
+           "eventID" : "C3",
+           "title": "The Changing Face of SEO",
+           "technology": "web security",
+           "eventbanner":"3.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S3"
+            },
+           "date": "13/09/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 3rd edition of FAYA:80- Kochi chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+          
+       },
+       {
+           "eventID" : "C2",
+           "title": "Strategic Media Production for Technology Product Companies",
+           "technology": "web security",
+           "eventbanner":"2.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S55"
+            },
+           "date": "09/08/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "Creating your own media, distributing it and monitoring its impact can be a long process, which may become confusing and overwhelming if it’s not well-managed and carefully planned. Designing a media strategy will help bring a competitive advantage, but only if companies have the necessary skills to make the most of the opportunity it presents.<br>The 2nd edition of FAYA:80 – Kochi Chapter dove deeper into building a sustainable competitive advantage with the help of Digital Media Strategy.strong>Topics Covered:</strong>The CAT Story<br>Technology Product Start-ups/Corporates<br>Crowdfunding Platforms<br>Successful & Failed Campaigns<br>Case Studies<br>Future Prospects"
+          
+       },
+       {
+           "eventID" : "C1",
+           "title": "Deep Learning in AI",
+           "technology": "web security",
+           "eventbanner":"1.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S10"
+            },
+           "date": "12/07/2017 5:00 pm",
+           "youtubeID": "",
+           "details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+          
+       }
+       
+   ]
+}
