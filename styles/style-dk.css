@@ -1250,7 +1250,7 @@ features start
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   z-index: 1; }
   .particle-network-animation:before {
     z-index: -2;
