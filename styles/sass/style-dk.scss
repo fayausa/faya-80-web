@@ -1397,21 +1397,28 @@ features start
     width: 11px;
   }
   &.twitter {
-    background-position: -10px -1px;
+    background-position: -12px -1px;
     width: 18px;
   }
   &.linkedIn {
-    background-position: -28px -1px;
+    background-position: -31px -1px;
+    width: 18px;
+  }
+  &.email {
+    background-position: -50px -1px;
     width: 18px;
   }
   &.fb:hover {
     background-position: 0 -19px;
   }
   &.twitter:hover {
-    background-position: -10px -20px;
+    background-position: -12px -20px;
   }
   &.linkedIn:hover {
-    background-position: -28px -20px;
+    background-position: -31px -20px;
+  }
+  &.email:hover {
+    background-position: -50px -21px;
   }
 }
 

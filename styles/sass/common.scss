@@ -428,9 +428,11 @@ h4.filter-title {
 
 .video-wrap {
   background: #000;
-  amp-youtube {
+  iframe {
     max-width: 700px;
     margin: 0 auto;
+    display: block;
+    width: 100%;
   }
   .event-banner {
     margin: 0 auto;
@@ -528,8 +530,10 @@ h4.filter-title {
     width:98%;
     padding: 1%;
     margin-bottom: 10px;
-    background: #e2f3cd;
     margin: 5px 0.5%;
+    &:nth-child(2n+1) {
+      background: #efefef;
+    }
     p.desc {
       font-size: 14px; 
       width: 80%;
@@ -562,6 +566,13 @@ h4.filter-title {
       &:hover {
         text-decoration: underline;
       }
+    }
+    .social-icons {
+      margin-top: 10px;
+    }
+    a[href=""] ,
+    a[href="mailto:"] {
+      display: none;
     }
   }
 }
