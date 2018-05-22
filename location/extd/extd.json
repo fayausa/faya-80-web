@@ -1,0 +1,18 @@
+{
+   "event": [
+      {
+          "eventID" : "E1",
+           "title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
+           "technology": "web security",
+           "eventbanner":"1.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S52",
+              "speaker2" : "S53"
+            },
+           "date": "09/12/2017 9:00 am",
+           "youtubeID": "",
+           "details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"       
+      }
+   ]
+}
