@@ -23,7 +23,8 @@ header {
   text-align: center;
   padding: 10px;
   position: relative;
-  background: url(../images/banner-port80.jpg) no-repeat top center; }
+  background: url(../images/banner-port80.jpg) no-repeat top center;
+  background-size: cover; }
 
 .banner-content {
   position: relative;
@@ -347,9 +348,11 @@ h4.filter-title {
 
 .video-wrap {
   background: #000; }
-  .video-wrap amp-youtube {
+  .video-wrap iframe {
     max-width: 700px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    display: block;
+    width: 100%; }
   .video-wrap .event-banner {
     margin: 0 auto;
     display: block;
@@ -434,8 +437,9 @@ h4.filter-title {
   width: 98%;
   padding: 1%;
   margin-bottom: 10px;
-  background: #e2f3cd;
   margin: 5px 0.5%; }
+  #speaker-list li:nth-child(2n+1) {
+    background: #efefef; }
   #speaker-list li p.desc {
     font-size: 14px;
     width: 80%;
@@ -463,6 +467,11 @@ h4.filter-title {
     text-decoration: none; }
     #speaker-list li a.event-link:hover {
       text-decoration: underline; }
+  #speaker-list li .social-icons {
+    margin-top: 10px; }
+  #speaker-list li a[href=""],
+  #speaker-list li a[href="mailto:"] {
+    display: none; }
 
 .main-nav {
   float: left;

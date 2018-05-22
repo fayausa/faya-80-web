@@ -1094,17 +1094,22 @@ features start
     background-position: 0 0;
     width: 11px; }
   .social-icons.twitter {
-    background-position: -10px -1px;
+    background-position: -12px -1px;
     width: 18px; }
   .social-icons.linkedIn {
-    background-position: -28px -1px;
+    background-position: -31px -1px;
+    width: 18px; }
+  .social-icons.email {
+    background-position: -50px -1px;
     width: 18px; }
   .social-icons.fb:hover {
     background-position: 0 -19px; }
   .social-icons.twitter:hover {
-    background-position: -10px -20px; }
+    background-position: -12px -20px; }
   .social-icons.linkedIn:hover {
-    background-position: -28px -20px; }
+    background-position: -31px -20px; }
+  .social-icons.email:hover {
+    background-position: -50px -21px; }
 
 .register-btm-wrap {
   padding-top: 15px; }
