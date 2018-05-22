@@ -64,7 +64,7 @@ p {
 .edition-list__item {
   display: inline-block;
   border: 1px solid #ddd;
-  margin: 0px 4px; }
+  margin: 2px 4px; }
   .edition-list__item .active {
     background: #87c042; }
     .edition-list__item .active h2 {
@@ -172,7 +172,7 @@ footer {
     font-size: 22px;
     margin-bottom: 30px; }
   .open-stage-content p {
-    color: #888888;
+    color: #5F5F5F;
     font-size: 14px;
     font-weight: 100;
     margin-bottom: 5px; }
