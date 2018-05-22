@@ -1081,36 +1081,6 @@ features start
 .speakers-detail .more-info {
   color: #5B9D0C; }
 
-.social-icons {
-  width: 15px;
-  height: 15px;
-  float: left;
-  background: url(../images/dk17/social-icons.png) no-repeat 0 0;
-  margin-right: 15px;
-  cursor: pointer;
-  -webkit-transition-property: none;
-  transition-property: none; }
-  .social-icons.fb {
-    background-position: 0 0;
-    width: 11px; }
-  .social-icons.twitter {
-    background-position: -12px -1px;
-    width: 18px; }
-  .social-icons.linkedIn {
-    background-position: -31px -1px;
-    width: 18px; }
-  .social-icons.email {
-    background-position: -50px -1px;
-    width: 18px; }
-  .social-icons.fb:hover {
-    background-position: 0 -19px; }
-  .social-icons.twitter:hover {
-    background-position: -12px -20px; }
-  .social-icons.linkedIn:hover {
-    background-position: -31px -20px; }
-  .social-icons.email:hover {
-    background-position: -50px -21px; }
-
 .register-btm-wrap {
   padding-top: 15px; }
 
