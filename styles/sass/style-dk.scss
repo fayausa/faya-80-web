@@ -1384,44 +1384,6 @@ features start
   color: #5B9D0C;
 }
 
-.social-icons {
-  width: 15px;
-  height: 15px;
-  float: left;
-  background: url(../images/dk17/social-icons.png) no-repeat 0 0;
-  margin-right: 15px;
-  cursor: pointer;
-  transition-property: none;
-  &.fb {
-    background-position: 0 0;
-    width: 11px;
-  }
-  &.twitter {
-    background-position: -12px -1px;
-    width: 18px;
-  }
-  &.linkedIn {
-    background-position: -31px -1px;
-    width: 18px;
-  }
-  &.email {
-    background-position: -50px -1px;
-    width: 18px;
-  }
-  &.fb:hover {
-    background-position: 0 -19px;
-  }
-  &.twitter:hover {
-    background-position: -12px -20px;
-  }
-  &.linkedIn:hover {
-    background-position: -31px -20px;
-  }
-  &.email:hover {
-    background-position: -50px -21px;
-  }
-}
-
 .register-btm-wrap {
   padding-top: 15px;
 }
