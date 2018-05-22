@@ -18,7 +18,7 @@ $(function() {
             if (f.youtubeID == "") {
               var bannerdetail = "<div class='video-wrap'><img class='event-banner' src='/location/"+location+"/banners/"+ f.eventbanner +"'/></div>"
             } else {
-              var bannerdetail = "<div class='video-wrap'><iframe width='600' height='380' src='http://www.youtube.com/embed/"+ f.youtubeID +"' frameborder='0' allowfullscreen></iframe><amp-youtube data-videoid='"+ f.youtubeID +"' layout='responsive' width='480' height='270'></amp-youtube></div>"
+              var bannerdetail = "<div class='video-wrap'><iframe width='600' height='380' src='https://www.youtube.com/embed/"+ f.youtubeID +"' frameborder='0' allowfullscreen></iframe></div>"
             }
 
             $.getJSON('/speakers/speakers.json', function(data) {
