@@ -2,7 +2,8 @@ body {
   width: auto;
   font-family: 'Lato', sans-serif;
   color: #333;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  margin: 0; }
 
 .wrapper {
   padding: 0;
@@ -24,6 +25,15 @@ header {
   padding: 10px;
   position: relative;
   background: url(../images/banner-port80.jpg) no-repeat top center; }
+
+.banner-gallery {
+  background: #4d4e6d;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  background: url(../images/gallery.jpg) no-repeat top center; }
+  .banner-gallery h1, .banner-gallery p {
+    color: #fff; }
 
 .banner-content {
   position: relative;
@@ -154,10 +164,8 @@ footer {
     font-weight: 300; }
   footer p.copy-right-footer {
     font-size: 10px;
-    margin-top: 20px;
-    display: inline-block;
     clear: left;
-    width: 100%; }
+    display: inline-block; }
 
 .open-stage-wrap {
   padding: 40px 0;
@@ -172,7 +180,7 @@ footer {
     font-size: 22px;
     margin-bottom: 30px; }
   .open-stage-content p {
-    color: #888888;
+    color: #5F5F5F;
     font-size: 14px;
     font-weight: 100;
     margin-bottom: 5px; }
@@ -481,6 +489,21 @@ h4.filter-title {
       .main-nav li a:hover {
         color: #87c042; }
 
+.event-list .loc-cls .responsive {
+  max-width: 100%; }
+
+.social_icon {
+  float: right;
+  list-style: none; }
+  .social_icon li {
+    float: left;
+    padding-left: 15px; }
+    .social_icon li a {
+      font-size: 22px;
+      color: #969595; }
+      .social_icon li a:hover {
+        color: #87be49; }
+
 @media only screen and (min-width: 768px) {
   .content {
     min-height: 400px; }
@@ -504,9 +527,10 @@ h4.filter-title {
   .video-detail-wrap span.company {
     font-size: 12px; }
   .footer-widget {
-    width: 50%;
+    width: 100%;
     float: left;
-    font-size: 13px; }
+    font-size: 13px;
+    margin-bottom: 20px; }
   .copy-right-footer {
     clear: left; }
   .filter-list li {
