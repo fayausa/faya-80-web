@@ -546,6 +546,18 @@ h4.filter-title {
       color: #969595; }
       .social_icon li a:hover {
         color: #87be49; }
+.wrapper.contact {
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.contact-right,
+.contact-left {
+  width: 100%;
+  padding: 0;
+}
+.contact-right .map-wrap {
+  border: 2px solid #f1f1f1;
+}
 
 @media only screen and (min-width: 768px) {
   .content {
@@ -606,7 +618,7 @@ h4.filter-title {
     footer p.copy-right-footer {
       font-size: 13px; }
   .contact .form-area {
-    width: 65%; }
+    width: 100%; }
   #speaker-list li a.event-link {
     width: 44%;
     float: right;
@@ -615,4 +627,17 @@ h4.filter-title {
   #speaker-list li p.desc, #speaker-list li h4 {
     width: 40%; }
   #speaker-list li span.profile {
-    width: 50%; } }
+    width: 50%; } 
+    .contact-left {
+      width: 50%; 
+      float: left;
+      padding-right: 15px;
+      box-sizing: border-box;
+    }
+    .contact-right {
+      width: 50%; 
+      float: left;
+      padding-left: 15px;
+      box-sizing: border-box;
+    }
+  }
