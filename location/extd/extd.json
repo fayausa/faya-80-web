@@ -1,0 +1,31 @@
+{
+   "event": [
+      {
+          "eventID" : "E1",
+           "title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
+           "technology": "web security",
+           "eventbanner":"1.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S52",
+              "speaker2" : "S53"
+            },
+           "date": "09/12/2017 9:00 am",
+           "youtubeID": "",
+           "details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"       
+      },
+      {
+          "eventID" : "E2",
+           "title": "Hands-On Digital Marketing",
+           "technology": "web security",
+           "eventbanner":"2.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S71"
+            },
+           "date": "03/02/2018 9:00 am",
+           "youtubeID": "",
+           "details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "       
+      }
+   ]
+}

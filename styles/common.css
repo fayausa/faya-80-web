@@ -24,7 +24,8 @@ header {
   text-align: center;
   padding: 10px;
   position: relative;
-  background: url(../images/banner-port80.jpg) no-repeat top center; }
+  background: url(../images/banner-port80.jpg) no-repeat top center;
+  background-size: cover; }
 
 .banner-gallery {
   background: #4d4e6d;
@@ -74,7 +75,7 @@ p {
 .edition-list__item {
   display: inline-block;
   border: 1px solid #ddd;
-  margin: 0px 4px; }
+  margin: 2px 4px; }
   .edition-list__item .active {
     background: #87c042; }
     .edition-list__item .active h2 {
@@ -198,6 +199,36 @@ ul {
   margin: 0;
   padding: 0; }
 
+.social-icons {
+  width: 15px;
+  height: 15px;
+  float: left;
+  background: url(../images/dk17/social-icons.png) no-repeat 0 0;
+  margin-right: 15px;
+  cursor: pointer;
+  -webkit-transition-property: none;
+  transition-property: none; }
+  .social-icons.fb {
+    background-position: 0 0;
+    width: 11px; }
+  .social-icons.twitter {
+    background-position: -12px -1px;
+    width: 18px; }
+  .social-icons.linkedIn {
+    background-position: -31px -1px;
+    width: 18px; }
+  .social-icons.email {
+    background-position: -50px -1px;
+    width: 18px; }
+  .social-icons.fb:hover {
+    background-position: 0 -19px; }
+  .social-icons.twitter:hover {
+    background-position: -12px -20px; }
+  .social-icons.linkedIn:hover {
+    background-position: -31px -20px; }
+  .social-icons.email:hover {
+    background-position: -50px -21px; }
+
 .event-list {
   margin-top: 25px;
   float: left;
@@ -318,6 +349,10 @@ h4.filter-title {
 .speaker-wrap h3 {
   margin: 5px 0; }
 
+.speaker-wrap a[href=""],
+.speaker-wrap a[href="mailto:"] {
+  display: none; }
+
 .event-detail .event-content {
   margin-top: 20px;
   clear: left;
@@ -355,9 +390,11 @@ h4.filter-title {
 
 .video-wrap {
   background: #000; }
-  .video-wrap amp-youtube {
+  .video-wrap iframe {
     max-width: 700px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    display: block;
+    width: 100%; }
   .video-wrap .event-banner {
     margin: 0 auto;
     display: block;
@@ -442,8 +479,9 @@ h4.filter-title {
   width: 98%;
   padding: 1%;
   margin-bottom: 10px;
-  background: #e2f3cd;
   margin: 5px 0.5%; }
+  #speaker-list li:nth-child(2n+1) {
+    background: #efefef; }
   #speaker-list li p.desc {
     font-size: 14px;
     width: 80%;
@@ -471,6 +509,11 @@ h4.filter-title {
     text-decoration: none; }
     #speaker-list li a.event-link:hover {
       text-decoration: underline; }
+  #speaker-list li .social-icons {
+    margin-top: 10px; }
+  #speaker-list li a[href=""],
+  #speaker-list li a[href="mailto:"] {
+    display: none; }
 
 .main-nav {
   float: left;
