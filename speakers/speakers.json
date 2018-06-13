@@ -814,7 +814,8 @@
            "events" : 
             {
               "event1" : "K7",
-              "event2" : "C6"
+              "event2" : "C6",
+              "event3" : "E1"
             }
 },
       {
@@ -829,7 +830,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "C6"
+              "event1" : "C6",
+              "event2" : "E1"
             }
 },
       {
@@ -1086,7 +1088,23 @@
             {
               "event1" : "T50-9"
             }
+},
+      {
+          "speakerID" : "S71",
+           "speaker": "Pinaki Krishna Pillai",
+           "profile": "Founder, Microm CRM",
+           "speakerdesc": "Pinaki Krishna Pillai has been exploring options to bridge marketing with technology. He has associated with 30+ companies to set up and run effective marketing processes, strategies and campaigns. He is also a certified marketer from Google and Hubspot.",           
+           "thumb":"Pinaki-Krishna-Pillai.jpg",
+           "facebook" : "",
+           "twitter" : "https://twitter.com/pinakipillai?lang=en",
+           "linkedIn" :"https://www.linkedin.com/in/pinakipillai/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "E2"
+            }
 }
+
 
 
 

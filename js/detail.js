@@ -18,7 +18,7 @@ $(function() {
             if (f.youtubeID == "") {
               var bannerdetail = "<div class='video-wrap'><img class='event-banner' src='/location/"+location+"/banners/"+ f.eventbanner +"'/></div>"
             } else {
-              var bannerdetail = "<div class='video-wrap'><amp-youtube data-videoid='"+ f.youtubeID +"' layout='responsive' width='480' height='270'></amp-youtube></div>"
+              var bannerdetail = "<div class='video-wrap'><iframe width='600' height='380' src='https://www.youtube.com/embed/"+ f.youtubeID +"' frameborder='0' allowfullscreen></iframe></div>"
             }
 
             $.getJSON('/speakers/speakers.json', function(data) {
@@ -31,7 +31,7 @@ $(function() {
                 $.each(f.speakers, function(k, spkr) {
 
                   if (spkr == sp.speakerID) {
-                    var speakerdetail = "<div class='speaker-wrap'><img class='speaker-thumb' src='/speakers/thumb/"+ sp.thumb +"'><h3>"+ sp.speaker +"</h3><span class='speaker-name'><span class='speaker-detail company'>" + sp.profile + "</span></span><div class='details'><p>"+ sp.speakerdesc +"</p></div></div>"
+                    var speakerdetail = "<div class='speaker-wrap'><img class='speaker-thumb' src='/speakers/thumb/"+ sp.thumb +"'><h3>"+ sp.speaker +"</h3><span class='speaker-name'><span class='speaker-detail company'>" + sp.profile + "</span></span><div class='details'><p>"+ sp.speakerdesc +"</p><a href='"+sp.facebook+"' title='Facebook' class='social-icons fb' target='_blank'></a><a href='"+sp.twitter+"' title='Twitter' class='social-icons twitter' target='_blank'></a><a href='"+sp.linkedIn+"' title='LinkedIn' class='social-icons linkedIn' target='_blank'></a><a href='mailto:"+sp.email+"' class='social-icons email' target='_top'></a></div></div>"
                     $(speakerdetail).appendTo("#speaker-detail-wrap");
                   }
                 });
