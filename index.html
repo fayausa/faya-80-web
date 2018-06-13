@@ -12,8 +12,10 @@
     <link rel="shortcut icon" href="../amp_favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="styles/common.css">
+    <link rel="stylesheet" type="text/css" href="styles/slick.css">
     <script  src="https://code.jquery.com/jquery-1.12.4.min.js"  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="  crossorigin="anonymous"></script>
     <script  type="text/javascript" src="js/list.js"> </script>
+     <script  type="text/javascript" src="js/slick.min.js"> </script>
   </head>
   <body>
     <header>
@@ -38,11 +40,32 @@
     <div class="wrapper">
       <article>
         <div class="banner">
-          <div class="banner-overlay"></div>
+          <!-- <div class="banner-overlay"></div>
           <div class="banner-content">
             <h1>Knowledge Shared is <span>Power Multiplied</span></h1>
             <p>Breaking Echo Chambers through Free Knowledge Sharing</p>
-          </div>
+          </div> -->
+           <section class="lazy slider" data-sizes="50vw">
+            <div>
+              <img data-lazy="http://placehold.it/350x300?text=1-350w" data-srcset="http://placehold.it/650x300?text=1-650w 650w, http://placehold.it/960x300?text=1-960w 960w" data-sizes="100vw">
+            </div>
+            <div>
+              <img data-lazy="http://placehold.it/350x300?text=2-350w" data-srcset="http://placehold.it/650x300?text=2-650w 650w, http://placehold.it/960x300?text=2-960w 960w" data-sizes="100vw">
+            </div>
+            <div>
+              <img data-lazy="http://placehold.it/350x300?text=3-350w"  data-srcset="http://placehold.it/650x300?text=3-650w 650w, http://placehold.it/960x300?text=3-960w 960w" data-sizes="100vw">
+            </div>
+            <div>
+              <img data-lazy="http://placehold.it/350x300?text=4-350w"  data-srcset="http://placehold.it/650x300?text=4-650w 650w, http://placehold.it/960x300?text=4-960w 960w" data-sizes="100vw">
+            </div>
+            <div>
+              <img data-lazy="http://placehold.it/350x300?text=5-350w"  data-srcset="http://placehold.it/650x300?text=5-650w 650w, http://placehold.it/960x300?text=5-960w 960w" data-sizes="100vw">
+            </div>
+            <div>
+              <!-- this slide should inherit the sizes attr from the parent slider -->
+              <img data-lazy="http://placehold.it/350x300?text=6-350w"  data-srcset="http://placehold.it/650x300?text=6-650w 650w, http://placehold.it/960x300?text=6-960w 960w">
+            </div>
+          </section>
         </div>
       </article>
     </div>
@@ -141,6 +164,14 @@ FAYA:80 celebrated its 50th edition in July, 2017 with DISRUPT KERALA 2017, a da
           </ul>
       </div>
     </footer>
-
+   <script type="text/javascript">
+      $(document).on('ready', function() {
+        
+        $(".lazy").slick({
+          lazyLoad: 'ondemand', // ondemand progressive anticipated
+          infinite: true
+        });
+      });
+  </script>
   </body>
 </html>
