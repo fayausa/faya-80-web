@@ -1135,6 +1135,21 @@
             {
               "event1" : "T61"
             }
+},
+      {
+          "speakerID" : "S74",
+           "speaker": "Sarath Soman",
+           "profile": "Software Engineer at Hifx",
+           "speakerdesc": "Sarath Soman is a Software Engineer at Hifx with expertise in building middlewares at higher scales. His primary interest is in compiler engineering and has ported SLANGforDotNet to JVM with support to Lambda expressions and local variable type inference. Apart from compilers, he is in the process of bootstrapping a Machine Learning library like JAMA and WEKA from scratch. Recently he has been dabbling in writing LKMs and native code interfacing with Java, C# and Python.",           
+           "thumb":"Sarath-Soman.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/sarath-soman-3a3aa564/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "C9"
+            }
 }
 
 
