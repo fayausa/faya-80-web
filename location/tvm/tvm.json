@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T59",
+           "title": "A Closer Look at Deep Learning with Object Detection",
+           "technology": "web security",
+           "eventbanner":"59.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S72"
+            },
+           "date": "04/04/2018 5:00 pm",
+           "youtubeID": "Z0EKsLDg0UY",
+           "rating": "5",
+           "details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br>The 59th edition of FAYA:80 Trivandrum, A Closer Look at Deep Learning with Object Detection, will be a first of its kind in the city, and will deal with various Object Detection approaches like RCNN, Yolo and Retinanet. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Object Detection.<strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"       
+      },
+      {
           "eventID" : "T58",
            "title": "Dancing with Objects: Step Up your Coding Skills with Design Patterns",
            "technology": "web",
