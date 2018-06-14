@@ -247,7 +247,8 @@
            "email" : "anand.ramkumar@experionglobal.com",
            "events" : 
             {
-              "event1" : "T43"
+              "event1" : "T43",
+              "event2" : "T60"
             }
 },
       {
@@ -431,7 +432,8 @@
            "email" : "rajeev.sebastian@alokin.in",
            "events" : 
             {
-              "event1" : "T28"
+              "event1" : "T28",
+              "event2" : "T58"
             }
 },
       {
@@ -1118,7 +1120,23 @@
             {
               "event1" : "T59"
             }
+},
+      {
+          "speakerID" : "S73",
+           "speaker": "Sreeraj S",
+           "profile": "Chief Architect of Servntire Global",
+           "speakerdesc": "Entrepreneur and technology expert, Mr. Sreeraj S is the Co-Founder and Chief Architect of Servntire Global, a company focusing on blockchain solutions. He has contributed to the development of various blockchain platforms and has set up enterprise grade solutions for companies, helping them transform their business. Speaker and blogger, he is a blockchain evangelist and an advocate of decentralised applications.",           
+           "thumb":"Sreeraj-S.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/sreeraj-s/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T61"
+            }
 }
+
 
 
 
