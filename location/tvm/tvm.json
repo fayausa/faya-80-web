@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T58",
+           "title": "Dancing with Objects: Step Up your Coding Skills with Design Patterns",
+           "technology": "web",
+           "eventbanner":"58.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S28"
+            },
+           "date": "07/03/2018 5:00 pm",
+           "youtubeID": "JL14L-dChdM",
+           "rating": "5",
+           "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code isn’t clean, it has the potential to bring the entire project down. It doesn’t have to be this way, if you get your Design Patterns right.<br>Design Patterns are time-tested and proven OOP solutions to repeated design problems, which lead to easily extendable, modifiable and testable code, irrespective of the programming language. They don’t just help with effective software engineering, but also effective communication among coders.<br>Like the saying goes, a good programmer writes code a machine can understand, but a great programmer writes code that a human can understand. It’s time to decide which one you want to be. So here’s calling all coders who are looking to fine tune their coding skills, to the 58th edition of FAYA:80 Trivandrum, Dancing with Objects: Step Up your Coding Skills with Design Patterns.<strong>Topics Covered</strong>Sharpening Object-Oriented Skills<br>S.O.L.I.D. Principles<br>Introduction to Design Patterns<br>Types of Design Patterns<br>Use Case Demo"       
+      },
+      {
           "eventID" : "T57",
            "title": "Applying Design Thinking into Product Development",
            "technology": "security",
@@ -12,7 +26,7 @@
            "date": "07/02/2018 5:00 pm",
            "youtubeID": "9sCBRlkZaZY",
            "rating": "5",
-           "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"       
+           "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.<strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"       
       },
       {
           "eventID" : "T56",
