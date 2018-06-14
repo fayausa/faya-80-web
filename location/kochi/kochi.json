@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+           "eventID" : "C9",
+           "title": "Java Virtual Machine 101",
+           "technology": "web security frontend",
+           "eventbanner":"9.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S74"
+            },
+           "date": "14/03/2018 5:00 pm",
+           "youtubeID": "",
+           "details": "Java users are well aware that the Java bytecode runs in a JRE (Java Runtime Environment). The Java Virtual Machine (JVM), which analyzes and executes the Java byte code, is the most important part of the JRE. Why should you know more about JVM? Various great applications and libraries have already been developed by developers who had no deep understanding of the JVM. However, if you grasp the concepts of JVM better, you will in turn grasp Java better leading to simpler problem solving using Java.<strong>Topics Covered</strong>Why you should Learn the VM Internals<br>Abstract Machine and its Instruction Set<br>Execution Engine and the Memory Model<br>Multilanguage VM - JVM as a Host to Python, Ruby, Scala and Groovy<br>Method Handles & Invokedynamic"
+          
+       },
        {
            "eventID" : "C8",
            "title": "Hello XR: An Introduction to VR, AR and MR",
