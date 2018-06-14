@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T60",
+           "title": "Device Selection Strategy & Automated Testing for Mobile Development",
+           "technology": "security android ios",
+           "eventbanner":"60.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S16"
+            },
+           "date": "02/05/2018 5:00 pm",
+           "youtubeID": "o-WibosB5WU",
+           "rating": "5",
+           "details": "Selection of devices for testing in mobile applications has always been a hard nut to crack. This gets complex due to the number of device models, variations in firmware and OS versions, carrier and manufacturer customizations, dependencies on remote services, and other apps. Buying a bunch of test devices and rigging them up for automation is not a feasible solution for all cases. The developers and QA managers have to think strategically about testing to stay ahead of the curve.<br>AWS Device Farm accelerates the development process by executing tests on multiple devices, giving developers, QA and support professionals the ability to perform automated tests and manual tasks in parallel across 100s of real devices. This will help increase application quality, time to market, and customer satisfaction by testing and interacting with real devices in the AWS Cloud.<br>The 60th edition of FAYA:80 provides the opportunity for developers, testers, business analysts and other technology enthusiasts to understand the strategies in device selection, break their ice with AWS Device Farm, and implementation of Continuous Integration in mobile development.<strong>Topics Covered:</strong>Optimise your test device selection<br>Introduction to AWS farm<br>Continuous integration and testing"       
+      },
+      {
           "eventID" : "T59",
            "title": "A Closer Look at Deep Learning with Object Detection",
            "technology": "web security",
