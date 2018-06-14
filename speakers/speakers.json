@@ -1196,6 +1196,66 @@
       {
         "event1" : "C12"
       }
+},
+{
+    "speakerID" : "S78",
+     "speaker": "Manu Krishnan",
+     "profile": "Co-founder of DayScholars Innovations Pvt. Ltd",
+     "speakerdesc": "A technology and free software enthusiast, Manu Krishnan is a Solutions Architect and Co-founder of DayScholars Innovations Pvt. Ltd. A programmer by choice, he started working on web technologies during school days and built several websites, later moving focus to application development. Preferring his codes in PHP and Python, his present areas of interest include DevOps, Containers, Federation and Distributed Communication Platforms. He is also an active member of many free software communities.",           
+     "thumb":"Manu-Krishnan.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/tvmanukrishnan/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "K9"
+      }
+},
+{
+    "speakerID" : "S79",
+     "speaker": "Abhiram A",
+     "profile": "Unity3D Ambassador, Unity India",
+     "speakerdesc": "An Immersive Technology enthusiast, Abhiram A. is a Unity3D Ambassador for Unity India and works as a Senior Software Developer for VR/AR Tech at UST Global. He has worked as an AR/VR Consultant for Onbyz and also as a Junior Research Fellow - VR at Future Technologies Lab, Kerala StartUp Mission. He is a Udacity VR Nanodegree graduate and a Unity Certified Developer.",           
+     "thumb":"Abhiram-A.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/abhir6m/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "K10"
+      }
+},
+{
+    "speakerID" : "S80",
+     "speaker": "Alex Devassy",
+     "profile": "Senior Blockchain Engineer at Serventire Global",
+     "speakerdesc": "Senior Blockchain Engineer at Serventire Global and Core member of KBA-Kerala Blockchain Academy, Alex specializes in Hyperledger and Ethereum. He has been a member of the winning team in the Open Innovation Blockchain Hackathon, conducted by BestofBlocks Inc. at IIT Delhi. He also has wide experience in the field of IoT Blockchain integration and Cyber Security, working with Ernst and Young and UST-Global. He is also a Certified Ethical Hacker. He keeps interest in not only enhancing his knowledge but also in mentoring students in the field of Blockchain.",           
+     "thumb":"Alex-Devassy.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/alex-devassy-358421138/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "K11"
+      }
+},
+{
+    "speakerID" : "S81",
+     "speaker": "Fariz Rahman",
+     "profile": "Deep Learning Engineer, Skymind",
+     "speakerdesc": "Fariz Rahman is a Deep Learning Engineer at Skymind. His interest is in Artificial Intelligence, Deep learning to be specific. He is passionate about open source software libraries and have written a bunch of them. One of his goals is to democratize deep learning, make it accessible to small businesses and ametuer developers by writing simple APIs to complex deep learning techniques, as well as doing solid search and heavily contributing to open source projects like Keras. ",           
+     "thumb":"Fariz-Rahman.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/farizrahman4u?lang=en",
+     "linkedIn" :"https://www.linkedin.com/in/fariz-rahman-2b20443a/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "K12"
+      }
 }
 
 
