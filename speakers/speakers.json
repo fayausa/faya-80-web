@@ -1103,6 +1103,21 @@
             {
               "event1" : "E2"
             }
+},
+      {
+          "speakerID" : "S72",
+           "speaker": "Dilip Mathew Thomas",
+           "profile": "Independent Consultant- Deep Learning",
+           "speakerdesc": "He is an independent consultant and works in the areas of deep learning for computer vision, computer graphics, and data analysis and visualization. He holds a Ph.D. and a Master’s degree in Computer Science and Engineering from the Indian Institute of Science, Bangalore and a Bachelor’s degree in Computer Science and Engineering from National Institute of Technology, Calicut. He has around 15 years of combined experience as a researcher and an engineer and has several publications in top tier journals and conferences. He is the first student from India to publish a paper at IEEE VIS, the premier forum for advances in visualization, and was also presented the CSA-IBM India Research Labs' Best Thesis award.",           
+           "thumb":"Dilip-Mathew-Thomas.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/dilip-thomas-83b355a0/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T59"
+            }
 }
 
 
