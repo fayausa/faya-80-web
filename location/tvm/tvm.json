@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T61",
+           "title": "Decentralized Applications using Ethereum: A Hands-On Approach",
+           "technology": "web security",
+           "eventbanner":"61.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S73"
+            },
+           "date": "06/06/2018 5:00 pm",
+           "youtubeID": "2kXtIqwGnFY",
+           "rating": "5",
+           "details": "Blockchain is one of the technologies that have generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality.<br>The 61st edition of FAYA:80 Trivandrum provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Ethereum. The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>Introduction to Ethereum and DAPPs.<br>Ethereum Smart Contracts.<br>How to Build a DAPP on Ethereum.<br>Ethereum Tokens and ICO.<br>Hands-On Session and Debugging."       
+      },
+      {
           "eventID" : "T60",
            "title": "Device Selection Strategy & Automated Testing for Mobile Development",
            "technology": "security android ios",
