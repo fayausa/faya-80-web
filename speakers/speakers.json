@@ -1118,7 +1118,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T59"
+              "event1" : "T59",
+              "event2" : "C11"
             }
 },
       {
@@ -1150,6 +1151,51 @@
             {
               "event1" : "C9"
             }
+},
+{
+    "speakerID" : "S75",
+     "speaker": "Mahroof K",
+     "profile": "Cedex Technologies LLP",
+     "speakerdesc": "Mahroof K is a technology enthusiast & business analyst. He co-founded Cedex Technologies LLP, a Chatbot, Web and Mobile Development company in Kochi. He holds a Masters Degree in Computer Application from College of Engineering, Trivandrum, and also holds an MBA. For the past four years, he has been providing solutions to startups worldwide in the areas of chatbot, web and mobile development.",           
+     "thumb":"Mahroof-K.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/mahroofk/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "C10"
+      }
+},
+{
+    "speakerID" : "S76",
+     "speaker": "Jubin Jose",
+     "profile": "Cedex Technologies LLP",
+     "speakerdesc": "Jubin Jose is a chatbot developer at Cedex Technologies LLP and a Machine Learning enthusiast. A programmer by choice, he’s interested in Creative Coding and teaching kids online. He believes in the importance of Indic ML and is an active contributor to the free software community.",           
+     "thumb":"Jubin-Jose.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jubin-jose-cet/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "C10"
+      }
+},
+{
+    "speakerID" : "S77",
+     "speaker": "Gopikrishnan V",
+     "profile": "Founder, BuildNext",
+     "speakerdesc": "Mr. Gopikrishnan V is the founder of the internet based building material procurement platform, BuildNext. He graduated B.Arch (Hons.) from IIT Kharagpur, winning the presitigious ‘B.C. Roy Gold Medal’ for the Best Outgoing Student. He further went on to do his post-graduation from IIM Bangalore. He is a registered architect with the Council of Architecture, India, and a LEED accredited professional.",           
+     "thumb":"Gopikrishnan-V.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/gopikrishnanv/",
+     "email" : "",
+     "events" : 
+      {
+        "event1" : "C12"
+      }
 }
 
 

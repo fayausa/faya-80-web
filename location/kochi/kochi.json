@@ -1,6 +1,49 @@
 {
    "event": [
       {
+          "eventID" : "C12",
+          "title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
+          "technology": "web security",
+          "eventbanner":"12.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S77"
+          },
+          "date": "13/06/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "VR has proved to be a breakthrough technology for a variety of industries to improve their customer experience. This interactive computer-generated experience taking place within a simulated environment, holds enormous potential to change the future for a number of fields, including the world of retail. However, in the absence of reliable instructions supported with experience, those who want to try out this technology are still hesitant to move forward with it.<br>BuildNext is a Kerala based start-up working on elevating the customer experience in construction industry using technology. Its experience centres are Virtual Reality-enabled, and it is one of the first commercial applications of VR outside of gaming sector.<strong>Topics Covered</strong>VR intro and history<br>A case for VR<br>VR@ BuildNext<br>What's working for us<br>What's yet to work<br>What do we expect next"
+        
+      }, 
+      {
+        "eventID" : "C11",
+        "title": "A Closer Look at Deep Learning with Object Detection - Kochi",
+        "technology": "web security",
+        "eventbanner":"11.jpg",
+        "speakers" : 
+        {
+          "speaker1" : "S72"
+        },
+        "date": "09/05/2018 5:00 pm",
+        "youtubeID": "",
+        "details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br><strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"
+      
+    },    
+    {
+          "eventID" : "C10",
+          "title": "An Intro to Chatbot Development",
+          "technology": "web security",
+          "eventbanner":"10.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S75",
+            "speaker2" : "S76"
+          },
+          "date": "11/04/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Chatbots are everywhere, from websites and social media platforms to smartphones and are an easy and fun way to assist customers in their interactions with a brand or product. Even though the bot revolution is in its early phase, we can expect a lot more advancements in this field. With the evolution of AI and Deep Learning, chatbots are expected to become more empowered to offer better language processing capabilities and extensive personalization in the coming days.<br>Chatbots are sure to get embedded in almost all the interconnected devices that will use in our day to day lives in the future. This will fundamentally transform human interactions with digital business platforms and will open up new realms of personalized customer experience. Foreseeing this immense potential of the chatbots, organizations have started investing heavily in this space.<strong>Topics Covered</strong>Introduction to chatbots<br>Evolution of chatbots<br>Potential of chatbots<br>How can businesses benefit from chatbots?<br>How can Messenger chatbots be used for marketing?<br>Why is Chatbots such a big opportunity?<br>How does a chatbot work<br>Natural language understanding<br>Response generation<br>Dialogue management<br>Chabot Training<br>Tools for chatbot development<br>Dialogflow NLU demo"
+        
+      },
+      {
            "eventID" : "C9",
            "title": "Java Virtual Machine 101",
            "technology": "web security frontend",
