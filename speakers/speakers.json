@@ -247,7 +247,8 @@
            "email" : "anand.ramkumar@experionglobal.com",
            "events" : 
             {
-              "event1" : "T43"
+              "event1" : "T43",
+              "event2" : "T60"
             }
 },
       {
@@ -431,7 +432,8 @@
            "email" : "rajeev.sebastian@alokin.in",
            "events" : 
             {
-              "event1" : "T28"
+              "event1" : "T28",
+              "event2" : "T58"
             }
 },
       {
@@ -1103,7 +1105,38 @@
             {
               "event1" : "E2"
             }
+},
+      {
+          "speakerID" : "S72",
+           "speaker": "Dilip Mathew Thomas",
+           "profile": "Independent Consultant- Deep Learning",
+           "speakerdesc": "He is an independent consultant and works in the areas of deep learning for computer vision, computer graphics, and data analysis and visualization. He holds a Ph.D. and a Master’s degree in Computer Science and Engineering from the Indian Institute of Science, Bangalore and a Bachelor’s degree in Computer Science and Engineering from National Institute of Technology, Calicut. He has around 15 years of combined experience as a researcher and an engineer and has several publications in top tier journals and conferences. He is the first student from India to publish a paper at IEEE VIS, the premier forum for advances in visualization, and was also presented the CSA-IBM India Research Labs' Best Thesis award.",           
+           "thumb":"Dilip-Mathew-Thomas.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/dilip-thomas-83b355a0/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T59"
+            }
+},
+      {
+          "speakerID" : "S73",
+           "speaker": "Sreeraj S",
+           "profile": "Chief Architect of Servntire Global",
+           "speakerdesc": "Entrepreneur and technology expert, Mr. Sreeraj S is the Co-Founder and Chief Architect of Servntire Global, a company focusing on blockchain solutions. He has contributed to the development of various blockchain platforms and has set up enterprise grade solutions for companies, helping them transform their business. Speaker and blogger, he is a blockchain evangelist and an advocate of decentralised applications.",           
+           "thumb":"Sreeraj-S.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/sreeraj-s/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T61"
+            }
 }
+
 
 
 
