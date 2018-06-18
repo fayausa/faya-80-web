@@ -5,6 +5,11 @@ body {
   -webkit-font-smoothing: antialiased;
   margin: 0; }
 
+.details-gallery {
+  width: 100%;
+  float: left;
+  padding: 15px 0; }
+
 .wrapper {
   padding: 0;
   clear: left; }
@@ -78,6 +83,10 @@ p {
     .edition-list__item .active h2 {
       color: #fff;
       font-weight: bold; }
+  .edition-list__item :hover {
+    background: #87c042; }
+    .edition-list__item :hover h2 {
+      color: #fff; }
   .edition-list__item button {
     text-decoration: none;
     cursor: pointer;
@@ -256,8 +265,25 @@ ul {
     .event-list li .company {
       font-size: 11px;
       font-style: italic; }
-    .event-list li .video-thumb img {
-      max-width: 100%; }
+    .event-list li .video-thumb {
+      position: relative; }
+      .event-list li .video-thumb img {
+        max-width: 100%; }
+      .event-list li .video-thumb .video-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 100%;
+        right: 0;
+        background-color: #000;
+        overflow: hidden;
+        width: 0;
+        height: 100%;
+        -webkit-transition: .5s ease;
+        transition: .5s ease; }
+      .event-list li .video-thumb:hover .video-overlay {
+        width: 100%;
+        left: 0;
+        opacity: .5; }
 
 .tech-filter {
   text-align: center; }
@@ -383,6 +409,10 @@ h4.filter-title {
         color: #ccc;
         font-family: FontAwesome; }
       .filter-list li a.active:before {
+        color: #87c142; }
+      .filter-list li a:hover:before {
+        color: #87c142; }
+      .filter-list li a:hover {
         color: #87c142; }
 
 .video-wrap {

@@ -5,7 +5,11 @@ body {
   -webkit-font-smoothing: antialiased;
   margin: 0;
 }
-
+.details-gallery {
+  width: 100%;
+  float: left;
+  padding: 15px 0;
+}
 .wrapper {
   padding: 0;
   clear: left;
@@ -93,6 +97,12 @@ p {
     h2 {
       color: #fff;
       font-weight: bold;
+    }
+  }
+  :hover {
+     background: #87c042;
+    h2 {
+      color: #fff;
     }
   }
   button {
@@ -313,8 +323,25 @@ ul {
       font-style: italic;
     }
     .video-thumb {
+      position: relative;
       img {
         max-width: 100%;
+      }
+      .video-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 100%;
+        right: 0;
+        background-color: #000;
+        overflow: hidden;
+        width: 0;
+        height: 100%;
+        transition: .5s ease;
+      }
+      &:hover .video-overlay {
+        width: 100%;
+        left: 0;
+        opacity: .5;
       }
     }
   }
@@ -466,6 +493,12 @@ h4.filter-title {
         font-family: FontAwesome;
       }
       &.active:before {
+        color: #87c142;
+      }
+      &:hover:before {
+        color: #87c142;
+      }
+      &:hover {
         color: #87c142;
       }
     }
