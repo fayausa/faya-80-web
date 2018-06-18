@@ -3,6 +3,7 @@ body {
   font-family: 'Lato', sans-serif;
   color: #333;
   -webkit-font-smoothing: antialiased;
+  margin: 0;
 }
 
 .wrapper {
@@ -29,6 +30,16 @@ header {
   position: relative;
   background: url(../images/banner-port80.jpg) no-repeat top center;
   background-size: cover;
+}
+.banner-gallery {
+  background: #4d4e6d;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  background: url(../images/gallery.jpg) no-repeat top center;
+  h1, p {
+    color: #fff;
+  }
 }
 
 .banner-content {
@@ -189,10 +200,8 @@ footer {
   }
   p.copy-right-footer {
     font-size: 10px;
-    margin-top: 20px;
-    display: inline-block;
     clear: left;
-    width: 100%;
+    display: inline-block;
   }
 }
 
@@ -636,7 +645,29 @@ h4.filter-title {
       }
     }
 }
-
+.event-list {
+  .loc-cls {
+     .responsive {
+         max-width: 100%;
+     }
+  }
+}
+  .social_icon {
+    float: right;
+    list-style: none;
+    li {
+      float: left;
+      padding-left: 15px;
+      
+      a {
+        font-size: 22px;
+        color: #969595;
+        &:hover {
+          color: #87be49;
+        }
+      }
+    }
+  }
 
 @media only screen and (min-width: 768px) {
 
@@ -671,9 +702,10 @@ h4.filter-title {
     font-size: 12px;
   }
   .footer-widget {
-    width: 50%;
+    width: 100%;
     float: left;
     font-size: 13px;
+    margin-bottom: 20px;
   }
   .copy-right-footer {
     clear: left;
