@@ -327,22 +327,7 @@ ul {
       img {
         max-width: 100%;
       }
-      .video-overlay {
-        position: absolute;
-        bottom: 0;
-        left: 100%;
-        right: 0;
-        background-color: #000;
-        overflow: hidden;
-        width: 0;
-        height: 100%;
-        transition: .5s ease;
-      }
-      &:hover .video-overlay {
-        width: 100%;
-        left: 0;
-        opacity: .5;
-      }
+     
     }
   }
 }
@@ -680,6 +665,33 @@ h4.filter-title {
      .responsive {
          max-width: 100%;
      }
+     .video-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 100%;
+        right: 0;
+        background-color:rgba(0, 0, 0, 0.7);
+        overflow: hidden;
+        width: 0;
+        height: 100%;
+        transition: .5s ease;
+        .text {
+          color: white;
+          font-size: 15px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          white-space: nowrap;
+          font-weight: 600;
+        }
+      }
+      &:hover .video-overlay {
+        width: 100%;
+        left: 0;
+        
+      }
   }
 }
   .social_icon {

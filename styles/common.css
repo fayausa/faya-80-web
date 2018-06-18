@@ -269,21 +269,6 @@ ul {
       position: relative; }
       .event-list li .video-thumb img {
         max-width: 100%; }
-      .event-list li .video-thumb .video-overlay {
-        position: absolute;
-        bottom: 0;
-        left: 100%;
-        right: 0;
-        background-color: #000;
-        overflow: hidden;
-        width: 0;
-        height: 100%;
-        -webkit-transition: .5s ease;
-        transition: .5s ease; }
-      .event-list li .video-thumb:hover .video-overlay {
-        width: 100%;
-        left: 0;
-        opacity: .5; }
 
 .tech-filter {
   text-align: center; }
@@ -561,6 +546,33 @@ h4.filter-title {
 
 .event-list .loc-cls .responsive {
   max-width: 100%; }
+
+.event-list .loc-cls .video-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  -webkit-transition: .5s ease;
+  transition: .5s ease; }
+  .event-list .loc-cls .video-overlay .text {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    white-space: nowrap;
+    font-weight: 600; }
+
+.event-list .loc-cls:hover .video-overlay {
+  width: 100%;
+  left: 0; }
 
 .social_icon {
   float: right;

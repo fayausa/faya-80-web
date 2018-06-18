@@ -17,7 +17,7 @@ $(function() {
 	        $.each(data.event, function(key, value) {
 	           $.getJSON('/speakers/speakers.json', function(data) {
 	               	var li = $('<li class="loc-cls '+ value.technology +'"/>').appendTo("#event-list");
-	               	var eventdetail = "<div class='video-widget-wrap'><a href='/detail.html?loc="+loc +"&id="+value.eventID+"'><div class='video-thumb'><img  layout='responsive' src='/location/"+loc +"/banners/"+ value.eventbanner +"'></img><div class='video-overlay'></div></div></a><div class='video-detail-wrap'><h4>" + value.title + "</h4><span class='month'>"+ value.date + "</span><span class='edition'>"+ value.eventID + "</span><div id='speakerdetail'></div></div></div>"
+	               	var eventdetail = "<a href='/detail.html?loc="+loc +"&id="+value.eventID+"'><div class='video-widget-wrap'><div class='video-thumb'><img  layout='responsive' src='/location/"+loc +"/banners/"+ value.eventbanner +"'></img></div><div class='video-detail-wrap'><h4>" + value.title + "</h4><span class='month'>"+ value.date + "</span><span class='edition'>"+ value.eventID + "</span><div id='speakerdetail'></div></div></div> <div class='video-overlay'><div class='text'>View Details</div></div></a>"
 	           		$(eventdetail).appendTo(li);  
 	           		  $.each(data.speakers, function(j, sp) {
 		                $.each(value.speakers, function(k, spkr) {
@@ -39,7 +39,7 @@ $(function() {
         $.each(data.event, function(key, value) {
            $.getJSON('/speakers/speakers.json', function(data) {
                	var li = $('<li class="loc-cls '+ value.technology +'"/>').appendTo("#event-list");
-               	var eventdetail = "<div class='video-widget-wrap'><a href='/detail.html?loc=tvm&id="+value.eventID+"'><div class='video-thumb'><img  layout='responsive' src='/location/tvm/banners/"+ value.eventbanner +"'></img><div class='video-overlay'></div></div></a><div class='video-detail-wrap'><h4>" + value.title + "</h4><span class='month'>"+ value.date + "</span><span class='edition'>"+ value.eventID + "</span><div id='speakerdetail'></div></div></div>"
+               	var eventdetail = "<a href='/detail.html?loc=tvm&id="+value.eventID+"'><div class='video-widget-wrap'><div class='video-thumb'><img  layout='responsive' src='/location/tvm/banners/"+ value.eventbanner +"'></img></div><div class='video-detail-wrap'><h4>" + value.title + "</h4><span class='month'>"+ value.date + "</span><span class='edition'>"+ value.eventID + "</span><div id='speakerdetail'></div></div></div> <div class='video-overlay'><div class='text'>View Details</div></div></a>"
            		$(eventdetail).appendTo(li);  
            		  $.each(data.speakers, function(j, sp) {
 	                $.each(value.speakers, function(k, spkr) {
