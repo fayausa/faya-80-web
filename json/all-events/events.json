@@ -26,6 +26,55 @@
 			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
 		},
 		{
+			"eventID": "C12",
+			"title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
+			"technology": "web security",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S77"
+			},
+			"date": "13/06/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "VR has proved to be a breakthrough technology for a variety of industries to improve their customer experience. This interactive computer-generated experience taking place within a simulated environment, holds enormous potential to change the future for a number of fields, including the world of retail. However, in the absence of reliable instructions supported with experience, those who want to try out this technology are still hesitant to move forward with it.<br>BuildNext is a Kerala based start-up working on elevating the customer experience in construction industry using technology. Its experience centres are Virtual Reality-enabled, and it is one of the first commercial applications of VR outside of gaming sector.<strong>Topics Covered</strong>VR intro and history<br>A case for VR<br>VR@ BuildNext<br>What's working for us<br>What's yet to work<br>What do we expect next"
+		},
+		{
+			"eventID": "C11",
+			"title": "A Closer Look at Deep Learning with Object Detection - Kochi",
+			"technology": "web security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S72"
+			},
+			"date": "09/05/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br><strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"
+		},
+		{
+			"eventID": "C10",
+			"title": "An Intro to Chatbot Development",
+			"technology": "web security",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S75",
+				"speaker2": "S76"
+			},
+			"date": "11/04/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Chatbots are everywhere, from websites and social media platforms to smartphones and are an easy and fun way to assist customers in their interactions with a brand or product. Even though the bot revolution is in its early phase, we can expect a lot more advancements in this field. With the evolution of AI and Deep Learning, chatbots are expected to become more empowered to offer better language processing capabilities and extensive personalization in the coming days.<br>Chatbots are sure to get embedded in almost all the interconnected devices that will use in our day to day lives in the future. This will fundamentally transform human interactions with digital business platforms and will open up new realms of personalized customer experience. Foreseeing this immense potential of the chatbots, organizations have started investing heavily in this space.<strong>Topics Covered</strong>Introduction to chatbots<br>Evolution of chatbots<br>Potential of chatbots<br>How can businesses benefit from chatbots?<br>How can Messenger chatbots be used for marketing?<br>Why is Chatbots such a big opportunity?<br>How does a chatbot work<br>Natural language understanding<br>Response generation<br>Dialogue management<br>Chabot Training<br>Tools for chatbot development<br>Dialogflow NLU demo"
+		},
+		{
+			"eventID": "C9",
+			"title": "Java Virtual Machine 101",
+			"technology": "web security frontend",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S74"
+			},
+			"date": "14/03/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Java users are well aware that the Java bytecode runs in a JRE (Java Runtime Environment). The Java Virtual Machine (JVM), which analyzes and executes the Java byte code, is the most important part of the JRE. Why should you know more about JVM? Various great applications and libraries have already been developed by developers who had no deep understanding of the JVM. However, if you grasp the concepts of JVM better, you will in turn grasp Java better leading to simpler problem solving using Java.<strong>Topics Covered</strong>Why you should Learn the VM Internals<br>Abstract Machine and its Instruction Set<br>Execution Engine and the Memory Model<br>Multilanguage VM - JVM as a Host to Python, Ruby, Scala and Groovy<br>Method Handles & Invokedynamic"
+		},
+		{
 			"eventID": "C8",
 			"title": "Hello XR: An Introduction to VR, AR and MR",
 			"technology": "web security",
@@ -121,6 +170,54 @@
 			"date": "12/07/2017 5:00 pm",
 			"youtubeID": "",
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+		},
+		{
+			"eventID": "K12",
+			"title": "Deep Learning with Keras",
+			"technology": "web security",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S81"
+			},
+			"date": "16/05/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
+		},
+		{
+			"eventID": "K11",
+			"title": "Blockchain CodeLab : No Hype Only Codes",
+			"technology": "web security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S80"
+			},
+			"date": "18/04/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
+		},
+		{
+			"eventID": "K10",
+			"title": "Exploring Augmented Reality: For Today and Tomorrow",
+			"technology": "web security",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S79"
+			},
+			"date": "21/03/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
+		},
+		{
+			"eventID": "K9",
+			"title": "A Roadmap to PHP Frameworks with Laravel",
+			"technology": "web",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S78"
+			},
+			"date": "21/02/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
 		},
 		{
 			"eventID": "K8",
@@ -220,6 +317,58 @@
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
 		},
 		{
+			"eventID": "T61",
+			"title": "Decentralized Applications using Ethereum: A Hands-On Approach",
+			"technology": "web security",
+			"eventbanner": "61.jpg",
+			"speakers": {
+				"speaker1": "S73"
+			},
+			"date": "06/06/2018 5:00 pm",
+			"youtubeID": "2kXtIqwGnFY",
+			"rating": "5",
+			"details": "Blockchain is one of the technologies that have generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality.<br>The 61st edition of FAYA:80 Trivandrum provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Ethereum. The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>Introduction to Ethereum and DAPPs.<br>Ethereum Smart Contracts.<br>How to Build a DAPP on Ethereum.<br>Ethereum Tokens and ICO.<br>Hands-On Session and Debugging."
+		},
+		{
+			"eventID": "T60",
+			"title": "Device Selection Strategy & Automated Testing for Mobile Development",
+			"technology": "security android ios",
+			"eventbanner": "60.jpg",
+			"speakers": {
+				"speaker1": "S16"
+			},
+			"date": "02/05/2018 5:00 pm",
+			"youtubeID": "o-WibosB5WU",
+			"rating": "5",
+			"details": "Selection of devices for testing in mobile applications has always been a hard nut to crack. This gets complex due to the number of device models, variations in firmware and OS versions, carrier and manufacturer customizations, dependencies on remote services, and other apps. Buying a bunch of test devices and rigging them up for automation is not a feasible solution for all cases. The developers and QA managers have to think strategically about testing to stay ahead of the curve.<br>AWS Device Farm accelerates the development process by executing tests on multiple devices, giving developers, QA and support professionals the ability to perform automated tests and manual tasks in parallel across 100s of real devices. This will help increase application quality, time to market, and customer satisfaction by testing and interacting with real devices in the AWS Cloud.<br>The 60th edition of FAYA:80 provides the opportunity for developers, testers, business analysts and other technology enthusiasts to understand the strategies in device selection, break their ice with AWS Device Farm, and implementation of Continuous Integration in mobile development.<strong>Topics Covered:</strong>Optimise your test device selection<br>Introduction to AWS farm<br>Continuous integration and testing"
+		},
+		{
+			"eventID": "T59",
+			"title": "A Closer Look at Deep Learning with Object Detection",
+			"technology": "web security",
+			"eventbanner": "59.jpg",
+			"speakers": {
+				"speaker1": "S72"
+			},
+			"date": "04/04/2018 5:00 pm",
+			"youtubeID": "Z0EKsLDg0UY",
+			"rating": "5",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br>The 59th edition of FAYA:80 Trivandrum, A Closer Look at Deep Learning with Object Detection, will be a first of its kind in the city, and will deal with various Object Detection approaches like RCNN, Yolo and Retinanet. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Object Detection.<strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"
+		},
+		{
+			"eventID": "T58",
+			"title": "Dancing with Objects: Step Up your Coding Skills with Design Patterns",
+			"technology": "web",
+			"eventbanner": "58.jpg",
+			"speakers": {
+				"speaker1": "S28"
+			},
+			"date": "07/03/2018 5:00 pm",
+			"youtubeID": "JL14L-dChdM",
+			"rating": "5",
+			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code isn’t clean, it has the potential to bring the entire project down. It doesn’t have to be this way, if you get your Design Patterns right.<br>Design Patterns are time-tested and proven OOP solutions to repeated design problems, which lead to easily extendable, modifiable and testable code, irrespective of the programming language. They don’t just help with effective software engineering, but also effective communication among coders.<br>Like the saying goes, a good programmer writes code a machine can understand, but a great programmer writes code that a human can understand. It’s time to decide which one you want to be. So here’s calling all coders who are looking to fine tune their coding skills, to the 58th edition of FAYA:80 Trivandrum, Dancing with Objects: Step Up your Coding Skills with Design Patterns.<strong>Topics Covered</strong>Sharpening Object-Oriented Skills<br>S.O.L.I.D. Principles<br>Introduction to Design Patterns<br>Types of Design Patterns<br>Use Case Demo"
+		},
+		{
 			"eventID": "T57",
 			"title": "Applying Design Thinking into Product Development",
 			"technology": "security",
@@ -230,7 +379,7 @@
 			"date": "07/02/2018 5:00 pm",
 			"youtubeID": "9sCBRlkZaZY",
 			"rating": "5",
-			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"
+			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.<strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"
 		},
 		{
 			"eventID": "T56",
