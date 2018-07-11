@@ -4,13 +4,13 @@
 
 ## ABOUT FAYA:80
 
-FAYA:80 (read FAYA port 80) is a monthly technology session hosted by FAYA Corporation, where technology enthusiasts converge to discuss and analyse the emerging trends in technology. The sessions aim to provide a platform for both amateurs and experts, to keep at par with the emerging tools and technologies in the IT industry. The objective of this endeavour is to create further tech communities which will enable peer group learning.
+[FAYA:80](https://www.fayaport80.com/) (read FAYA port 80) is a monthly technology session hosted by [FAYA Corporation](http://fayausa.com/), where technology enthusiasts converge to discuss and analyse the emerging trends in technology. The sessions aim to provide a platform for both amateurs and experts, to keep at par with the emerging tools and technologies in the IT industry. The objective of this endeavour is to create further tech communities which will enable peer group learning.
 
 It aims to inculcate a culture of community of practice for the entrepreneurs, developers and technology professionals whereby they ignite the art of knowledge gaining and knowledge sharing.
 
 Born out of a desire that technology professionals in Technopark, Kerala, should not lag behind when it comes to the futuristic technologies, FAYA:80 was kick-started in June, 2013 and is organized on the first Wednesday of every month at the Floor of Madness, FAYA in Technopark, Trivandrum.
 
-FAYA:80 celebrated its 50th edition in July, 2017 with DISRUPT KERALA 2017, a day-long tech event, with a lineup of global speakers and visionaries. DISRUPT KERALA 2017 also saw the launch of two separate ongoing chapters of FAYA:80 in Kochi and Kozhikode, which are conducted on the second and third Wednesdays of the month respectively.
+FAYA:80 celebrated its 50th edition in July, 2017 with [DISRUPT KERALA 2017](https://www.fayaport80.com/dk17.html), a day-long tech event, with a lineup of global speakers and visionaries. DISRUPT KERALA 2017 also saw the launch of two separate ongoing chapters of FAYA:80 in Kochi and Kozhikode, which are conducted on the second and third Wednesdays of the month respectively.
 
 ## Installation
 
