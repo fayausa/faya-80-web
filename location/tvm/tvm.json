@@ -880,7 +880,7 @@
           "eventID" : "T5",
            "title": "Continuous Integration and Jenkins",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"5.jpg",
            "speakers" : 
             {
               "speaker1" : "S47"
@@ -893,7 +893,7 @@
           "eventID" : "T4",
            "title": "Essential Testing Tools for Web Developers",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"4.jpg",
            "speakers" : 
             {
               "speaker1" : "S49",
@@ -908,7 +908,7 @@
           "eventID" : "T3",
            "title": "Tooling for Modern Web App Developers",
            "technology": "web frontend",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"3.jpg",
            "speakers" : 
             {
               "speaker1" : "S38"
@@ -921,7 +921,7 @@
           "eventID" : "T2",
            "title": "Angular JS",
            "technology": "web frontend",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"2.jpg",
            "speakers" : 
             {
               "speaker1" : "S44"
@@ -934,7 +934,7 @@
           "eventID" : "T1",
            "title": "Apache Solr",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"1.jpg",
            "speakers" : 
             {
               "speaker1" : "S50",
