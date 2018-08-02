@@ -586,6 +586,18 @@ h4.filter-title {
       .social_icon li a:hover {
         color: #87be49; }
 
+.wrapper.contact {
+  overflow: hidden;
+  padding-bottom: 30px; }
+
+.contact-right,
+.contact-left {
+  width: 100%;
+  padding: 0; }
+
+.contact-right .map-wrap {
+  border: 2px solid #f1f1f1; }
+
 @media only screen and (min-width: 768px) {
   .content {
     min-height: 400px; }
@@ -654,4 +666,20 @@ h4.filter-title {
   #speaker-list li p.desc, #speaker-list li h4 {
     width: 40%; }
   #speaker-list li span.profile {
+<<<<<<< HEAD
     width: 50%; } }
+=======
+    width: 50%; }
+  .contact-left {
+    width: 50%;
+    float: left;
+    padding-right: 15px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+  .contact-right {
+    width: 50%;
+    float: left;
+    padding-left: 15px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; } }
+>>>>>>> c9e057b98ea4e83a21bd9fb223787a2eac92da9a

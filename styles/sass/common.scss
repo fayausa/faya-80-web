@@ -710,7 +710,18 @@ h4.filter-title {
       }
     }
   }
-
+  .wrapper.contact {
+    overflow: hidden;
+    padding-bottom: 30px;
+  }
+  .contact-right,
+  .contact-left {
+    width: 100%;
+    padding: 0;
+  }
+  .contact-right .map-wrap {
+    border: 2px solid #f1f1f1;
+  }
 @media only screen and (min-width: 768px) {
 
   .content {
@@ -790,7 +801,7 @@ h4.filter-title {
     padding: 25px;
   }
   .contact .form-area {
-    width: 65%;
+    width: 100%;
   }
   #speaker-list {
     li {
@@ -807,5 +818,17 @@ h4.filter-title {
         width: 50%
       }
     }
+  }
+  .contact-left {
+    width: 50%; 
+    float: left;
+    padding-right: 15px;
+    box-sizing: border-box;
+  }
+  .contact-right {
+    width: 50%; 
+    float: left;
+    padding-left: 15px;
+    box-sizing: border-box;
   }
 }
