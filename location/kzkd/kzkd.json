@@ -1,6 +1,61 @@
 {
    "event": [
+    {
+      "eventID" : "K12",
+      "title": "Deep Learning with Keras",
+      "technology": "web security",
+      "eventbanner":"12.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S81"
+      },
+      "date": "16/05/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
       
+    }, 
+    {
+      "eventID" : "K11",
+      "title": "Blockchain CodeLab : No Hype Only Codes",
+      "technology": "web security",
+      "eventbanner":"11.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S80"
+      },
+      "date": "18/04/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
+      
+    }, 
+    {
+      "eventID" : "K10",
+      "title": "Exploring Augmented Reality: For Today and Tomorrow",
+      "technology": "web security",
+      "eventbanner":"10.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S79"
+      },
+      "date": "21/03/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
+      
+    },  
+    {
+        "eventID" : "K9",
+        "title": "A Roadmap to PHP Frameworks with Laravel",
+        "technology": "web",
+        "eventbanner":"9.jpg",
+        "speakers" : 
+        {
+          "speaker1" : "S78"
+        },
+        "date": "21/02/2018 5:00 pm",
+        "youtubeID": "",
+        "details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
+        
+      },
       {
            "eventID" : "K8",
            "title": "Discovering Cross-platform Mobile App Development Using Xamarin",

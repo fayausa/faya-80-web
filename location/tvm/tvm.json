@@ -1,6 +1,62 @@
 {
    "event": [
       {
+          "eventID" : "T61",
+           "title": "Decentralized Applications using Ethereum: A Hands-On Approach",
+           "technology": "web security",
+           "eventbanner":"61.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S73"
+            },
+           "date": "06/06/2018 5:00 pm",
+           "youtubeID": "2kXtIqwGnFY",
+           "rating": "5",
+           "details": "Blockchain is one of the technologies that have generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality.<br>The 61st edition of FAYA:80 Trivandrum provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Ethereum. The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>Introduction to Ethereum and DAPPs.<br>Ethereum Smart Contracts.<br>How to Build a DAPP on Ethereum.<br>Ethereum Tokens and ICO.<br>Hands-On Session and Debugging."       
+      },
+      {
+          "eventID" : "T60",
+           "title": "Device Selection Strategy & Automated Testing for Mobile Development",
+           "technology": "security android ios",
+           "eventbanner":"60.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S16"
+            },
+           "date": "02/05/2018 5:00 pm",
+           "youtubeID": "o-WibosB5WU",
+           "rating": "5",
+           "details": "Selection of devices for testing in mobile applications has always been a hard nut to crack. This gets complex due to the number of device models, variations in firmware and OS versions, carrier and manufacturer customizations, dependencies on remote services, and other apps. Buying a bunch of test devices and rigging them up for automation is not a feasible solution for all cases. The developers and QA managers have to think strategically about testing to stay ahead of the curve.<br>AWS Device Farm accelerates the development process by executing tests on multiple devices, giving developers, QA and support professionals the ability to perform automated tests and manual tasks in parallel across 100s of real devices. This will help increase application quality, time to market, and customer satisfaction by testing and interacting with real devices in the AWS Cloud.<br>The 60th edition of FAYA:80 provides the opportunity for developers, testers, business analysts and other technology enthusiasts to understand the strategies in device selection, break their ice with AWS Device Farm, and implementation of Continuous Integration in mobile development.<strong>Topics Covered:</strong>Optimise your test device selection<br>Introduction to AWS farm<br>Continuous integration and testing"       
+      },
+      {
+          "eventID" : "T59",
+           "title": "A Closer Look at Deep Learning with Object Detection",
+           "technology": "web security",
+           "eventbanner":"59.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S72"
+            },
+           "date": "04/04/2018 5:00 pm",
+           "youtubeID": "Z0EKsLDg0UY",
+           "rating": "5",
+           "details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br>The 59th edition of FAYA:80 Trivandrum, A Closer Look at Deep Learning with Object Detection, will be a first of its kind in the city, and will deal with various Object Detection approaches like RCNN, Yolo and Retinanet. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Object Detection.<strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"       
+      },
+      {
+          "eventID" : "T58",
+           "title": "Dancing with Objects: Step Up your Coding Skills with Design Patterns",
+           "technology": "web",
+           "eventbanner":"58.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S28"
+            },
+           "date": "07/03/2018 5:00 pm",
+           "youtubeID": "JL14L-dChdM",
+           "rating": "5",
+           "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code isn’t clean, it has the potential to bring the entire project down. It doesn’t have to be this way, if you get your Design Patterns right.<br>Design Patterns are time-tested and proven OOP solutions to repeated design problems, which lead to easily extendable, modifiable and testable code, irrespective of the programming language. They don’t just help with effective software engineering, but also effective communication among coders.<br>Like the saying goes, a good programmer writes code a machine can understand, but a great programmer writes code that a human can understand. It’s time to decide which one you want to be. So here’s calling all coders who are looking to fine tune their coding skills, to the 58th edition of FAYA:80 Trivandrum, Dancing with Objects: Step Up your Coding Skills with Design Patterns.<strong>Topics Covered</strong>Sharpening Object-Oriented Skills<br>S.O.L.I.D. Principles<br>Introduction to Design Patterns<br>Types of Design Patterns<br>Use Case Demo"       
+      },
+      {
           "eventID" : "T57",
            "title": "Applying Design Thinking into Product Development",
            "technology": "security",
@@ -12,7 +68,7 @@
            "date": "07/02/2018 5:00 pm",
            "youtubeID": "9sCBRlkZaZY",
            "rating": "5",
-           "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"       
+           "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has not been spent on getting into the customer's head. Simply put, Design Thinking shifts the focus from the problem to the customer who faces the problem.<br>It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking.<br>The 57th edition of FAYA:80 Trivandrum, Applying Design Thinking into Product Development, helped all developers, leads, managers and business owners who are working to solve a customer’s problem, to step up.<strong>Topics Covered:</strong>Design Thinking - concept in a nutshell<br>How does Design Thinking matter to problem solvers?<br>Design Thinking based products/solutions<br>Hands-on time on a live case scenario"       
       },
       {
           "eventID" : "T56",
@@ -824,7 +880,7 @@
           "eventID" : "T5",
            "title": "Continuous Integration and Jenkins",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"5.jpg",
            "speakers" : 
             {
               "speaker1" : "S47"
@@ -837,7 +893,7 @@
           "eventID" : "T4",
            "title": "Essential Testing Tools for Web Developers",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"4.jpg",
            "speakers" : 
             {
               "speaker1" : "S49",
@@ -852,7 +908,7 @@
           "eventID" : "T3",
            "title": "Tooling for Modern Web App Developers",
            "technology": "web frontend",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"3.jpg",
            "speakers" : 
             {
               "speaker1" : "S38"
@@ -865,7 +921,7 @@
           "eventID" : "T2",
            "title": "Angular JS",
            "technology": "web frontend",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"2.jpg",
            "speakers" : 
             {
               "speaker1" : "S44"
@@ -878,7 +934,7 @@
           "eventID" : "T1",
            "title": "Apache Solr",
            "technology": "web security",
-           "eventbanner":"faya80.jpg",
+           "eventbanner":"1.jpg",
            "speakers" : 
             {
               "speaker1" : "S50",
