@@ -800,7 +800,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "C8"
+              "event1" : "C8",
+               "event2" : "T62"
             }
 },
       {
@@ -1224,7 +1225,8 @@
      "email" : "",
      "events" : 
       {
-        "event1" : "K10"
+        "event1" : "K10",
+         "event2" : "T62"
       }
 },
 {
