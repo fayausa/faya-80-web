@@ -1,6 +1,21 @@
 {
    "event": [
       {
+          "eventID" : "T62",
+           "title": "Xtending Realities through AR - VR - MR",
+           "technology": "web security",
+           "eventbanner":"62.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S51",
+              "speaker2" : "S79"
+            },
+           "date": "04/07/2018 5:00 pm",
+           "youtubeID": "EvRO3HmA0-8",
+           "rating": "5",
+           "details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.                                                                                                                                                                                                                                                      The 62nd edition of FAYA:80 Trivandrum, Xtending Realities through AR-VR-MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.<strong>Topics Covered</strong>Immersive Technologies and the Fine line between them.<br>What's new in AR / VR / MR / CR.<br>Opportunities to leverage XR in various Industries.<br>Design Considerations and Best Practices for VR and AR."       
+      },
+      {
           "eventID" : "T61",
            "title": "Decentralized Applications using Ethereum: A Hands-On Approach",
            "technology": "web security",
