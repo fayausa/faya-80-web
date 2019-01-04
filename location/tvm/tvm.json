@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T66",
+           "title": "Getting started with Robot operating system",
+           "technology": "",
+           "eventbanner":"66.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S83"
+            },
+           "date": "07/11/2018 5:00 pm",
+           "youtubeID": "GG8F1w4KGNA",
+           "rating": "5",
+           "details": "No doubt, Robotics has changed the world around us and is continuing to impact the way we do things. The rapid development of Robotics in the recent times has generated much interest in technology circles and beyond because of the new business opportunities it opens up. Today advanced robots are complementing our lives, both at work and at home. As robots have advanced, so have the development tools.                                                                                                 ROS (Robot Operating System) is a set of software libraries and tools to help you build robot applications. The aim of ROS is to create a robotics standard, so you don’t need to reinvent the wheel anymore when building a new robotic software. ROS simplifies the task of creating complex and robust robot behavior across a wide variety of robotic platforms.                                                                                                                                                 The 66th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore ROS and learn how to progress with it.<strong>Topics Covered</strong>Introduction.<br>Why ROS? <br>Architecture & ROS Packages.<br>Getting Started Demo."       
+      },
+      {
           "eventID" : "T65",
            "title": "Getting started with Robotics",
            "technology": "",
