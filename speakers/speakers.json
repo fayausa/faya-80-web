@@ -1258,8 +1258,21 @@
       {
         "event1" : "K12"
       }
-}
-
+},
+{
+    "speakerID" : "S82",
+     "speaker": "Hari S. Pillai",
+     "profile": "Technical Lead at Perfomatix",
+     "speakerdesc": "Hari S. Pillai is the Technical Lead of Perfomatix. Having over 9 years of industry experience, Hari works on a variety of technology stacks and is a technology evangelist for Angular and Node JS based application stacks. He has also worked for multiple Fortune 100 companies.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T64"
+      }
 
 
 

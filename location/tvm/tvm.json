@@ -1,6 +1,34 @@
 {
    "event": [
       {
+          "eventID" : "T64",
+           "title": "What's new in Angular 6",
+           "technology": "front end",
+           "eventbanner":"64.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S82"
+            },
+           "date": "05/09/2018 5:00 pm",
+           "youtubeID": "Hr7n3p2bgic",
+           "rating": "5",
+           "details": "Angular 6 is finally here unifying the Framework, Material and CLI. This is a major release focused less on the underlying framework, and more on the toolchain and on making it easier to move quickly with Angular in the future. The new tooling additions are especially great for facilitating upgrading and adding new libraries to your apps. Now, with Angular 6, you can easily update your old packages, create native web elements using Angular Elements, and many other things. The 64th edition of FAYA:80 presented for all technology enthusiasts, front-end developers and project managers a chance to breakdown what’s new with Angular 6 and go over how to upgrade an app over to this new version.<strong>Topics Covered</strong>Introduction.<br>What’s new in Angular 6?<br>Angular Elements.<br>NG6 and RxJS Insights.<br>Getting the best out of NG6 6. Live Demo"       
+      },
+      {
+          "eventID" : "T63",
+           "title": "Keeping pace with React",
+           "technology": "front end",
+           "eventbanner":"63.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S5"
+            },
+           "date": "01/08/2018 5:00 pm",
+           "youtubeID": "6tw1lrjDNOc",
+           "rating": "5",
+           "details": "The front-end development ecosystem for web has been constantly upgrading, especially, the javascript libraries and frameworks. React has gained huge popularity in the recent times and has become one of the most favoured frameworks among front end specialists. It is a powerful UI library that brings the power of SSR (Server Side Rendering), isomorphic JavaScript, and component-based web development to modern dynamic web applications. It helps create modular, reusable, and intuitive components efficiently.                                                                                                                The 63rd edition of FAYA:80 became an opportunity for creative minds who were yet to work with React or were considering working with React to explore the basics of React, how it works, and how to get along with it efficiently from a front-end developer’s perspective. It was also an opportunity for developers who worked on React to get support from the community on the challenges they face.<strong>Topics Covered</strong>History of web frontends.<br>Quick look on JS/es6.<br>Prerequisites to React.<br>Core concepts of React.<br>Working Demo"       
+      },
+      {
           "eventID" : "T62",
            "title": "Xtending Realities through AR - VR - MR",
            "technology": "web security",
