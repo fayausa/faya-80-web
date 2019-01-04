@@ -1,6 +1,20 @@
 {
    "event": [
       {
+      "eventID" : "K14",
+      "title": "Hands-On Git Workflow",
+      "technology": "front end",
+      "eventbanner":"14.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S47"
+      },
+      "date": "19/07/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
+      
+    }, 
+      {
       "eventID" : "K13",
       "title": "Building Scalable Mobile Applications Using Firebase",
       "technology": "front end",
