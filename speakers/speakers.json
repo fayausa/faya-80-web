@@ -1273,8 +1273,22 @@
       {
         "eventID" : "T64"
       }
+},
+{
+    "speakerID" : "S82",
+     "speaker": "Rejin Narayanan",
+     "profile": "founder, Ingen Robotics.",
+     "speakerdesc": "Rejin Narayanan is a roboticist and serial entrepreneur, and is the founder of the consumer robotics startup - Ingen Robotics. Their first product is a fully automatic roti making robot, which was designed and developed in Trivandrum. Rejin has rich professional experience, and has worked in multicultural environments. He has several paper publications and patent applications to his credit. Rejin holds a masters in Autonomous Systems from the Bonn-Rhein-Sieg University of Applied Sciences in Germany, and a bachelors degree in Electrical and Electronics Engineering from the University of Kerala. Rejin is very much a hands on person, with skills in software, electronics, mechanics, and product design.",           
+     "thumb":"Rejin-Narayanan.jpg",
+     "facebook" : "https://www.facebook.com/rejin.narayanan.5     ",
+     "twitter" : "https://twitter.com/rejinns?lang=en",
+     "linkedIn" :"https://www.linkedin.com/in/rejin/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T65"
+      }
 }
-
 
 
    ]
