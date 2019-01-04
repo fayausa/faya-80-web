@@ -1318,6 +1318,21 @@
       {
         "eventID" : "T67"
       }
+},
+ {
+    "speakerID" : "S85",
+     "speaker": "Ajith V Giri",
+     "profile": "Mobile App Developer working at SoftFrit Solutions",
+     "speakerdesc": "A Mobile App Developer working for SoftFrit Solutions, Ajith is an experienced mobile app developer specialized in Kotlin and swift. He has delivered various sessions as part of Kotlin User Group Kozhikode. He also has wide experience in Firebase and building scalable applications using firebases for different projects.",           
+     "thumb":"Ajith-V-Giri.jpg",
+     "facebook" : "https://www.facebook.com/ajithvgiri",
+     "twitter" : "https://twitter.com/ajithvgiri",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K13"
+      }
 }
 
 
