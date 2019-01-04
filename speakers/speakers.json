@@ -1303,6 +1303,21 @@
       {
         "eventID" : "T66"
       }
+},
+ {
+    "speakerID" : "S84",
+     "speaker": "Sanu George",
+     "profile": "Senior consultant for Usability engineering at IBS",
+     "speakerdesc": "Sanu George, who is currently a senior consultant for Usability engineering at IBS , and a UX practice head & product strategy professional with experience in building enterprise product UX strategy, design leadership and user research working with some of the largest companies in travel, transportation and logistics industry like Lufthansa Airlines, ANA, Qantas Airways, Korean Air, South African Airways, Shell corporation, etc.",           
+     "thumb":"Sanu-George.jpg",
+     "facebook" : "http://facebook.com/sanu.george",
+     "twitter" : "https://twitter.com/sanugeorge",
+     "linkedIn" :"https://www.linkedin.com/in/sanugeorge-ux/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T67"
+      }
 }
 
 
