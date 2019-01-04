@@ -1288,6 +1288,21 @@
       {
         "eventID" : "T65"
       }
+},
+      {
+    "speakerID" : "S83",
+     "speaker": "Ajith Kumar M",
+     "profile": "Robotics Developer at TCS-ILP Innovations Lab",
+     "speakerdesc": "Mr Ajithkumar M. is a Robotics Developer working with the CTO team of TCS-ILP Innovations Lab. He has experience in simulation, design and manufacturing of projects pertaining to robotics, automobiles and special purpose machines. He has also worked on the creation and deployment of several socially interactive robots.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T66"
+      }
 }
 
 
