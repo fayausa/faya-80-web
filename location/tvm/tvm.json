@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T65",
+           "title": "Getting started with Robotics",
+           "technology": "",
+           "eventbanner":"65.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S82"
+            },
+           "date": "03/10/2018 5:00 pm",
+           "youtubeID": "w3b4IR68hxI",
+           "rating": "5",
+           "details": "Today Robotics, Automation and AI has become the need of the hour to compete globally and lead the charts of efficiency while stepping into the world of future. While it is easy to be intimidated by robotics because it incorporates a wide range of skills over a variety of disciplines, there is no reason to be. Getting a grasp on the skills needed to make, manage and innovate on the robots of the future is a great way to progress in the world of Robotics and Automation. The 65th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to break your ice with Robotics and learn how to progress with it. The session also presented a chance for participants to know how Mr. Rejin made use of the limited but specialised facilities and expert talent available in the city for building Rotibot.<strong>Topics Covered</strong>Introduction.<br>Getting started with Robotics.<br>How to bootstrap.<br>Hardware Prototyping in Trivandrum.<br>Case studies - TR-7 & Rotibot."       
+      },
+      {
           "eventID" : "T64",
            "title": "What's new in Angular 6",
            "technology": "front end",
