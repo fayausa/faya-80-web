@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+      "eventID" : "K13",
+      "title": "Building Scalable Mobile Applications Using Firebase",
+      "technology": "front end",
+      "eventbanner":"13.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S85"
+      },
+      "date": "20/06/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
+      
+    }, 
     {
       "eventID" : "K12",
       "title": "Deep Learning with Keras",
