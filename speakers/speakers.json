@@ -1334,8 +1334,22 @@
       {
         "eventID" : "K13"
       }
+},
+{
+    "speakerID" : "S86",
+     "speaker": "Noufal Ibrahim",
+     "profile": "Founder and Director of Hamon Technologies, LLP, Kozhikode",
+     "speakerdesc": "Noufal Ibrahim is a programmer and software designer with over 20 years of experience in Python and related technologies. He is the Founder and Director of Hamon Technologies, LLP in Kozhikode – an infrastucture and automation services firm. He is also a founding partner and senior trainer at Pipal Academy, LLP – A corporate training firm specialising in niche trainings. He is also a member of the Python Software Foundation. He was the founder of PyCon India which has grown to be the largest national level PyCon outside the US. He also does student training and mentoring via. The Lycaeum - a mentoring program based in Kozhikode. In his free time, he enjoys practicing calligraphy.",           
+     "thumb":"Noufal-ibrahim.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/noufalibrahim",
+     "linkedIn" :"https://in.linkedin.com/in/noufalibrahim",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K15"
+      }
 }
-
 
    ]
 }
