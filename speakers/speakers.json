@@ -1380,6 +1380,21 @@
       {
         "eventID" : "K18"
       }
+},
+      {
+    "speakerID" : "S89",
+     "speaker": "Jobin C S",
+     "profile": "Co-Founder & CEO of Tenderwoods",
+     "speakerdesc": "Jobin CS is the Co-Founder & CEO of Tenderwoods. He started his entrepreneur career with a robotic company and has served many key positions in startup and corporates. A trainer by passion, he has given training in corporate including Samsung, HP, Wipro etc. Having spent 5 years in the field of Technical Training, he is an excellent Startup Guru and Motivational Speaker who has published several technical blogs, articles, games and apps.",           
+     "thumb":"Jobin-CS.jpg",
+     "facebook" : "https://www.facebook.com/jobin.thodupuzha.5",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jobin-c-s-26b5b56a/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C13"
+      }
 }
 
    ]
