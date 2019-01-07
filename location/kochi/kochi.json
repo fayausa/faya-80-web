@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C15",
+          "title": "Hackproofing your Web Application for the future",
+          "technology": "security",
+          "eventbanner":"15.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S45"
+          },
+          "date": "12/09/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey. The top ten security risks and guidelines for preventing them published by OWSAP are a gold standard for most of the developers around the world. Despite having these guidelines, developers tend to overlook these while implementing. In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced. The 15th edition of FAYA:80 Kochi, Hackproofing your Web Application for the future, will be an opportunity for all web and mobile application developers, testers, technical managers and other technology enthusiasts to learn what exactly needs to be done to ensure that their applications are protected from cyber attacks.<strong>Topics Covered</strong>Case study of 10M users data breach.<br>Critical Security Vulnerabilities.<br>Mitigation techniques.<br>Ransomware overview.<br>Demo"
+        
+      }, 
+      {
           "eventID" : "C14",
           "title": "Design Thinking & Prototyping for Product Development",
           "technology": "front end",
