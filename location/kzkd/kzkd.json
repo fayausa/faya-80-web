@@ -1,6 +1,20 @@
 {
    "event": [
       {
+      "eventID" : "K18",
+      "title": "Data Engineering using Spark and Scala",
+      "technology": "front end",
+      "eventbanner":"18.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S88"
+      },
+      "date": "21/11/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
+      
+    }, 
+      {
       "eventID" : "K17",
       "title": "Hands-On Data Structures with Python",
       "technology": "web",
