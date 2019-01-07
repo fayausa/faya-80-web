@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C16",
+          "title": "Practical Scrum – A guide to the most popular Agile Process",
+          "technology": "front end",
+          "eventbanner":"16.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S91"
+          },
+          "date": "10/10/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Scrum is a simple, yet incredibly powerful, set of principles and practices that help teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change. So says the Scrum Alliance. When implementing Scrum, people often ask ‘how do I…’ and the answer typically is ‘Scrum does not say anything about that.’ So you are left to figure it out on your own. Not everything that works for others will work for you and vice-versa.                                                                                                                                                                        The 16th edition of FAYA:80 Kochi provided an open platform to step up the Scrum game with the help of a person who had successfully implemented Scrum at his workplace. In the session, he shared his experiences in implementing Scrum, the challenges faced and improvements made, the tools used, and, also, how Scrum became an integral part of requirements gathering, roadmaps, and release management. Participants also got a chance to share what worked and didn’t work for them in Scrum and why.                                                                                                       The session was a great opportunity for CXOs, project managers, middle-level managers, developers, and other technology enthusiasts to get to know Scrum from a practical implementation point of view. The session also helped those who had already adopted Scrum to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Basics of Scrum Implementation.<br>Adoption of Scrum & its challenges.<br>Common Tools used.<br>Case Study: How scrum is implemented at RedBlack.<br>Q&A and Experience Sharing."
+        
+      }, 
+      {
           "eventID" : "C15",
           "title": "Hackproofing your Web Application for the future",
           "technology": "security",
