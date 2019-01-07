@@ -1426,6 +1426,21 @@
       {
         "eventID" : "C16"
       }
+},
+{
+    "speakerID" : "S92",
+     "speaker": "Suresh Balasubramanian",
+     "profile": "Co-founder & CEO at ExpressBase Systems",
+     "speakerdesc": "Suresh Balasubramanian is a BSc Chemistry graduate (1994) from the prestigious Maharaja's College, Ernakulam. He started his career with Sun Pharma in 1994 and switched to IT in 1995. He has worked with several IT giants like BMC Software, Microsoft, Covansys, CSC, CSS Corp. and PayPal in India and the US. Co-Founded an IT Start-up in 2012, NetSonic Solutions LLC in the UAE, which had a watered down RAD client-server software with 30+ clients in UAE, Qatar and Bahrain. He exited NetSonic and returned back to India to setup EXPRESSbase Systems P Ltd in Oct 2016. EXPRESSbase is Rapid Application Development & Delivery platform specially targeting Small to Mid-Sized Businesses. He has worked in all the phases of SDLC, wide range of platforms, tools & languages and has extensive leadership/management experience.",           
+     "thumb":"Suresh-balasubramanian.jpg",
+     "facebook" : "https://www.facebook.com/suresh.balasubra",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sureba73/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C17"
+      }
 }
 
    ]
