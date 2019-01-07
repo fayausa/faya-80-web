@@ -1365,6 +1365,21 @@
       {
         "eventID" : "K16"
       }
+},
+{
+    "speakerID" : "S88",
+     "speaker": "Ravi Padmaraj",
+     "profile": "Architect at QBurst Technologies",
+     "speakerdesc": "Ravi Padmaraj is an Architect with QBurst Technologies focusing on data engineering and ETL systems. He is experienced in building large volume real time data transformation and analytics engines using AWS, Azure and in house clusters. His previous client engagements include British Telecom, Apple, Genesys etc.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K18"
+      }
 }
 
    ]
