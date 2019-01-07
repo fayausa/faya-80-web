@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C14",
+          "title": "Design Thinking & Prototyping for Product Development",
+          "technology": "front end",
+          "eventbanner":"14.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S90"
+          },
+          "date": "08/08/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has to be spent on design thinking and prototyping.                                                                                                                                                                                                                                                         It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking and Prototyping to test the ideas quickly and improve them in an equally timely fashion.                                                                                                                                                            The 14th edition of FAYA:80 Kochi, Design Thinking & Prototyping for Product Development, presented an opportunity to help all developers, leads, managers and business owners who were working to solve customer’s problem, to step up their game.<strong>Topics Covered</strong>Design Thinking for Product Design<br>Design Thinking Process<br>Design Sprints<br>Prototyping."
+        
+      }, 
+      {
           "eventID" : "C13",
           "title": "Hybrid Mobile App Development using Cordova",
           "technology": "android",
