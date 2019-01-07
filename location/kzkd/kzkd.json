@@ -1,5 +1,89 @@
 {
    "event": [
+      {
+      "eventID" : "K18",
+      "title": "Data Engineering using Spark and Scala",
+      "technology": "front end",
+      "eventbanner":"18.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S88"
+      },
+      "date": "21/11/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
+      
+    }, 
+      {
+      "eventID" : "K17",
+      "title": "Hands-On Data Structures with Python",
+      "technology": "web",
+      "eventbanner":"17.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S86"
+      },
+      "date": "17/10/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                        Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                              The 15th edition of FAYA:80 Kozhikode will provide an opportunity for all programmers coders who are looking to fine tune their coding skills to get a good working knowledge of data structures along with its hands-on.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+      
+    }, 
+      {
+      "eventID" : "K16",
+      "title": "Hands On Google Flutter",
+      "technology": "web",
+      "eventbanner":"16.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S87"
+      },
+      "date": "19/09/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
+      
+    }, 
+      {
+      "eventID" : "K15",
+      "title": "Hands-On Data Structures with Python",
+      "technology": "web",
+      "eventbanner":"15.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S86"
+      },
+      "date": "15/08/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+      
+    }, 
+      {
+      "eventID" : "K14",
+      "title": "Hands-On Git Workflow",
+      "technology": "front end",
+      "eventbanner":"14.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S47"
+      },
+      "date": "19/07/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
+      
+    }, 
+      {
+      "eventID" : "K13",
+      "title": "Building Scalable Mobile Applications Using Firebase",
+      "technology": "front end",
+      "eventbanner":"13.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S85"
+      },
+      "date": "20/06/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
+      
+    }, 
     {
       "eventID" : "K12",
       "title": "Deep Learning with Keras",
