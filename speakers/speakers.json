@@ -1349,6 +1349,21 @@
       {
         "eventID" : "K15"
       }
+},
+{
+    "speakerID" : "S87",
+     "speaker": "Renjith Raj",
+     "profile": "Chief Technical Officer at SayOne Technologies",
+     "speakerdesc": "As a technophile with close to a decade of experience in creating innovative technology solutions, Renjith plays the role of Chief Technical Officer at SayOne Technologies. His persistent efforts have been to create feature-rich technology architectures for clients around the globe. An entrepreneur at the same time, Renjith keenly observes the ever-evolving industry changes and keeps both his team and clients ahead of the competition. He has demonstrated experience and expertise in top-notch technology tools such as Django, Blockchain, Elastic Search, Angular JS, Android & Flutter, and languages such as Golang, Python, Java, Dart, SQL.",           
+     "thumb":"Renjith-raj.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/renjithraj2005",
+     "linkedIn" :"https://www.linkedin.com/in/renjithraj2005/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K16"
+      }
 }
 
    ]
