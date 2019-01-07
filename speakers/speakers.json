@@ -1411,6 +1411,21 @@
       {
         "eventID" : "C14"
       }
+},
+{
+    "speakerID" : "S91",
+     "speaker": "Roel Vlemmings",
+     "profile": "Founding Partner and the Chief Product Officer at RedBlack Software",
+     "speakerdesc": "Roel Vlemmings is a Founding Partner and the Chief Product Officer at RedBlack Software. Headquartered in the US, RedBlack is a fintech product company and a leading provider of investment management software. The RedBlack platform is currently used by wealth advisors, asset managers, family offices, and private banks to manage more than $500 billion dollars in client assets. Originally from Holland, Roel has more than 20 years’ experience in software product development and has lived in Kerala since 2000. When he is not busy designing new features for the RedBlack platform, Roel can be found travelling to new countries or sailing on the Kerala backwaters.",           
+     "thumb":"Roel-Vlemmings.jpg",
+     "facebook" : "https://www.facebook.com/roel.vlemmings",
+     "twitter" : "https://twitter.com/rvlemmings",
+     "linkedIn" :"https://www.linkedin.com/in/rvlemmings/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C16"
+      }
 }
 
    ]
