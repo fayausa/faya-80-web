@@ -1,6 +1,20 @@
 {
    "event": [
       {
+      "eventID" : "K15",
+      "title": "Hands-On Data Structures with Python",
+      "technology": "web",
+      "eventbanner":"15.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S86"
+      },
+      "date": "15/08/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+      
+    }, 
+      {
       "eventID" : "K14",
       "title": "Hands-On Git Workflow",
       "technology": "front end",
