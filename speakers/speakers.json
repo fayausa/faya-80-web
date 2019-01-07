@@ -1395,6 +1395,21 @@
       {
         "eventID" : "C13"
       }
+},
+{
+    "speakerID" : "S90",
+     "speaker": "Paul Emil Johnson",
+     "profile": "Founder – AwesomeDaddies Interactive",
+     "speakerdesc": "Design leader with a rich experience in building design systems for enterprise products, Paul Emil Johnson is the founder of AwesomeDaddies Interactive, a product design studio. He has worked with over 50 startups where few of them got acquired and other clients like Vodafone, ICICI, Schindler, Egmont, ATEA etc.",           
+     "thumb":"Paul-emil-johnson.jpg",
+     "facebook" : "https://www.facebook.com/plemil",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/paulemiljohnson/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C14"
+      }
 }
 
    ]
