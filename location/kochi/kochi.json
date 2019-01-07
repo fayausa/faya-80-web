@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C17",
+          "title": "The evolutionary journey of RAD - Rapid application Development",
+          "technology": "front end",
+          "eventbanner":"17.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S92"
+          },
+          "date": "14/11/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Rapid Application Development (RAD) is a software development methodology that focuses on rapid prototyping and application development to ensure faster product delivery. Unlike Waterfall methods, RAD emphasizes working software and user feedback over strict planning and requirements recording. In other words, RAD is less talk, more action. Oh, and testing. Lots and lots of testing. (second para) RAD doesn’t work for every project and, like any organizational methodology, shouldn’t be used indiscriminately. But it does work well in a few specific instances, which we’ll discuss in the 17th edition of FAYA:80 Kochi. The session was a great opportunity for CXOs, project managers, middle level managers, developers and other technology enthusiasts to get to know RAD from its practical implementation view. The session also helped those who had already adopted RAD to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Introduction to RAD.<br>Why RAD?<br>Evolution of RAD.<br>Types of RAD.<br>The future of RAD.<br>Live Demo."
+        
+      }, 
+      {
           "eventID" : "C16",
           "title": "Practical Scrum – A guide to the most popular Agile Process",
           "technology": "front end",
