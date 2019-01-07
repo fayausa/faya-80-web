@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C13",
+          "title": "Hybrid Mobile App Development using Cordova",
+          "technology": "android",
+          "eventbanner":"13.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S89"
+          },
+          "date": "11/07/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "From smartphones to smart watches, mobile apps have a pervasive presence. But it would be a time-consuming process to develop the same app several times for different platforms using platform-specific SDKs and APIs. How exciting it is then to have an app that will run on all platforms!                                                                                                                                                           Apache Cordova (earlier known as PhoneGap) is an open source mobile application development framework that allows programmers to build apps for multiple mobile platforms using standard Web technologies like HTML5, CSS3 and JavaScript instead of relying on platform-specific SDKs and APIs.                                                                                                                                                            The 13th edition of FAYA:80 Kochi, Hybrid Mobile App Development using Cordova, explicated on the development of hybrid mobile apps using Cordova. It was a great opportunity for all technology enthusiasts and mobile developers to delve deep into the possibilities of Cordova.<strong>Topics Covered</strong>Introduction to Cordova<br>How it works<br>How to use of Cordova CLI effectively<br>UI frameworks for Cordova<br>Build process for multiple platforms<br>Demo"
+        
+      }, 
+      {
           "eventID" : "C12",
           "title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
           "technology": "web security",
