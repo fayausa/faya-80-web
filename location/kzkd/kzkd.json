@@ -1,6 +1,20 @@
 {
    "event": [
       {
+      "eventID" : "K16",
+      "title": "Hands On Google Flutter",
+      "technology": "web",
+      "eventbanner":"16.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S87"
+      },
+      "date": "19/09/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
+      
+    }, 
+      {
       "eventID" : "K15",
       "title": "Hands-On Data Structures with Python",
       "technology": "web",
