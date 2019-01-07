@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "C18",
+          "title": "Enterprise UX - Know thy user!",
+          "technology": "front end",
+          "eventbanner":"18.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S84"
+          },
+          "date": "12/12/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed?                                                                                                                   Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.                                                                                                                                                                                                                                                  The 67th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore Enterprise UX and learn how to progress with it.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
+        
+      }, 
       {
           "eventID" : "C17",
           "title": "The evolutionary journey of RAD - Rapid application Development",
