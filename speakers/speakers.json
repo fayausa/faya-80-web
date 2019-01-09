@@ -1442,6 +1442,21 @@
       {
         "eventID" : "C17"
       }
+},
+{
+    "speakerID" : "S93",
+     "speaker": "Afsal Muttikkal",
+     "profile": "Automation Head at Genrobotic Innovations",
+     "speakerdesc": "With experience in Industrial automation and a demonstrated history of managing and working in the electrical and electronic manufacturing and automation industry, Mr. Afsal is skilled in Embedded products, UX Development, Qt, Electron, and Python among other things. He currently heads the automation department at Genrobotic Innovations.",           
+     "thumb":"Afsal.jpg",
+     "facebook" : "https://www.facebook.com/Afsal.afzm",
+     "twitter" : "https://twitter.com/Afsalmafz",
+     "linkedIn" :"https://www.linkedin.com/in/afsalmuttikkal/",
+     "email" : "afsal@genrobotics.org",
+     "events" : 
+      {
+        "eventID" : "T68"
+      }
 }
 
    ]
