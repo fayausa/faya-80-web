@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T68",
+           "title": "Introduction to Mechatronics - A case study on Clean Technology",
+           "technology": "front end",
+           "eventbanner":"68.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S93"
+            },
+           "date": "02/01/2019 5:00 pm",
+           "youtubeID": "JHesMwoXDKk",
+           "rating": "5",
+           "details": "Although the presence of the ever-expanding field of Mechatronics is evident on all walks of industry, much has to be learned on how such systems could be used beneficially to improve human lives. This versatile field of technology aims at collaborating different fields of engineering into finding solutions for real-world problems, particularly in shaping a cleaner world. Mr. Afsal, Automation Head at Genrobotic Innovations explains how important and extensive in use this technology could be in the future, and also tries to debunk some of the myths associated with Mechatronics. The discussion will also include a case study on how mechatronics has been useful in creating clean technology solutions. The 68th edition of FAYA:80 would be an introductory discussion on what the technology entails, and would serve as a guide for enthusiasts and newbies to begin working on mechatronic systems to solve real-world problems.<strong>Topics Covered</strong>Evolution of Mechatronics.<br>How Mechatronics could benefit us.<br>Mechatronics in Clean-Tech.<br>How to begin and develop using Mechatronics.<br>Current challenges, opportunities, and FAQs."       
+      },
+      {
           "eventID" : "T67",
            "title": "Enterprise UX - Know thy user!",
            "technology": "front end",
