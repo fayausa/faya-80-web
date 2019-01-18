@@ -1,6 +1,20 @@
 {
    "event": [
        {
+          "eventID" : "C19",
+          "title": "React Native - Bye to Native Development",
+          "technology": "front end",
+          "eventbanner":"19.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S94"
+          },
+          "date": "09/01/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked.With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kochi, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up.<br>Layout designing.<br>Demo."
+        
+      }, 
+       {
           "eventID" : "C18",
           "title": "Enterprise UX - Know thy user!",
           "technology": "front end",
