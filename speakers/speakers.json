@@ -1457,7 +1457,21 @@
       {
         "eventID" : "T68"
       }
+},
+{
+    "speakerID" : "S94",
+     "speaker": "GeorgeKutty George",
+     "profile": "React Native - Bye to Native Development",
+     "speakerdesc": "Having years of experience in building Native & React Mobile Apps. Georgekutty is a regular trainer in Reacthub. His current interests are IOT, blockchain and Server Architecture Designing.",           
+     "thumb":"georgekutty-george.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/georgekutty-george-a558a788/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C19"
+      }
 }
-
    ]
 }
