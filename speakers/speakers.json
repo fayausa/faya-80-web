@@ -1461,7 +1461,7 @@
 {
     "speakerID" : "S94",
      "speaker": "GeorgeKutty George",
-     "profile": "React Native - Bye to Native Development",
+     "profile": "Quantum Computing Researcher, Infinity Labs, UST",
      "speakerdesc": "Having years of experience in building Native & React Mobile Apps. Georgekutty is a regular trainer in Reacthub. His current interests are IOT, blockchain and Server Architecture Designing.",           
      "thumb":"georgekutty-george.jpg",
      "facebook" : "",
@@ -1472,6 +1472,22 @@
       {
         "eventID" : "C19",
          "eventID" : "K19"
+      }
+},
+{
+    "speakerID" : "S95",
+     "speaker": "Simsarul Haq Vengasseri",
+     "profile": "React Native - Bye to Native Development",
+     "speakerdesc": "Simsar is a quantum computing researcher and enthusiast at Infinity Labs, UST Global. He holds a Bachelor of Technology degree in Computer Science and Engineering from National Institute of Technology, Calicut. Currently, he is working in the design and development of Quantum Algorithms and its applications in various domains. His work includes the mathematical and computational analysis of quantum algorithms.",           
+     "thumb":"simsar.jpg",
+     "facebook" : "https://www.facebook.com/simsarulhaq.vengasseri",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/simsarul-haq-vengasseri-65a2b8a3/",
+     "email" : "simsarulhaqv@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T69",
+         "eventID" : "C19"
       }
 }
    ]
