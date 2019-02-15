@@ -1470,7 +1470,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "C19"
+        "eventID" : "C19",
+         "eventID" : "K19"
       }
 }
    ]
