@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T69",
+           "title": "Quantum Computing Basics: How, What and Why",
+           "technology": "front end",
+           "eventbanner":"69.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S95"
+            },
+           "date": "06/02/2019 5:00 pm",
+           "youtubeID": "CX8cbPdgJjY",
+           "rating": "5",
+           "details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 69th edition of FAYA:80 Trivandrum, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."       
+      },
+      {
           "eventID" : "T68",
            "title": "Introduction to Mechatronics - A case study on Clean Technology",
            "technology": "front end",
