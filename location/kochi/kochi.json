@@ -1,5 +1,89 @@
 {
    "event": [
+       {
+          "eventID" : "C18",
+          "title": "Enterprise UX - Know thy user!",
+          "technology": "front end",
+          "eventbanner":"18.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S84"
+          },
+          "date": "12/12/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed?                                                                                                                   Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.                                                                                                                                                                                                                                                  The 67th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore Enterprise UX and learn how to progress with it.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
+        
+      }, 
+      {
+          "eventID" : "C17",
+          "title": "The evolutionary journey of RAD - Rapid application Development",
+          "technology": "front end",
+          "eventbanner":"17.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S92"
+          },
+          "date": "14/11/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Rapid Application Development (RAD) is a software development methodology that focuses on rapid prototyping and application development to ensure faster product delivery. Unlike Waterfall methods, RAD emphasizes working software and user feedback over strict planning and requirements recording. In other words, RAD is less talk, more action. Oh, and testing. Lots and lots of testing. (second para) RAD doesn’t work for every project and, like any organizational methodology, shouldn’t be used indiscriminately. But it does work well in a few specific instances, which we’ll discuss in the 17th edition of FAYA:80 Kochi. The session was a great opportunity for CXOs, project managers, middle level managers, developers and other technology enthusiasts to get to know RAD from its practical implementation view. The session also helped those who had already adopted RAD to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Introduction to RAD.<br>Why RAD?<br>Evolution of RAD.<br>Types of RAD.<br>The future of RAD.<br>Live Demo."
+        
+      }, 
+      {
+          "eventID" : "C16",
+          "title": "Practical Scrum – A guide to the most popular Agile Process",
+          "technology": "front end",
+          "eventbanner":"16.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S91"
+          },
+          "date": "10/10/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Scrum is a simple, yet incredibly powerful, set of principles and practices that help teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change. So says the Scrum Alliance. When implementing Scrum, people often ask ‘how do I…’ and the answer typically is ‘Scrum does not say anything about that.’ So you are left to figure it out on your own. Not everything that works for others will work for you and vice-versa.                                                                                                                                                                        The 16th edition of FAYA:80 Kochi provided an open platform to step up the Scrum game with the help of a person who had successfully implemented Scrum at his workplace. In the session, he shared his experiences in implementing Scrum, the challenges faced and improvements made, the tools used, and, also, how Scrum became an integral part of requirements gathering, roadmaps, and release management. Participants also got a chance to share what worked and didn’t work for them in Scrum and why.                                                                                                       The session was a great opportunity for CXOs, project managers, middle-level managers, developers, and other technology enthusiasts to get to know Scrum from a practical implementation point of view. The session also helped those who had already adopted Scrum to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Basics of Scrum Implementation.<br>Adoption of Scrum & its challenges.<br>Common Tools used.<br>Case Study: How scrum is implemented at RedBlack.<br>Q&A and Experience Sharing."
+        
+      }, 
+      {
+          "eventID" : "C15",
+          "title": "Hackproofing your Web Application for the future",
+          "technology": "security",
+          "eventbanner":"15.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S45"
+          },
+          "date": "12/09/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey. The top ten security risks and guidelines for preventing them published by OWSAP are a gold standard for most of the developers around the world. Despite having these guidelines, developers tend to overlook these while implementing. In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced. The 15th edition of FAYA:80 Kochi, Hackproofing your Web Application for the future, will be an opportunity for all web and mobile application developers, testers, technical managers and other technology enthusiasts to learn what exactly needs to be done to ensure that their applications are protected from cyber attacks.<strong>Topics Covered</strong>Case study of 10M users data breach.<br>Critical Security Vulnerabilities.<br>Mitigation techniques.<br>Ransomware overview.<br>Demo"
+        
+      }, 
+      {
+          "eventID" : "C14",
+          "title": "Design Thinking & Prototyping for Product Development",
+          "technology": "front end",
+          "eventbanner":"14.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S90"
+          },
+          "date": "08/08/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has to be spent on design thinking and prototyping.                                                                                                                                                                                                                                                         It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking and Prototyping to test the ideas quickly and improve them in an equally timely fashion.                                                                                                                                                            The 14th edition of FAYA:80 Kochi, Design Thinking & Prototyping for Product Development, presented an opportunity to help all developers, leads, managers and business owners who were working to solve customer’s problem, to step up their game.<strong>Topics Covered</strong>Design Thinking for Product Design<br>Design Thinking Process<br>Design Sprints<br>Prototyping."
+        
+      }, 
+      {
+          "eventID" : "C13",
+          "title": "Hybrid Mobile App Development using Cordova",
+          "technology": "android",
+          "eventbanner":"13.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S89"
+          },
+          "date": "11/07/2018 5:00 pm",
+          "youtubeID": "",
+          "details": "From smartphones to smart watches, mobile apps have a pervasive presence. But it would be a time-consuming process to develop the same app several times for different platforms using platform-specific SDKs and APIs. How exciting it is then to have an app that will run on all platforms!                                                                                                                                                           Apache Cordova (earlier known as PhoneGap) is an open source mobile application development framework that allows programmers to build apps for multiple mobile platforms using standard Web technologies like HTML5, CSS3 and JavaScript instead of relying on platform-specific SDKs and APIs.                                                                                                                                                            The 13th edition of FAYA:80 Kochi, Hybrid Mobile App Development using Cordova, explicated on the development of hybrid mobile apps using Cordova. It was a great opportunity for all technology enthusiasts and mobile developers to delve deep into the possibilities of Cordova.<strong>Topics Covered</strong>Introduction to Cordova<br>How it works<br>How to use of Cordova CLI effectively<br>UI frameworks for Cordova<br>Build process for multiple platforms<br>Demo"
+        
+      }, 
       {
           "eventID" : "C12",
           "title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",

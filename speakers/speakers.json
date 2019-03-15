@@ -706,7 +706,8 @@
             {
               "event1" : "C7",
               "event2" : "T15",
-              "event3" : "T2"
+              "event3" : "T2",
+              "event4" : "C15"
             }
 },
       {
@@ -740,7 +741,8 @@
               "event2" : "T11",
               "event3" : "T6",
               "event4" : "T5",
-              "event5" : "T4"
+              "event5" : "T4",
+              "eventID" : "K14"
             }
 },
       {
@@ -800,7 +802,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "C8"
+              "event1" : "C8",
+               "event2" : "T62"
             }
 },
       {
@@ -1224,7 +1227,8 @@
      "email" : "",
      "events" : 
       {
-        "event1" : "K10"
+        "event1" : "K10",
+         "event2" : "T62"
       }
 },
 {
@@ -1256,11 +1260,189 @@
       {
         "event1" : "K12"
       }
+},
+{
+    "speakerID" : "S82",
+     "speaker": "Hari S. Pillai",
+     "profile": "Technical Lead at Perfomatix",
+     "speakerdesc": "Hari S. Pillai is the Technical Lead of Perfomatix. Having over 9 years of industry experience, Hari works on a variety of technology stacks and is a technology evangelist for Angular and Node JS based application stacks. He has also worked for multiple Fortune 100 companies.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T64"
+      }
+},
+{
+    "speakerID" : "S82",
+     "speaker": "Rejin Narayanan",
+     "profile": "founder, Ingen Robotics.",
+     "speakerdesc": "Rejin Narayanan is a roboticist and serial entrepreneur, and is the founder of the consumer robotics startup - Ingen Robotics. Their first product is a fully automatic roti making robot, which was designed and developed in Trivandrum. Rejin has rich professional experience, and has worked in multicultural environments. He has several paper publications and patent applications to his credit. Rejin holds a masters in Autonomous Systems from the Bonn-Rhein-Sieg University of Applied Sciences in Germany, and a bachelors degree in Electrical and Electronics Engineering from the University of Kerala. Rejin is very much a hands on person, with skills in software, electronics, mechanics, and product design.",           
+     "thumb":"Rejin-Narayanan.jpg",
+     "facebook" : "https://www.facebook.com/rejin.narayanan.5     ",
+     "twitter" : "https://twitter.com/rejinns?lang=en",
+     "linkedIn" :"https://www.linkedin.com/in/rejin/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T65"
+      }
+},
+      {
+    "speakerID" : "S83",
+     "speaker": "Ajith Kumar M",
+     "profile": "Robotics Developer at TCS-ILP Innovations Lab",
+     "speakerdesc": "Mr Ajithkumar M. is a Robotics Developer working with the CTO team of TCS-ILP Innovations Lab. He has experience in simulation, design and manufacturing of projects pertaining to robotics, automobiles and special purpose machines. He has also worked on the creation and deployment of several socially interactive robots.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T66"
+      }
+},
+ {
+    "speakerID" : "S84",
+     "speaker": "Sanu George",
+     "profile": "Senior consultant for Usability engineering at IBS",
+     "speakerdesc": "Sanu George, who is currently a senior consultant for Usability engineering at IBS , and a UX practice head & product strategy professional with experience in building enterprise product UX strategy, design leadership and user research working with some of the largest companies in travel, transportation and logistics industry like Lufthansa Airlines, ANA, Qantas Airways, Korean Air, South African Airways, Shell corporation, etc.",           
+     "thumb":"Sanu-George.jpg",
+     "facebook" : "http://facebook.com/sanu.george",
+     "twitter" : "https://twitter.com/sanugeorge",
+     "linkedIn" :"https://www.linkedin.com/in/sanugeorge-ux/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T67",
+        "eventID" : "C18"
+      }
+},
+ {
+    "speakerID" : "S85",
+     "speaker": "Ajith V Giri",
+     "profile": "Mobile App Developer working at SoftFrit Solutions",
+     "speakerdesc": "A Mobile App Developer working for SoftFrit Solutions, Ajith is an experienced mobile app developer specialized in Kotlin and swift. He has delivered various sessions as part of Kotlin User Group Kozhikode. He also has wide experience in Firebase and building scalable applications using firebases for different projects.",           
+     "thumb":"Ajith-V-Giri.jpg",
+     "facebook" : "https://www.facebook.com/ajithvgiri",
+     "twitter" : "https://twitter.com/ajithvgiri",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K13"
+      }
+},
+{
+    "speakerID" : "S86",
+     "speaker": "Noufal Ibrahim",
+     "profile": "Founder and Director of Hamon Technologies, LLP, Kozhikode",
+     "speakerdesc": "Noufal Ibrahim is a programmer and software designer with over 20 years of experience in Python and related technologies. He is the Founder and Director of Hamon Technologies, LLP in Kozhikode – an infrastucture and automation services firm. He is also a founding partner and senior trainer at Pipal Academy, LLP – A corporate training firm specialising in niche trainings. He is also a member of the Python Software Foundation. He was the founder of PyCon India which has grown to be the largest national level PyCon outside the US. He also does student training and mentoring via. The Lycaeum - a mentoring program based in Kozhikode. In his free time, he enjoys practicing calligraphy.",           
+     "thumb":"Noufal-ibrahim.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/noufalibrahim",
+     "linkedIn" :"https://in.linkedin.com/in/noufalibrahim",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K15",
+        "eventID" : "K17" 
+      }
+},
+{
+    "speakerID" : "S87",
+     "speaker": "Renjith Raj",
+     "profile": "Chief Technical Officer at SayOne Technologies",
+     "speakerdesc": "As a technophile with close to a decade of experience in creating innovative technology solutions, Renjith plays the role of Chief Technical Officer at SayOne Technologies. His persistent efforts have been to create feature-rich technology architectures for clients around the globe. An entrepreneur at the same time, Renjith keenly observes the ever-evolving industry changes and keeps both his team and clients ahead of the competition. He has demonstrated experience and expertise in top-notch technology tools such as Django, Blockchain, Elastic Search, Angular JS, Android & Flutter, and languages such as Golang, Python, Java, Dart, SQL.",           
+     "thumb":"Renjith-raj.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/renjithraj2005",
+     "linkedIn" :"https://www.linkedin.com/in/renjithraj2005/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K16"
+      }
+},
+{
+    "speakerID" : "S88",
+     "speaker": "Ravi Padmaraj",
+     "profile": "Architect at QBurst Technologies",
+     "speakerdesc": "Ravi Padmaraj is an Architect with QBurst Technologies focusing on data engineering and ETL systems. He is experienced in building large volume real time data transformation and analytics engines using AWS, Azure and in house clusters. His previous client engagements include British Telecom, Apple, Genesys etc.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "K18"
+      }
+},
+      {
+    "speakerID" : "S89",
+     "speaker": "Jobin C S",
+     "profile": "Co-Founder & CEO of Tenderwoods",
+     "speakerdesc": "Jobin CS is the Co-Founder & CEO of Tenderwoods. He started his entrepreneur career with a robotic company and has served many key positions in startup and corporates. A trainer by passion, he has given training in corporate including Samsung, HP, Wipro etc. Having spent 5 years in the field of Technical Training, he is an excellent Startup Guru and Motivational Speaker who has published several technical blogs, articles, games and apps.",           
+     "thumb":"Jobin-CS.jpg",
+     "facebook" : "https://www.facebook.com/jobin.thodupuzha.5",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jobin-c-s-26b5b56a/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C13"
+      }
+},
+{
+    "speakerID" : "S90",
+     "speaker": "Paul Emil Johnson",
+     "profile": "Founder – AwesomeDaddies Interactive",
+     "speakerdesc": "Design leader with a rich experience in building design systems for enterprise products, Paul Emil Johnson is the founder of AwesomeDaddies Interactive, a product design studio. He has worked with over 50 startups where few of them got acquired and other clients like Vodafone, ICICI, Schindler, Egmont, ATEA etc.",           
+     "thumb":"Paul-emil-johnson.jpg",
+     "facebook" : "https://www.facebook.com/plemil",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/paulemiljohnson/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C14"
+      }
+},
+{
+    "speakerID" : "S91",
+     "speaker": "Roel Vlemmings",
+     "profile": "Founding Partner and the Chief Product Officer at RedBlack Software",
+     "speakerdesc": "Roel Vlemmings is a Founding Partner and the Chief Product Officer at RedBlack Software. Headquartered in the US, RedBlack is a fintech product company and a leading provider of investment management software. The RedBlack platform is currently used by wealth advisors, asset managers, family offices, and private banks to manage more than $500 billion dollars in client assets. Originally from Holland, Roel has more than 20 years’ experience in software product development and has lived in Kerala since 2000. When he is not busy designing new features for the RedBlack platform, Roel can be found travelling to new countries or sailing on the Kerala backwaters.",           
+     "thumb":"Roel-Vlemmings.jpg",
+     "facebook" : "https://www.facebook.com/roel.vlemmings",
+     "twitter" : "https://twitter.com/rvlemmings",
+     "linkedIn" :"https://www.linkedin.com/in/rvlemmings/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C16"
+      }
+},
+{
+    "speakerID" : "S92",
+     "speaker": "Suresh Balasubramanian",
+     "profile": "Co-founder & CEO at ExpressBase Systems",
+     "speakerdesc": "Suresh Balasubramanian is a BSc Chemistry graduate (1994) from the prestigious Maharaja's College, Ernakulam. He started his career with Sun Pharma in 1994 and switched to IT in 1995. He has worked with several IT giants like BMC Software, Microsoft, Covansys, CSC, CSS Corp. and PayPal in India and the US. Co-Founded an IT Start-up in 2012, NetSonic Solutions LLC in the UAE, which had a watered down RAD client-server software with 30+ clients in UAE, Qatar and Bahrain. He exited NetSonic and returned back to India to setup EXPRESSbase Systems P Ltd in Oct 2016. EXPRESSbase is Rapid Application Development & Delivery platform specially targeting Small to Mid-Sized Businesses. He has worked in all the phases of SDLC, wide range of platforms, tools & languages and has extensive leadership/management experience.",           
+     "thumb":"Suresh-balasubramanian.jpg",
+     "facebook" : "https://www.facebook.com/suresh.balasubra",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sureba73/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C17"
+      }
 }
-
-
-
-
 
    ]
 }
