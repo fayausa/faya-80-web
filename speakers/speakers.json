@@ -1266,7 +1266,7 @@
      "speaker": "Hari S. Pillai",
      "profile": "Technical Lead at Perfomatix",
      "speakerdesc": "Hari S. Pillai is the Technical Lead of Perfomatix. Having over 9 years of industry experience, Hari works on a variety of technology stacks and is a technology evangelist for Angular and Node JS based application stacks. He has also worked for multiple Fortune 100 companies.",           
-     "thumb":"",
+     "thumb":"Hari-s-pillai.jpeg",
      "facebook" : "",
      "twitter" : "",
      "linkedIn" :"",
@@ -1296,7 +1296,7 @@
      "speaker": "Ajith Kumar M",
      "profile": "Robotics Developer at TCS-ILP Innovations Lab",
      "speakerdesc": "Mr Ajithkumar M. is a Robotics Developer working with the CTO team of TCS-ILP Innovations Lab. He has experience in simulation, design and manufacturing of projects pertaining to robotics, automobiles and special purpose machines. He has also worked on the creation and deployment of several socially interactive robots.",           
-     "thumb":"",
+     "thumb":"Ajith-kumar.jpg",
      "facebook" : "",
      "twitter" : "",
      "linkedIn" :"",
@@ -1373,7 +1373,7 @@
      "speaker": "Ravi Padmaraj",
      "profile": "Architect at QBurst Technologies",
      "speakerdesc": "Ravi Padmaraj is an Architect with QBurst Technologies focusing on data engineering and ETL systems. He is experienced in building large volume real time data transformation and analytics engines using AWS, Azure and in house clusters. His previous client engagements include British Telecom, Apple, Genesys etc.",           
-     "thumb":"",
+     "thumb":"Ravi-Padmaraj.jpeg",
      "facebook" : "",
      "twitter" : "",
      "linkedIn" :"",
@@ -1442,7 +1442,55 @@
       {
         "eventID" : "C17"
       }
+},
+{
+    "speakerID" : "S93",
+     "speaker": "Afsal Muttikkal",
+     "profile": "Automation Head at Genrobotic Innovations",
+     "speakerdesc": "With experience in Industrial automation and a demonstrated history of managing and working in the electrical and electronic manufacturing and automation industry, Mr. Afsal is skilled in Embedded products, UX Development, Qt, Electron, and Python among other things. He currently heads the automation department at Genrobotic Innovations.",           
+     "thumb":"Afsal.jpg",
+     "facebook" : "https://www.facebook.com/Afsal.afzm",
+     "twitter" : "https://twitter.com/Afsalmafz",
+     "linkedIn" :"https://www.linkedin.com/in/afsalmuttikkal/",
+     "email" : "afsal@genrobotics.org",
+     "events" : 
+      {
+        "eventID" : "T68"
+      }
+},
+{
+    "speakerID" : "S94",
+     "speaker": "GeorgeKutty George",
+     "profile": "Quantum Computing Researcher, Infinity Labs, UST",
+     "speakerdesc": "Having years of experience in building Native & React Mobile Apps. Georgekutty is a regular trainer in Reacthub. His current interests are IOT, blockchain and Server Architecture Designing.",           
+     "thumb":"georgekutty-george.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/georgekutty-george-a558a788/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "C19",
+         "eventID" : "K19"
+      }
+},
+{
+    "speakerID" : "S95",
+     "speaker": "Simsarul Haq Vengasseri",
+     "profile": "React Native - Bye to Native Development",
+     "speakerdesc": "Simsar is a quantum computing researcher and enthusiast at Infinity Labs, UST Global. He holds a Bachelor of Technology degree in Computer Science and Engineering from National Institute of Technology, Calicut. Currently, he is working in the design and development of Quantum Algorithms and its applications in various domains. His work includes the mathematical and computational analysis of quantum algorithms.",           
+     "thumb":"simsar.jpg",
+     "facebook" : "https://www.facebook.com/simsarulhaq.vengasseri",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/simsarul-haq-vengasseri-65a2b8a3/",
+     "email" : "simsarulhaqv@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T69",
+         "eventID" : "C20"
+      }
 }
+
 
    ]
 }
