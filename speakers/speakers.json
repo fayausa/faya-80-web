@@ -1318,8 +1318,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "T67",
-        "eventID" : "C18"
+        "event1" : "T67",
+        "event2" : "C18"
       }
 },
  {
@@ -1349,8 +1349,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "K15",
-        "eventID" : "K17" 
+        "event1" : "K15",
+        "event2" : "K17" 
       }
 },
 {
@@ -1470,8 +1470,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "C19",
-         "eventID" : "K19"
+        "event1" : "C19",
+         "event2" : "K19"
       }
 },
 {
@@ -1486,8 +1486,8 @@
      "email" : "simsarulhaqv@gmail.com",
      "events" : 
       {
-        "eventID" : "T69",
-         "eventID" : "C20"
+        "event1" : "T69",
+         "event2" : "C20"
       }
 }
    ]
