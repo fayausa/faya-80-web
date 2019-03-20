@@ -1520,5 +1520,20 @@
         "eventID" : "T70"
       }
 }
+{
+    "speakerID" : "S98",
+     "speaker": "Nirmal Vyas",
+     "profile": "Web designer and developer<br>Consultant, passionate coder and speaker",
+     "speakerdesc": "Nirmal is a Web / Mobile Developer, Freelance Consultant, Passionate coder and speaker, based in Kochi, Kerala with over a decade worth of experience in developing websites and custom web applications and proficient in working with mobile applications as well. An expert in Website and Web Applications development with PHP 7, Laravel 5 and Codeigniter 3 his works includes and not limited to Yii Framework 2 and MySQL Knowledge + Web 2.0 ( applications ) development + Backbone.js, Angular JS , HTML5, MongoDB, Nodejs, Phonegap, and Ionic 3.",           
+     "thumb":"nirmal-vyas.jpg",
+     "facebook" : "https://www.facebook.com/nirmal.vyas.90",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "nirmalkamath@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C21"
+      }
+}
    ]
 }
