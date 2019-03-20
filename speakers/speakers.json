@@ -1490,7 +1490,7 @@
          "event2" : "C20"
       }
 },
-      {
+{
     "speakerID" : "S96",
      "speaker": "Sabeer Sulaiman",
      "profile": "Technical lead, Fantacode",
@@ -1503,6 +1503,21 @@
      "events" : 
       {
         "eventID" : "K20"
+      }
+},
+{
+    "speakerID" : "S97",
+     "speaker": "Mahroof Ali",
+     "profile": "Founder, Tensorbot Innovations",
+     "speakerdesc": "Mahroof Ali P. A. is an electronics and communication engineer and the founder of Tensorbot Innovation, based in Trivandrum and co-founder of an NGO named Ignite India, started to promote socially committed engineers. Tensorbot Innovation has several engagements with leading IT companies in products and research related to machine learning, robotics and embedded electronics. He was awarded the best innovative idea award at startup i3 by Kerala startup mission on January 2017.",           
+     "thumb":"mahroof-ali.jpg",
+     "facebook" : "https://www.facebook.com/mahroof.alikhan",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/mahroof-ali-1991a9137/",
+     "email" : "ali@tensorbot.in",
+     "events" : 
+      {
+        "eventID" : "T70"
       }
 }
    ]
