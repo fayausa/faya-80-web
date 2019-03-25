@@ -1318,8 +1318,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "T67",
-        "eventID" : "C18"
+        "event1" : "T67",
+        "event2" : "C18"
       }
 },
  {
@@ -1349,8 +1349,8 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "K15",
-        "eventID" : "K17" 
+        "event1" : "K15",
+        "event2" : "K17" 
       }
 },
 {
@@ -1461,7 +1461,7 @@
 {
     "speakerID" : "S94",
      "speaker": "GeorgeKutty George",
-     "profile": "Quantum Computing Researcher, Infinity Labs, UST",
+     "profile": "CEO, Lookings Soft.<br>Mentor, Reacthub",
      "speakerdesc": "Having years of experience in building Native & React Mobile Apps. Georgekutty is a regular trainer in Reacthub. His current interests are IOT, blockchain and Server Architecture Designing.",           
      "thumb":"georgekutty-george.jpg",
      "facebook" : "",
@@ -1470,14 +1470,14 @@
      "email" : "",
      "events" : 
       {
-        "eventID" : "C19",
-         "eventID" : "K19"
+        "event1" : "C19",
+         "event2" : "K19"
       }
 },
 {
     "speakerID" : "S95",
      "speaker": "Simsarul Haq Vengasseri",
-     "profile": "React Native - Bye to Native Development",
+     "profile": "Quantum Computing Researcher, Infinity Labs, UST",
      "speakerdesc": "Simsar is a quantum computing researcher and enthusiast at Infinity Labs, UST Global. He holds a Bachelor of Technology degree in Computer Science and Engineering from National Institute of Technology, Calicut. Currently, he is working in the design and development of Quantum Algorithms and its applications in various domains. His work includes the mathematical and computational analysis of quantum algorithms.",           
      "thumb":"simsar.jpg",
      "facebook" : "https://www.facebook.com/simsarulhaq.vengasseri",
@@ -1486,8 +1486,53 @@
      "email" : "simsarulhaqv@gmail.com",
      "events" : 
       {
-        "eventID" : "T69",
-         "eventID" : "C20"
+        "event1" : "T69",
+         "event2" : "C20"
+      }
+},
+{
+    "speakerID" : "S96",
+     "speaker": "Sabeer Sulaiman",
+     "profile": "Technical lead, Fantacode",
+     "speakerdesc": "A technology enthusiast who strives to find unique and useful solutions to technical challenges, Sabeer is a technical lead at FantaCode, focusing on Web and Mobile Development. He is tasked with choosing the right technical stack and architecture for the products developed at Fantacode and has been involved with Angular and other Frontend frameworks for over three years. He is experienced in designing and developing various production ready solutions that use Angular for the frontend. As a person interested in new technology, he is trying to learn, evaluate and spread the word about new technologies as they come out.",           
+     "thumb":"sabeer.jpg",
+     "facebook" : "https://www.facebook.com/sabeersulaimanpv",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sabeersulaiman/",
+     "email" : "sabeer@fantacode.com",
+     "events" : 
+      {
+        "eventID" : "K20"
+      }
+},
+{
+    "speakerID" : "S97",
+     "speaker": "Mahroof Ali",
+     "profile": "Founder, Tensorbot Innovations",
+     "speakerdesc": "Mahroof Ali P. A. is an electronics and communication engineer and the founder of Tensorbot Innovation, based in Trivandrum and co-founder of an NGO named Ignite India, started to promote socially committed engineers. Tensorbot Innovation has several engagements with leading IT companies in products and research related to machine learning, robotics and embedded electronics. He was awarded the best innovative idea award at startup i3 by Kerala startup mission on January 2017.",           
+     "thumb":"mahroof-ali.jpg",
+     "facebook" : "https://www.facebook.com/mahroof.alikhan",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/mahroof-ali-1991a9137/",
+     "email" : "ali@tensorbot.in",
+     "events" : 
+      {
+        "eventID" : "T70"
+      }
+}
+{
+    "speakerID" : "S98",
+     "speaker": "Nirmal Vyas",
+     "profile": "Web designer and developer<br>Consultant, passionate coder and speaker",
+     "speakerdesc": "Nirmal is a Web / Mobile Developer, Freelance Consultant, Passionate coder and speaker, based in Kochi, Kerala with over a decade worth of experience in developing websites and custom web applications and proficient in working with mobile applications as well. An expert in Website and Web Applications development with PHP 7, Laravel 5 and Codeigniter 3 his works includes and not limited to Yii Framework 2 and MySQL Knowledge + Web 2.0 ( applications ) development + Backbone.js, Angular JS , HTML5, MongoDB, Nodejs, Phonegap, and Ionic 3.",           
+     "thumb":"nirmal-vyas.jpg",
+     "facebook" : "https://www.facebook.com/nirmal.vyas.90",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "nirmalkamath@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C21"
       }
 }
    ]
