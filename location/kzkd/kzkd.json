@@ -1,6 +1,20 @@
 {
    "event": [
       {
+      "eventID" : "K20",
+      "title": "Building Production Ready Applications with Angular 7",
+      "technology": "front end",
+      "eventbanner":"20.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S96"
+      },
+      "date": "20/02/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Being the most innovative platform to build native apps with ease, Angular has found a great fan followership among developers over the years. Released in late October, the latest version of Angular promises feature updates and performance upgrades that are unheard of in the past. To get in touch with the platform and to make your shift to the latest version, meet Sabeer, Technical lead at FantaCode, explain in detail the ins and outs of the latest version of Angular 7 at the 20th edition of FAYA:80 Kozhikode.<br>The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the awesome features of Angular.<strong>Topics Covered</strong>Introduction to Angular and tooling.<br>Separation of concerns and Dependency Injection in Angular.<br>Introduction to routing in Angular.<br>Communicating between components.<br>How to make your Angular applications production ready."
+      
+    }, 
+      {
       "eventID" : "K19",
       "title": "React Native - Bye to Native Development",
       "technology": "front end",
