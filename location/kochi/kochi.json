@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C22",
+          "title": "How to Build and Deploy IOT solutions on Cloud",
+          "technology": "front end",
+          "eventbanner":"22.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S97"
+          },
+          "date": "10/04/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 22nd edition of FAYA:80 Kochi, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Maharuf Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems. <strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."
+        
+      }, 
+      {
           "eventID" : "C21",
           "title": "Vue.Js - The progressive framework",
           "technology": "front end",
