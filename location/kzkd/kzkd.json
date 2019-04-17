@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+      "eventID" : "K21",
+      "title": "Build your first Chatbot Application",
+      "technology": "front end",
+      "eventbanner":"21.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S99"
+      },
+      "date": "20/03/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Business is 20 percent product and 80 percent communication; most of the communication being focused on ways to explain the products, services or benefits that your technology offers over your competition or the entire industry. In this context, it becomes crucial to find new ways to converse with customers and provide resources faster to make their search easier. Chat bots have been employed to tackle this opportunity in the most efficient and cost effective way for a while now.<br>Foreseeing this immense potential of chatbots, organizations have started investing heavily in this space. To understand how we could develop and adapt chatbots to your required industry, meet Rijin Ramesh, the co-founder and head of product and technology of Articbot Pvt Ltd, at the 21st edition of FAYA:80 Calicut.<br>The session would be beneficial for all technology enthusiasts, senior level managers, developers, entrepreneurs and hobbyists to explore the framework and challenges of chatbot development. <strong>Topics Covered</strong>Introduction to Chatbot.<br>Bot framework and Challenges.<br>Will Chatbots replace human agents?.<br>Live demo of Articbot."
+      
+    }, 
       {
       "eventID" : "K20",
       "title": "Building Production Ready Applications with Angular 7",
