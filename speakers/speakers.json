@@ -1517,7 +1517,8 @@
      "email" : "ali@tensorbot.in",
      "events" : 
       {
-        "eventID" : "T70"
+        "event1" : "T70",
+        "event2" : "C22"
       }
 },
 {
