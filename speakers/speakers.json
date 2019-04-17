@@ -1532,8 +1532,24 @@
      "email" : "nirmalkamath@gmail.com",
      "events" : 
       {
-        "eventID" : "C21",
-        "eventID" : "T71"
+        "event1" : "C21",
+        "event2" : "T71"
+      }
+},
+{
+    "speakerID" : "S99",
+     "speaker": "Rijin Ramesh",
+     "profile": "Co-founder and head of product and technology, Articbot Pvt Ltd",
+     "speakerdesc": "Being the Co-founder and head of product and technology of Articbot private limited, Rijin Ramesh has more than 5 years of experience in Microsoft .Net framework and technologies. Specialized in Researching in Conversational AI and Machine learning algorithms, he has also built an in-house Chatbot framework for Articbot.",           
+     "thumb":"rijin_ramesh.jpg",
+     "facebook" : "https://www.facebook.com/rijin.ramesh.14",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/rijin-ramesh-31809375/",
+     "email" : "rijinramesh1990@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K21",
+        
       }
 }
    ]
