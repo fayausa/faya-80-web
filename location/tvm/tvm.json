@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "T71",
+           "title": "VueJS - The progressive framework",
+           "technology": "front end",
+           "eventbanner":"71.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S98"
+            },
+           "date": "03/04/2019 5:00 pm",
+           "youtubeID": "4wf-eseq4RU",
+           "rating": "5",
+           "details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 71st edition of FAYA:80 Trivandrum, learn how you can start off and build your own apps and websites with Nirmal Vyas, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."       
+      },
       {
           "eventID" : "T70",
            "title": "How to build and deploy IOT solutions on Cloud",
