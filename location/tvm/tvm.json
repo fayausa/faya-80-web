@@ -1,6 +1,21 @@
 {
    "event": [
        {
+          "eventID" : "T72",
+           "title": "Introduction to WebAssembly - The future of the Web",
+           "technology": "front end",
+           "eventbanner":"72.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S14",
+              "speaker2" : "S101"
+            },
+           "date": "08/05/2019 5:00 pm",
+           "youtubeID": "XDNRGGzplws",
+           "rating": "5",
+           "details": "Coding have come a long way since it first rendered ‘hello world’ on a phosphor screen. Sophisticated programming languages emerged later on to teach machines what they must do with their binary memory. In time, Javascript became the choice of the day to build web applications.<br>Being a web standard that defines a binary format and a corresponding assembly like text format for executable code on web pages, WebAssembly could potentially run codes as fast as running native machine code.<br>Learn the basics and get acquainted with WebAssembly at the 72nd edition of FAYA:80 Trivandrum. Meet Amal Shehu and Asif Mohammed as they take you through an interactive chronological journey from Javascript to Web assembly. The event is intended as an introductory level discussion on the vast field of WebAssembly. We welcome all enthusiasts, developers and seasoned coders for a fun filled interactive evening on the topic.<strong>Topics Covered</strong>Introduction to WebAssembly.<br>History of web browsers.<br>Working of JS engines.<br>Why WebAssembly.<br>Features of WebAssembly.<br>Demo.<br>Post MVP features"       
+      },
+       {
           "eventID" : "T71",
            "title": "VueJS - The progressive framework",
            "technology": "front end",
