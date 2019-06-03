@@ -1488,7 +1488,8 @@
      "events" : 
       {
         "event1" : "T69",
-         "event2" : "C20"
+        "event2" : "C20",
+        "event3" : "K23"
       }
 },
 {
