@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+      "eventID" : "K22",
+      "title": "Building Your First Web API (Ruby on Rails)",
+      "technology": "front end",
+      "eventbanner":"22.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S100"
+      },
+      "date": "24/04/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Being the dynamic framework with which Twitter and even Github were made, Ruby on Rails is one among the most popular server-side web application frameworks in the tech world. Apart from making a lot of conventional decisions that might otherwise slow down your app building process, Rails also provides default structures for databases, web services, and web pages. Being a developer friendly framework, Ruby on Rails makes programming way faster than the rest.<br> At the 22nd FAYA:80 Calicut, learn the ‘convention over configuration’ design style of Ruby on Rails with Ashik Salman, Co-founder at Ecart.chat, where he explains in detail the framework and helps you build your very own web API. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess on modern frameworks.<strong>Topics Covered</strong>Introduction to Ruby on Rails.<br>Introduction to RESTful APIs.<br>How to Build a Web API using Rails.<br>Live Demo & Debugging."
+      
+    }, 
        {
       "eventID" : "K21",
       "title": "Build your first Chatbot Application",
