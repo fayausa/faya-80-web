@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "C23",
+          "title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
+          "technology": "front end",
+          "eventbanner":"23.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S102"
+          },
+          "date": "15/05/2019 5:00 pm",
+          "youtubeID": "",
+          "details": " Ever tried searching for a list of data from giant textbooks? Gathering detailed structured data from free flowing textual sources could be daunting; more so when the data required is to be extracted from a large section of unstructured content. Information extraction using Natural Language Processing and Machine Learning is finding quite the traction in modern tech industry today.<br>Explaining the real world applications at the 23rd FAYA:80 Kochi is Mr.Deepu Xavier, the Co-founder of Zappyhire, who will introduce you to the challenging technology of Information Extraction and how it could benefit your business or process. Come join us for the evening as it will be helpful for for all tech enthusiasts, developers and managers who would like to learn to decode unstructured data. <strong>Topics Covered</strong>Introduction to Information Extraction.<br>The different ways of Information Extraction.<br>NLP and Information Extraction.<br>Machine Learning and Information Extraction."
+        
+      }, 
       {
           "eventID" : "C22",
           "title": "How to Build and Deploy IOT solutions on Cloud",
