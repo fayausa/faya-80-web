@@ -1585,6 +1585,22 @@
         "eventID" : "T72",
         
       }
+},
+       {
+    "speakerID" : "S102",
+     "speaker": "Deepu Xavier",
+     "profile": "Co-founder, ZappyHire",
+     "speakerdesc": "Deepu Xavier is the co-founder of ZappyHire, an intelligent autonomous recruitment platform based out of Cochin. He was the Principal Product Manager of Java programming language at Oracle and was featured in the coveted Young Leaders of India List by The Economic Times. He is also a frequent speaker at various international user groups and other technical conference and have worked with companies like Infosys, Bosch, Oracle and RapidValue.",           
+     "thumb":"Deepu_xavier.jpg",
+     "facebook" : "https://www.facebook.com/deepu.xavier.9",
+     "twitter" : "https://twitter.com/deepuxavier",
+     "linkedIn" :"https://www.linkedin.com/in/deepu-xavier-8b126330/",
+     "email" : "deepu@zappyhire.com",
+     "events" : 
+      {
+        "eventID" : "C23",
+        
+      }
 }
    ]
 }
