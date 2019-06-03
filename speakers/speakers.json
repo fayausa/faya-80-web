@@ -1552,6 +1552,22 @@
         "eventID" : "K21",
         
       }
+},
+      {
+    "speakerID" : "S100",
+     "speaker": "Ashik Salman",
+     "profile": "Co-founder at Ecart.chat",
+     "speakerdesc": "Ashik is a program architect and backend developer with many years worth of experience on Ruby on Rails. Being a former developer at Truecaller, Ashik has hands on experience in developing mobile payment solutions and backend APIs for payment gateways and mobile payment solutions. He is currently working to build Ecart.chat, a simplified messenger marketing solution for ecommerce sites.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/ashik-salman-a487a596/",
+     "email" : "ashiksp@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K22",
+        
+      }
 }
    ]
 }
