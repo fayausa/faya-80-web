@@ -206,7 +206,7 @@
       {
           "speakerID" : "S14",
            "speaker": "Amal Shehu",
-           "profile": "Software Developer, Neoito",
+           "profile": "JS Frontend Engineers, FAYA Innovations",
            "speakerdesc": "Amal Shehu, Software Developer, Neoitobis a Python developer who got introduced to TypeScript/Angular ecosystem by chance. Currently he is a full-time Angular developer who is keen on optimizing workflow and exploring deeper into technology.",           
            "thumb":"Amal-Shehu.jpg",
            "facebook" : "https://www.facebook.com/amalshehu",
@@ -217,7 +217,8 @@
             {
               "event1" : "T45",
                "event2" : "C4",
-               "event3" : "K2"
+               "event3" : "K2",
+               "event4" : "T72"
             }
 },
       {
@@ -1566,6 +1567,22 @@
      "events" : 
       {
         "eventID" : "K22",
+        
+      }
+},
+       {
+    "speakerID" : "S101",
+     "speaker": "Asif Mohammed",
+     "profile": "JS Frontend Engineer, FAYA Innovations",
+     "speakerdesc": "Asif Mohammed is a JS Frontend Engineer at FAYA Innovations Technopark, with immense experience in developing isomorphic Web applications. Currently working in R&D at FAYA, he has worked on several frameworks and are active proponents of gamification.",           
+     "thumb":"asif_mohammed.jpg",
+     "facebook" : "https://www.facebook.com/Brawlerx",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/asif-mohammed-18b2bb150/",
+     "email" : "asif.m@fayausa.com",
+     "events" : 
+      {
+        "eventID" : "T72",
         
       }
 }
