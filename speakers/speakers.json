@@ -206,7 +206,7 @@
       {
           "speakerID" : "S14",
            "speaker": "Amal Shehu",
-           "profile": "Software Developer, Neoito",
+           "profile": "JS Frontend Engineers, FAYA Innovations",
            "speakerdesc": "Amal Shehu, Software Developer, Neoitobis a Python developer who got introduced to TypeScript/Angular ecosystem by chance. Currently he is a full-time Angular developer who is keen on optimizing workflow and exploring deeper into technology.",           
            "thumb":"Amal-Shehu.jpg",
            "facebook" : "https://www.facebook.com/amalshehu",
@@ -217,7 +217,8 @@
             {
               "event1" : "T45",
                "event2" : "C4",
-               "event3" : "K2"
+               "event3" : "K2",
+               "event4" : "T72"
             }
 },
       {
@@ -1487,7 +1488,8 @@
      "events" : 
       {
         "event1" : "T69",
-         "event2" : "C20"
+        "event2" : "C20",
+        "event3" : "K23"
       }
 },
 {
@@ -1517,9 +1519,10 @@
      "email" : "ali@tensorbot.in",
      "events" : 
       {
-        "eventID" : "T70"
+        "event1" : "T70",
+        "event2" : "C22"
       }
-}
+},
 {
     "speakerID" : "S98",
      "speaker": "Nirmal Vyas",
@@ -1532,7 +1535,72 @@
      "email" : "nirmalkamath@gmail.com",
      "events" : 
       {
-        "eventID" : "C21"
+        "event1" : "C21",
+        "event2" : "T71"
+      }
+},
+{
+    "speakerID" : "S99",
+     "speaker": "Rijin Ramesh",
+     "profile": "Co-founder and head of product and technology, Articbot Pvt Ltd",
+     "speakerdesc": "Being the Co-founder and head of product and technology of Articbot private limited, Rijin Ramesh has more than 5 years of experience in Microsoft .Net framework and technologies. Specialized in Researching in Conversational AI and Machine learning algorithms, he has also built an in-house Chatbot framework for Articbot.",           
+     "thumb":"rijin_ramesh.jpg",
+     "facebook" : "https://www.facebook.com/rijin.ramesh.14",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/rijin-ramesh-31809375/",
+     "email" : "rijinramesh1990@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K21"
+        
+      }
+},
+      {
+    "speakerID" : "S100",
+     "speaker": "Ashik Salman",
+     "profile": "Co-founder at Ecart.chat",
+     "speakerdesc": "Ashik is a program architect and backend developer with many years worth of experience on Ruby on Rails. Being a former developer at Truecaller, Ashik has hands on experience in developing mobile payment solutions and backend APIs for payment gateways and mobile payment solutions. He is currently working to build Ecart.chat, a simplified messenger marketing solution for ecommerce sites.",           
+     "thumb":"",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/ashik-salman-a487a596/",
+     "email" : "ashiksp@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K22"
+        
+      }
+},
+       {
+    "speakerID" : "S101",
+     "speaker": "Asif Mohammed",
+     "profile": "JS Frontend Engineer, FAYA Innovations",
+     "speakerdesc": "Asif Mohammed is a JS Frontend Engineer at FAYA Innovations Technopark, with immense experience in developing isomorphic Web applications. Currently working in R&D at FAYA, he has worked on several frameworks and are active proponents of gamification.",           
+     "thumb":"asif_mohammed.jpg",
+     "facebook" : "https://www.facebook.com/Brawlerx",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/asif-mohammed-18b2bb150/",
+     "email" : "asif.m@fayausa.com",
+     "events" : 
+      {
+        "eventID" : "T72"
+        
+      }
+},
+       {
+    "speakerID" : "S102",
+     "speaker": "Deepu Xavier",
+     "profile": "Co-founder, ZappyHire",
+     "speakerdesc": "Deepu Xavier is the co-founder of ZappyHire, an intelligent autonomous recruitment platform based out of Cochin. He was the Principal Product Manager of Java programming language at Oracle and was featured in the coveted Young Leaders of India List by The Economic Times. He is also a frequent speaker at various international user groups and other technical conference and have worked with companies like Infosys, Bosch, Oracle and RapidValue.",           
+     "thumb":"Deepu_xavier.jpg",
+     "facebook" : "https://www.facebook.com/deepu.xavier.9",
+     "twitter" : "https://twitter.com/deepuxavier",
+     "linkedIn" :"https://www.linkedin.com/in/deepu-xavier-8b126330/",
+     "email" : "deepu@zappyhire.com",
+     "events" : 
+      {
+        "eventID" : "C23"
+        
       }
 }
    ]
