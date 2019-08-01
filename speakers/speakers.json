@@ -310,7 +310,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T39"
+              "event1" : "T39",
+              "event1" : "T73"
             }
 },
       {
