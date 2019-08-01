@@ -1,6 +1,20 @@
 {
    "event": [
        {
+          "eventID" : "T73",
+           "title": "A Closer Look into Kubernetes",
+           "technology": "front end",
+           "eventbanner":"73.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S20",
+            },
+           "date": "12/06/2019 5:00 pm",
+           "youtubeID": "B6DsPzuKcu4",
+           "rating": "5",
+           "details": "Kubernetes has been massively popular among DevOps community for quite a while now. Popularly known as K8s, this container architecture platform is a massive open source project started by Google. It’s portable and extensible platform for managing containerized workload and services have received worldwide renounce over a very short period of time.<br>With more features and changes being made almost everyday, now would be the best time to get on with Kubernetes, if you haven’t already. Learn how to create platforms to run application containers across hosts at the 73rd FAYA:80 Trivandrum.<br>The session will be beneficial for all technology enthusiasts, coders, managers, entrepreneurs and hobbyists to gain in depth knowledge on the ever-proliferating field of Kubernetes.<br><strong>Topics Covered</strong>An overview of Docker.<br>An introduction to Kubernetes.<br>Anatomy of a Kubernetes cluster.<br>Kubernetes Control Plane.<br>Where should I use Kubernetes."       
+      },
+       {
           "eventID" : "T72",
            "title": "Introduction to WebAssembly - The future of the Web",
            "technology": "front end",
