@@ -1,5 +1,161 @@
 {
    "event": [
+       {
+          "eventID" : "T72",
+           "title": "Introduction to WebAssembly - The future of the Web",
+           "technology": "front end",
+           "eventbanner":"72.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S14",
+              "speaker2" : "S101"
+            },
+           "date": "08/05/2019 5:00 pm",
+           "youtubeID": "XDNRGGzplws",
+           "rating": "5",
+           "details": "Coding have come a long way since it first rendered ‘hello world’ on a phosphor screen. Sophisticated programming languages emerged later on to teach machines what they must do with their binary memory. In time, Javascript became the choice of the day to build web applications.<br>Being a web standard that defines a binary format and a corresponding assembly like text format for executable code on web pages, WebAssembly could potentially run codes as fast as running native machine code.<br>Learn the basics and get acquainted with WebAssembly at the 72nd edition of FAYA:80 Trivandrum. Meet Amal Shehu and Asif Mohammed as they take you through an interactive chronological journey from Javascript to Web assembly. The event is intended as an introductory level discussion on the vast field of WebAssembly. We welcome all enthusiasts, developers and seasoned coders for a fun filled interactive evening on the topic.<strong>Topics Covered</strong>Introduction to WebAssembly.<br>History of web browsers.<br>Working of JS engines.<br>Why WebAssembly.<br>Features of WebAssembly.<br>Demo.<br>Post MVP features"       
+      },
+       {
+          "eventID" : "T71",
+           "title": "VueJS - The progressive framework",
+           "technology": "front end",
+           "eventbanner":"71.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S98"
+            },
+           "date": "03/04/2019 5:00 pm",
+           "youtubeID": "4wf-eseq4RU",
+           "rating": "5",
+           "details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 71st edition of FAYA:80 Trivandrum, learn how you can start off and build your own apps and websites with Nirmal Vyas, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."       
+      },
+      {
+          "eventID" : "T70",
+           "title": "How to build and deploy IOT solutions on Cloud",
+           "technology": "front end",
+           "eventbanner":"70.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S97"
+            },
+           "date": "06/03/2019 5:00 pm",
+           "youtubeID": "aNmKMDWY1fg",
+           "rating": "5",
+           "details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 70th edition of FAYA:80, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Mahroof Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems.<strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."       
+      },
+      {
+          "eventID" : "T69",
+           "title": "Quantum Computing Basics: How, What and Why",
+           "technology": "front end",
+           "eventbanner":"69.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S95"
+            },
+           "date": "06/02/2019 5:00 pm",
+           "youtubeID": "CX8cbPdgJjY",
+           "rating": "5",
+           "details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 69th edition of FAYA:80 Trivandrum, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."       
+      },
+      {
+          "eventID" : "T68",
+           "title": "Introduction to Mechatronics - A case study on Clean Technology",
+           "technology": "front end",
+           "eventbanner":"68.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S93"
+            },
+           "date": "02/01/2019 5:00 pm",
+           "youtubeID": "JHesMwoXDKk",
+           "rating": "5",
+           "details": "Although the presence of the ever-expanding field of Mechatronics is evident on all walks of industry, much has to be learned on how such systems could be used beneficially to improve human lives. This versatile field of technology aims at collaborating different fields of engineering into finding solutions for real-world problems, particularly in shaping a cleaner world. Mr. Afsal, Automation Head at Genrobotic Innovations explains how important and extensive in use this technology could be in the future, and also tries to debunk some of the myths associated with Mechatronics. The discussion will also include a case study on how mechatronics has been useful in creating clean technology solutions. The 68th edition of FAYA:80 would be an introductory discussion on what the technology entails, and would serve as a guide for enthusiasts and newbies to begin working on mechatronic systems to solve real-world problems.<strong>Topics Covered</strong>Evolution of Mechatronics.<br>How Mechatronics could benefit us.<br>Mechatronics in Clean-Tech.<br>How to begin and develop using Mechatronics.<br>Current challenges, opportunities, and FAQs."       
+      },
+      {
+          "eventID" : "T67",
+           "title": "Enterprise UX - Know thy user!",
+           "technology": "front end",
+           "eventbanner":"67.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S84"
+            },
+           "date": "05/12/2018 5:00 pm",
+           "youtubeID": "ecrg9_tLHw8",
+           "rating": "5",
+           "details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed? Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."       
+      },
+      {
+          "eventID" : "T66",
+           "title": "Getting started with Robot operating system",
+           "technology": "",
+           "eventbanner":"66.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S83"
+            },
+           "date": "07/11/2018 5:00 pm",
+           "youtubeID": "GG8F1w4KGNA",
+           "rating": "5",
+           "details": "No doubt, Robotics has changed the world around us and is continuing to impact the way we do things. The rapid development of Robotics in the recent times has generated much interest in technology circles and beyond because of the new business opportunities it opens up. Today advanced robots are complementing our lives, both at work and at home. As robots have advanced, so have the development tools.                                                                                                 ROS (Robot Operating System) is a set of software libraries and tools to help you build robot applications. The aim of ROS is to create a robotics standard, so you don’t need to reinvent the wheel anymore when building a new robotic software. ROS simplifies the task of creating complex and robust robot behavior across a wide variety of robotic platforms.                                                                                                                                                 The 66th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore ROS and learn how to progress with it.<strong>Topics Covered</strong>Introduction.<br>Why ROS? <br>Architecture & ROS Packages.<br>Getting Started Demo."       
+      },
+      {
+          "eventID" : "T65",
+           "title": "Getting started with Robotics",
+           "technology": "",
+           "eventbanner":"65.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S82"
+            },
+           "date": "03/10/2018 5:00 pm",
+           "youtubeID": "w3b4IR68hxI",
+           "rating": "5",
+           "details": "Today Robotics, Automation and AI has become the need of the hour to compete globally and lead the charts of efficiency while stepping into the world of future. While it is easy to be intimidated by robotics because it incorporates a wide range of skills over a variety of disciplines, there is no reason to be. Getting a grasp on the skills needed to make, manage and innovate on the robots of the future is a great way to progress in the world of Robotics and Automation. The 65th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to break your ice with Robotics and learn how to progress with it. The session also presented a chance for participants to know how Mr. Rejin made use of the limited but specialised facilities and expert talent available in the city for building Rotibot.<strong>Topics Covered</strong>Introduction.<br>Getting started with Robotics.<br>How to bootstrap.<br>Hardware Prototyping in Trivandrum.<br>Case studies - TR-7 & Rotibot."       
+      },
+      {
+          "eventID" : "T64",
+           "title": "What's new in Angular 6",
+           "technology": "front end",
+           "eventbanner":"64.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S82"
+            },
+           "date": "05/09/2018 5:00 pm",
+           "youtubeID": "Hr7n3p2bgic",
+           "rating": "5",
+           "details": "Angular 6 is finally here unifying the Framework, Material and CLI. This is a major release focused less on the underlying framework, and more on the toolchain and on making it easier to move quickly with Angular in the future. The new tooling additions are especially great for facilitating upgrading and adding new libraries to your apps. Now, with Angular 6, you can easily update your old packages, create native web elements using Angular Elements, and many other things. The 64th edition of FAYA:80 presented for all technology enthusiasts, front-end developers and project managers a chance to breakdown what’s new with Angular 6 and go over how to upgrade an app over to this new version.<strong>Topics Covered</strong>Introduction.<br>What’s new in Angular 6?<br>Angular Elements.<br>NG6 and RxJS Insights.<br>Getting the best out of NG6 6. Live Demo"       
+      },
+      {
+          "eventID" : "T63",
+           "title": "Keeping pace with React",
+           "technology": "front end",
+           "eventbanner":"63.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S5"
+            },
+           "date": "01/08/2018 5:00 pm",
+           "youtubeID": "6tw1lrjDNOc",
+           "rating": "5",
+           "details": "The front-end development ecosystem for web has been constantly upgrading, especially, the javascript libraries and frameworks. React has gained huge popularity in the recent times and has become one of the most favoured frameworks among front end specialists. It is a powerful UI library that brings the power of SSR (Server Side Rendering), isomorphic JavaScript, and component-based web development to modern dynamic web applications. It helps create modular, reusable, and intuitive components efficiently.                                                                                                                The 63rd edition of FAYA:80 became an opportunity for creative minds who were yet to work with React or were considering working with React to explore the basics of React, how it works, and how to get along with it efficiently from a front-end developer’s perspective. It was also an opportunity for developers who worked on React to get support from the community on the challenges they face.<strong>Topics Covered</strong>History of web frontends.<br>Quick look on JS/es6.<br>Prerequisites to React.<br>Core concepts of React.<br>Working Demo"       
+      },
+      {
+          "eventID" : "T62",
+           "title": "Xtending Realities through AR - VR - MR",
+           "technology": "web security",
+           "eventbanner":"62.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S51",
+              "speaker2" : "S79"
+            },
+           "date": "04/07/2018 5:00 pm",
+           "youtubeID": "EvRO3HmA0-8",
+           "rating": "5",
+           "details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.                                                                                                                                                                                                                                                      The 62nd edition of FAYA:80 Trivandrum, Xtending Realities through AR-VR-MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.<strong>Topics Covered</strong>Immersive Technologies and the Fine line between them.<br>What's new in AR / VR / MR / CR.<br>Opportunities to leverage XR in various Industries.<br>Design Considerations and Best Practices for VR and AR."       
+      },
       {
           "eventID" : "T61",
            "title": "Decentralized Applications using Ethereum: A Hands-On Approach",

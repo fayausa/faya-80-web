@@ -1,5 +1,159 @@
 {
    "event": [
+       {
+      "eventID" : "K23",
+      "title": "Quantum Computing Basics: How, What and Why",
+      "technology": "front end",
+      "eventbanner":"23.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S95"
+      },
+      "date": "29/05/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name 'quantum mechanics'.<br>Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so.<br>At the 23rd edition of FAYA:80 Calicut, experience the 'entanglements' and 'superpositions' of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, the modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
+      
+    }, 
+      {
+      "eventID" : "K22",
+      "title": "Building Your First Web API (Ruby on Rails)",
+      "technology": "front end",
+      "eventbanner":"22.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S100"
+      },
+      "date": "24/04/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Being the dynamic framework with which Twitter and even Github were made, Ruby on Rails is one among the most popular server-side web application frameworks in the tech world. Apart from making a lot of conventional decisions that might otherwise slow down your app building process, Rails also provides default structures for databases, web services, and web pages. Being a developer friendly framework, Ruby on Rails makes programming way faster than the rest.<br> At the 22nd FAYA:80 Calicut, learn the ‘convention over configuration’ design style of Ruby on Rails with Ashik Salman, Co-founder at Ecart.chat, where he explains in detail the framework and helps you build your very own web API. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess on modern frameworks.<strong>Topics Covered</strong>Introduction to Ruby on Rails.<br>Introduction to RESTful APIs.<br>How to Build a Web API using Rails.<br>Live Demo & Debugging."
+      
+    }, 
+       {
+      "eventID" : "K21",
+      "title": "Build your first Chatbot Application",
+      "technology": "front end",
+      "eventbanner":"21.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S99"
+      },
+      "date": "20/03/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Business is 20 percent product and 80 percent communication; most of the communication being focused on ways to explain the products, services or benefits that your technology offers over your competition or the entire industry. In this context, it becomes crucial to find new ways to converse with customers and provide resources faster to make their search easier. Chat bots have been employed to tackle this opportunity in the most efficient and cost effective way for a while now.<br>Foreseeing this immense potential of chatbots, organizations have started investing heavily in this space. To understand how we could develop and adapt chatbots to your required industry, meet Rijin Ramesh, the co-founder and head of product and technology of Articbot Pvt Ltd, at the 21st edition of FAYA:80 Calicut.<br>The session would be beneficial for all technology enthusiasts, senior level managers, developers, entrepreneurs and hobbyists to explore the framework and challenges of chatbot development. <strong>Topics Covered</strong>Introduction to Chatbot.<br>Bot framework and Challenges.<br>Will Chatbots replace human agents?.<br>Live demo of Articbot."
+      
+    }, 
+      {
+      "eventID" : "K20",
+      "title": "Building Production Ready Applications with Angular 7",
+      "technology": "front end",
+      "eventbanner":"20.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S96"
+      },
+      "date": "20/02/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Being the most innovative platform to build native apps with ease, Angular has found a great fan followership among developers over the years. Released in late October, the latest version of Angular promises feature updates and performance upgrades that are unheard of in the past. To get in touch with the platform and to make your shift to the latest version, meet Sabeer, Technical lead at FantaCode, explain in detail the ins and outs of the latest version of Angular 7 at the 20th edition of FAYA:80 Kozhikode.<br>The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the awesome features of Angular.<strong>Topics Covered</strong>Introduction to Angular and tooling.<br>Separation of concerns and Dependency Injection in Angular.<br>Introduction to routing in Angular.<br>Communicating between components.<br>How to make your Angular applications production ready."
+      
+    }, 
+      {
+      "eventID" : "K19",
+      "title": "React Native - Bye to Native Development",
+      "technology": "front end",
+      "eventbanner":"19.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S94"
+      },
+      "date": "16/01/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked. With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kozhikode, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up<br>Layout designing.<br>Demo."
+      
+    }, 
+      {
+      "eventID" : "K18",
+      "title": "Data Engineering using Spark and Scala",
+      "technology": "front end",
+      "eventbanner":"18.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S88"
+      },
+      "date": "21/11/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
+      
+    }, 
+      {
+      "eventID" : "K17",
+      "title": "Hands-On Data Structures with Python",
+      "technology": "web",
+      "eventbanner":"17.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S86"
+      },
+      "date": "17/10/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                        Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                              The 15th edition of FAYA:80 Kozhikode will provide an opportunity for all programmers coders who are looking to fine tune their coding skills to get a good working knowledge of data structures along with its hands-on.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+      
+    }, 
+      {
+      "eventID" : "K16",
+      "title": "Hands On Google Flutter",
+      "technology": "web",
+      "eventbanner":"16.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S87"
+      },
+      "date": "19/09/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
+      
+    }, 
+      {
+      "eventID" : "K15",
+      "title": "Hands-On Data Structures with Python",
+      "technology": "web",
+      "eventbanner":"15.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S86"
+      },
+      "date": "15/08/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+      
+    }, 
+      {
+      "eventID" : "K14",
+      "title": "Hands-On Git Workflow",
+      "technology": "front end",
+      "eventbanner":"14.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S47"
+      },
+      "date": "19/07/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
+      
+    }, 
+      {
+      "eventID" : "K13",
+      "title": "Building Scalable Mobile Applications Using Firebase",
+      "technology": "front end",
+      "eventbanner":"13.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S85"
+      },
+      "date": "20/06/2018 5:00 pm",
+      "youtubeID": "",
+      "details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
+      
+    }, 
     {
       "eventID" : "K12",
       "title": "Deep Learning with Keras",
