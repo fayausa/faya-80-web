@@ -12,10 +12,24 @@
     <link rel="shortcut icon" href="../amp_favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="styles/common.css">
+    <link rel="stylesheet" type="text/css" href="styles/slick.css">
     <script  src="https://code.jquery.com/jquery-1.12.4.min.js"  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="  crossorigin="anonymous"></script>
     <script  type="text/javascript" src="js/list.js"> </script>
+     <script  type="text/javascript" src="js/slick.min.js"> </script>
   </head>
   <body>
+    <div class="header-top-wrap">
+        <div class="container">
+          
+            <ul class="social_icon-header">
+                <li><a href="https://www.facebook.com/fayaport80/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/FayaPort80" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.youtube.com/fayausa" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.eventbrite.com/o/faya-3194888760" target="_blank"><img alt="eventbrite" src="images/eventbrite.png"></a></li>
+                <li class="meetup"><a href="https://www.meetup.com/FAYA-PORT-80/" target="_blank"><img alt="meetup" src="images/meetup.png"></a></li>
+            </ul>
+        </div>
+    </div>
     <header>
         <a href="/index.html">
             <img src="logo.png" class="logo"  width="200" height="46"></img>
@@ -33,16 +47,23 @@
           <li>
             <a href="contact.html">Contact</a>
           </li>
+          
         </ul>
     </header>
     <div class="wrapper">
       <article>
         <div class="banner">
-          <div class="banner-overlay"></div>
-          <div class="banner-content">
-            <h1>Knowledge Shared is <span>Power Multiplied</span></h1>
-            <p>Breaking Echo Chambers through Free Knowledge Sharing</p>
-          </div>
+           <section class="lazy slider" data-sizes="50vw">
+            <div>
+              <img src="/images/slider-1.jpg">
+            </div>
+            <div>
+              <img src="/images/slider.jpg">
+            </div>
+            <div>
+              <img src="/images/gallery.jpg">
+            </div>
+          </section>
         </div>
       </article>
     </div>
@@ -134,13 +155,22 @@ FAYA:80 celebrated its 50th edition in July, 2017 with DISRUPT KERALA 2017, a da
             <a href="http://fayausa.com">FAYA Corporation</a> 2018.<br> Thejaswini, Technopark Campus, Thiruvananthapuram, Kerala, India
         </p>
          <ul class="social_icon">
-            <li><a href="https://www.facebook.com/fayausa" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href="https://plus.google.com/+Fayausa" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/@fayausa" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.facebook.com/fayaport80/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/FayaPort80" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
             <li><a href="https://www.youtube.com/fayausa" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-          </ul>
+            <li><a href="https://www.eventbrite.com/o/faya-3194888760" target="_blank"><img alt="eventbrite" src="images/eventbrite.png"></a></li>
+            <li class="meetup"><a href="https://www.meetup.com/FAYA-PORT-80/" target="_blank"><img alt="meetup" src="images/meetup.png"></a></li>
+        </ul>
       </div>
     </footer>
-
+   <script type="text/javascript">
+      $(document).on('ready', function() {
+        
+        $(".lazy").slick({
+          lazyLoad: 'ondemand', // ondemand progressive anticipated
+          infinite: true
+        });
+      });
+  </script>
   </body>
 </html>
