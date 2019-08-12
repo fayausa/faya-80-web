@@ -10,12 +10,24 @@
     <title>Faya:80</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="styles/common.css">
-
+    <link rel="stylesheet" type="text/css" href="styles/colorbox.css">
     <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
     <script  src="https://code.jquery.com/jquery-1.12.4.min.js"  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="  crossorigin="anonymous"></script>
     <script  type="text/javascript" src="js/detail.js"> </script>
+     <script  type="text/javascript" src="js/jquery.colorbox.js"> </script>
   </head>
   <body>
+    <div class="header-top-wrap">
+      <div class="container">
+        <ul class="social_icon-header">
+            <li><a href="https://www.facebook.com/fayaport80/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/FayaPort80" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.youtube.com/fayausa" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.eventbrite.com/o/faya-3194888760" target="_blank"><img alt="eventbrite" src="images/eventbrite.png"></a></li>
+            <li class="meetup"><a href="https://www.meetup.com/FAYA-PORT-80/" target="_blank"><img alt="meetup" src="images/meetup.png"></a></li>
+        </ul>
+      </div>
+    </div>
     <header>
         <a href="/index.html">
             <img src="logo.png" class="logo"  width="200" height="46"></img>
@@ -45,7 +57,42 @@
               
             </div>
             <div style="clear: both;"></div>
+            
+            <div class="details-gallery">
+               <div class="contact-title">
+                  <h2> Gallery</h2>
+              </div>
+                <div class="gallery">
+                  <ul class="event-list">
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/01.jpg"><img class="responsive" src="images/gallery/01.jpg"></a>
+                    </li>
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/02.jpg"><img class="responsive" src="images/gallery/02.jpg"></a>
+                    </li>
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/03.jpg"><img class="responsive" src="images/gallery/03.jpg"></a>
+                    </li>
+                   
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/04.jpg"><img class="responsive" src="images/gallery/04.jpg"></a>
+                    </li>
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/05.jpg"><img class="responsive" src="images/gallery/05.jpg"></a>
+                    </li>
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/06.jpg"><img class="responsive" src="images/gallery/06.jpg"></a>
+                    </li>
+                    <li class="loc-cls">
+                      <a class="group1" href="images/gallery/07.jpg"><img class="responsive" src="images/gallery/07.jpg"></a>
+                    </li>
+                     <li class="loc-cls">
+                      <a class="group1" href="images/gallery/08.jpg"><img class="responsive" src="images/gallery/08.jpg"></a>
+                    </li>
+                   </ul>
+              </div>
             <a class="backbtn fa fa-chevron-left" href="/index.html">back to home</a>
+          </div>
         </div>
       </div>
     </div>
@@ -61,12 +108,24 @@
             <a href="http://fayausa.com">FAYA Corporation</a> 2018.<br> Thejaswini, Technopark Campus, Thiruvananthapuram, Kerala, India
         </p>
          <ul class="social_icon">
-            <li><a href="https://www.facebook.com/fayausa" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href="https://plus.google.com/+Fayausa" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/@fayausa" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.facebook.com/fayaport80/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/FayaPort80" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
             <li><a href="https://www.youtube.com/fayausa" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.eventbrite.com/o/faya-3194888760" target="_blank"><img alt="eventbrite" src="images/eventbrite.png"></a></li>
+            <li class="meetup"><a href="https://www.meetup.com/FAYA-PORT-80/" target="_blank"><img alt="meetup" src="images/meetup.png"></a></li>
           </ul>
       </div>
     </footer>
+    <script>
+      $(document).ready(function(){
+        //Examples of how to assign the Colorbox event to elements
+        $(".group1").colorbox({rel:'group1'});
+        //Example of preserving a JavaScript event for inline calls.
+        $("#click").click(function(){ 
+          $('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+          return false;
+        });
+      });
+    </script>
   </body>
 </html>
