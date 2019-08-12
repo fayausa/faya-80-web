@@ -26,6 +26,138 @@
 			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
 		},
 		{
+			"eventID": "C23",
+			"title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
+			"technology": "front end",
+			"eventbanner": "23.jpg",
+			"speakers": {
+				"speaker1": "S102"
+			},
+			"date": "15/05/2019 5:00 pm",
+			"youtubeID": "",
+			"details": " Ever tried searching for a list of data from giant textbooks? Gathering detailed structured data from free flowing textual sources could be daunting; more so when the data required is to be extracted from a large section of unstructured content. Information extraction using Natural Language Processing and Machine Learning is finding quite the traction in modern tech industry today.<br>Explaining the real world applications at the 23rd FAYA:80 Kochi is Mr.Deepu Xavier, the Co-founder of Zappyhire, who will introduce you to the challenging technology of Information Extraction and how it could benefit your business or process. Come join us for the evening as it will be helpful for for all tech enthusiasts, developers and managers who would like to learn to decode unstructured data. <strong>Topics Covered</strong>Introduction to Information Extraction.<br>The different ways of Information Extraction.<br>NLP and Information Extraction.<br>Machine Learning and Information Extraction."
+		},
+		{
+			"eventID": "C22",
+			"title": "How to Build and Deploy IOT solutions on Cloud",
+			"technology": "front end",
+			"eventbanner": "22.jpg",
+			"speakers": {
+				"speaker1": "S97"
+			},
+			"date": "10/04/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 22nd edition of FAYA:80 Kochi, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Maharuf Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems. <strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."
+		},
+		{
+			"eventID": "C21",
+			"title": "Vue.Js - The progressive framework",
+			"technology": "front end",
+			"eventbanner": "21.jpg",
+			"speakers": {
+				"speaker1": "S98"
+			},
+			"date": "13/03/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 21st edition of FAYA:80 Kochi, learn how you can start off and build your own apps and websites with Nirmal J.S, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."
+		},
+		{
+			"eventID": "C20",
+			"title": "Quantum Computing Basics: How, What and Why",
+			"technology": "front end",
+			"eventbanner": "20.jpg",
+			"speakers": {
+				"speaker1": "S95"
+			},
+			"date": "13/02/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 20th edition of FAYA:80 Kochi, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
+		},
+		{
+			"eventID": "C19",
+			"title": "React Native - Bye to Native Development",
+			"technology": "front end",
+			"eventbanner": "19.jpg",
+			"speakers": {
+				"speaker1": "S94"
+			},
+			"date": "09/01/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked.With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kochi, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up.<br>Layout designing.<br>Demo."
+		},
+		{
+			"eventID": "C18",
+			"title": "Enterprise UX - Know thy user!",
+			"technology": "front end",
+			"eventbanner": "18.jpg",
+			"speakers": {
+				"speaker1": "S84"
+			},
+			"date": "12/12/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed?                                                                                                                   Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.                                                                                                                                                                                                                                                  The 67th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore Enterprise UX and learn how to progress with it.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
+		},
+		{
+			"eventID": "C17",
+			"title": "The evolutionary journey of RAD - Rapid application Development",
+			"technology": "front end",
+			"eventbanner": "17.jpg",
+			"speakers": {
+				"speaker1": "S92"
+			},
+			"date": "14/11/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Rapid Application Development (RAD) is a software development methodology that focuses on rapid prototyping and application development to ensure faster product delivery. Unlike Waterfall methods, RAD emphasizes working software and user feedback over strict planning and requirements recording. In other words, RAD is less talk, more action. Oh, and testing. Lots and lots of testing. (second para) RAD doesn’t work for every project and, like any organizational methodology, shouldn’t be used indiscriminately. But it does work well in a few specific instances, which we’ll discuss in the 17th edition of FAYA:80 Kochi. The session was a great opportunity for CXOs, project managers, middle level managers, developers and other technology enthusiasts to get to know RAD from its practical implementation view. The session also helped those who had already adopted RAD to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Introduction to RAD.<br>Why RAD?<br>Evolution of RAD.<br>Types of RAD.<br>The future of RAD.<br>Live Demo."
+		},
+		{
+			"eventID": "C16",
+			"title": "Practical Scrum – A guide to the most popular Agile Process",
+			"technology": "front end",
+			"eventbanner": "16.jpg",
+			"speakers": {
+				"speaker1": "S91"
+			},
+			"date": "10/10/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Scrum is a simple, yet incredibly powerful, set of principles and practices that help teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change. So says the Scrum Alliance. When implementing Scrum, people often ask ‘how do I…’ and the answer typically is ‘Scrum does not say anything about that.’ So you are left to figure it out on your own. Not everything that works for others will work for you and vice-versa.                                                                                                                                                                        The 16th edition of FAYA:80 Kochi provided an open platform to step up the Scrum game with the help of a person who had successfully implemented Scrum at his workplace. In the session, he shared his experiences in implementing Scrum, the challenges faced and improvements made, the tools used, and, also, how Scrum became an integral part of requirements gathering, roadmaps, and release management. Participants also got a chance to share what worked and didn’t work for them in Scrum and why.                                                                                                       The session was a great opportunity for CXOs, project managers, middle-level managers, developers, and other technology enthusiasts to get to know Scrum from a practical implementation point of view. The session also helped those who had already adopted Scrum to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Basics of Scrum Implementation.<br>Adoption of Scrum & its challenges.<br>Common Tools used.<br>Case Study: How scrum is implemented at RedBlack.<br>Q&A and Experience Sharing."
+		},
+		{
+			"eventID": "C15",
+			"title": "Hackproofing your Web Application for the future",
+			"technology": "security",
+			"eventbanner": "15.jpg",
+			"speakers": {
+				"speaker1": "S45"
+			},
+			"date": "12/09/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey. The top ten security risks and guidelines for preventing them published by OWSAP are a gold standard for most of the developers around the world. Despite having these guidelines, developers tend to overlook these while implementing. In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced. The 15th edition of FAYA:80 Kochi, Hackproofing your Web Application for the future, will be an opportunity for all web and mobile application developers, testers, technical managers and other technology enthusiasts to learn what exactly needs to be done to ensure that their applications are protected from cyber attacks.<strong>Topics Covered</strong>Case study of 10M users data breach.<br>Critical Security Vulnerabilities.<br>Mitigation techniques.<br>Ransomware overview.<br>Demo"
+		},
+		{
+			"eventID": "C14",
+			"title": "Design Thinking & Prototyping for Product Development",
+			"technology": "front end",
+			"eventbanner": "14.jpg",
+			"speakers": {
+				"speaker1": "S90"
+			},
+			"date": "08/08/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has to be spent on design thinking and prototyping.                                                                                                                                                                                                                                                         It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking and Prototyping to test the ideas quickly and improve them in an equally timely fashion.                                                                                                                                                            The 14th edition of FAYA:80 Kochi, Design Thinking & Prototyping for Product Development, presented an opportunity to help all developers, leads, managers and business owners who were working to solve customer’s problem, to step up their game.<strong>Topics Covered</strong>Design Thinking for Product Design<br>Design Thinking Process<br>Design Sprints<br>Prototyping."
+		},
+		{
+			"eventID": "C13",
+			"title": "Hybrid Mobile App Development using Cordova",
+			"technology": "android",
+			"eventbanner": "13.jpg",
+			"speakers": {
+				"speaker1": "S89"
+			},
+			"date": "11/07/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "From smartphones to smart watches, mobile apps have a pervasive presence. But it would be a time-consuming process to develop the same app several times for different platforms using platform-specific SDKs and APIs. How exciting it is then to have an app that will run on all platforms!                                                                                                                                                           Apache Cordova (earlier known as PhoneGap) is an open source mobile application development framework that allows programmers to build apps for multiple mobile platforms using standard Web technologies like HTML5, CSS3 and JavaScript instead of relying on platform-specific SDKs and APIs.                                                                                                                                                            The 13th edition of FAYA:80 Kochi, Hybrid Mobile App Development using Cordova, explicated on the development of hybrid mobile apps using Cordova. It was a great opportunity for all technology enthusiasts and mobile developers to delve deep into the possibilities of Cordova.<strong>Topics Covered</strong>Introduction to Cordova<br>How it works<br>How to use of Cordova CLI effectively<br>UI frameworks for Cordova<br>Build process for multiple platforms<br>Demo"
+		},
+		{
 			"eventID": "C12",
 			"title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
 			"technology": "web security",
@@ -172,149 +304,149 @@
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
-			"eventID": "K12",
-			"title": "Deep Learning with Keras",
-			"technology": "web security",
-			"eventbanner": "12.jpg",
+			"eventID": "T72",
+			"title": "Introduction to WebAssembly - The future of the Web",
+			"technology": "front end",
+			"eventbanner": "72.jpg",
 			"speakers": {
-				"speaker1": "S81"
+				"speaker1": "S14",
+				"speaker2": "S101"
 			},
-			"date": "16/05/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
+			"date": "08/05/2019 5:00 pm",
+			"youtubeID": "XDNRGGzplws",
+			"rating": "5",
+			"details": "Coding have come a long way since it first rendered ‘hello world’ on a phosphor screen. Sophisticated programming languages emerged later on to teach machines what they must do with their binary memory. In time, Javascript became the choice of the day to build web applications.<br>Being a web standard that defines a binary format and a corresponding assembly like text format for executable code on web pages, WebAssembly could potentially run codes as fast as running native machine code.<br>Learn the basics and get acquainted with WebAssembly at the 72nd edition of FAYA:80 Trivandrum. Meet Amal Shehu and Asif Mohammed as they take you through an interactive chronological journey from Javascript to Web assembly. The event is intended as an introductory level discussion on the vast field of WebAssembly. We welcome all enthusiasts, developers and seasoned coders for a fun filled interactive evening on the topic.<strong>Topics Covered</strong>Introduction to WebAssembly.<br>History of web browsers.<br>Working of JS engines.<br>Why WebAssembly.<br>Features of WebAssembly.<br>Demo.<br>Post MVP features"
 		},
 		{
-			"eventID": "K11",
-			"title": "Blockchain CodeLab : No Hype Only Codes",
-			"technology": "web security",
-			"eventbanner": "11.jpg",
+			"eventID": "T71",
+			"title": "VueJS - The progressive framework",
+			"technology": "front end",
+			"eventbanner": "71.jpg",
 			"speakers": {
-				"speaker1": "S80"
+				"speaker1": "S98"
 			},
-			"date": "18/04/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
+			"date": "03/04/2019 5:00 pm",
+			"youtubeID": "4wf-eseq4RU",
+			"rating": "5",
+			"details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 71st edition of FAYA:80 Trivandrum, learn how you can start off and build your own apps and websites with Nirmal Vyas, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."
 		},
 		{
-			"eventID": "K10",
-			"title": "Exploring Augmented Reality: For Today and Tomorrow",
-			"technology": "web security",
-			"eventbanner": "10.jpg",
+			"eventID": "T70",
+			"title": "How to build and deploy IOT solutions on Cloud",
+			"technology": "front end",
+			"eventbanner": "70.jpg",
 			"speakers": {
-				"speaker1": "S79"
+				"speaker1": "S97"
 			},
-			"date": "21/03/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
+			"date": "06/03/2019 5:00 pm",
+			"youtubeID": "aNmKMDWY1fg",
+			"rating": "5",
+			"details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 70th edition of FAYA:80, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Mahroof Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems.<strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."
 		},
 		{
-			"eventID": "K9",
-			"title": "A Roadmap to PHP Frameworks with Laravel",
-			"technology": "web",
-			"eventbanner": "9.jpg",
+			"eventID": "T69",
+			"title": "Quantum Computing Basics: How, What and Why",
+			"technology": "front end",
+			"eventbanner": "69.jpg",
 			"speakers": {
-				"speaker1": "S78"
+				"speaker1": "S95"
 			},
-			"date": "21/02/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
+			"date": "06/02/2019 5:00 pm",
+			"youtubeID": "CX8cbPdgJjY",
+			"rating": "5",
+			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 69th edition of FAYA:80 Trivandrum, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
 		},
 		{
-			"eventID": "K8",
-			"title": "Discovering Cross-platform Mobile App Development Using Xamarin",
-			"technology": "ios android",
-			"eventbanner": "8.jpg",
+			"eventID": "T68",
+			"title": "Introduction to Mechatronics - A case study on Clean Technology",
+			"technology": "front end",
+			"eventbanner": "68.jpg",
 			"speakers": {
-				"speaker1": "S56"
+				"speaker1": "S93"
 			},
-			"date": "17/01/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Writing a single version of code and using it on multiple platforms is a chance any software developer would jump at. Cross-platform application development has been a reality for a while now, but it came with its own set of problems ranging from testing issues to maintainability and sometimes even compromised user experience.<br>The Xamarin development platform, however, was a game changer. Considered to be one of the best, it allows cross-platform mobile app development for iOS, Android, and Windows Phone in C# and .NET.<br>The 8th edition of FAYA:80 Kozhikode, Discovering Cross-platform Mobile App Development Using Xamarin, was an opportunity for all developers and other technology enthusiasts to get familiar with the concept of cross-platform development.strong>Topics Covered:</strong> Introduction to the Xamarin Ecosystem<br>How to Fight the Learning Curve<br>Demo - Xamarin Forms<br>ML, AR demo Using Xamarin"
+			"date": "02/01/2019 5:00 pm",
+			"youtubeID": "JHesMwoXDKk",
+			"rating": "5",
+			"details": "Although the presence of the ever-expanding field of Mechatronics is evident on all walks of industry, much has to be learned on how such systems could be used beneficially to improve human lives. This versatile field of technology aims at collaborating different fields of engineering into finding solutions for real-world problems, particularly in shaping a cleaner world. Mr. Afsal, Automation Head at Genrobotic Innovations explains how important and extensive in use this technology could be in the future, and also tries to debunk some of the myths associated with Mechatronics. The discussion will also include a case study on how mechatronics has been useful in creating clean technology solutions. The 68th edition of FAYA:80 would be an introductory discussion on what the technology entails, and would serve as a guide for enthusiasts and newbies to begin working on mechatronic systems to solve real-world problems.<strong>Topics Covered</strong>Evolution of Mechatronics.<br>How Mechatronics could benefit us.<br>Mechatronics in Clean-Tech.<br>How to begin and develop using Mechatronics.<br>Current challenges, opportunities, and FAQs."
 		},
 		{
-			"eventID": "K7",
-			"title": "Artificial Intelligence- The First Step",
-			"technology": "web",
-			"eventbanner": "7.jpg",
+			"eventID": "T67",
+			"title": "Enterprise UX - Know thy user!",
+			"technology": "front end",
+			"eventbanner": "67.jpg",
 			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S57"
+				"speaker1": "S84"
 			},
-			"date": "20/12/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+			"date": "05/12/2018 5:00 pm",
+			"youtubeID": "ecrg9_tLHw8",
+			"rating": "5",
+			"details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed? Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
 		},
 		{
-			"eventID": "K6",
-			"title": "Deep Learning in AI",
-			"technology": "web frontend",
-			"eventbanner": "6.jpg",
+			"eventID": "T66",
+			"title": "Getting started with Robot operating system",
+			"technology": "",
+			"eventbanner": "66.jpg",
 			"speakers": {
-				"speaker1": "S10"
+				"speaker1": "S83"
 			},
-			"date": "15/11/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. It’s time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep Learning is revolutionizing Artificial Intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 6th edition of FAYA:80 Kozhikode was a deep dive into the advancing trends in Deep Learning, their impact on our ecosystem and their successful application in business leading to the creation of next-generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of Different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+			"date": "07/11/2018 5:00 pm",
+			"youtubeID": "GG8F1w4KGNA",
+			"rating": "5",
+			"details": "No doubt, Robotics has changed the world around us and is continuing to impact the way we do things. The rapid development of Robotics in the recent times has generated much interest in technology circles and beyond because of the new business opportunities it opens up. Today advanced robots are complementing our lives, both at work and at home. As robots have advanced, so have the development tools.                                                                                                 ROS (Robot Operating System) is a set of software libraries and tools to help you build robot applications. The aim of ROS is to create a robotics standard, so you don’t need to reinvent the wheel anymore when building a new robotic software. ROS simplifies the task of creating complex and robust robot behavior across a wide variety of robotic platforms.                                                                                                                                                 The 66th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore ROS and learn how to progress with it.<strong>Topics Covered</strong>Introduction.<br>Why ROS? <br>Architecture & ROS Packages.<br>Getting Started Demo."
 		},
 		{
-			"eventID": "K5",
-			"title": "Launch it with Docker",
-			"technology": "web frontend",
-			"eventbanner": "5.jpg",
+			"eventID": "T65",
+			"title": "Getting started with Robotics",
+			"technology": "",
+			"eventbanner": "65.jpg",
 			"speakers": {
-				"speaker1": "S12"
+				"speaker1": "S82"
 			},
-			"date": "19/10/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. It provides an overall consistent environment for the application, right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 5th edition of FAYA:80 provided the right platform for the technology enthusiasts to understand Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session provided a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo"
+			"date": "03/10/2018 5:00 pm",
+			"youtubeID": "w3b4IR68hxI",
+			"rating": "5",
+			"details": "Today Robotics, Automation and AI has become the need of the hour to compete globally and lead the charts of efficiency while stepping into the world of future. While it is easy to be intimidated by robotics because it incorporates a wide range of skills over a variety of disciplines, there is no reason to be. Getting a grasp on the skills needed to make, manage and innovate on the robots of the future is a great way to progress in the world of Robotics and Automation. The 65th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to break your ice with Robotics and learn how to progress with it. The session also presented a chance for participants to know how Mr. Rejin made use of the limited but specialised facilities and expert talent available in the city for building Rotibot.<strong>Topics Covered</strong>Introduction.<br>Getting started with Robotics.<br>How to bootstrap.<br>Hardware Prototyping in Trivandrum.<br>Case studies - TR-7 & Rotibot."
 		},
 		{
-			"eventID": "K4",
-			"title": "The Changing Face of SEO",
-			"technology": "web",
-			"eventbanner": "4.jpg",
+			"eventID": "T64",
+			"title": "What's new in Angular 6",
+			"technology": "front end",
+			"eventbanner": "64.jpg",
 			"speakers": {
-				"speaker1": "S3"
+				"speaker1": "S82"
 			},
-			"date": "20/09/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 4th edition of FAYA:80- Kozhikode chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+			"date": "05/09/2018 5:00 pm",
+			"youtubeID": "Hr7n3p2bgic",
+			"rating": "5",
+			"details": "Angular 6 is finally here unifying the Framework, Material and CLI. This is a major release focused less on the underlying framework, and more on the toolchain and on making it easier to move quickly with Angular in the future. The new tooling additions are especially great for facilitating upgrading and adding new libraries to your apps. Now, with Angular 6, you can easily update your old packages, create native web elements using Angular Elements, and many other things. The 64th edition of FAYA:80 presented for all technology enthusiasts, front-end developers and project managers a chance to breakdown what’s new with Angular 6 and go over how to upgrade an app over to this new version.<strong>Topics Covered</strong>Introduction.<br>What’s new in Angular 6?<br>Angular Elements.<br>NG6 and RxJS Insights.<br>Getting the best out of NG6 6. Live Demo"
 		},
 		{
-			"eventID": "K3",
-			"title": "Security in Web Applications",
-			"technology": "web security",
-			"eventbanner": "3.jpg",
-			"speakers": {
-				"speaker1": "S47"
-			},
-			"date": "16/08/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Money and other sensitive information change hands over web applications and these are seen as opportunities by hackers. A recent study revealed that more than half of all digital breaches are web applications-based. But review of security before and during production of applications is often neglected.<br>The fact is, securing application environments presents a unique and consistent challenge to IT teams.<br>The 3rd edition of FAYA:80 – Kozhikode Chapter, was an eye opener for all those concerned with web security.strong>Topics Covered:</strong>Basics of Web Application Security<br>OWASP Top 10 Security Vulnerabilities<br>Security in DevOps"
-		},
-		{
-			"eventID": "K2",
-			"title": "A Roadmap for Angular 4",
-			"technology": "web",
-			"eventbanner": "2.jpg",
-			"speakers": {
-				"speaker1": "S14"
-			},
-			"date": "19/07/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 2nd edition of the Kozhikode chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
-		},
-		{
-			"eventID": "K1",
-			"title": "Mining the Opportunities of Bitcoin & Blockchain",
-			"technology": "web",
-			"eventbanner": "1.jpg",
+			"eventID": "T63",
+			"title": "Keeping pace with React",
+			"technology": "front end",
+			"eventbanner": "63.jpg",
 			"speakers": {
 				"speaker1": "S5"
 			},
-			"date": "13/06/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+			"date": "01/08/2018 5:00 pm",
+			"youtubeID": "6tw1lrjDNOc",
+			"rating": "5",
+			"details": "The front-end development ecosystem for web has been constantly upgrading, especially, the javascript libraries and frameworks. React has gained huge popularity in the recent times and has become one of the most favoured frameworks among front end specialists. It is a powerful UI library that brings the power of SSR (Server Side Rendering), isomorphic JavaScript, and component-based web development to modern dynamic web applications. It helps create modular, reusable, and intuitive components efficiently.                                                                                                                The 63rd edition of FAYA:80 became an opportunity for creative minds who were yet to work with React or were considering working with React to explore the basics of React, how it works, and how to get along with it efficiently from a front-end developer’s perspective. It was also an opportunity for developers who worked on React to get support from the community on the challenges they face.<strong>Topics Covered</strong>History of web frontends.<br>Quick look on JS/es6.<br>Prerequisites to React.<br>Core concepts of React.<br>Working Demo"
+		},
+		{
+			"eventID": "T62",
+			"title": "Xtending Realities through AR - VR - MR",
+			"technology": "web security",
+			"eventbanner": "62.jpg",
+			"speakers": {
+				"speaker1": "S51",
+				"speaker2": "S79"
+			},
+			"date": "04/07/2018 5:00 pm",
+			"youtubeID": "EvRO3HmA0-8",
+			"rating": "5",
+			"details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.                                                                                                                                                                                                                                                      The 62nd edition of FAYA:80 Trivandrum, Xtending Realities through AR-VR-MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.<strong>Topics Covered</strong>Immersive Technologies and the Fine line between them.<br>What's new in AR / VR / MR / CR.<br>Opportunities to leverage XR in various Industries.<br>Design Considerations and Best Practices for VR and AR."
 		},
 		{
 			"eventID": "T61",
@@ -1131,7 +1263,7 @@
 			"eventID": "T5",
 			"title": "Continuous Integration and Jenkins",
 			"technology": "web security",
-			"eventbanner": "faya80.jpg",
+			"eventbanner": "5.jpg",
 			"speakers": {
 				"speaker1": "S47"
 			},
@@ -1143,7 +1275,7 @@
 			"eventID": "T4",
 			"title": "Essential Testing Tools for Web Developers",
 			"technology": "web security",
-			"eventbanner": "faya80.jpg",
+			"eventbanner": "4.jpg",
 			"speakers": {
 				"speaker1": "S49",
 				"speaker2": "S45",
@@ -1157,7 +1289,7 @@
 			"eventID": "T3",
 			"title": "Tooling for Modern Web App Developers",
 			"technology": "web frontend",
-			"eventbanner": "faya80.jpg",
+			"eventbanner": "3.jpg",
 			"speakers": {
 				"speaker1": "S38"
 			},
@@ -1169,7 +1301,7 @@
 			"eventID": "T2",
 			"title": "Angular JS",
 			"technology": "web frontend",
-			"eventbanner": "faya80.jpg",
+			"eventbanner": "2.jpg",
 			"speakers": {
 				"speaker1": "S44"
 			},
@@ -1181,7 +1313,7 @@
 			"eventID": "T1",
 			"title": "Apache Solr",
 			"technology": "web security",
-			"eventbanner": "faya80.jpg",
+			"eventbanner": "1.jpg",
 			"speakers": {
 				"speaker1": "S50",
 				"speaker2": "S31"
@@ -1189,6 +1321,283 @@
 			"date": "05/06/2013 5:00 pm",
 			"youtubeID": "",
 			"details": ""
+		},
+		{
+			"eventID": "K23",
+			"title": "Quantum Computing Basics: How, What and Why",
+			"technology": "front end",
+			"eventbanner": "23.jpg",
+			"speakers": {
+				"speaker1": "S95"
+			},
+			"date": "29/05/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name 'quantum mechanics'.<br>Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so.<br>At the 23rd edition of FAYA:80 Calicut, experience the 'entanglements' and 'superpositions' of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, the modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
+		},
+		{
+			"eventID": "K22",
+			"title": "Building Your First Web API (Ruby on Rails)",
+			"technology": "front end",
+			"eventbanner": "22.jpg",
+			"speakers": {
+				"speaker1": "S100"
+			},
+			"date": "24/04/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being the dynamic framework with which Twitter and even Github were made, Ruby on Rails is one among the most popular server-side web application frameworks in the tech world. Apart from making a lot of conventional decisions that might otherwise slow down your app building process, Rails also provides default structures for databases, web services, and web pages. Being a developer friendly framework, Ruby on Rails makes programming way faster than the rest.<br> At the 22nd FAYA:80 Calicut, learn the ‘convention over configuration’ design style of Ruby on Rails with Ashik Salman, Co-founder at Ecart.chat, where he explains in detail the framework and helps you build your very own web API. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess on modern frameworks.<strong>Topics Covered</strong>Introduction to Ruby on Rails.<br>Introduction to RESTful APIs.<br>How to Build a Web API using Rails.<br>Live Demo & Debugging."
+		},
+		{
+			"eventID": "K21",
+			"title": "Build your first Chatbot Application",
+			"technology": "front end",
+			"eventbanner": "21.jpg",
+			"speakers": {
+				"speaker1": "S99"
+			},
+			"date": "20/03/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Business is 20 percent product and 80 percent communication; most of the communication being focused on ways to explain the products, services or benefits that your technology offers over your competition or the entire industry. In this context, it becomes crucial to find new ways to converse with customers and provide resources faster to make their search easier. Chat bots have been employed to tackle this opportunity in the most efficient and cost effective way for a while now.<br>Foreseeing this immense potential of chatbots, organizations have started investing heavily in this space. To understand how we could develop and adapt chatbots to your required industry, meet Rijin Ramesh, the co-founder and head of product and technology of Articbot Pvt Ltd, at the 21st edition of FAYA:80 Calicut.<br>The session would be beneficial for all technology enthusiasts, senior level managers, developers, entrepreneurs and hobbyists to explore the framework and challenges of chatbot development. <strong>Topics Covered</strong>Introduction to Chatbot.<br>Bot framework and Challenges.<br>Will Chatbots replace human agents?.<br>Live demo of Articbot."
+		},
+		{
+			"eventID": "K20",
+			"title": "Building Production Ready Applications with Angular 7",
+			"technology": "front end",
+			"eventbanner": "20.jpg",
+			"speakers": {
+				"speaker1": "S96"
+			},
+			"date": "20/02/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being the most innovative platform to build native apps with ease, Angular has found a great fan followership among developers over the years. Released in late October, the latest version of Angular promises feature updates and performance upgrades that are unheard of in the past. To get in touch with the platform and to make your shift to the latest version, meet Sabeer, Technical lead at FantaCode, explain in detail the ins and outs of the latest version of Angular 7 at the 20th edition of FAYA:80 Kozhikode.<br>The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the awesome features of Angular.<strong>Topics Covered</strong>Introduction to Angular and tooling.<br>Separation of concerns and Dependency Injection in Angular.<br>Introduction to routing in Angular.<br>Communicating between components.<br>How to make your Angular applications production ready."
+		},
+		{
+			"eventID": "K19",
+			"title": "React Native - Bye to Native Development",
+			"technology": "front end",
+			"eventbanner": "19.jpg",
+			"speakers": {
+				"speaker1": "S94"
+			},
+			"date": "16/01/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked. With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kozhikode, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up<br>Layout designing.<br>Demo."
+		},
+		{
+			"eventID": "K18",
+			"title": "Data Engineering using Spark and Scala",
+			"technology": "front end",
+			"eventbanner": "18.jpg",
+			"speakers": {
+				"speaker1": "S88"
+			},
+			"date": "21/11/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
+		},
+		{
+			"eventID": "K17",
+			"title": "Hands-On Data Structures with Python",
+			"technology": "web",
+			"eventbanner": "17.jpg",
+			"speakers": {
+				"speaker1": "S86"
+			},
+			"date": "17/10/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                        Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                              The 15th edition of FAYA:80 Kozhikode will provide an opportunity for all programmers coders who are looking to fine tune their coding skills to get a good working knowledge of data structures along with its hands-on.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+		},
+		{
+			"eventID": "K16",
+			"title": "Hands On Google Flutter",
+			"technology": "web",
+			"eventbanner": "16.jpg",
+			"speakers": {
+				"speaker1": "S87"
+			},
+			"date": "19/09/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
+		},
+		{
+			"eventID": "K15",
+			"title": "Hands-On Data Structures with Python",
+			"technology": "web",
+			"eventbanner": "15.jpg",
+			"speakers": {
+				"speaker1": "S86"
+			},
+			"date": "15/08/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+		},
+		{
+			"eventID": "K14",
+			"title": "Hands-On Git Workflow",
+			"technology": "front end",
+			"eventbanner": "14.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "19/07/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
+		},
+		{
+			"eventID": "K13",
+			"title": "Building Scalable Mobile Applications Using Firebase",
+			"technology": "front end",
+			"eventbanner": "13.jpg",
+			"speakers": {
+				"speaker1": "S85"
+			},
+			"date": "20/06/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
+		},
+		{
+			"eventID": "K12",
+			"title": "Deep Learning with Keras",
+			"technology": "web security",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S81"
+			},
+			"date": "16/05/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
+		},
+		{
+			"eventID": "K11",
+			"title": "Blockchain CodeLab : No Hype Only Codes",
+			"technology": "web security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S80"
+			},
+			"date": "18/04/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
+		},
+		{
+			"eventID": "K10",
+			"title": "Exploring Augmented Reality: For Today and Tomorrow",
+			"technology": "web security",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S79"
+			},
+			"date": "21/03/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
+		},
+		{
+			"eventID": "K9",
+			"title": "A Roadmap to PHP Frameworks with Laravel",
+			"technology": "web",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S78"
+			},
+			"date": "21/02/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
+		},
+		{
+			"eventID": "K8",
+			"title": "Discovering Cross-platform Mobile App Development Using Xamarin",
+			"technology": "ios android",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S56"
+			},
+			"date": "17/01/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Writing a single version of code and using it on multiple platforms is a chance any software developer would jump at. Cross-platform application development has been a reality for a while now, but it came with its own set of problems ranging from testing issues to maintainability and sometimes even compromised user experience.<br>The Xamarin development platform, however, was a game changer. Considered to be one of the best, it allows cross-platform mobile app development for iOS, Android, and Windows Phone in C# and .NET.<br>The 8th edition of FAYA:80 Kozhikode, Discovering Cross-platform Mobile App Development Using Xamarin, was an opportunity for all developers and other technology enthusiasts to get familiar with the concept of cross-platform development.strong>Topics Covered:</strong> Introduction to the Xamarin Ecosystem<br>How to Fight the Learning Curve<br>Demo - Xamarin Forms<br>ML, AR demo Using Xamarin"
+		},
+		{
+			"eventID": "K7",
+			"title": "Artificial Intelligence- The First Step",
+			"technology": "web",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S57"
+			},
+			"date": "20/12/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+		},
+		{
+			"eventID": "K6",
+			"title": "Deep Learning in AI",
+			"technology": "web frontend",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S10"
+			},
+			"date": "15/11/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. It’s time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep Learning is revolutionizing Artificial Intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 6th edition of FAYA:80 Kozhikode was a deep dive into the advancing trends in Deep Learning, their impact on our ecosystem and their successful application in business leading to the creation of next-generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of Different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+		},
+		{
+			"eventID": "K5",
+			"title": "Launch it with Docker",
+			"technology": "web frontend",
+			"eventbanner": "5.jpg",
+			"speakers": {
+				"speaker1": "S12"
+			},
+			"date": "19/10/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. It provides an overall consistent environment for the application, right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 5th edition of FAYA:80 provided the right platform for the technology enthusiasts to understand Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session provided a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo"
+		},
+		{
+			"eventID": "K4",
+			"title": "The Changing Face of SEO",
+			"technology": "web",
+			"eventbanner": "4.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "20/09/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 4th edition of FAYA:80- Kozhikode chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+		},
+		{
+			"eventID": "K3",
+			"title": "Security in Web Applications",
+			"technology": "web security",
+			"eventbanner": "3.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "16/08/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Money and other sensitive information change hands over web applications and these are seen as opportunities by hackers. A recent study revealed that more than half of all digital breaches are web applications-based. But review of security before and during production of applications is often neglected.<br>The fact is, securing application environments presents a unique and consistent challenge to IT teams.<br>The 3rd edition of FAYA:80 – Kozhikode Chapter, was an eye opener for all those concerned with web security.strong>Topics Covered:</strong>Basics of Web Application Security<br>OWASP Top 10 Security Vulnerabilities<br>Security in DevOps"
+		},
+		{
+			"eventID": "K2",
+			"title": "A Roadmap for Angular 4",
+			"technology": "web",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "19/07/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 2nd edition of the Kozhikode chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+		},
+		{
+			"eventID": "K1",
+			"title": "Mining the Opportunities of Bitcoin & Blockchain",
+			"technology": "web",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S5"
+			},
+			"date": "13/06/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
 		}
 	]
 }

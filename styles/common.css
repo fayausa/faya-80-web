@@ -269,6 +269,8 @@ ul {
       position: relative; }
       .event-list li .video-thumb img {
         max-width: 100%; }
+    .event-list li a {
+      text-decoration: none; }
 
 .tech-filter {
   text-align: center; }
@@ -296,13 +298,15 @@ h4.filter-title {
 .video-detail-wrap span {
   display: block;
   font-weight: 100;
-  font-size: 13px; }
+  font-size: 13px;
+  text-decoration: none; }
   .video-detail-wrap span.company {
     font-size: 11px; }
   .video-detail-wrap span.month {
     margin-top: 6px;
     margin-bottom: 2px;
-    font-size: 12px; }
+    font-size: 12px;
+    color: #333; }
   .video-detail-wrap span.edition {
     position: absolute;
     right: 0;
@@ -543,6 +547,8 @@ h4.filter-title {
       color: #444; }
       .main-nav li a:hover {
         color: #87c042; }
+    .main-nav li:last-child {
+      padding-right: 0; }
 
 .event-list .loc-cls .responsive {
   max-width: 100%; }
@@ -611,7 +617,7 @@ h4.filter-title {
     float: right;
     margin-bottom: 0px;
     margin-top: 15px;
-    margin-right: 15px; }
+    margin-right: 0px; }
   .open-stage-content p {
     font-size: 16px; }
   .event-list li {
@@ -657,7 +663,7 @@ h4.filter-title {
     footer p.copy-right-footer {
       font-size: 13px; }
   .contact .form-area {
-    width: 65%; }
+    width: 100%; }
   #speaker-list li a.event-link {
     width: 44%;
     float: right;
@@ -666,9 +672,6 @@ h4.filter-title {
   #speaker-list li p.desc, #speaker-list li h4 {
     width: 40%; }
   #speaker-list li span.profile {
-<<<<<<< HEAD
-    width: 50%; } }
-=======
     width: 50%; }
   .contact-left {
     width: 50%;
@@ -682,4 +685,22 @@ h4.filter-title {
     padding-left: 15px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box; } }
->>>>>>> c9e057b98ea4e83a21bd9fb223787a2eac92da9a
+
+.header-top-wrap {
+  padding: 3px 0px;
+  background: #f1f1f1;
+  display: inline-block;
+  width: 100%;
+  text-align: center; }
+  .header-top-wrap .social_icon-header {
+    list-style: none;
+    text-align: center; }
+    .header-top-wrap .social_icon-header li {
+      padding-left: 15px;
+      display: inline-block; }
+      .header-top-wrap .social_icon-header li a {
+        font-size: 17px;
+        color: #969595; }
+
+.header-top-wrap .social_icon-header li.meetup {
+  padding-left: 10px; }
