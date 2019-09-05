@@ -1619,6 +1619,22 @@
         "eventID" : "C24"
         
       }
+}
+{
+    "speakerID" : "S104",
+     "speaker": "Karthik Kalathil",
+     "profile": "CTO and Co-founder at Wattlecorp | Security Consultant | Cybersecurity Product Innovation Manager | Speaker",
+     "speakerdesc": "Mr. Kalathil Karthik is the CTO and Cofounder of Wattlcorp, with more than 9 years of experience in IT, IT security and Networking. Being a cyber security consultant as well, Kathik has also served as a principal advisor for interpreting standards, policies, best practices and designing system security strategy and architecture across multiple IT projects. He has also performed infrastructure and application penetration tests as well as physical security review and social engineering test for global clients. As a leading information security expert and evangelist, Karthik has conducted talks and trainings in various national and international conferences.",           
+     "thumb":"Karthik-kalathil.jpg",
+     "facebook" : "https://www.facebook.com/kalathil.karthik",
+     "twitter" : "https://twitter.com/karthik_k_nair",
+     "linkedIn" :"https://www.linkedin.com/in/kalathil-karthik/",
+     "email" : "karthik@wattlecorp.com",
+     "events" : 
+      {
+        "eventID" : "K24"
+        
+      }
 },
    ]
 }
