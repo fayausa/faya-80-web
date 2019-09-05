@@ -1587,7 +1587,7 @@
         "eventID" : "T72"
         
       }
-},
+}
        {
     "speakerID" : "S102",
      "speaker": "Deepu Xavier",
@@ -1603,6 +1603,22 @@
         "eventID" : "C23"
         
       }
-}
+          
+{
+    "speakerID" : "S103",
+     "speaker": "Sreelakshmy P",
+     "profile": "Assistant Manager at Deloitte India",
+     "speakerdesc": "An OSCP & CEH Certified security Researcher and enthusiast, Sreelakshmy Palliyil is currently associated with Big 4. With Masters in Cyber security, she is an active member and Woman in Appsec Coordinator at OWASP Kerala Chapter.",           
+     "thumb":"Sreelakshmy.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/lakshmy1988",
+     "linkedIn" :"https://www.linkedin.com/in/sreelakshmy-p/",
+     "email" : "s.lakshmy1988@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C24"
+        
+      }
+},
    ]
 }
