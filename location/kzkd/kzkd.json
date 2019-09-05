@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+      "eventID" : "K24",
+      "title": "Offensive Approach on Cybersecurity",
+      "technology": "security",
+      "eventbanner":"24.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S104"
+      },
+      "date": "26/06/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Until recently, companies have relied on defensive techniques towards external threats to their systems. Although it seems to be the right thing to do, threats are becoming stronger than ever. Moreover, a strong defense is not enough to beat today’s sophisticated hackers. Offensive Security is a proactive technique using offensive methods to protect systems against potential security risks.<br>Rather than creating a system and reacting to external threats as they emerge, offensive Cybersecurity focuses not only on creating counter offensive methods to find out loopholes within the system and fortifying them, but also to devise counter-offences to stop external intrusions into systems.<br>At the 24th FAYA:80 Kozhikode, meet Mr. Karthik Kalathil, CTO and Co-Founder at Wattlecorp, as he guides you through the challenging and fast paced world of offensive Cybersecurity. The session will be beneficial for all technology enthusiasts, developers, senior-level managers and hobbyists alike who would like to plan their offence using offensive Cybersecurity.<strong>Topics Covered</strong>Introduction to Cybersecurity.<br>Breaking the defensive side of security.<br>Offensive Security."
+      
+    }, 
        {
       "eventID" : "K23",
       "title": "Quantum Computing Basics: How, What and Why",
