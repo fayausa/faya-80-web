@@ -1,6 +1,20 @@
 {
    "event": [
        {
+          "eventID" : "C24",
+          "title": "Unboxing the Code for Security",
+          "technology": "security",
+          "eventbanner":"24.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S103"
+          },
+          "date": "19/06/2019 5:00 pm",
+          "youtubeID": "",
+          "details": " Cyber crimes are on the rise, and even systems that claim to be unhackable are falling prey. It is no wonder that most of the top notch businesses around the world are spending billions on securing their data.<br>At the 24th edition of FAYA:80 Kochi, meet Sreelakshmy, a Security researcher associated with the Big 4, as she explains how you could start out into coding securely and take the right steps toward better code review. The event will be helpful for all tech enthusiasts, developers and managers who would like to learn the basics of secure coding.  <strong>Topics Covered</strong>Secure coding basics.<br>Coding approaches and principles.<br>Source code review.<br>Steps in Source code review.<br>Automated and Manual review process."
+        
+      }, 
+       {
           "eventID" : "C23",
           "title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
           "technology": "front end",
