@@ -588,7 +588,7 @@ h4.filter-title {
     padding-left: 15px; }
     .social_icon li a {
       font-size: 22px;
-      color: #969595; }
+      color: #ffffff; }
       .social_icon li a:hover {
         color: #87be49; }
 
@@ -688,7 +688,7 @@ h4.filter-title {
 
 .header-top-wrap {
   padding: 3px 0px;
-  background: #f1f1f1;
+  background: #87c042;
   display: inline-block;
   width: 100%;
   text-align: center; }
@@ -699,8 +699,8 @@ h4.filter-title {
       padding-left: 15px;
       display: inline-block; }
       .header-top-wrap .social_icon-header li a {
-        font-size: 17px;
-        color: #969595; }
+        font-size: 20px;
+        color: #ffffff; }
 
 .header-top-wrap .social_icon-header li.meetup {
   padding-left: 10px; }
