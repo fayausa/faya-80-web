@@ -1683,6 +1683,22 @@
         "eventID" : "C25"
         
       }
+},
+{
+    "speakerID" : "S108",
+     "speaker": "Cipson Thomas",
+     "profile": "Agile & Kanban Coach, Trainer & Consultant",
+     "speakerdesc": "Being an Agile coach and Training Professional, Mr. Cipson has mentored, coached and transformed programs and projects into Agile for over a decade. With over 16 years worth of experience in the IT industry, he has also built high performing diverse and distributed Agile teams and is a hands-on, performance-driven servant leader.",           
+     "thumb":"cipson.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/being_jeswin",
+     "linkedIn" :"https://www.linkedin.com/in/cipson/",
+     "email" : "cipson@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T75"
+        
+      }
 }
    ]
 }
