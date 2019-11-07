@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+          "eventID" : "C25",
+          "title": "Introduction to Alexa Skills and Building your own Skill",
+          "technology": "web",
+          "eventbanner":"25.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S107"
+          },
+          "date": "10/07/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo"
+        
+      }, 
        {
           "eventID" : "C24",
           "title": "Unboxing the Code for Security",
