@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T75",
+           "title": "Liberating Structures Workshop: Re-design how people work together",
+           "technology": "front end",
+           "eventbanner":"75.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S108"
+            },
+           "date": "07/08/2019 5:00 pm",
+           "youtubeID": "aXjTxdaTA1k",
+           "rating": "5",
+           "details": "Haven’t heard of Liberating Structures before? It’s alright, majority of us haven’t.<br>But then, have you ever been to long meetings where you had to stay silent throughout? Although meetings are an inevitable part of getting the best ideas and your teams together, they can also be toxic killing productive hours if not properly structured.<br>What if there were methods for you to optimise your meetings into idea-machines with total engagement and shorter durations? That’s something that all of us who attend meetings should know in the first place - that’s exactly what Liberating Structures does.<br>Liberating Structures is an innovative concept that could disrupt the way companies hold meetings today. These are simple structures designed to facilitate meetings based on the participants focussed on results.<br>Get immersive at the hands-on workshop on the essentials of Liberating Structures at the 75th Palladium edition of FAYA:80. Learn how you can transform your team meetings into idea generation camps and a platform for engaged discussions from Mr. Cipson Thomas, an experienced Agile coach and Liberating Structures evangelist.<br>Join in for the discussion if you strongly believe that meetings could be made better. The session will be immensely beneficial for all enthusiasts, programmers, managers and all others who have attended meetings before and would like to get introduced to transform their meetings into better-engaged discussions.<strong>Topics Covered</strong>Introduction to Liberating Structures.<br>Different approaches in LS.<br>Choosing the right method.<br>How to apply LS in meetings.<br>Live Demo."       
+      },
+      {
           "eventID" : "T74",
            "title": "Adoption of Agile & its Challenges",
            "technology": "front end",
