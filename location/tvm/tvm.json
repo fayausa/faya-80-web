@@ -1,5 +1,20 @@
 {
    "event": [
+      {
+          "eventID" : "T74",
+           "title": "Adoption of Agile & its Challenges",
+           "technology": "front end",
+           "eventbanner":"74.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S105",
+              "speaker2" : "S106" 
+            },
+           "date": "03/07/2019 5:00 pm",
+           "youtubeID": "ZOdI4aK1iog",
+           "rating": "5",
+           "details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 74th edition of FAYA:80 where Srinivas P, Centre head at Alamy India and Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates their story and challenges when they implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."       
+      },
        {
           "eventID" : "T73",
            "title": "A Closer Look into Kubernetes",
@@ -7,7 +22,7 @@
            "eventbanner":"73.jpg",
            "speakers" : 
             {
-              "speaker1" : "S20",
+              "speaker1" : "S20"
             },
            "date": "12/06/2019 5:00 pm",
            "youtubeID": "B6DsPzuKcu4",
