@@ -1667,6 +1667,22 @@
         "eventID" : "T74"
         
       }
+},
+{
+    "speakerID" : "S107",
+     "speaker": "Jeswin S George",
+     "profile": "Quality Assurance Engineer, Qburst Technologies",
+     "speakerdesc": "Worked as Subject Matter Expert in Device Testing at Amazon Development center, Bangalore. Worked with various pilot projects of Alexa devices from its inception in the industry. Was part of launch programs (Amazon Echo, Echo Show and Echo Spot) of Alexa devices in US, UK, India, Canada and Australia. Was part of the Alexa skill certification team, in order to maintain quality content for Alexa users. Solid understanding of debugging skills as well as Testing concepts and Automating techniques. Currently working as a Quality Assurance Engineer at Qburst Technologies,Technopark, Trivandrum.",           
+     "thumb":"jeswin.jpg",
+     "facebook" : "https://www.facebook.com/jeswin.manjinikara",
+     "twitter" : "https://twitter.com/being_jeswin",
+     "linkedIn" :"https://www.linkedin.com/in/jeswin-s-george-a6489192/",
+     "email" : "jeswinsgeorge@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C25"
+        
+      }
 }
    ]
 }
