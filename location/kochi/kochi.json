@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C26",
+          "title": "Adoption of Agile & its Challenges",
+          "technology": "web",
+          "eventbanner":"26.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S106"
+          },
+          "date": "14/08/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 26th edition of FAYA:80 Kochi where Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates his story and challenges when his team implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
+        
+      }, 
+      {
           "eventID" : "C25",
           "title": "Introduction to Alexa Skills and Building your own Skill",
           "technology": "web",
@@ -11,7 +25,7 @@
           },
           "date": "10/07/2019 5:00 pm",
           "youtubeID": "",
-          "details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo"
+          "details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo."
         
       }, 
        {
