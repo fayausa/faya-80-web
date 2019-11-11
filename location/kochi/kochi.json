@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "C27",
+          "title": "Information Retrieval with AquilaDB: The Muscle Memory for your Machine",
+          "technology": "web",
+          "eventbanner":"27.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S112"
+          },
+          "date": "18/09/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Machine Learning is not a new thing in information technology. But often, we find the technology struggling with slow speeds, and applications that use machine learning techniques find themselves slow as well.<br>Even though we have the best practices in ML, we still lack the best tools that could fill in the gaps between Machine Learning models and existing technology. AquilaDB is one such open source project that tries to fill such gaps for some specific use cases.<br>Being a database for applications that uses machine learning, AquilaDB helps developers cache embeddings from their machine learning models for fast retrievals. It’s a clever solution for the problem without consorting to costly cloud services.<br>Come join us for the 27th edition of FAYA:80 Kochi to get introduced into the world of machine learning and the vector Database named AquilaDB. Meet Mr. Jubin Jose, a senior NLP engineer, as he guides you through the techniques of information retrieval and AquilaDB. Everyone who is keen on mastering machine learning will benefit from the session.<br>For more information on AquilaDB, check out: https://github.com/a-mma/AquilaDB<strong>Topics Covered</strong>Introduction to Machine Learning.<br>The issue of Information Retrieval.<br>AquilaDB, what’s it for?.<br>Getting started with AquilaDB.<br>Use case examples and live Demo."
+        
+      }, 
+      {
           "eventID" : "C26",
           "title": "Adoption of Agile & its Challenges",
           "technology": "web",
