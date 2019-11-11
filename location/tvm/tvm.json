@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "T76",
+           "title": "Build your First Voice-enabled application in Alexa and Dialogflow",
+           "technology": "web",
+           "eventbanner":"76.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S109"
+            },
+           "date": "04/09/2019 5:00 pm",
+           "youtubeID": "-0f-Unj8P6g",
+           "rating": "5",
+           "details": "Voice activated control is quickly catching up as the mode of interaction for most of the applications in the foreseeable future. Home automation is one such sector which has witnessed tremendous growth in recent years. While such systems are highly beneficial for productivity, it also helps in energy saving and sustainable living.<br>Dialogflow and Alexa are voice activated systems with the capability to be tied with an infinite number of voice activated commands and easy-to-build and design systems.<br>Join us for the 76th edition of FAYA:80 where Mr. Sijil Salim, a lead engineer at IBS with hands on knowledge in developing voice based technologies introduce you to the world of Voice activated systems and develop application on both the platforms. The event will be beneficial for programmers, project managers, and enthusiasts who would like to get hands on with voice activated systems.<strong>Topics Covered</strong>Getting started with Alexa and Dialogflow.<br>Google Assistant app development using DialogFlow and Heroku.<br>Amazon skill development using AWS skills kit and Lambda.<br>Challenges in working with Voice solutions SDKs."       
+      },
       {
           "eventID" : "T75",
            "title": "Liberating Structures Workshop: Re-design how people work together",
