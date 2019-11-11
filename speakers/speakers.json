@@ -1731,6 +1731,22 @@
         "eventID" : "T77"
         
       }
+},
+{
+    "speakerID" : "S111",
+     "speaker": "Hari Shankar R",
+     "profile": "Technical Support Engineer, Automattic",
+     "speakerdesc": "Hari Shanker R is a Technical Support Engineer at Automattic - the U.S.- based company - that is best known for WordPress.com. Hari has over 12 years of experience in web development - especially WordPress. At Automattic, he works on the eCommerce team, where he works on support, training, and product management for WooCommerce - the open eCommerce platform built on WordPress that powers 28% of all eCommerce stores. Hari has used WordPress to build over 100+ websites and web applications of varying complexities for diverse clients including Fortune 500 companies, prior to joining Automattic. WordPress, FOSS, the GPL License, and the Open Web are his biggest passions, which is what led him to Automattic. A seasoned contributor to the WordPress open-source project (for the support as well as the community team), Hari has delivered talks on WordPress at different events including WordCamps (WordPress-based conferences) across India and North America. Hari is one of the co-organizers of the WordPress Kochi Meetup Group as well as WordCamp Kochi 2019 (the third edition of the first-ever WordPress conference in South India).<br>Prior to joining Automattic in 2016, Hari has worked in a diverse set of domains including Retail Banking, Print Journalism, Education/Training, Project Management, and Social Media Marketing, to name a few. A former columnist at The Hindu, and has also won awards for his work, including the runner-up position at the 2011 Mindful Leadership Award from the University of Dayton, Ohio. You can read more about Hari at https://harishanker.net and https://hari.blog.",           
+     "thumb":"harishanker.jpg",
+     "facebook" : "https://www.facebook.com/harishanker",
+     "twitter" : "https://twitter.com/HariShanker",
+     "linkedIn" :"https://www.linkedin.com/in/harishanker/",
+     "email" : "hari@harishanker.net",
+     "events" : 
+      {
+        "eventID" : "T78"
+        
+      }
 }
    ]
 }
