@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+      "eventID" : "K25",
+      "title": "Scaling Your SaaS Applications In The Cloud",
+      "technology": "web",
+      "eventbanner":"25.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S113"
+      },
+      "date": "17/07/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "SAAS businesses (Software as a Service) are a booming industry all over the world. For such a rapidly growing industry, there is the need for scalability that is impossible using local server environments. For this, modern systems favor the use of cloud based servers to get the job done.<br>Scaling in the cloud has some essential benefits and risks as well. However, this seemingly difficult task of creating cloud based SAAS applications and the different database approaches are in fact easy, if you follow a few right steps. At the 25th edition of FAYA:80 Kozhikode, meet Mr. Amar C.P, the Co-founder and CTO of VinamSolutions Pvt Ltd and Luvia Global Marketing Agency, as he explains how you could start building your database to build cloud based SAAS applications.<br>The session will be beneficial for all technology enthusiasts, programmers, managers and all others who would like to get introduced to the continuously innovating field of Cloud based systems.<strong>Topics Covered</strong>Getting Started.<br>The Database Approach.<br>Comparison of Different Approaches.<br>How to Analyze DB issues.<br>Demo."
+      
+    }, 
       {
       "eventID" : "K24",
       "title": "Offensive Approach on Cybersecurity",
