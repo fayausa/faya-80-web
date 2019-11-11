@@ -1715,6 +1715,22 @@
         "eventID" : "T76"
         
       }
+},
+{
+    "speakerID" : "S110",
+     "speaker": "Akshai M",
+     "profile": "Senior Research Fellow, ICFOSS",
+     "speakerdesc": "Applied Researcher and Embedded Device Engineer with hands-on experience in prototyping Low Power Wireless Embedded Hardware and Hardware Design optimization for Small to Medium scale manufacturing. Akshai M started his career with Kerala Startup Mission where he worked as a Technology Innovation Fellow to create COW Mesh (Community Owned Wireless Mesh) and initiated ExpEYES Project for Schools in Kerala, a project which is now part of KITE, formerly known as IT@School. He then joined FOSSEE, IIT Bombay as a Researcher to create Embedded Hardware to implement IEC61499 based distributed control systems for applications in MSME and as training equipment for Engineering colleges. He later joined ICFOSS and is part of it since 2017. He is currently engaged as a Senior Researcher for LoRaWAN CoE, RISC V CoE and OpenFPGA CoE.",           
+     "thumb":"akshai.jpg",
+     "facebook" : "https://www.facebook.com/akshai.m.ettadayil",
+     "twitter" : "https://twitter.com/m_akshai",
+     "linkedIn" :"https://www.linkedin.com/in/akshaim/",
+     "email" : "akshai.m@icfoss.in",
+     "events" : 
+      {
+        "eventID" : "T77"
+        
+      }
 }
    ]
 }
