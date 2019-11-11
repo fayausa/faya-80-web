@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T78",
+           "title": "WordPress 5.0 - Beyond Blogs",
+           "technology": "frontend",
+           "eventbanner":"78.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S111"
+            },
+           "date": "06/11/2019 5:00 pm",
+           "youtubeID": "2AJliUwdcBo",
+           "rating": "5",
+           "details": "34% of all websites on the internet runs on WordPress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that WordPress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. WordPress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of WordPress 5, using WordPress is easier than ever.<br>Join us for the 78th edition of FAYA:80 for a discussion on the latest developments in WordPress and how you can start building your websites and Apps on WordPress with Hari Shankar R, a technical support engineer at Automattic, the parent company of WordPress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using WordPress 5. 0.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."       
+      },
+      {
           "eventID" : "T77",
            "title": "A Deep Dive into LoRaWAN®: The Future of Internet of Things",
            "technology": "web",
