@@ -1691,12 +1691,28 @@
      "speakerdesc": "Being an Agile coach and Training Professional, Mr. Cipson has mentored, coached and transformed programs and projects into Agile for over a decade. With over 16 years worth of experience in the IT industry, he has also built high performing diverse and distributed Agile teams and is a hands-on, performance-driven servant leader.",           
      "thumb":"cipson.jpg",
      "facebook" : "",
-     "twitter" : "https://twitter.com/being_jeswin",
+     "twitter" : "",
      "linkedIn" :"https://www.linkedin.com/in/cipson/",
      "email" : "cipson@gmail.com",
      "events" : 
       {
         "eventID" : "T75"
+        
+      }
+},
+{
+    "speakerID" : "S109",
+     "speaker": "Sijil Salim",
+     "profile": "Lead Engineer, IBS",
+     "speakerdesc": "Lead engineer at IBS with a rich experience in automation and voice based technologies. Aimed at bringing innovative use of voice based technologies to different niches, has developed varied solutions including a voice controlled solution for Selenium. Holder of a patent in developing a novel and cost-effective solution for railway level-crossing management.",           
+     "thumb":"sijil.jpg",
+     "facebook" : "https://www.facebook.com/sijil.salim",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sijil-s-3b90b440/",
+     "email" : "sijils@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T76"
         
       }
 }
