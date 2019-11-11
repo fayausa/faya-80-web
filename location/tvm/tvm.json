@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+          "eventID" : "T77",
+           "title": "A Deep Dive into LoRaWAN®: The Future of Internet of Things",
+           "technology": "web",
+           "eventbanner":"77.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S110"
+            },
+           "date": "09/10/2019 5:00 pm",
+           "youtubeID": "Dfl8Kq7kvFM",
+           "rating": "5",
+           "details": "The Internet of Things is experiencing its own Wild West phase of development. Accordingly, the biggest task right now is to make the solutions cheaper and increase coverage. Low Power networks like LoRoWAN are the best way to make everyday objects smarter.<br>If you are new to LoRa, this is your chance to learn all about LoRa enabled Devices; as developments in this field opens up a wide range of applications for programmers all over the tech-industry.<br>The technology is the de facto choice for LPWAN connectivity for long-range, low power Internet of Things (IoT) solutions, enabling countless use cases in several key markets including smart cities, buildings, agriculture, metering, logistics and supply chain, and industrial control.<br>At the 77th FAYA:80, Learn how LoRa and LoRaWAN can benefit your projects from Akshai M, a Senior Researcher for LoRaWAN CoE, RISC V CoE, and OpenFPGA CoE. The session will be beneficial for enthusiasts, hobbyists, programmers, project managers and all others who would like to take a deep dive into LoRa, the future of IoT.<strong>Topics Covered</strong>Introduction to LoRa® and LoRaWAN®.<br>Why, Where to and Where not to use LoRaWAN®.<br>Defining a LoRaWAN® enabled IoT Edge node.<br>Network and Service Architecture.<br>How to get started.<br>Use cases and demo.<br>Bonus Topic: UN SDGs and its relevance for defining IoT Use cases."       
+      },
        {
           "eventID" : "T76",
            "title": "Build your First Voice-enabled application in Alexa and Dialogflow",
