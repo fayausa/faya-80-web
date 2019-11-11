@@ -1748,6 +1748,22 @@
         "eventID" : "T78"
         
       }
+},
+{
+    "speakerID" : "S112",
+     "speaker": "Jubin Jose",
+     "profile": "Senior NLP engineer, Cedex Technologies",
+     "speakerdesc": "With more than three years worth of industrial experience in ML and NLP, Mr. Jubin Jose is currently working as a senior NLP engineer at Cedex Technologies. He is also a FLOSS enthusiast with a Keen interest in experimenting with crazy ideas and writing about them. He is also a member of Amma, an organization dedicated to collaborating in projects related to machine learning.",           
+     "thumb":"jubin.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jubin-jose-dev/",
+     "email" : "hello@josejub.in",
+     "events" : 
+      {
+        "eventID" : "C27"
+        
+      }
 }
    ]
 }
