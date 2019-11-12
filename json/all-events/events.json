@@ -26,6 +26,66 @@
 			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
 		},
 		{
+			"eventID": "C28",
+			"title": "WordPress 5.0 - Beyond Blogs",
+			"technology": "web",
+			"eventbanner": "28.jpg",
+			"speakers": {
+				"speaker1": "S111"
+			},
+			"date": "16/10/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 28th edition of FAYA:80 Kochi for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+		},
+		{
+			"eventID": "C27",
+			"title": "Information Retrieval with AquilaDB: The Muscle Memory for your Machine",
+			"technology": "web",
+			"eventbanner": "27.jpg",
+			"speakers": {
+				"speaker1": "S112"
+			},
+			"date": "18/09/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Machine Learning is not a new thing in information technology. But often, we find the technology struggling with slow speeds, and applications that use machine learning techniques find themselves slow as well.<br>Even though we have the best practices in ML, we still lack the best tools that could fill in the gaps between Machine Learning models and existing technology. AquilaDB is one such open source project that tries to fill such gaps for some specific use cases.<br>Being a database for applications that uses machine learning, AquilaDB helps developers cache embeddings from their machine learning models for fast retrievals. It’s a clever solution for the problem without consorting to costly cloud services.<br>Come join us for the 27th edition of FAYA:80 Kochi to get introduced into the world of machine learning and the vector Database named AquilaDB. Meet Mr. Jubin Jose, a senior NLP engineer, as he guides you through the techniques of information retrieval and AquilaDB. Everyone who is keen on mastering machine learning will benefit from the session.<br>For more information on AquilaDB, check out: https://github.com/a-mma/AquilaDB<strong>Topics Covered</strong>Introduction to Machine Learning.<br>The issue of Information Retrieval.<br>AquilaDB, what’s it for?.<br>Getting started with AquilaDB.<br>Use case examples and live Demo."
+		},
+		{
+			"eventID": "C26",
+			"title": "Adoption of Agile & its Challenges",
+			"technology": "web",
+			"eventbanner": "26.jpg",
+			"speakers": {
+				"speaker1": "S106"
+			},
+			"date": "14/08/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 26th edition of FAYA:80 Kochi where Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates his story and challenges when his team implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
+		},
+		{
+			"eventID": "C25",
+			"title": "Introduction to Alexa Skills and Building your own Skill",
+			"technology": "web",
+			"eventbanner": "25.jpg",
+			"speakers": {
+				"speaker1": "S107"
+			},
+			"date": "10/07/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo."
+		},
+		{
+			"eventID": "C24",
+			"title": "Unboxing the Code for Security",
+			"technology": "security",
+			"eventbanner": "24.jpg",
+			"speakers": {
+				"speaker1": "S103"
+			},
+			"date": "19/06/2019 5:00 pm",
+			"youtubeID": "",
+			"details": " Cyber crimes are on the rise, and even systems that claim to be unhackable are falling prey. It is no wonder that most of the top notch businesses around the world are spending billions on securing their data.<br>At the 24th edition of FAYA:80 Kochi, meet Sreelakshmy, a Security researcher associated with the Big 4, as she explains how you could start out into coding securely and take the right steps toward better code review. The event will be helpful for all tech enthusiasts, developers and managers who would like to learn the basics of secure coding.  <strong>Topics Covered</strong>Secure coding basics.<br>Coding approaches and principles.<br>Source code review.<br>Steps in Source code review.<br>Automated and Manual review process."
+		},
+		{
 			"eventID": "C23",
 			"title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
 			"technology": "front end",
@@ -304,6 +364,42 @@
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
+			"eventID": "K26",
+			"title": "WordPress 5.0 - Beyond Blogs",
+			"technology": "web",
+			"eventbanner": "26.jpg",
+			"speakers": {
+				"speaker1": "S111"
+			},
+			"date": "23/10/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 26th edition of FAYA:80 Kozhikode for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+		},
+		{
+			"eventID": "K25",
+			"title": "Scaling Your SaaS Applications In The Cloud",
+			"technology": "web",
+			"eventbanner": "25.jpg",
+			"speakers": {
+				"speaker1": "S113"
+			},
+			"date": "17/07/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "SAAS businesses (Software as a Service) are a booming industry all over the world. For such a rapidly growing industry, there is the need for scalability that is impossible using local server environments. For this, modern systems favor the use of cloud based servers to get the job done.<br>Scaling in the cloud has some essential benefits and risks as well. However, this seemingly difficult task of creating cloud based SAAS applications and the different database approaches are in fact easy, if you follow a few right steps. At the 25th edition of FAYA:80 Kozhikode, meet Mr. Amar C.P, the Co-founder and CTO of VinamSolutions Pvt Ltd and Luvia Global Marketing Agency, as he explains how you could start building your database to build cloud based SAAS applications.<br>The session will be beneficial for all technology enthusiasts, programmers, managers and all others who would like to get introduced to the continuously innovating field of Cloud based systems.<strong>Topics Covered</strong>Getting Started.<br>The Database Approach.<br>Comparison of Different Approaches.<br>How to Analyze DB issues.<br>Demo."
+		},
+		{
+			"eventID": "K24",
+			"title": "Offensive Approach on Cybersecurity",
+			"technology": "security",
+			"eventbanner": "24.jpg",
+			"speakers": {
+				"speaker1": "S104"
+			},
+			"date": "26/06/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Until recently, companies have relied on defensive techniques towards external threats to their systems. Although it seems to be the right thing to do, threats are becoming stronger than ever. Moreover, a strong defense is not enough to beat today’s sophisticated hackers. Offensive Security is a proactive technique using offensive methods to protect systems against potential security risks.<br>Rather than creating a system and reacting to external threats as they emerge, offensive Cybersecurity focuses not only on creating counter offensive methods to find out loopholes within the system and fortifying them, but also to devise counter-offences to stop external intrusions into systems.<br>At the 24th FAYA:80 Kozhikode, meet Mr. Karthik Kalathil, CTO and Co-Founder at Wattlecorp, as he guides you through the challenging and fast paced world of offensive Cybersecurity. The session will be beneficial for all technology enthusiasts, developers, senior-level managers and hobbyists alike who would like to plan their offence using offensive Cybersecurity.<strong>Topics Covered</strong>Introduction to Cybersecurity.<br>Breaking the defensive side of security.<br>Offensive Security."
+		},
+		{
 			"eventID": "K23",
 			"title": "Quantum Computing Basics: How, What and Why",
 			"technology": "front end",
@@ -579,6 +675,85 @@
 			"date": "13/06/2017 5:00 pm",
 			"youtubeID": "",
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+		},
+		{
+			"eventID": "T78",
+			"title": "WordPress 5.0 - Beyond Blogs",
+			"technology": "frontend",
+			"eventbanner": "78.jpg",
+			"speakers": {
+				"speaker1": "S111"
+			},
+			"date": "06/11/2019 5:00 pm",
+			"youtubeID": "2AJliUwdcBo",
+			"rating": "5",
+			"details": "34% of all websites on the internet runs on WordPress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that WordPress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. WordPress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of WordPress 5, using WordPress is easier than ever.<br>Join us for the 78th edition of FAYA:80 for a discussion on the latest developments in WordPress and how you can start building your websites and Apps on WordPress with Hari Shankar R, a technical support engineer at Automattic, the parent company of WordPress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using WordPress 5. 0.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+		},
+		{
+			"eventID": "T77",
+			"title": "A Deep Dive into LoRaWAN®: The Future of Internet of Things",
+			"technology": "web",
+			"eventbanner": "77.jpg",
+			"speakers": {
+				"speaker1": "S110"
+			},
+			"date": "09/10/2019 5:00 pm",
+			"youtubeID": "Dfl8Kq7kvFM",
+			"rating": "5",
+			"details": "The Internet of Things is experiencing its own Wild West phase of development. Accordingly, the biggest task right now is to make the solutions cheaper and increase coverage. Low Power networks like LoRoWAN are the best way to make everyday objects smarter.<br>If you are new to LoRa, this is your chance to learn all about LoRa enabled Devices; as developments in this field opens up a wide range of applications for programmers all over the tech-industry.<br>The technology is the de facto choice for LPWAN connectivity for long-range, low power Internet of Things (IoT) solutions, enabling countless use cases in several key markets including smart cities, buildings, agriculture, metering, logistics and supply chain, and industrial control.<br>At the 77th FAYA:80, Learn how LoRa and LoRaWAN can benefit your projects from Akshai M, a Senior Researcher for LoRaWAN CoE, RISC V CoE, and OpenFPGA CoE. The session will be beneficial for enthusiasts, hobbyists, programmers, project managers and all others who would like to take a deep dive into LoRa, the future of IoT.<strong>Topics Covered</strong>Introduction to LoRa® and LoRaWAN®.<br>Why, Where to and Where not to use LoRaWAN®.<br>Defining a LoRaWAN® enabled IoT Edge node.<br>Network and Service Architecture.<br>How to get started.<br>Use cases and demo.<br>Bonus Topic: UN SDGs and its relevance for defining IoT Use cases."
+		},
+		{
+			"eventID": "T76",
+			"title": "Build your First Voice-enabled application in Alexa and Dialogflow",
+			"technology": "web",
+			"eventbanner": "76.jpg",
+			"speakers": {
+				"speaker1": "S109"
+			},
+			"date": "04/09/2019 5:00 pm",
+			"youtubeID": "-0f-Unj8P6g",
+			"rating": "5",
+			"details": "Voice activated control is quickly catching up as the mode of interaction for most of the applications in the foreseeable future. Home automation is one such sector which has witnessed tremendous growth in recent years. While such systems are highly beneficial for productivity, it also helps in energy saving and sustainable living.<br>Dialogflow and Alexa are voice activated systems with the capability to be tied with an infinite number of voice activated commands and easy-to-build and design systems.<br>Join us for the 76th edition of FAYA:80 where Mr. Sijil Salim, a lead engineer at IBS with hands on knowledge in developing voice based technologies introduce you to the world of Voice activated systems and develop application on both the platforms. The event will be beneficial for programmers, project managers, and enthusiasts who would like to get hands on with voice activated systems.<strong>Topics Covered</strong>Getting started with Alexa and Dialogflow.<br>Google Assistant app development using DialogFlow and Heroku.<br>Amazon skill development using AWS skills kit and Lambda.<br>Challenges in working with Voice solutions SDKs."
+		},
+		{
+			"eventID": "T75",
+			"title": "Liberating Structures Workshop: Re-design how people work together",
+			"technology": "front end",
+			"eventbanner": "75.jpg",
+			"speakers": {
+				"speaker1": "S108"
+			},
+			"date": "07/08/2019 5:00 pm",
+			"youtubeID": "aXjTxdaTA1k",
+			"rating": "5",
+			"details": "Haven’t heard of Liberating Structures before? It’s alright, majority of us haven’t.<br>But then, have you ever been to long meetings where you had to stay silent throughout? Although meetings are an inevitable part of getting the best ideas and your teams together, they can also be toxic killing productive hours if not properly structured.<br>What if there were methods for you to optimise your meetings into idea-machines with total engagement and shorter durations? That’s something that all of us who attend meetings should know in the first place - that’s exactly what Liberating Structures does.<br>Liberating Structures is an innovative concept that could disrupt the way companies hold meetings today. These are simple structures designed to facilitate meetings based on the participants focussed on results.<br>Get immersive at the hands-on workshop on the essentials of Liberating Structures at the 75th Palladium edition of FAYA:80. Learn how you can transform your team meetings into idea generation camps and a platform for engaged discussions from Mr. Cipson Thomas, an experienced Agile coach and Liberating Structures evangelist.<br>Join in for the discussion if you strongly believe that meetings could be made better. The session will be immensely beneficial for all enthusiasts, programmers, managers and all others who have attended meetings before and would like to get introduced to transform their meetings into better-engaged discussions.<strong>Topics Covered</strong>Introduction to Liberating Structures.<br>Different approaches in LS.<br>Choosing the right method.<br>How to apply LS in meetings.<br>Live Demo."
+		},
+		{
+			"eventID": "T74",
+			"title": "Adoption of Agile & its Challenges",
+			"technology": "front end",
+			"eventbanner": "74.jpg",
+			"speakers": {
+				"speaker1": "S105",
+				"speaker2": "S106"
+			},
+			"date": "03/07/2019 5:00 pm",
+			"youtubeID": "ZOdI4aK1iog",
+			"rating": "5",
+			"details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 74th edition of FAYA:80 where Srinivas P, Centre head at Alamy India and Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates their story and challenges when they implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
+		},
+		{
+			"eventID": "T73",
+			"title": "A Closer Look into Kubernetes",
+			"technology": "front end",
+			"eventbanner": "73.jpg",
+			"speakers": {
+				"speaker1": "S20"
+			},
+			"date": "12/06/2019 5:00 pm",
+			"youtubeID": "B6DsPzuKcu4",
+			"rating": "5",
+			"details": "Kubernetes has been massively popular among DevOps community for quite a while now. Popularly known as K8s, this container architecture platform is a massive open source project started by Google. It’s portable and extensible platform for managing containerized workload and services have received worldwide renounce over a very short period of time.<br>With more features and changes being made almost everyday, now would be the best time to get on with Kubernetes, if you haven’t already. Learn how to create platforms to run application containers across hosts at the 73rd FAYA:80 Trivandrum.<br>The session will be beneficial for all technology enthusiasts, coders, managers, entrepreneurs and hobbyists to gain in depth knowledge on the ever-proliferating field of Kubernetes.<br><strong>Topics Covered</strong>An overview of Docker.<br>An introduction to Kubernetes.<br>Anatomy of a Kubernetes cluster.<br>Kubernetes Control Plane.<br>Where should I use Kubernetes."
 		},
 		{
 			"eventID": "T72",
