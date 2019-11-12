@@ -1,13 +1,27 @@
 {
    "event": [
        {
+      "eventID" : "K26",
+      "title": "WordPress 5.0 - Beyond Blogs",
+      "technology": "web",
+      "eventbanner":"26.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S111"
+      },
+      "date": "23/10/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 26th edition of FAYA:80 Kozhikode for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+      
+    }, 
+       {
       "eventID" : "K25",
       "title": "Scaling Your SaaS Applications In The Cloud",
       "technology": "web",
       "eventbanner":"25.jpg",
       "speakers" : 
       {
-        "speaker1" : "S114"
+        "speaker1" : "S113"
       },
       "date": "17/07/2019 5:00 pm",
       "youtubeID": "",
