@@ -310,7 +310,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T39"
+              "event1" : "T39",
+              "event1" : "T73"
             }
 },
       {
@@ -1602,8 +1603,185 @@
         "eventID" : "C23"
         
       }
+},
+{
+    "speakerID" : "S103",
+     "speaker": "Sreelakshmy P",
+     "profile": "Assistant Manager at Deloitte India",
+     "speakerdesc": "An OSCP & CEH Certified security Researcher and enthusiast, Sreelakshmy Palliyil is currently associated with Big 4. With Masters in Cyber security, she is an active member and Woman in Appsec Coordinator at OWASP Kerala Chapter.",           
+     "thumb":"Sreelakshmy.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/lakshmy1988",
+     "linkedIn" :"https://www.linkedin.com/in/sreelakshmy-p/",
+     "email" : "s.lakshmy1988@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C24"
+        
+      }
+},
+{
+    "speakerID" : "S104",
+     "speaker": "Karthik Kalathil",
+     "profile": "CTO and Co-founder at Wattlecorp | Security Consultant | Cybersecurity Product Innovation Manager | Speaker",
+     "speakerdesc": "Mr. Kalathil Karthik is the CTO and Cofounder of Wattlcorp, with more than 9 years of experience in IT, IT security and Networking. Being a cyber security consultant as well, Kathik has also served as a principal advisor for interpreting standards, policies, best practices and designing system security strategy and architecture across multiple IT projects. He has also performed infrastructure and application penetration tests as well as physical security review and social engineering test for global clients. As a leading information security expert and evangelist, Karthik has conducted talks and trainings in various national and international conferences.",           
+     "thumb":"Karthik-kalathil.jpg",
+     "facebook" : "https://www.facebook.com/kalathil.karthik",
+     "twitter" : "https://twitter.com/karthik_k_nair",
+     "linkedIn" :"https://www.linkedin.com/in/kalathil-karthik/",
+     "email" : "karthik@wattlecorp.com",
+     "events" : 
+      {
+        "eventID" : "K24"
+        
+      }
+},
+{
+    "speakerID" : "S105",
+     "speaker": "Srinivas P",
+     "profile": "Centre Head @ Alamy India",
+     "speakerdesc": " Mr. Srinivas has more than 25 years of experience in IT industry in different countries with extensive experience in project / program management and end to end delivery of IT projects.",           
+     "thumb":"Srinivas-p.jpg",
+     "facebook" : "https://www.facebook.com/srinivas.paladugu.9",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/srinivas-paladugu-2a68b53/",
+     "email" : "SrinivasP@alamy.com",
+     "events" : 
+      {
+        "eventID" : "T74"
+        
+      }
+},
+{
+    "speakerID" : "S106",
+     "speaker": "Suresh Kumar M",
+     "profile": "Sr. Principal Manager – Product Development @ Alamy India",
+     "speakerdesc": "Mr. Suresh has 20 years of professional IT experience in large MNCs like Allianz, Envestnet, Alamy Images and government organization like CDIT, in various techno-managerial roles.",           
+     "thumb":"suresh-kumar.jpg",
+     "facebook" : "https://www.facebook.com/sureshkumar.madhavanpillai",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/suresh-kumar-madhavan-pillai-a027b51a/",
+     "email" : "msureshkumars@hotmail.com",
+     "events" : 
+      {
+        "eventID" : "T74",
+        "eventID" : "C26"
+        
+      }
+},
+{
+    "speakerID" : "S107",
+     "speaker": "Jeswin S George",
+     "profile": "Quality Assurance Engineer, Qburst Technologies",
+     "speakerdesc": "Worked as Subject Matter Expert in Device Testing at Amazon Development center, Bangalore. Worked with various pilot projects of Alexa devices from its inception in the industry. Was part of launch programs (Amazon Echo, Echo Show and Echo Spot) of Alexa devices in US, UK, India, Canada and Australia. Was part of the Alexa skill certification team, in order to maintain quality content for Alexa users. Solid understanding of debugging skills as well as Testing concepts and Automating techniques. Currently working as a Quality Assurance Engineer at Qburst Technologies,Technopark, Trivandrum.",           
+     "thumb":"jeswin.jpg",
+     "facebook" : "https://www.facebook.com/jeswin.manjinikara",
+     "twitter" : "https://twitter.com/being_jeswin",
+     "linkedIn" :"https://www.linkedin.com/in/jeswin-s-george-a6489192/",
+     "email" : "jeswinsgeorge@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C25"
+        
+      }
+},
+{
+    "speakerID" : "S108",
+     "speaker": "Cipson Thomas",
+     "profile": "Agile & Kanban Coach, Trainer & Consultant",
+     "speakerdesc": "Being an Agile coach and Training Professional, Mr. Cipson has mentored, coached and transformed programs and projects into Agile for over a decade. With over 16 years worth of experience in the IT industry, he has also built high performing diverse and distributed Agile teams and is a hands-on, performance-driven servant leader.",           
+     "thumb":"cipson.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/cipson/",
+     "email" : "cipson@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T75"
+        
+      }
+},
+{
+    "speakerID" : "S109",
+     "speaker": "Sijil Salim",
+     "profile": "Lead Engineer, IBS",
+     "speakerdesc": "Lead engineer at IBS with a rich experience in automation and voice based technologies. Aimed at bringing innovative use of voice based technologies to different niches, has developed varied solutions including a voice controlled solution for Selenium. Holder of a patent in developing a novel and cost-effective solution for railway level-crossing management.",           
+     "thumb":"sijil.jpg",
+     "facebook" : "https://www.facebook.com/sijil.salim",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sijil-s-3b90b440/",
+     "email" : "sijils@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T76"
+        
+      }
+},
+{
+    "speakerID" : "S110",
+     "speaker": "Akshai M",
+     "profile": "Senior Research Fellow, ICFOSS",
+     "speakerdesc": "Applied Researcher and Embedded Device Engineer with hands-on experience in prototyping Low Power Wireless Embedded Hardware and Hardware Design optimization for Small to Medium scale manufacturing. Akshai M started his career with Kerala Startup Mission where he worked as a Technology Innovation Fellow to create COW Mesh (Community Owned Wireless Mesh) and initiated ExpEYES Project for Schools in Kerala, a project which is now part of KITE, formerly known as IT@School. He then joined FOSSEE, IIT Bombay as a Researcher to create Embedded Hardware to implement IEC61499 based distributed control systems for applications in MSME and as training equipment for Engineering colleges. He later joined ICFOSS and is part of it since 2017. He is currently engaged as a Senior Researcher for LoRaWAN CoE, RISC V CoE and OpenFPGA CoE.",           
+     "thumb":"akshai.jpg",
+     "facebook" : "https://www.facebook.com/akshai.m.ettadayil",
+     "twitter" : "https://twitter.com/m_akshai",
+     "linkedIn" :"https://www.linkedin.com/in/akshaim/",
+     "email" : "akshai.m@icfoss.in",
+     "events" : 
+      {
+        "eventID" : "T77"
+        
+      }
+},
+{
+    "speakerID" : "S111",
+     "speaker": "Hari Shankar R",
+     "profile": "Technical Support Engineer, Automattic",
+     "speakerdesc": "Hari Shanker R is a Technical Support Engineer at Automattic - the U.S.- based company - that is best known for WordPress.com. Hari has over 12 years of experience in web development - especially WordPress. At Automattic, he works on the eCommerce team, where he works on support, training, and product management for WooCommerce - the open eCommerce platform built on WordPress that powers 28% of all eCommerce stores. Hari has used WordPress to build over 100+ websites and web applications of varying complexities for diverse clients including Fortune 500 companies, prior to joining Automattic. WordPress, FOSS, the GPL License, and the Open Web are his biggest passions, which is what led him to Automattic. A seasoned contributor to the WordPress open-source project (for the support as well as the community team), Hari has delivered talks on WordPress at different events including WordCamps (WordPress-based conferences) across India and North America. Hari is one of the co-organizers of the WordPress Kochi Meetup Group as well as WordCamp Kochi 2019 (the third edition of the first-ever WordPress conference in South India).<br>Prior to joining Automattic in 2016, Hari has worked in a diverse set of domains including Retail Banking, Print Journalism, Education/Training, Project Management, and Social Media Marketing, to name a few. A former columnist at The Hindu, and has also won awards for his work, including the runner-up position at the 2011 Mindful Leadership Award from the University of Dayton, Ohio. You can read more about Hari at https://harishanker.net and https://hari.blog.",           
+     "thumb":"harishanker.jpg",
+     "facebook" : "https://www.facebook.com/harishanker",
+     "twitter" : "https://twitter.com/HariShanker",
+     "linkedIn" :"https://www.linkedin.com/in/harishanker/",
+     "email" : "hari@harishanker.net",
+     "events" : 
+      {
+        "eventID" : "T78",
+        "eventID" : "C28",
+        "eventID" : "K26"
+        
+      }
+},
+{
+    "speakerID" : "S112",
+     "speaker": "Jubin Jose",
+     "profile": "Senior NLP engineer, Cedex Technologies",
+     "speakerdesc": "With more than three years worth of industrial experience in ML and NLP, Mr. Jubin Jose is currently working as a senior NLP engineer at Cedex Technologies. He is also a FLOSS enthusiast with a Keen interest in experimenting with crazy ideas and writing about them. He is also a member of Amma, an organization dedicated to collaborating in projects related to machine learning.",           
+     "thumb":"jubin.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jubin-jose-dev/",
+     "email" : "hello@josejub.in",
+     "events" : 
+      {
+        "eventID" : "C27"
+        
+      }
+},
+{
+    "speakerID" : "S113",
+     "speaker": "Amar C.P",
+     "profile": "Co-founder & CTO , VinamSolutions Pvt Ltd & Luvia Global Marketing Agency",
+     "speakerdesc": "Mr. Amar C.P is the Co-founder and CTO of VinamSolutions Pvt Ltd & Luvia Global Marketing Agency. With immense experience in Object Oriented Programming(OOP), Symfony Framework, Linux, PHP7, MySQL, Elasticsearch and many others, he has also worked on projects involving the application of Sphinx,Apache, Kafka, Rabbitmq, Shell Scripting, Postfix, Logstash, Kibana, Rest APIs and DNS.",           
+     "thumb":"amar.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/amarcp/",
+     "email" : "amar@vinam.in",
+     "events" : 
+      {
+        "eventID" : "K25"
+       
+      }
 }
-
-
    ]
 }

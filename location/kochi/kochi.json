@@ -1,6 +1,76 @@
 {
    "event": [
        {
+          "eventID" : "C28",
+          "title": "WordPress 5.0 - Beyond Blogs",
+          "technology": "web",
+          "eventbanner":"28.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S111"
+          },
+          "date": "16/10/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 28th edition of FAYA:80 Kochi for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+        
+      }, 
+      {
+          "eventID" : "C27",
+          "title": "Information Retrieval with AquilaDB: The Muscle Memory for your Machine",
+          "technology": "web",
+          "eventbanner":"27.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S112"
+          },
+          "date": "18/09/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Machine Learning is not a new thing in information technology. But often, we find the technology struggling with slow speeds, and applications that use machine learning techniques find themselves slow as well.<br>Even though we have the best practices in ML, we still lack the best tools that could fill in the gaps between Machine Learning models and existing technology. AquilaDB is one such open source project that tries to fill such gaps for some specific use cases.<br>Being a database for applications that uses machine learning, AquilaDB helps developers cache embeddings from their machine learning models for fast retrievals. It’s a clever solution for the problem without consorting to costly cloud services.<br>Come join us for the 27th edition of FAYA:80 Kochi to get introduced into the world of machine learning and the vector Database named AquilaDB. Meet Mr. Jubin Jose, a senior NLP engineer, as he guides you through the techniques of information retrieval and AquilaDB. Everyone who is keen on mastering machine learning will benefit from the session.<br>For more information on AquilaDB, check out: https://github.com/a-mma/AquilaDB<strong>Topics Covered</strong>Introduction to Machine Learning.<br>The issue of Information Retrieval.<br>AquilaDB, what’s it for?.<br>Getting started with AquilaDB.<br>Use case examples and live Demo."
+        
+      }, 
+      {
+          "eventID" : "C26",
+          "title": "Adoption of Agile & its Challenges",
+          "technology": "web",
+          "eventbanner":"26.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S106"
+          },
+          "date": "14/08/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 26th edition of FAYA:80 Kochi where Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates his story and challenges when his team implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
+        
+      }, 
+      {
+          "eventID" : "C25",
+          "title": "Introduction to Alexa Skills and Building your own Skill",
+          "technology": "web",
+          "eventbanner":"25.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S107"
+          },
+          "date": "10/07/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo."
+        
+      }, 
+       {
+          "eventID" : "C24",
+          "title": "Unboxing the Code for Security",
+          "technology": "security",
+          "eventbanner":"24.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S103"
+          },
+          "date": "19/06/2019 5:00 pm",
+          "youtubeID": "",
+          "details": " Cyber crimes are on the rise, and even systems that claim to be unhackable are falling prey. It is no wonder that most of the top notch businesses around the world are spending billions on securing their data.<br>At the 24th edition of FAYA:80 Kochi, meet Sreelakshmy, a Security researcher associated with the Big 4, as she explains how you could start out into coding securely and take the right steps toward better code review. The event will be helpful for all tech enthusiasts, developers and managers who would like to learn the basics of secure coding.  <strong>Topics Covered</strong>Secure coding basics.<br>Coding approaches and principles.<br>Source code review.<br>Steps in Source code review.<br>Automated and Manual review process."
+        
+      }, 
+       {
           "eventID" : "C23",
           "title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
           "technology": "front end",
