@@ -1746,7 +1746,8 @@
      "events" : 
       {
         "eventID" : "T78",
-        "eventID" : "C28"
+        "eventID" : "C28",
+        "eventID" : "K26"
         
       }
 },
@@ -1768,22 +1769,6 @@
 },
 {
     "speakerID" : "S113",
-     "speaker": "Jubin Jose",
-     "profile": "Senior NLP engineer, Cedex Technologies",
-     "speakerdesc": "With more than three years worth of industrial experience in ML and NLP, Mr. Jubin Jose is currently working as a senior NLP engineer at Cedex Technologies. He is also a FLOSS enthusiast with a Keen interest in experimenting with crazy ideas and writing about them. He is also a member of Amma, an organization dedicated to collaborating in projects related to machine learning.",           
-     "thumb":"jubin.jpg",
-     "facebook" : "",
-     "twitter" : "",
-     "linkedIn" :"https://www.linkedin.com/in/jubin-jose-dev/",
-     "email" : "hello@josejub.in",
-     "events" : 
-      {
-        "eventID" : "C27"
-        
-      }
-},
-{
-    "speakerID" : "S114",
      "speaker": "Amar C.P",
      "profile": "Co-founder & CTO , VinamSolutions Pvt Ltd & Luvia Global Marketing Agency",
      "speakerdesc": "Mr. Amar C.P is the Co-founder and CTO of VinamSolutions Pvt Ltd & Luvia Global Marketing Agency. With immense experience in Object Oriented Programming(OOP), Symfony Framework, Linux, PHP7, MySQL, Elasticsearch and many others, he has also worked on projects involving the application of Sphinx,Apache, Kafka, Rabbitmq, Shell Scripting, Postfix, Logstash, Kibana, Rest APIs and DNS.",           
