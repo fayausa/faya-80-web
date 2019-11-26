@@ -1782,6 +1782,22 @@
         "eventID" : "K25"
        
       }
+},
+{
+    "speakerID" : "S114",
+     "speaker": "Biju K Nair",
+     "profile": "Independent Lawyer, Consultant with Open Invention Network and License on Transfer Network",
+     "speakerdesc": "A lawyer with 16 experience, Mr. Biju K Nair is an Independent lawyer as well as a consultant with Open Invention Network (OIN) and License on Transfer Network (LOT Network) both communities being Defensive Patent Strategy. He has in the past worked with the largest law firms in India at their New Delhi Office. He has been a litigation lawyer involved in Constitutional matters, Intellectual Property law, Information Technology, and Commercial Litigation.<br>He has also been involved in various transactions for Corporates and start-ups advising and involved in licensing technology and software, Open Source Compliance, etc.",           
+     "thumb":"biju.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/biju-k-nair-0499468/",
+     "email" : "bijuailian@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C29"
+       
+      }
 }
    ]
 }
