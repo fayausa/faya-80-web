@@ -1,6 +1,20 @@
 {
    "event": [
        {
+          "eventID" : "C29",
+          "title": "Is That Legal? The Do’s and Dont’s of Open Source Software",
+          "technology": "web",
+          "eventbanner":"29.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S114"
+          },
+          "date": "20/11/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "Developers, engineers, interns, all of us have come across Open Source Software, haven’t we? But did you know that these ‘open’ software almost always comes with licenses, agreements or terms and conditions that could result in serious legal trouble if you are not careful about it?<br>Turns out, there are more than a few types of licenses and there are best practices to be followed to ensure what we use is compliant to legal requirements. At the 29th FAYA:80 Kochi, Mr. Biju Nair, an independent lawyer as well as a consultant with the Open Invention Network (OIN) and License on Transfer Network (LOT Network) helps you through the legal side of Open Source licensing.<br>The session will immensely benefit developers, enthusiasts, project managers, business owners, and hobbyists to understand how to use Open Source Software the right way.<strong>Topics Covered</strong>Open Source - who uses them?.<br>Developers Agreement.<br>Open Source Licenses and Types.<br>Open Source Licensing: Compliance Requirements.<br>Open Chain Project.<br>"
+        
+      }, 
+       {
           "eventID" : "C28",
           "title": "WordPress 5.0 - Beyond Blogs",
           "technology": "web",
