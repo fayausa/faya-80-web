@@ -1798,6 +1798,22 @@
         "eventID" : "C29"
        
       }
+},
+{
+    "speakerID" : "S115",
+     "speaker": "Arun Sasi",
+     "profile": "Arun Sasi. Joomla Template developer & Lead designer, IBS Software",
+     "speakerdesc": "Arun is a Joomla Template Developer with more than 13 years of industry and domain experience. Working as Lead Designer in IBS Software for the past 9 Years, He is an active member of the Joomla volunteering community. He takes great interest in social and humanitarian activities. He is also part of many cultural initiatives and events happening in and around Technopark.",           
+     "thumb":"arun-sasi.jpg",
+     "facebook" : "https://www.facebook.com/arunayr",
+     "twitter" : "https://twitter.com/geekzazi",
+     "linkedIn" :"https://www.linkedin.com/in/arunayr/",
+     "email" : "arunayr@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K27"
+       
+      }
 }
    ]
 }
