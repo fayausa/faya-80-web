@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+      "eventID" : "K27",
+      "title": "Beyond Basics - Joomla!",
+      "technology": "web",
+      "eventbanner":"27.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S115"
+      },
+      "date": "27/11/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Haven’t tried Joomla yet? Being an award-winning Content Management System (CMS), Joomla enables you to build awesome Web sites and powerful online applications. Yet, many are unfamiliar with the seemingly long list of advantages that it offers over other platforms.<br>With more than 7000 extensions, a world-class UI, and excellent security, much has to be learned about this free and open-source software. To discuss the benefits of Joomla and to check whether Joomla is right for your business, join us for the 27th FAYA:80 Kozhikode with Mr. Arun Sasi, a seasoned Joomla Template developer and an active member of the Joomla volunteering Community.<br>The discussion will benefit programmers, project managers and hobbyists alike in familiarizing them with Joomla and to test whether the platform would suit their business requirements or not. Book your tickets now, for there will be Joomla template coupon code giveaways to all attendees.<strong>Topics Covered</strong>Introduction to Joomla! - Up & Running.<br>What's New in Joomla! 4.<br>Getting started with Template Framework & Page Builder.<br>Set up an online store using Joomla!."
+      
+    }, 
        {
       "eventID" : "K26",
       "title": "WordPress 5.0 - Beyond Blogs",
