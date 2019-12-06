@@ -1802,7 +1802,7 @@
 {
     "speakerID" : "S115",
      "speaker": "Arun Sasi",
-     "profile": "Arun Sasi. Joomla Template developer & Lead designer, IBS Software",
+     "profile": "Joomla Template developer & Lead designer, IBS Software",
      "speakerdesc": "Arun is a Joomla Template Developer with more than 13 years of industry and domain experience. Working as Lead Designer in IBS Software for the past 9 Years, He is an active member of the Joomla volunteering community. He takes great interest in social and humanitarian activities. He is also part of many cultural initiatives and events happening in and around Technopark.",           
      "thumb":"arun-sasi.jpg",
      "facebook" : "https://www.facebook.com/arunayr",
@@ -1812,6 +1812,22 @@
      "events" : 
       {
         "eventID" : "K27"
+       
+      }
+},
+{
+    "speakerID" : "S116",
+     "speaker": "Samuel",
+     "profile": "Cofounder of MistEO",
+     "speakerdesc": "Samuel is the cofounder of MistEO - a computational sustainability company working in the domain of Extreme Weather. Samuel is also the co-founder of SatSure, a satellite data analytics startup based in Bangalore and Statlogic, an AgriIOT company based in Trivandrum and Dubai. Samuel holds a Masters Degrees in Conflict Resolution and Communication Research and is an alumni of Mar Ivanious College in Trivandrum. He is also a Partner of the Kerala Space Park, A Government of Kerala Initiative promoting Space Tech companies to work out of our state.",           
+     "thumb":"samuel.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "samuel@misteo.co",
+     "events" : 
+      {
+        "eventID" : "T79"
        
       }
 }
