@@ -1,5 +1,19 @@
 {
    "event": [
+    {
+          "eventID" : "T79",
+           "title": "All about AgriOS: How to farm better using IoT",
+           "technology": "web",
+           "eventbanner":"79.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S116"
+            },
+           "date": "04/12/2019 5:00 pm",
+           "youtubeID": "AjDB1kzAIOU",
+           "rating": "5",
+           "details": "Modern agriculture is becoming more scalable and profitable thanks to the advancements in satellite imagery, sensors, robots, and other automated systems. India is also witnessing an agritech revolution spurred by agripreneurs capable of disrupting the agricultural supply chain with cutting edge innovations. But it is challenging for technologists to spot and understand the possibilities and methods to adopt from the widely scattered information.<br>AgriOs is a novel concept that envisions to combine all the technological improvements that could be brought in the field of agriculture into an umbrella platform, an OS that helps farmers get access to all farming related technology just a click away.<br>To discuss and explore the latest opportunities and the areas of improvement in the world of farming technology, join us for the 79th FAYA:80, where Mr. Samuel, the co-founder of MistEO, explains the benefits of AgriOs, and how IoT systems could bring the next agricultural revolution.<br>The session will be immensely beneficial for a wide variety of audiences, including developers, farming enthusiasts, and hobbyists alike who would like to learn the impact and opportunities of IoT in Farming.<strong>Topics Covered</strong>IoT and Farming.<br>Challenges in agricultural productivity.<br>Introduction to AgriOs.<br>How to implement tech into agriculture.<br>Further Opportunities and Challenges."       
+      },
       {
           "eventID" : "T78",
            "title": "WordPress 5.0 - Beyond Blogs",
