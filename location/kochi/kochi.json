@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+          "eventID" : "C30",
+          "title": "Building Intelligent applications using Azure Cognitive Services",
+          "technology": "web",
+          "eventbanner":"30.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S117"
+          },
+          "date": "11/12/2019 5:00 pm",
+          "youtubeID": "",
+          "details": "ook around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
+        
+      }, 
        {
           "eventID" : "C29",
           "title": "Is That Legal? The Do’s and Dont’s of Open Source Software",
