@@ -988,7 +988,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T50-5"
+              "event1" : "T50-5",
+              "event1" : "T80" 
             }
 },
       {
@@ -1828,6 +1829,22 @@
      "events" : 
       {
         "eventID" : "T79"
+       
+      }
+},
+{
+    "speakerID" : "S117",
+     "speaker": "Liji Thomas",
+     "profile": "Technical Manager, Valorem Reply",
+     "speakerdesc": "Liji Thomas is a Technical Manager for Valorem Reply with over a decade of industry experience in technical and leadership roles. She leads a team focused on transforming the digital experiences for a global clientele by creating state-of-the-art solutions, from modern web applications to AI-driven chatbots.",           
+     "thumb":"liji-thomas.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/liji-thomas/",
+     "email" : "lthomas@valorem.com",
+     "events" : 
+      {
+        "eventID" : "C30"
        
       }
 }
