@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+          "eventID" : "T80",
+           "title": "Building Smarter Wearables: AI in Everyday life",
+           "technology": "web",
+           "eventbanner":"80.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S63"
+            },
+           "date": "09/01/2020 5:00 pm",
+           "youtubeID": "t47E2_xSZa0",
+           "rating": "5",
+           "details": "Fond of AI? Built anything using AI? Think you could solve problems using AI? If your answer to any of the above is a resounding ‘YES’, here’s an event that you just can’t miss this new year.<br>With breakthroughs in wearable technology happening almost on a daily basis, AI is all set to be a force to be reckoned with. We welcome you to the 80th edition of FAYA:80 where Mr.Sanju Mathew Kayalvarath, the CEO of Code of Duty Innovations, provides a glimpse into their journey so far designing smart wearables using AI.<br>The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know and discuss the steps in designing, developing and implementing AI-based systems to solve real-world problems.<strong>Topics Covered</strong>Our big idea, or so we thought.<br>Elixir: Our first step.<br>Software, Hardware, and AI design.<br>Insights from the AI industry.<br>Q&A."       
+      },
     {
           "eventID" : "T79",
            "title": "All about AgriOS: How to farm better using IoT",
