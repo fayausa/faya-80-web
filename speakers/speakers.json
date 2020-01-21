@@ -988,7 +988,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T50-5"
+              "event1" : "T50-5",
+              "event1" : "T80" 
             }
 },
       {
