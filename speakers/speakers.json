@@ -1863,6 +1863,22 @@
         "eventID" : "C31"
        
       }
+},
+      {
+    "speakerID" : "S119",
+     "speaker": "Vinesh S",
+     "profile": "Senior Frontend Engineer, QBurst",
+     "speakerdesc": "About 6 years of experience in the IT field, Vinesh started his career as a PHP Developer but gradually fell in love with JavaScript and started exploring it and it's frameworks and libraries. He has hands-on experience in frameworks like Angular, React with a better understanding of core JavaScript and it's peculiar concepts. He is continuously interested in learning new upcoming technologies and also share it with the other technology aspirants. He loves discussing how one can write better code.",           
+     "thumb":"vinesh.jpg",
+     "facebook" : "https://www.facebook.com/vinesh.s.7771",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/s-vinesh-10139572/",
+     "email" : "svinesh3691@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T81"
+       
+      }
 }
    ]
 }
