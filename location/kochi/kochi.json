@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "C31",
+          "title": "Machine Learning Made Easy with Kaggle",
+          "technology": "web",
+          "eventbanner":"31.jpg",
+          "speakers" : 
+          {
+            "speaker1" : "S118"
+          },
+          "date": "22/01/2020 5:00 pm",
+          "youtubeID": "lD3CrezL5r8",
+          "details": "Companies all over the world have been going through a so-called AI revolution. Traditional business processes like hiring, pricing, strategy, etc have started using Artificial intelligence to make them 10 times better and easier.<br>Data Science has become an integral part of these transformations. And with popular platforms like Kaggle, users can now learn, explore and collaborate with top data science enthusiasts around the world.<br>Join us for the 30th FAYA:80 Kochi, where Mr. Shahul ES, a Data Science enthusiast, Kaggle Master and the co-founder of alrt.ai discusses the advantages and how best users could get into using Kaggle. The session will be beneficial to all DS and ML enthusiasts, project managers, tech enthusiasts and hobbyists alike who wish to get an introduction into the fascinating field of Data Science and Machine Learning.<strong>Topics Covered</strong>Getting started with Data Science.<br>What’s Kaggle?<br>How to start Kaggling?<br>Kaggle best practices.<br>How to learn DS using Kaggle<br>Ask me anything."
+        
+      }, 
       {
           "eventID" : "C30",
           "title": "Building Intelligent applications using Azure Cognitive Services",
@@ -11,7 +25,7 @@
           },
           "date": "11/12/2019 5:00 pm",
           "youtubeID": "",
-          "details": "ook around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
+          "details": "Look around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
         
       }, 
        {
