@@ -1847,6 +1847,22 @@
         "eventID" : "C30"
        
       }
+},
+      {
+    "speakerID" : "S118",
+     "speaker": "Shahul E S",
+     "profile": "Co-founder at alrt.ai",
+     "speakerdesc": "Currently the Co-Founder & Chief Data Scientist at alrt.ai, Shahul is a Data Science and Machine learning enthusiast, with hands-on experience in Data Analytics, Data Science, Machine learning, Deep learning, and Natural language processing. He is the one and only Kaggle Master from the state of Kerala and is ranked in the top 25 among its 100k+ Kaggle users.<br>https://shahules786.github.io/.",           
+     "thumb":"shahul.jpg",
+     "facebook" : "https://www.facebook.com/Shahules786",
+     "twitter" : "https://twitter.com/Shahules786",
+     "linkedIn" :"https://www.linkedin.com/in/shahules/",
+     "email" : "shahules786@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C31"
+       
+      }
 }
    ]
 }
