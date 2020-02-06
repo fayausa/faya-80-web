@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T81",
+           "title": "Getting ahead with RxJS: A complete guide",
+           "technology": "front end",
+           "eventbanner":"81.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S119"
+            },
+           "date": "05/02/2020 5:00 pm",
+           "youtubeID": "lD3CrezL5r8",
+           "rating": "5",
+           "details": "No doubt one of the most searched for libraries in web development today, RxJS is here to stay and rightfully so. With its powerful, and functional approach in dealing with events and integration points into an expanding branch of frameworks, libraries, and utilities, now would be a great time to learn RxJS and Reactive Programming and apply them to speed up your development and maintenance.<br>To start off your journey and explore into RX libraries, join us for the 81st FAYA:80 where Mr. Vinesh S, a seasoned developer, and RxJS enthusiast and evangelist guides you through this reactive programming JavaScript library.<br>The event is open for developers, project managers, tech enthusiasts and hobbyists alike who would like to deepen their understanding of reactive programming and the fascinating field of RxJS.<strong>Topics Covered</strong>What is RxJS and Reactive Programming.<br>Why and how it differs from other likely technologies.<br>Basic concepts of RxJS.<br>How things can be better done with RxJS.<br>Frequently used RxJS functions and operators.<br>Common Design Patterns in RxJS.<br>Real scenario examples."       
+      },
+      {
           "eventID" : "T80",
            "title": "Building Smarter Wearables: AI in Everyday life",
            "technology": "web",
