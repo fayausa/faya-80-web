@@ -1895,6 +1895,22 @@
         "eventID" : "T82"
        
       }
+},
+       {
+    "speakerID" : "S121",
+     "speaker": "Vinod Narayan",
+     "profile": "Agile Coach | SAFe® SPC | Educator, Founder, Penpositive Inc.",
+     "speakerdesc": "Agile Coach and Digital Transformation Lead with over 25 years in Technology Management, as a consultant, Entrepreneur, and Servant Leader facilitating Engineering & Product teams in their journey of agile delivery.<br>As a Poet, Blogger, Podcaster, and independent filmmaker he has made his presence felt strongly in all these domains. And he wants the same for others. Also a Video Podcaster under the alias Ballatha Pahayan (ബല്ലാത്ത പഹയൻ) on YouTube.",           
+     "thumb":"Vinod-Narayan.jpg",
+     "facebook" : "https://www.facebook.com/pahayanmedia/",
+     "twitter" : "https://twitter.com/vinodnarayan",
+     "linkedIn" :"https://www.linkedin.com/in/vinodn/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T85"
+       
+      }
 }
    ]
 }
