@@ -1,5 +1,19 @@
 {
    "event": [
+       {
+          "eventID" : "T82",
+           "title": "Driving Social Innovation for a Sustainable World",
+           "technology": "Web",
+           "eventbanner":"82.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S120"
+            },
+           "date": "04/03/2020 5:00 pm",
+           "youtubeID": "nkzerIZQSdk",
+           "rating": "5",
+           "details": "There's no doubt about the fact that there is an unimaginable jump in technology with every passing generation. Although much of it has been guided at creating better systems of comfort, significant innovations have been made aimed at the betterment of social conditions.<br> Thanks to our technologists, developing socially viable projects are easier than ever before. But let's face it, there are still many roadblocks that seem to slow down our efforts at building a socially viable technological society.<br> At our 82nd FAYA:80, join us for an immersive discussion on the significance and the latest developments in Social Innovation with Mr. Robin Tommy, Incubation Lab Head at Tata Consultancy Services. The session will be beneficial for all developers, project managers, tech enthusiasts, and hobbyists who believe technology can improve the world around them.<strong>Topics Covered</strong>Defining Social Innovation.<br>Assistive Technology and the journey.<br>How technology roadmap can help in creating a better world.<br>Technology and Social Impact.<br>Various social innovation use cases."       
+      },
       {
           "eventID" : "T81",
            "title": "Getting ahead with RxJS: A complete guide",

@@ -1879,6 +1879,38 @@
         "eventID" : "T81"
        
       }
+},
+       {
+    "speakerID" : "S120",
+     "speaker": "Robin Tommy",
+     "profile": "Incubation Lab Head, Tata Consultancy Services",
+     "speakerdesc": "Mr. Robin Tommy has been involved in as a Social Innovator, Incubation Consultant, Researcher, Startup Mentor, and Emerging Tech Stack adviser. He has been ranked # 21 amongst Top 100 thought leaders and influencers for 2020 by the Thinkers360 platform. He has filed 45 patents with 7 grants and published more than 25 research papers in IEEE, Springer, and ACM. He is also instrumental in creating IP based researched products and platforms for customers in the emerging technology business. He has been involved in various social innovations research for the differently-abled society. He has won the TATA Innovista 2018 award for the project contributions in social innovation. His team has won the TMA (Trivandrum Management Association) Disruptive CSR Award 2018, KMA (Kerala Management Association) CSR Award 2018, KMA CSR AWARD 2019. His team also won the TCS Innovista 2017, 2018 and 2019 awards. The Rotary International CSR gold Award, 2019 was awarded to Robin Tommy and his team.",           
+     "thumb":"Robin-Tommy.jpg",
+     "facebook" : "https://www.facebook.com/robin.tommy",
+     "twitter" : "https://twitter.com/robintomy",
+     "linkedIn" :"https://www.linkedin.com/in/robintommy/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T82"
+       
+      }
+},
+       {
+    "speakerID" : "S121",
+     "speaker": "Vinod Narayan",
+     "profile": "Agile Coach | SAFe® SPC | Educator, Founder, Penpositive Inc.",
+     "speakerdesc": "Agile Coach and Digital Transformation Lead with over 25 years in Technology Management, as a consultant, Entrepreneur, and Servant Leader facilitating Engineering & Product teams in their journey of agile delivery.<br>As a Poet, Blogger, Podcaster, and independent filmmaker he has made his presence felt strongly in all these domains. And he wants the same for others. Also a Video Podcaster under the alias Ballatha Pahayan (ബല്ലാത്ത പഹയൻ) on YouTube.",           
+     "thumb":"Vinod-Narayan.jpg",
+     "facebook" : "https://www.facebook.com/pahayanmedia/",
+     "twitter" : "https://twitter.com/vinodnarayan",
+     "linkedIn" :"https://www.linkedin.com/in/vinodn/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T85"
+       
+      }
 }
    ]
 }
