@@ -1,5 +1,19 @@
 {
    "event": [
+      {
+          "eventID" : "T85",
+           "title": "Being Agile with Ballatha Pahayan",
+           "technology": "Web",
+           "eventbanner":"85.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S121"
+            },
+           "date": "18/06/2020 8:00 pm",
+           "youtubeID": "PNsPx4mLHaQ",
+           "rating": "5",
+           "details": "Our world is asking for social distancing. Yet, we as a community are closer than ever before. With work from home becoming our new normal, much is yet to be explored into how teams could create productive work systems as they previously had.<br>Agile is a widely discussed topic among tech communities. The pandemic has changed a lot in how tech companies work. Is Agile still relevant? Or has it become just another obsolete buzzword? Let's know it from an expert's POV. We welcome you all to our 85th FAYA:80, to renew the core ideas on Agile and to explore how relevant in the times of prolonged sit-at-home work conditions. <br>Join in for a fun-filled panel discussion with Vinod Narayan a.k.a Ballatha Pahayan as he helps you organize, reflect, and improvise on the best practices on Agile. The discussion will also feature industry experts such as Mr. Cipson Thomas and Mr. Jithesh Pillai just to name a few. The session is free for all, so we request you and your team to join in and get your doubts cleared from this truly agile methodology."       
+      },
        {
           "eventID" : "T82",
            "title": "Driving Social Innovation for a Sustainable World",
