@@ -1,5 +1,61 @@
 {
    "event": [
+      {
+          "eventID" : "T85",
+           "title": "Being Agile with Ballatha Pahayan",
+           "technology": "Web",
+           "eventbanner":"85.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S121"
+            },
+           "date": "18/06/2020 8:00 pm",
+           "youtubeID": "PNsPx4mLHaQ",
+           "rating": "5",
+           "details": "Our world is asking for social distancing. Yet, we as a community are closer than ever before. With work from home becoming our new normal, much is yet to be explored into how teams could create productive work systems as they previously had.<br>Agile is a widely discussed topic among tech communities. The pandemic has changed a lot in how tech companies work. Is Agile still relevant? Or has it become just another obsolete buzzword? Let's know it from an expert's POV. We welcome you all to our 85th FAYA:80, to renew the core ideas on Agile and to explore how relevant in the times of prolonged sit-at-home work conditions. <br>Join in for a fun-filled panel discussion with Vinod Narayan a.k.a Ballatha Pahayan as he helps you organize, reflect, and improvise on the best practices on Agile. The discussion will also feature industry experts such as Mr. Cipson Thomas and Mr. Jithesh Pillai just to name a few. The session is free for all, so we request you and your team to join in and get your doubts cleared from this truly agile methodology."       
+      },
+       {
+          "eventID" : "T82",
+           "title": "Driving Social Innovation for a Sustainable World",
+           "technology": "Web",
+           "eventbanner":"82.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S120"
+            },
+           "date": "04/03/2020 5:00 pm",
+           "youtubeID": "nkzerIZQSdk",
+           "rating": "5",
+           "details": "There's no doubt about the fact that there is an unimaginable jump in technology with every passing generation. Although much of it has been guided at creating better systems of comfort, significant innovations have been made aimed at the betterment of social conditions.<br> Thanks to our technologists, developing socially viable projects are easier than ever before. But let's face it, there are still many roadblocks that seem to slow down our efforts at building a socially viable technological society.<br> At our 82nd FAYA:80, join us for an immersive discussion on the significance and the latest developments in Social Innovation with Mr. Robin Tommy, Incubation Lab Head at Tata Consultancy Services. The session will be beneficial for all developers, project managers, tech enthusiasts, and hobbyists who believe technology can improve the world around them.<strong>Topics Covered</strong>Defining Social Innovation.<br>Assistive Technology and the journey.<br>How technology roadmap can help in creating a better world.<br>Technology and Social Impact.<br>Various social innovation use cases."       
+      },
+      {
+          "eventID" : "T81",
+           "title": "Getting ahead with RxJS: A complete guide",
+           "technology": "front end",
+           "eventbanner":"81.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S119"
+            },
+           "date": "05/02/2020 5:00 pm",
+           "youtubeID": "lD3CrezL5r8",
+           "rating": "5",
+           "details": "No doubt one of the most searched for libraries in web development today, RxJS is here to stay and rightfully so. With its powerful, and functional approach in dealing with events and integration points into an expanding branch of frameworks, libraries, and utilities, now would be a great time to learn RxJS and Reactive Programming and apply them to speed up your development and maintenance.<br>To start off your journey and explore into RX libraries, join us for the 81st FAYA:80 where Mr. Vinesh S, a seasoned developer, and RxJS enthusiast and evangelist guides you through this reactive programming JavaScript library.<br>The event is open for developers, project managers, tech enthusiasts and hobbyists alike who would like to deepen their understanding of reactive programming and the fascinating field of RxJS.<strong>Topics Covered</strong>What is RxJS and Reactive Programming.<br>Why and how it differs from other likely technologies.<br>Basic concepts of RxJS.<br>How things can be better done with RxJS.<br>Frequently used RxJS functions and operators.<br>Common Design Patterns in RxJS.<br>Real scenario examples."       
+      },
+      {
+          "eventID" : "T80",
+           "title": "Building Smarter Wearables: AI in Everyday life",
+           "technology": "web",
+           "eventbanner":"80.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S63"
+            },
+           "date": "09/01/2020 5:00 pm",
+           "youtubeID": "t47E2_xSZa0",
+           "rating": "5",
+           "details": "Fond of AI? Built anything using AI? Think you could solve problems using AI? If your answer to any of the above is a resounding ‘YES’, here’s an event that you just can’t miss this new year.<br>With breakthroughs in wearable technology happening almost on a daily basis, AI is all set to be a force to be reckoned with. We welcome you to the 80th edition of FAYA:80 where Mr.Sanju Mathew Kayalvarath, the CEO of Code of Duty Innovations, provides a glimpse into their journey so far designing smart wearables using AI.<br>The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know and discuss the steps in designing, developing and implementing AI-based systems to solve real-world problems.<strong>Topics Covered</strong>Our big idea, or so we thought.<br>Elixir: Our first step.<br>Software, Hardware, and AI design.<br>Insights from the AI industry.<br>Q&A."       
+      },
     {
           "eventID" : "T79",
            "title": "All about AgriOS: How to farm better using IoT",
