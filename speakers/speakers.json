@@ -1911,6 +1911,36 @@
         "eventID" : "T85"
        
       }
-}
+},
+       {
+          "speakerID" : "S122”,
+           "speaker": "Amrit Sanjeev",
+           "profile": "Staff Developer Advocate at Google and leads the developer advocacy initiatives for India.",
+           "speakerdesc": "Amrit Sanjeev works as a Staff Developer Advocate at Google and leads the developer advocacy initiatives for India. He has over 15 years of industry experience and has worked in different areas like OS development, large scale backend systems design, software architecture and mobile research. Prior to Google he worked in companies like Inapp, IBM, Intuit & Philips Research. He was the first person from India to be accepted as a Google developer expert for Android and as an Intel innovator. He is the founder of Blrdroid - the largest open android developer community in India and a total petrol head .",           
+           "thumb":"amrit-sanjee.jpg",
+           "facebook" : "https://www.facebook.com/amrit.sanjeev",
+           "twitter" : "https://twitter.com/amsanjeev",
+           "linkedIn" :"https://www.linkedin.com/search/results/all/?keywords=Amrit%20Sanjeev&origin=GLOBAL_SEARCH_HEADER",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T84”
+            }
+      },
+       {
+          "speakerID" : "S123”,
+           "speaker": "Mandar Patil ",
+           "profile": "Senior Solutions Architecture at Amazon Internet Services Private Limited.”,
+           "speakerdesc": "Mandar Patil is Senior Solutions Architecture at Amazon Internet Services Private Limited. He has been working various public sector customers include State and Local Government, Education and Non-Profits in India to help their cloud journey. He has worked in various technology roles at customers like GE Healthcare, Apple, Ingram Micro as. He studied Engineering from Mumbai University and post-graduation in advanced software technology from NCST. Nikhil Krishna is a Solutions Architect working in UST Global with over 16 years of experience in IT Consulting and Product Development. His areas of interest include Reactive and Distributed Systems Programming Languages and Bitcoin. He is passionate about programming for the web and its potential as a tool to transform user experience. His career spans across diverse roles from Dev Ops to Developer to Quality Assurance to Product Owner. Jyothis Joseph is an entrepreneur by passion and has over 16 years of experience in the IT industry, leading global teams comprising of Operations, Technology, and Sales. Jyothis founded two companies, Ideamine, a managed cloud company in 2009, and Empressem, a Mobile Apps company in 2014. Ideamine was AWS Advanced partner since 2012 and they were awarded as best emerging partners for AWS in 2016. Both Ideamine and Empressem were acquired by Chicago based Netrix ( netrixllc.com) in Oct 2017. He is a sports evangelist and a Marathon runner. He successfully finished his Ironman 70.3 tittle in Bangkok recently.",           
+           "thumb":"mandar-patil.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T86”
+            }
+      },
    ]
 }
