@@ -310,7 +310,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T39"
+              "event1" : "T39",
+              "event1" : "T73"
             }
 },
       {
@@ -987,7 +988,8 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T50-5"
+              "event1" : "T50-5",
+              "event1" : "T80" 
             }
 },
       {
@@ -1602,8 +1604,343 @@
         "eventID" : "C23"
         
       }
-}
-
-
+},
+{
+    "speakerID" : "S103",
+     "speaker": "Sreelakshmy P",
+     "profile": "Assistant Manager at Deloitte India",
+     "speakerdesc": "An OSCP & CEH Certified security Researcher and enthusiast, Sreelakshmy Palliyil is currently associated with Big 4. With Masters in Cyber security, she is an active member and Woman in Appsec Coordinator at OWASP Kerala Chapter.",           
+     "thumb":"Sreelakshmy.jpg",
+     "facebook" : "",
+     "twitter" : "https://twitter.com/lakshmy1988",
+     "linkedIn" :"https://www.linkedin.com/in/sreelakshmy-p/",
+     "email" : "s.lakshmy1988@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C24"
+        
+      }
+},
+{
+    "speakerID" : "S104",
+     "speaker": "Karthik Kalathil",
+     "profile": "CTO and Co-founder at Wattlecorp | Security Consultant | Cybersecurity Product Innovation Manager | Speaker",
+     "speakerdesc": "Mr. Kalathil Karthik is the CTO and Cofounder of Wattlcorp, with more than 9 years of experience in IT, IT security and Networking. Being a cyber security consultant as well, Kathik has also served as a principal advisor for interpreting standards, policies, best practices and designing system security strategy and architecture across multiple IT projects. He has also performed infrastructure and application penetration tests as well as physical security review and social engineering test for global clients. As a leading information security expert and evangelist, Karthik has conducted talks and trainings in various national and international conferences.",           
+     "thumb":"Karthik-kalathil.jpg",
+     "facebook" : "https://www.facebook.com/kalathil.karthik",
+     "twitter" : "https://twitter.com/karthik_k_nair",
+     "linkedIn" :"https://www.linkedin.com/in/kalathil-karthik/",
+     "email" : "karthik@wattlecorp.com",
+     "events" : 
+      {
+        "eventID" : "K24"
+        
+      }
+},
+{
+    "speakerID" : "S105",
+     "speaker": "Srinivas P",
+     "profile": "Centre Head @ Alamy India",
+     "speakerdesc": " Mr. Srinivas has more than 25 years of experience in IT industry in different countries with extensive experience in project / program management and end to end delivery of IT projects.",           
+     "thumb":"Srinivas-p.jpg",
+     "facebook" : "https://www.facebook.com/srinivas.paladugu.9",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/srinivas-paladugu-2a68b53/",
+     "email" : "SrinivasP@alamy.com",
+     "events" : 
+      {
+        "eventID" : "T74"
+        
+      }
+},
+{
+    "speakerID" : "S106",
+     "speaker": "Suresh Kumar M",
+     "profile": "Sr. Principal Manager – Product Development @ Alamy India",
+     "speakerdesc": "Mr. Suresh has 20 years of professional IT experience in large MNCs like Allianz, Envestnet, Alamy Images and government organization like CDIT, in various techno-managerial roles.",           
+     "thumb":"suresh-kumar.jpg",
+     "facebook" : "https://www.facebook.com/sureshkumar.madhavanpillai",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/suresh-kumar-madhavan-pillai-a027b51a/",
+     "email" : "msureshkumars@hotmail.com",
+     "events" : 
+      {
+        "eventID" : "T74",
+        "eventID" : "C26"
+        
+      }
+},
+{
+    "speakerID" : "S107",
+     "speaker": "Jeswin S George",
+     "profile": "Quality Assurance Engineer, Qburst Technologies",
+     "speakerdesc": "Worked as Subject Matter Expert in Device Testing at Amazon Development center, Bangalore. Worked with various pilot projects of Alexa devices from its inception in the industry. Was part of launch programs (Amazon Echo, Echo Show and Echo Spot) of Alexa devices in US, UK, India, Canada and Australia. Was part of the Alexa skill certification team, in order to maintain quality content for Alexa users. Solid understanding of debugging skills as well as Testing concepts and Automating techniques. Currently working as a Quality Assurance Engineer at Qburst Technologies,Technopark, Trivandrum.",           
+     "thumb":"jeswin.jpg",
+     "facebook" : "https://www.facebook.com/jeswin.manjinikara",
+     "twitter" : "https://twitter.com/being_jeswin",
+     "linkedIn" :"https://www.linkedin.com/in/jeswin-s-george-a6489192/",
+     "email" : "jeswinsgeorge@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C25"
+        
+      }
+},
+{
+    "speakerID" : "S108",
+     "speaker": "Cipson Thomas",
+     "profile": "Agile & Kanban Coach, Trainer & Consultant",
+     "speakerdesc": "Being an Agile coach and Training Professional, Mr. Cipson has mentored, coached and transformed programs and projects into Agile for over a decade. With over 16 years worth of experience in the IT industry, he has also built high performing diverse and distributed Agile teams and is a hands-on, performance-driven servant leader.",           
+     "thumb":"cipson.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/cipson/",
+     "email" : "cipson@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T75"
+        
+      }
+},
+{
+    "speakerID" : "S109",
+     "speaker": "Sijil Salim",
+     "profile": "Lead Engineer, IBS",
+     "speakerdesc": "Lead engineer at IBS with a rich experience in automation and voice based technologies. Aimed at bringing innovative use of voice based technologies to different niches, has developed varied solutions including a voice controlled solution for Selenium. Holder of a patent in developing a novel and cost-effective solution for railway level-crossing management.",           
+     "thumb":"sijil.jpg",
+     "facebook" : "https://www.facebook.com/sijil.salim",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/sijil-s-3b90b440/",
+     "email" : "sijils@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T76"
+        
+      }
+},
+{
+    "speakerID" : "S110",
+     "speaker": "Akshai M",
+     "profile": "Senior Research Fellow, ICFOSS",
+     "speakerdesc": "Applied Researcher and Embedded Device Engineer with hands-on experience in prototyping Low Power Wireless Embedded Hardware and Hardware Design optimization for Small to Medium scale manufacturing. Akshai M started his career with Kerala Startup Mission where he worked as a Technology Innovation Fellow to create COW Mesh (Community Owned Wireless Mesh) and initiated ExpEYES Project for Schools in Kerala, a project which is now part of KITE, formerly known as IT@School. He then joined FOSSEE, IIT Bombay as a Researcher to create Embedded Hardware to implement IEC61499 based distributed control systems for applications in MSME and as training equipment for Engineering colleges. He later joined ICFOSS and is part of it since 2017. He is currently engaged as a Senior Researcher for LoRaWAN CoE, RISC V CoE and OpenFPGA CoE.",           
+     "thumb":"akshai.jpg",
+     "facebook" : "https://www.facebook.com/akshai.m.ettadayil",
+     "twitter" : "https://twitter.com/m_akshai",
+     "linkedIn" :"https://www.linkedin.com/in/akshaim/",
+     "email" : "akshai.m@icfoss.in",
+     "events" : 
+      {
+        "eventID" : "T77"
+        
+      }
+},
+{
+    "speakerID" : "S111",
+     "speaker": "Hari Shankar R",
+     "profile": "Technical Support Engineer, Automattic",
+     "speakerdesc": "Hari Shanker R is a Technical Support Engineer at Automattic - the U.S.- based company - that is best known for WordPress.com. Hari has over 12 years of experience in web development - especially WordPress. At Automattic, he works on the eCommerce team, where he works on support, training, and product management for WooCommerce - the open eCommerce platform built on WordPress that powers 28% of all eCommerce stores. Hari has used WordPress to build over 100+ websites and web applications of varying complexities for diverse clients including Fortune 500 companies, prior to joining Automattic. WordPress, FOSS, the GPL License, and the Open Web are his biggest passions, which is what led him to Automattic. A seasoned contributor to the WordPress open-source project (for the support as well as the community team), Hari has delivered talks on WordPress at different events including WordCamps (WordPress-based conferences) across India and North America. Hari is one of the co-organizers of the WordPress Kochi Meetup Group as well as WordCamp Kochi 2019 (the third edition of the first-ever WordPress conference in South India).<br>Prior to joining Automattic in 2016, Hari has worked in a diverse set of domains including Retail Banking, Print Journalism, Education/Training, Project Management, and Social Media Marketing, to name a few. A former columnist at The Hindu, and has also won awards for his work, including the runner-up position at the 2011 Mindful Leadership Award from the University of Dayton, Ohio. You can read more about Hari at https://harishanker.net and https://hari.blog.",           
+     "thumb":"harishanker.jpg",
+     "facebook" : "https://www.facebook.com/harishanker",
+     "twitter" : "https://twitter.com/HariShanker",
+     "linkedIn" :"https://www.linkedin.com/in/harishanker/",
+     "email" : "hari@harishanker.net",
+     "events" : 
+      {
+        "eventID" : "T78",
+        "eventID" : "C28",
+        "eventID" : "K26"
+        
+      }
+},
+{
+    "speakerID" : "S112",
+     "speaker": "Jubin Jose",
+     "profile": "Senior NLP engineer, Cedex Technologies",
+     "speakerdesc": "With more than three years worth of industrial experience in ML and NLP, Mr. Jubin Jose is currently working as a senior NLP engineer at Cedex Technologies. He is also a FLOSS enthusiast with a Keen interest in experimenting with crazy ideas and writing about them. He is also a member of Amma, an organization dedicated to collaborating in projects related to machine learning.",           
+     "thumb":"jubin.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/jubin-jose-dev/",
+     "email" : "hello@josejub.in",
+     "events" : 
+      {
+        "eventID" : "C27"
+        
+      }
+},
+{
+    "speakerID" : "S113",
+     "speaker": "Amar C.P",
+     "profile": "Co-founder & CTO , VinamSolutions Pvt Ltd & Luvia Global Marketing Agency",
+     "speakerdesc": "Mr. Amar C.P is the Co-founder and CTO of VinamSolutions Pvt Ltd & Luvia Global Marketing Agency. With immense experience in Object Oriented Programming(OOP), Symfony Framework, Linux, PHP7, MySQL, Elasticsearch and many others, he has also worked on projects involving the application of Sphinx,Apache, Kafka, Rabbitmq, Shell Scripting, Postfix, Logstash, Kibana, Rest APIs and DNS.",           
+     "thumb":"amar.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/amarcp/",
+     "email" : "amar@vinam.in",
+     "events" : 
+      {
+        "eventID" : "K25"
+       
+      }
+},
+{
+    "speakerID" : "S114",
+     "speaker": "Biju K Nair",
+     "profile": "Independent Lawyer, Consultant with Open Invention Network and License on Transfer Network",
+     "speakerdesc": "A lawyer with 16 experience, Mr. Biju K Nair is an Independent lawyer as well as a consultant with Open Invention Network (OIN) and License on Transfer Network (LOT Network) both communities being Defensive Patent Strategy. He has in the past worked with the largest law firms in India at their New Delhi Office. He has been a litigation lawyer involved in Constitutional matters, Intellectual Property law, Information Technology, and Commercial Litigation.<br>He has also been involved in various transactions for Corporates and start-ups advising and involved in licensing technology and software, Open Source Compliance, etc.",           
+     "thumb":"biju.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/biju-k-nair-0499468/",
+     "email" : "bijuailian@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C29"
+       
+      }
+},
+{
+    "speakerID" : "S115",
+     "speaker": "Arun Sasi",
+     "profile": "Joomla Template developer & Lead designer, IBS Software",
+     "speakerdesc": "Arun is a Joomla Template Developer with more than 13 years of industry and domain experience. Working as Lead Designer in IBS Software for the past 9 Years, He is an active member of the Joomla volunteering community. He takes great interest in social and humanitarian activities. He is also part of many cultural initiatives and events happening in and around Technopark.",           
+     "thumb":"arun-sasi.jpg",
+     "facebook" : "https://www.facebook.com/arunayr",
+     "twitter" : "https://twitter.com/geekzazi",
+     "linkedIn" :"https://www.linkedin.com/in/arunayr/",
+     "email" : "arunayr@gmail.com",
+     "events" : 
+      {
+        "eventID" : "K27"
+       
+      }
+},
+{
+    "speakerID" : "S116",
+     "speaker": "Samuel",
+     "profile": "Cofounder of MistEO",
+     "speakerdesc": "Samuel is the cofounder of MistEO - a computational sustainability company working in the domain of Extreme Weather. Samuel is also the co-founder of SatSure, a satellite data analytics startup based in Bangalore and Statlogic, an AgriIOT company based in Trivandrum and Dubai. Samuel holds a Masters Degrees in Conflict Resolution and Communication Research and is an alumni of Mar Ivanious College in Trivandrum. He is also a Partner of the Kerala Space Park, A Government of Kerala Initiative promoting Space Tech companies to work out of our state.",           
+     "thumb":"samuel.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"",
+     "email" : "samuel@misteo.co",
+     "events" : 
+      {
+        "eventID" : "T79"
+       
+      }
+},
+{
+    "speakerID" : "S117",
+     "speaker": "Liji Thomas",
+     "profile": "Technical Manager, Valorem Reply",
+     "speakerdesc": "Liji Thomas is a Technical Manager for Valorem Reply with over a decade of industry experience in technical and leadership roles. She leads a team focused on transforming the digital experiences for a global clientele by creating state-of-the-art solutions, from modern web applications to AI-driven chatbots.",           
+     "thumb":"liji-thomas.jpg",
+     "facebook" : "",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/liji-thomas/",
+     "email" : "lthomas@valorem.com",
+     "events" : 
+      {
+        "eventID" : "C30"
+       
+      }
+},
+      {
+    "speakerID" : "S118",
+     "speaker": "Shahul E S",
+     "profile": "Co-founder at alrt.ai",
+     "speakerdesc": "Currently the Co-Founder & Chief Data Scientist at alrt.ai, Shahul is a Data Science and Machine learning enthusiast, with hands-on experience in Data Analytics, Data Science, Machine learning, Deep learning, and Natural language processing. He is the one and only Kaggle Master from the state of Kerala and is ranked in the top 25 among its 100k+ Kaggle users.<br>https://shahules786.github.io/.",           
+     "thumb":"shahul.jpg",
+     "facebook" : "https://www.facebook.com/Shahules786",
+     "twitter" : "https://twitter.com/Shahules786",
+     "linkedIn" :"https://www.linkedin.com/in/shahules/",
+     "email" : "shahules786@gmail.com",
+     "events" : 
+      {
+        "eventID" : "C31"
+       
+      }
+},
+      {
+    "speakerID" : "S119",
+     "speaker": "Vinesh S",
+     "profile": "Senior Frontend Engineer, QBurst",
+     "speakerdesc": "About 6 years of experience in the IT field, Vinesh started his career as a PHP Developer but gradually fell in love with JavaScript and started exploring it and it's frameworks and libraries. He has hands-on experience in frameworks like Angular, React with a better understanding of core JavaScript and it's peculiar concepts. He is continuously interested in learning new upcoming technologies and also share it with the other technology aspirants. He loves discussing how one can write better code.",           
+     "thumb":"vinesh.jpg",
+     "facebook" : "https://www.facebook.com/vinesh.s.7771",
+     "twitter" : "",
+     "linkedIn" :"https://www.linkedin.com/in/s-vinesh-10139572/",
+     "email" : "svinesh3691@gmail.com",
+     "events" : 
+      {
+        "eventID" : "T81"
+       
+      }
+},
+       {
+    "speakerID" : "S120",
+     "speaker": "Robin Tommy",
+     "profile": "Incubation Lab Head, Tata Consultancy Services",
+     "speakerdesc": "Mr. Robin Tommy has been involved in as a Social Innovator, Incubation Consultant, Researcher, Startup Mentor, and Emerging Tech Stack adviser. He has been ranked # 21 amongst Top 100 thought leaders and influencers for 2020 by the Thinkers360 platform. He has filed 45 patents with 7 grants and published more than 25 research papers in IEEE, Springer, and ACM. He is also instrumental in creating IP based researched products and platforms for customers in the emerging technology business. He has been involved in various social innovations research for the differently-abled society. He has won the TATA Innovista 2018 award for the project contributions in social innovation. His team has won the TMA (Trivandrum Management Association) Disruptive CSR Award 2018, KMA (Kerala Management Association) CSR Award 2018, KMA CSR AWARD 2019. His team also won the TCS Innovista 2017, 2018 and 2019 awards. The Rotary International CSR gold Award, 2019 was awarded to Robin Tommy and his team.",           
+     "thumb":"Robin-Tommy.jpg",
+     "facebook" : "https://www.facebook.com/robin.tommy",
+     "twitter" : "https://twitter.com/robintomy",
+     "linkedIn" :"https://www.linkedin.com/in/robintommy/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T82"
+       
+      }
+},
+       {
+    "speakerID" : "S121",
+     "speaker": "Vinod Narayan",
+     "profile": "Agile Coach | SAFe® SPC | Educator, Founder, Penpositive Inc.",
+     "speakerdesc": "Agile Coach and Digital Transformation Lead with over 25 years in Technology Management, as a consultant, Entrepreneur, and Servant Leader facilitating Engineering & Product teams in their journey of agile delivery.<br>As a Poet, Blogger, Podcaster, and independent filmmaker he has made his presence felt strongly in all these domains. And he wants the same for others. Also a Video Podcaster under the alias Ballatha Pahayan (ബല്ലാത്ത പഹയൻ) on YouTube.",           
+     "thumb":"Vinod-Narayan.jpg",
+     "facebook" : "https://www.facebook.com/pahayanmedia/",
+     "twitter" : "https://twitter.com/vinodnarayan",
+     "linkedIn" :"https://www.linkedin.com/in/vinodn/",
+     "email" : "",
+     "events" : 
+      {
+        "eventID" : "T85"
+       
+      }
+},
+       {
+          "speakerID" : "S122",
+           "speaker": "Amrit Sanjeev",
+           "profile": "Staff Developer Advocate at Google and leads the developer advocacy initiatives for India.",
+           "speakerdesc": "Amrit Sanjeev works as a Staff Developer Advocate at Google and leads the developer advocacy initiatives for India. He has over 15 years of industry experience and has worked in different areas like OS development, large scale backend systems design, software architecture and mobile research. Prior to Google he worked in companies like Inapp, IBM, Intuit & Philips Research. He was the first person from India to be accepted as a Google developer expert for Android and as an Intel innovator. He is the founder of Blrdroid - the largest open android developer community in India and a total petrol head .",           
+           "thumb":"amrit-sanjee.jpg",
+           "facebook" : "https://www.facebook.com/amrit.sanjeev",
+           "twitter" : "https://twitter.com/amsanjeev",
+           "linkedIn" :"https://www.linkedin.com/search/results/all/?keywords=Amrit%20Sanjeev&origin=GLOBAL_SEARCH_HEADER",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T84"
+            }
+      },
+       {
+          "speakerID" : "S123",
+           "speaker": "Mandar Patil ",
+           "profile": "Senior Solutions Architecture at Amazon Internet Services Private Limited.",
+           "speakerdesc": "Mandar Patil is Senior Solutions Architecture at Amazon Internet Services Private Limited. He has been working various public sector customers include State and Local Government, Education and Non-Profits in India to help their cloud journey. He has worked in various technology roles at customers like GE Healthcare, Apple, Ingram Micro as. He studied Engineering from Mumbai University and post-graduation in advanced software technology from NCST. Nikhil Krishna is a Solutions Architect working in UST Global with over 16 years of experience in IT Consulting and Product Development. His areas of interest include Reactive and Distributed Systems Programming Languages and Bitcoin. He is passionate about programming for the web and its potential as a tool to transform user experience. His career spans across diverse roles from Dev Ops to Developer to Quality Assurance to Product Owner. Jyothis Joseph is an entrepreneur by passion and has over 16 years of experience in the IT industry, leading global teams comprising of Operations, Technology, and Sales. Jyothis founded two companies, Ideamine, a managed cloud company in 2009, and Empressem, a Mobile Apps company in 2014. Ideamine was AWS Advanced partner since 2012 and they were awarded as best emerging partners for AWS in 2016. Both Ideamine and Empressem were acquired by Chicago based Netrix ( netrixllc.com) in Oct 2017. He is a sports evangelist and a Marathon runner. He successfully finished his Ironman 70.3 tittle in Bangkok recently.",           
+           "thumb":"mandar-patil.jpg",
+           "facebook" : "",
+           "twitter" : "",
+           "linkedIn" :"",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T86"
+            }
+      }
    ]
 }

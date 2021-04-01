@@ -1,5 +1,61 @@
 {
    "event": [
+      {
+      "eventID" : "K27",
+      "title": "Beyond Basics - Joomla!",
+      "technology": "web",
+      "eventbanner":"27.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S115"
+      },
+      "date": "27/11/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Haven’t tried Joomla yet? Being an award-winning Content Management System (CMS), Joomla enables you to build awesome Web sites and powerful online applications. Yet, many are unfamiliar with the seemingly long list of advantages that it offers over other platforms.<br>With more than 7000 extensions, a world-class UI, and excellent security, much has to be learned about this free and open-source software. To discuss the benefits of Joomla and to check whether Joomla is right for your business, join us for the 27th FAYA:80 Kozhikode with Mr. Arun Sasi, a seasoned Joomla Template developer and an active member of the Joomla volunteering Community.<br>The discussion will benefit programmers, project managers and hobbyists alike in familiarizing them with Joomla and to test whether the platform would suit their business requirements or not. Book your tickets now, for there will be Joomla template coupon code giveaways to all attendees.<strong>Topics Covered</strong>Introduction to Joomla! - Up & Running.<br>What's New in Joomla! 4.<br>Getting started with Template Framework & Page Builder.<br>Set up an online store using Joomla!."
+      
+    }, 
+       {
+      "eventID" : "K26",
+      "title": "WordPress 5.0 - Beyond Blogs",
+      "technology": "web",
+      "eventbanner":"26.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S111"
+      },
+      "date": "23/10/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 26th edition of FAYA:80 Kozhikode for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+      
+    }, 
+       {
+      "eventID" : "K25",
+      "title": "Scaling Your SaaS Applications In The Cloud",
+      "technology": "web",
+      "eventbanner":"25.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S113"
+      },
+      "date": "17/07/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "SAAS businesses (Software as a Service) are a booming industry all over the world. For such a rapidly growing industry, there is the need for scalability that is impossible using local server environments. For this, modern systems favor the use of cloud based servers to get the job done.<br>Scaling in the cloud has some essential benefits and risks as well. However, this seemingly difficult task of creating cloud based SAAS applications and the different database approaches are in fact easy, if you follow a few right steps. At the 25th edition of FAYA:80 Kozhikode, meet Mr. Amar C.P, the Co-founder and CTO of VinamSolutions Pvt Ltd and Luvia Global Marketing Agency, as he explains how you could start building your database to build cloud based SAAS applications.<br>The session will be beneficial for all technology enthusiasts, programmers, managers and all others who would like to get introduced to the continuously innovating field of Cloud based systems.<strong>Topics Covered</strong>Getting Started.<br>The Database Approach.<br>Comparison of Different Approaches.<br>How to Analyze DB issues.<br>Demo."
+      
+    }, 
+      {
+      "eventID" : "K24",
+      "title": "Offensive Approach on Cybersecurity",
+      "technology": "security",
+      "eventbanner":"24.jpg",
+      "speakers" : 
+      {
+        "speaker1" : "S104"
+      },
+      "date": "26/06/2019 5:00 pm",
+      "youtubeID": "",
+      "details": "Until recently, companies have relied on defensive techniques towards external threats to their systems. Although it seems to be the right thing to do, threats are becoming stronger than ever. Moreover, a strong defense is not enough to beat today’s sophisticated hackers. Offensive Security is a proactive technique using offensive methods to protect systems against potential security risks.<br>Rather than creating a system and reacting to external threats as they emerge, offensive Cybersecurity focuses not only on creating counter offensive methods to find out loopholes within the system and fortifying them, but also to devise counter-offences to stop external intrusions into systems.<br>At the 24th FAYA:80 Kozhikode, meet Mr. Karthik Kalathil, CTO and Co-Founder at Wattlecorp, as he guides you through the challenging and fast paced world of offensive Cybersecurity. The session will be beneficial for all technology enthusiasts, developers, senior-level managers and hobbyists alike who would like to plan their offence using offensive Cybersecurity.<strong>Topics Covered</strong>Introduction to Cybersecurity.<br>Breaking the defensive side of security.<br>Offensive Security."
+      
+    }, 
        {
       "eventID" : "K23",
       "title": "Quantum Computing Basics: How, What and Why",

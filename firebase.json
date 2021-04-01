@@ -4,6 +4,26 @@
   },
   "hosting": {
     "public": ".",
+    "cleanUrls": true,
+    "rewrites": [
+      {
+        "source": "/",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/facebook",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/linkedin",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/instagram",
+        "destination": "/index.html"
+      }
+
+    ],
     "ignore": [
       "firebase.json",
       "**/.*",
