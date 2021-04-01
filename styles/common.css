@@ -704,3 +704,13 @@ h4.filter-title {
 
 .header-top-wrap .social_icon-header li.meetup {
   padding-left: 10px; }
+
+.gallery-wrap {
+  background: #f4f4f4;
+  margin-bottom: 15px; }
+  .gallery-wrap .event-list li {
+    padding-bottom: 0px; }
+  .gallery-wrap .content-gallery {
+    padding: 5px 10px; }
+    .gallery-wrap .content-gallery .gallery {
+      padding-bottom: 0; }
