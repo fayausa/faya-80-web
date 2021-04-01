@@ -869,3 +869,19 @@ h4.filter-title {
     }
   }
 }
+
+.gallery-wrap {
+  background: #f4f4f4;
+  margin-bottom: 15px;
+  .event-list {
+    li {
+      padding-bottom: 0px;
+    }
+  }
+  .content-gallery {
+    padding: 5px 10px;
+    .gallery {
+      padding-bottom: 0;
+    }
+  }
+}
