@@ -1,6 +1,34 @@
 {
    "event": [
       {
+          "eventID" : "T88",
+          "title": "Google Play Optimization Techniques for Boosting Subscription Revenue.",
+           "technology": "Web",
+           "eventbanner":"88.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S122"
+            },
+           "date": "07/10/2020 7:00 pm",
+           "youtubeID": "VCYn_fQdMsE",
+           "rating": "5",
+           "details": "In a tough market with a financial success rate of 0.001, there's a lot to consider while deploying apps to the Playstore, to say the least. Successfully publishing an app on Google Play is not just about submitting the finished code and then sitting back and watching the downloads as well as dollars flowing in. From the day an app is launched until a user uninstalls an app, there are plenty of optimization opportunities that developers could use for effective monetization. If you are planning to launch apps to the Playstore, or want to improve your returns through subscriptions, here's an event just for you."      
+      },   
+      {
+          "eventID" : "T86",
+           "title": "AWS: Discover the new. Optimize the old",
+           "technology": "Web",
+           "eventbanner":"86.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S123"
+            },
+           "date": "08/07/2020 3:00 pm",
+           "youtubeID": "fSEIs_-0b0s",
+           "rating": "5",
+           "details": "AWS is a widely popular platform that has been in service for businesses both big and small for over a decade now. While most of us choose the basic tools in AWS such as the EC2 to run their work and pay the bill without a second thought, it is important to know whether you are paying the right price for the right service. With a giant list of specialized services to optimize processes and choosing the right plan to reduce money spent on them, AWS could save you a lot in terms of time and bills if done right. At our 86th FAYA:80, join us with Mr. Mandar Patil on a deep discussion on how to optimize the service to suit your processes and learn the tips and tricks for cost-effective maintenance of such services. The discussion will also be joined by Mr. Nikhil, Mr. Jyothis, Mr. Jikku, and other community veterans who will share their knowledge in AWS. Be sure to join us for this free-for-all session which will review existing and new web services, how to effectively use them, and save time and money in the process."      
+      },  
+      {
           "eventID" : "T85",
            "title": "Being Agile with Ballatha Pahayan",
            "technology": "Web",
@@ -13,6 +41,34 @@
            "youtubeID": "PNsPx4mLHaQ",
            "rating": "5",
            "details": "Our world is asking for social distancing. Yet, we as a community are closer than ever before. With work from home becoming our new normal, much is yet to be explored into how teams could create productive work systems as they previously had.<br>Agile is a widely discussed topic among tech communities. The pandemic has changed a lot in how tech companies work. Is Agile still relevant? Or has it become just another obsolete buzzword? Let's know it from an expert's POV. We welcome you all to our 85th FAYA:80, to renew the core ideas on Agile and to explore how relevant in the times of prolonged sit-at-home work conditions. <br>Join in for a fun-filled panel discussion with Vinod Narayan a.k.a Ballatha Pahayan as he helps you organize, reflect, and improvise on the best practices on Agile. The discussion will also feature industry experts such as Mr. Cipson Thomas and Mr. Jithesh Pillai just to name a few. The session is free for all, so we request you and your team to join in and get your doubts cleared from this truly agile methodology."       
+      },
+      {
+          "eventID" : "T84",
+           "title": "Things to watch out for in Android 11",
+           "technology": "Web",
+           "eventbanner":"84.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S122"
+            },
+           "date": "06/05/2020 3:00 pm",
+           "youtubeID": "DGx61AODiHw",
+           "rating": "5",
+           "details": "Excited about the latest developer preview of Android 11? We are too! With this timely release, we hope this is a great opportunity for developers to take time and identify compatibility issues in apps and plan migration or feature works to target the all-new platform. If you are interested in getting in on the latest updates and challenges in the latest release of Android, join us for the 84th edition of FAYA:80 along with Amrit Sanjeev, Staff Developer Advocate at Google who will guide us through the top changes that will affect your apps and also about the new features that you can use to enhance UX for existing apps."     
+      }, 
+      {
+          "eventID" : "T83",
+           "title": "Programming Skills that will survive the Pandemic. Ep1 Polyglot Programming",
+           "technology": "Web",
+           "eventbanner":"83.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S18"
+            },
+           "date": "08/04/2020 6:00 pm",
+           "youtubeID": "brwecMp2JNY",
+           "rating": "5",
+           "details": "TCOVID 19 is upsetting everything possible. Nothing will be the same again. Industries around the world can be revived only if it embraces the tech-disruption on a scale the world has never seen before. As Programmers, we also need to cater to the demands of the New Future! The days that follow the lock down will see a tremendous increase in the varied requirements and customer demands. In such a challenging future, only the fittest will survive in the long run. Thankfully, for programmers, all we need to do is sharpen our already-acquired skills! You may be working on limited boundaries of one or two programming languages till now. But, adaptable coding is going to be vital for future programmers.   Understanding the concepts of adaptive coding would help you switch to any other language as needed. This is one thing that’s going to set you apart from others. You need to become a polyglot in the vast sea of languages."       
       },
        {
           "eventID" : "T82",

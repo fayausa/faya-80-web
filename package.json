@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.23.6",
-    "gulp": "^3.9.1",
+    "gulp": "4.0.2",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-imagemin": "^4.1.0",
     "gulp-merge-json": "^1.2.1",
