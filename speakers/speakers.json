@@ -1941,6 +1941,21 @@
             {
               "event1" : "T86"
             }
+      },
+       {
+          "speakerID" : "S124",
+           "speaker": "Nikhil Chandran",
+           "profile": "Founder & Ceo - Tiltlabs ",
+           "speakerdesc": "Metaverse & Web 3.0 Strategist | Virtual Production | Games",           
+           "thumb":"Nikhil_Chandran.jpg",
+           "facebook" : "https://www.facebook.com/nikhilchandran.n",
+           "twitter" : "https://twitter.com/nikhilchandran_",
+           "linkedIn" :"https://www.linkedin.com/in/nikhil-tiltlabs/",
+           "email" : "",
+           "events" : 
+            {
+              "event1" : "T89"
+            }
       }
    ]
 }
