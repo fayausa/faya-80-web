@@ -1,6 +1,20 @@
 {
    "event": [
       {
+          "eventID" : "T89",
+          "title": "Virtual Production using Unreal Engine: The Future of Film Making",
+           "technology": "Web",
+           "eventbanner":"t-89.jpg",
+           "speakers" : 
+            {
+              "speaker1" : "S124"
+            },
+           "date": "05/05/2021 7:00 pm",
+           "youtubeID": "Le9C-PemPmQ",
+           "rating": "5",
+           "details": "Digital content creation is an ever-evolving artistic and technological pursuit, and as more and more creatives venture into it modern and elegant solutions are needed to facilitate their creative process. This involves working collaboratively and remotely, iterating on concepts simultaneously, and making real-time decisions throughout the production process. Using Real-Technologies and custom Virtual Production tool-sets we are now able to streamline the entire production process of CG and Animated films into one single suite so that the pipeline is efficient, flexible, and adaptive without compromising on creative freedom."      
+      },
+      {
           "eventID" : "T88",
           "title": "Google Play Optimization Techniques for Boosting Subscription Revenue.",
            "technology": "Web",
