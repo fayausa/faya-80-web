@@ -1954,8 +1954,68 @@
            "email" : "",
            "events" : 
             {
-              "event1" : "T89"
+              "eventID" : "T89"
             }
-      }
+      },
+      {
+        "speakerID" : "S125",
+         "speaker": "Joel Zachariah",
+         "profile": "Creative Director - Tiltlabs ",
+         "speakerdesc": "Narative Designer, Independent Developer, World Builder.",           
+         "thumb":"Joel-Zachariah.jpg",
+         "facebook" : "",
+         "twitter" : "",
+         "linkedIn" :"https://www.linkedin.com/in/joel-zachariah-531b1a11a/",
+         "email" : "",
+         "events" : 
+          {
+            "eventID" : "T89"
+          }
+    },
+    {
+      "speakerID" : "S126",
+       "speaker": "Melvin Thambi",
+       "profile": "Artist | Designer & Creative Entrepreneur from Texas",
+       "speakerdesc": "Creative Entrepreneur & NFT Artist. Co-Founder of Emm & Enn Art Gallery. Designer with a business focus. I help creative individuals convert passion to tangible wealth. Over 14 years of global experience influencing product design with brands including Facebook, LinkedIn, & eBay.",           
+       "thumb":"melvin_thambi.jpg",
+       "facebook" : "https://www.facebook.com/melvinthambiart",
+       "twitter" : "https://twitter.com/ThambiMelvin",
+       "linkedIn" :"https://www.linkedin.com/in/melvinthambi/",
+       "email" : "hello@melvinthambi.com",
+       "events" : 
+        {
+          "eventID" : "T90"
+        }
+      },
+      {
+        "speakerID" : "S127",
+         "speaker": "Anantha Krishnan Nadamel",
+         "profile": "NFT Artist | Visual Designer UXD at TCS Interactive",
+         "speakerdesc": "Digital artist and designer from Kerala in India. Featured by Adobe, Behance, Wacom Gallery, Indian Express, Hindu and Forbes India.",           
+         "thumb":"Anantha-Krishnan-Nadamel.jpg",
+         "facebook" : "https://www.facebook.com/ananthakrishnan.skurup",
+         "twitter" : "https://twitter.com/ANadamel",
+         "linkedIn" :"https://www.linkedin.com/in/anantha-krishnan-s-kurup-301134176/?originalSubdomain=in",
+         "email" : "",
+         "events" : 
+          {
+            "eventID" : "T90"
+          }
+        },
+        {
+          "speakerID" : "S128",
+           "speaker": "Adeeb Abdul Salam",
+           "profile": "Computer Engineer from IITD | Blockchain Researcher",
+           "speakerdesc": " ",           
+           "thumb":"Adeeb-Abdul-Salam.jpg",
+           "facebook" : "https://www.facebook.com/adeeb.abdulsalam",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/zeroknowledgep/?originalSubdomain=qa",
+           "email" : "",
+           "events" : 
+            {
+              "eventID" : "T90"
+            }
+          }
    ]
 }

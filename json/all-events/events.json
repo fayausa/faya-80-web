@@ -1,29 +1,40 @@
 {
 	"event": [
 		{
-			"eventID": "E1",
-			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
-			"technology": "web security",
-			"eventbanner": "1.jpg",
+			"eventID": "C31",
+			"title": "Machine Learning Made Easy with Kaggle",
+			"technology": "web",
+			"eventbanner": "31.jpg",
 			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S53"
+				"speaker1": "S118"
 			},
-			"date": "09/12/2017 9:00 am",
+			"date": "22/01/2020 5:00 pm",
 			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
+			"details": "Companies all over the world have been going through a so-called AI revolution. Traditional business processes like hiring, pricing, strategy, etc have started using Artificial intelligence to make them 10 times better and easier.<br>Data Science has become an integral part of these transformations. And with popular platforms like Kaggle, users can now learn, explore and collaborate with top data science enthusiasts around the world.<br>Join us for the 30th FAYA:80 Kochi, where Mr. Shahul ES, a Data Science enthusiast, Kaggle Master and the co-founder of alrt.ai discusses the advantages and how best users could get into using Kaggle. The session will be beneficial to all DS and ML enthusiasts, project managers, tech enthusiasts and hobbyists alike who wish to get an introduction into the fascinating field of Data Science and Machine Learning.<strong>Topics Covered</strong>Getting started with Data Science.<br>What’s Kaggle?<br>How to start Kaggling?<br>Kaggle best practices.<br>How to learn DS using Kaggle<br>Ask me anything."
 		},
 		{
-			"eventID": "E2",
-			"title": "Hands-On Digital Marketing",
-			"technology": "web security",
-			"eventbanner": "2.jpg",
+			"eventID": "C30",
+			"title": "Building Intelligent applications using Azure Cognitive Services",
+			"technology": "web",
+			"eventbanner": "30.jpg",
 			"speakers": {
-				"speaker1": "S71"
+				"speaker1": "S117"
 			},
-			"date": "03/02/2018 9:00 am",
+			"date": "11/12/2019 5:00 pm",
 			"youtubeID": "",
-			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
+			"details": "Look around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
+		},
+		{
+			"eventID": "C29",
+			"title": "Is That Legal? The Do’s and Dont’s of Open Source Software",
+			"technology": "web",
+			"eventbanner": "29.jpg",
+			"speakers": {
+				"speaker1": "S114"
+			},
+			"date": "20/11/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Developers, engineers, interns, all of us have come across Open Source Software, haven’t we? But did you know that these ‘open’ software almost always comes with licenses, agreements or terms and conditions that could result in serious legal trouble if you are not careful about it?<br>Turns out, there are more than a few types of licenses and there are best practices to be followed to ensure what we use is compliant to legal requirements. At the 29th FAYA:80 Kochi, Mr. Biju Nair, an independent lawyer as well as a consultant with the Open Invention Network (OIN) and License on Transfer Network (LOT Network) helps you through the legal side of Open Source licensing.<br>The session will immensely benefit developers, enthusiasts, project managers, business owners, and hobbyists to understand how to use Open Source Software the right way.<strong>Topics Covered</strong>Open Source - who uses them?.<br>Developers Agreement.<br>Open Source Licenses and Types.<br>Open Source Licensing: Compliance Requirements.<br>Open Chain Project.<br>"
 		},
 		{
 			"eventID": "C28",
@@ -364,6 +375,43 @@
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
+			"eventID": "E1",
+			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
+			"technology": "web security",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S53"
+			},
+			"date": "09/12/2017 9:00 am",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
+		},
+		{
+			"eventID": "E2",
+			"title": "Hands-On Digital Marketing",
+			"technology": "web security",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S71"
+			},
+			"date": "03/02/2018 9:00 am",
+			"youtubeID": "",
+			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
+		},
+		{
+			"eventID": "K27",
+			"title": "Beyond Basics - Joomla!",
+			"technology": "web",
+			"eventbanner": "27.jpg",
+			"speakers": {
+				"speaker1": "S115"
+			},
+			"date": "27/11/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Haven’t tried Joomla yet? Being an award-winning Content Management System (CMS), Joomla enables you to build awesome Web sites and powerful online applications. Yet, many are unfamiliar with the seemingly long list of advantages that it offers over other platforms.<br>With more than 7000 extensions, a world-class UI, and excellent security, much has to be learned about this free and open-source software. To discuss the benefits of Joomla and to check whether Joomla is right for your business, join us for the 27th FAYA:80 Kozhikode with Mr. Arun Sasi, a seasoned Joomla Template developer and an active member of the Joomla volunteering Community.<br>The discussion will benefit programmers, project managers and hobbyists alike in familiarizing them with Joomla and to test whether the platform would suit their business requirements or not. Book your tickets now, for there will be Joomla template coupon code giveaways to all attendees.<strong>Topics Covered</strong>Introduction to Joomla! - Up & Running.<br>What's New in Joomla! 4.<br>Getting started with Template Framework & Page Builder.<br>Set up an online store using Joomla!."
+		},
+		{
 			"eventID": "K26",
 			"title": "WordPress 5.0 - Beyond Blogs",
 			"technology": "web",
@@ -675,6 +723,152 @@
 			"date": "13/06/2017 5:00 pm",
 			"youtubeID": "",
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+		},
+		{
+			"eventID": "T90",
+			"title": "Demystifying NFT - Non Fungible Tokens",
+			"technology": "Web",
+			"eventbanner": "90.jpg",
+			"speakers": {
+				"speaker1": "S126",
+				"speaker2": "S127",
+				"speaker3": "S128"
+			},
+			"date": "09/06/2021 7:30 pm",
+			"youtubeID": "",
+			"rating": "5",
+			"details": "In 2021, there has been increased interest in using NFTs, especially around digital arts and digital art creator communities. Digital artists like Beeple, Cryptopunk, etc. have excited the global press by selling their NFT Arts worth millions of dollars. They did this by leveraging the power of blockchain technology and cryptocurrencies. Many technology firms have already started exploring the possibilities of riding ahead of the NFT wave. Huge commotions are happening on the internet regarding the discussions and debates around the pros and cons of NFT arts. NFTs, or non-fungible tokens, have been 'A Thing' for a while now, but what makes NFT arts suddenly so special and unique? Is NFT yet another bubble? Or is it something that has long-term value? In this conversation, we have called in expert NFT artists to share their real-life experiences and help the community get some awareness about the fundamentals of NFT arts. We shall try our best to demystify NFT by discussing its various dimensions."
+		},
+		{
+			"eventID": "T89",
+			"title": "Virtual Production using Unreal Engine: The Future of Film Making",
+			"technology": "Web",
+			"eventbanner": "t-89.png",
+			"speakers": {
+				"speaker1": "S124",
+				"speaker2": "S125"
+			},
+			"date": "05/05/2021 7:00 pm",
+			"youtubeID": "Le9C-PemPmQ",
+			"rating": "5",
+			"details": "Digital content creation is an ever-evolving artistic and technological pursuit, and as more and more creatives venture into it modern and elegant solutions are needed to facilitate their creative process. This involves working collaboratively and remotely, iterating on concepts simultaneously, and making real-time decisions throughout the production process. Using Real-Technologies and custom Virtual Production tool-sets we are now able to streamline the entire production process of CG and Animated films into one single suite so that the pipeline is efficient, flexible, and adaptive without compromising on creative freedom."
+		},
+		{
+			"eventID": "T88",
+			"title": "Google Play Optimization Techniques for Boosting Subscription Revenue.",
+			"technology": "Web",
+			"eventbanner": "88.jpg",
+			"speakers": {
+				"speaker1": "S122"
+			},
+			"date": "07/10/2020 7:00 pm",
+			"youtubeID": "VCYn_fQdMsE",
+			"rating": "5",
+			"details": "In a tough market with a financial success rate of 0.001, there's a lot to consider while deploying apps to the Playstore, to say the least. Successfully publishing an app on Google Play is not just about submitting the finished code and then sitting back and watching the downloads as well as dollars flowing in. From the day an app is launched until a user uninstalls an app, there are plenty of optimization opportunities that developers could use for effective monetization. If you are planning to launch apps to the Playstore, or want to improve your returns through subscriptions, here's an event just for you."
+		},
+		{
+			"eventID": "T86",
+			"title": "AWS: Discover the new. Optimize the old",
+			"technology": "Web",
+			"eventbanner": "86.jpg",
+			"speakers": {
+				"speaker1": "S123"
+			},
+			"date": "08/07/2020 3:00 pm",
+			"youtubeID": "fSEIs_-0b0s",
+			"rating": "5",
+			"details": "AWS is a widely popular platform that has been in service for businesses both big and small for over a decade now. While most of us choose the basic tools in AWS such as the EC2 to run their work and pay the bill without a second thought, it is important to know whether you are paying the right price for the right service. With a giant list of specialized services to optimize processes and choosing the right plan to reduce money spent on them, AWS could save you a lot in terms of time and bills if done right. At our 86th FAYA:80, join us with Mr. Mandar Patil on a deep discussion on how to optimize the service to suit your processes and learn the tips and tricks for cost-effective maintenance of such services. The discussion will also be joined by Mr. Nikhil, Mr. Jyothis, Mr. Jikku, and other community veterans who will share their knowledge in AWS. Be sure to join us for this free-for-all session which will review existing and new web services, how to effectively use them, and save time and money in the process."
+		},
+		{
+			"eventID": "T85",
+			"title": "Being Agile with Ballatha Pahayan",
+			"technology": "Web",
+			"eventbanner": "85.jpg",
+			"speakers": {
+				"speaker1": "S121"
+			},
+			"date": "18/06/2020 8:00 pm",
+			"youtubeID": "PNsPx4mLHaQ",
+			"rating": "5",
+			"details": "Our world is asking for social distancing. Yet, we as a community are closer than ever before. With work from home becoming our new normal, much is yet to be explored into how teams could create productive work systems as they previously had.<br>Agile is a widely discussed topic among tech communities. The pandemic has changed a lot in how tech companies work. Is Agile still relevant? Or has it become just another obsolete buzzword? Let's know it from an expert's POV. We welcome you all to our 85th FAYA:80, to renew the core ideas on Agile and to explore how relevant in the times of prolonged sit-at-home work conditions. <br>Join in for a fun-filled panel discussion with Vinod Narayan a.k.a Ballatha Pahayan as he helps you organize, reflect, and improvise on the best practices on Agile. The discussion will also feature industry experts such as Mr. Cipson Thomas and Mr. Jithesh Pillai just to name a few. The session is free for all, so we request you and your team to join in and get your doubts cleared from this truly agile methodology."
+		},
+		{
+			"eventID": "T84",
+			"title": "Things to watch out for in Android 11",
+			"technology": "Web",
+			"eventbanner": "84.jpg",
+			"speakers": {
+				"speaker1": "S122"
+			},
+			"date": "06/05/2020 3:00 pm",
+			"youtubeID": "DGx61AODiHw",
+			"rating": "5",
+			"details": "Excited about the latest developer preview of Android 11? We are too! With this timely release, we hope this is a great opportunity for developers to take time and identify compatibility issues in apps and plan migration or feature works to target the all-new platform. If you are interested in getting in on the latest updates and challenges in the latest release of Android, join us for the 84th edition of FAYA:80 along with Amrit Sanjeev, Staff Developer Advocate at Google who will guide us through the top changes that will affect your apps and also about the new features that you can use to enhance UX for existing apps."
+		},
+		{
+			"eventID": "T83",
+			"title": "Programming Skills that will survive the Pandemic. Ep1 Polyglot Programming",
+			"technology": "Web",
+			"eventbanner": "83.jpg",
+			"speakers": {
+				"speaker1": "S18"
+			},
+			"date": "08/04/2020 6:00 pm",
+			"youtubeID": "brwecMp2JNY",
+			"rating": "5",
+			"details": "TCOVID 19 is upsetting everything possible. Nothing will be the same again. Industries around the world can be revived only if it embraces the tech-disruption on a scale the world has never seen before. As Programmers, we also need to cater to the demands of the New Future! The days that follow the lock down will see a tremendous increase in the varied requirements and customer demands. In such a challenging future, only the fittest will survive in the long run. Thankfully, for programmers, all we need to do is sharpen our already-acquired skills! You may be working on limited boundaries of one or two programming languages till now. But, adaptable coding is going to be vital for future programmers.   Understanding the concepts of adaptive coding would help you switch to any other language as needed. This is one thing that’s going to set you apart from others. You need to become a polyglot in the vast sea of languages."
+		},
+		{
+			"eventID": "T82",
+			"title": "Driving Social Innovation for a Sustainable World",
+			"technology": "Web",
+			"eventbanner": "82.jpg",
+			"speakers": {
+				"speaker1": "S120"
+			},
+			"date": "04/03/2020 5:00 pm",
+			"youtubeID": "nkzerIZQSdk",
+			"rating": "5",
+			"details": "There's no doubt about the fact that there is an unimaginable jump in technology with every passing generation. Although much of it has been guided at creating better systems of comfort, significant innovations have been made aimed at the betterment of social conditions.<br> Thanks to our technologists, developing socially viable projects are easier than ever before. But let's face it, there are still many roadblocks that seem to slow down our efforts at building a socially viable technological society.<br> At our 82nd FAYA:80, join us for an immersive discussion on the significance and the latest developments in Social Innovation with Mr. Robin Tommy, Incubation Lab Head at Tata Consultancy Services. The session will be beneficial for all developers, project managers, tech enthusiasts, and hobbyists who believe technology can improve the world around them.<strong>Topics Covered</strong>Defining Social Innovation.<br>Assistive Technology and the journey.<br>How technology roadmap can help in creating a better world.<br>Technology and Social Impact.<br>Various social innovation use cases."
+		},
+		{
+			"eventID": "T81",
+			"title": "Getting ahead with RxJS: A complete guide",
+			"technology": "front end",
+			"eventbanner": "81.jpg",
+			"speakers": {
+				"speaker1": "S119"
+			},
+			"date": "05/02/2020 5:00 pm",
+			"youtubeID": "lD3CrezL5r8",
+			"rating": "5",
+			"details": "No doubt one of the most searched for libraries in web development today, RxJS is here to stay and rightfully so. With its powerful, and functional approach in dealing with events and integration points into an expanding branch of frameworks, libraries, and utilities, now would be a great time to learn RxJS and Reactive Programming and apply them to speed up your development and maintenance.<br>To start off your journey and explore into RX libraries, join us for the 81st FAYA:80 where Mr. Vinesh S, a seasoned developer, and RxJS enthusiast and evangelist guides you through this reactive programming JavaScript library.<br>The event is open for developers, project managers, tech enthusiasts and hobbyists alike who would like to deepen their understanding of reactive programming and the fascinating field of RxJS.<strong>Topics Covered</strong>What is RxJS and Reactive Programming.<br>Why and how it differs from other likely technologies.<br>Basic concepts of RxJS.<br>How things can be better done with RxJS.<br>Frequently used RxJS functions and operators.<br>Common Design Patterns in RxJS.<br>Real scenario examples."
+		},
+		{
+			"eventID": "T80",
+			"title": "Building Smarter Wearables: AI in Everyday life",
+			"technology": "web",
+			"eventbanner": "80.jpg",
+			"speakers": {
+				"speaker1": "S63"
+			},
+			"date": "09/01/2020 5:00 pm",
+			"youtubeID": "t47E2_xSZa0",
+			"rating": "5",
+			"details": "Fond of AI? Built anything using AI? Think you could solve problems using AI? If your answer to any of the above is a resounding ‘YES’, here’s an event that you just can’t miss this new year.<br>With breakthroughs in wearable technology happening almost on a daily basis, AI is all set to be a force to be reckoned with. We welcome you to the 80th edition of FAYA:80 where Mr.Sanju Mathew Kayalvarath, the CEO of Code of Duty Innovations, provides a glimpse into their journey so far designing smart wearables using AI.<br>The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know and discuss the steps in designing, developing and implementing AI-based systems to solve real-world problems.<strong>Topics Covered</strong>Our big idea, or so we thought.<br>Elixir: Our first step.<br>Software, Hardware, and AI design.<br>Insights from the AI industry.<br>Q&A."
+		},
+		{
+			"eventID": "T79",
+			"title": "All about AgriOS: How to farm better using IoT",
+			"technology": "web",
+			"eventbanner": "79.jpg",
+			"speakers": {
+				"speaker1": "S116"
+			},
+			"date": "04/12/2019 5:00 pm",
+			"youtubeID": "AjDB1kzAIOU",
+			"rating": "5",
+			"details": "Modern agriculture is becoming more scalable and profitable thanks to the advancements in satellite imagery, sensors, robots, and other automated systems. India is also witnessing an agritech revolution spurred by agripreneurs capable of disrupting the agricultural supply chain with cutting edge innovations. But it is challenging for technologists to spot and understand the possibilities and methods to adopt from the widely scattered information.<br>AgriOs is a novel concept that envisions to combine all the technological improvements that could be brought in the field of agriculture into an umbrella platform, an OS that helps farmers get access to all farming related technology just a click away.<br>To discuss and explore the latest opportunities and the areas of improvement in the world of farming technology, join us for the 79th FAYA:80, where Mr. Samuel, the co-founder of MistEO, explains the benefits of AgriOs, and how IoT systems could bring the next agricultural revolution.<br>The session will be immensely beneficial for a wide variety of audiences, including developers, farming enthusiasts, and hobbyists alike who would like to learn the impact and opportunities of IoT in Farming.<strong>Topics Covered</strong>IoT and Farming.<br>Challenges in agricultural productivity.<br>Introduction to AgriOs.<br>How to implement tech into agriculture.<br>Further Opportunities and Challenges."
 		},
 		{
 			"eventID": "T78",

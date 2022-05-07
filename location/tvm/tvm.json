@@ -1,13 +1,30 @@
 {
    "event": [
       {
+        "eventID" : "T90",
+        "title": "Demystifying NFT - Non Fungible Tokens",
+        "technology": "Web",
+        "eventbanner":"90.jpg",
+        "speakers" : 
+          {
+            "speaker1" : "S126",
+            "speaker2" : "S127",
+            "speaker3" : "S128"
+          },
+        "date": "09/06/2021 7:30 pm",
+        "youtubeID": "",
+        "rating": "5",
+        "details": "In 2021, there has been increased interest in using NFTs, especially around digital arts and digital art creator communities. Digital artists like Beeple, Cryptopunk, etc. have excited the global press by selling their NFT Arts worth millions of dollars. They did this by leveraging the power of blockchain technology and cryptocurrencies. Many technology firms have already started exploring the possibilities of riding ahead of the NFT wave. Huge commotions are happening on the internet regarding the discussions and debates around the pros and cons of NFT arts. NFTs, or non-fungible tokens, have been 'A Thing' for a while now, but what makes NFT arts suddenly so special and unique? Is NFT yet another bubble? Or is it something that has long-term value? In this conversation, we have called in expert NFT artists to share their real-life experiences and help the community get some awareness about the fundamentals of NFT arts. We shall try our best to demystify NFT by discussing its various dimensions."      
+      },
+      {
           "eventID" : "T89",
           "title": "Virtual Production using Unreal Engine: The Future of Film Making",
            "technology": "Web",
-           "eventbanner":"t-89.jpg",
+           "eventbanner":"t-89.png",
            "speakers" : 
             {
-              "speaker1" : "S124"
+              "speaker1" : "S124",
+              "speaker2" : "S125"
             },
            "date": "05/05/2021 7:00 pm",
            "youtubeID": "Le9C-PemPmQ",
