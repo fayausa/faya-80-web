@@ -725,6 +725,20 @@
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
 		},
 		{
+			"eventID": "T91",
+			"title": "Driving Disruption - Catching the New Wave of Elec",
+			"technology": "Web",
+			"eventbanner": "91.jpg",
+			"speakers": {
+				"speaker1": "S129",
+				"speaker2": "S130"
+			},
+			"date": "11/05/2022 5:00 pm",
+			"youtubeID": "DfnElfQ_OgE",
+			"rating": "5",
+			"details": "The 91st edition of FAYA:80 where experts explored the scope and potential of Electric Vehicles. With breakthroughs taking place in the EV industry almost every day, this session aimed to answer pertinent questions you might have on the subject. The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know about electric vehicles - whether you want to own one, or build a career in this future-proof industry."
+		},
+		{
 			"eventID": "T90",
 			"title": "Demystifying NFT - Non Fungible Tokens",
 			"technology": "Web",
@@ -743,7 +757,7 @@
 			"eventID": "T89",
 			"title": "Virtual Production using Unreal Engine: The Future of Film Making",
 			"technology": "Web",
-			"eventbanner": "t-89.png",
+			"eventbanner": "89.jpg",
 			"speakers": {
 				"speaker1": "S124",
 				"speaker2": "S125"

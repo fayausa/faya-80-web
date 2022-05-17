@@ -1,6 +1,21 @@
 {
    "event": [
       {
+        "eventID" : "T91",
+        "title": "Driving Disruption - Catching the New Wave of Elec",
+        "technology": "Web",
+        "eventbanner":"91.jpg",
+        "speakers" : 
+          {
+            "speaker1" : "S129",
+            "speaker2" : "S130"
+          },
+        "date": "11/05/2022 5:00 pm",
+        "youtubeID": "DfnElfQ_OgE",
+        "rating": "5",
+        "details": "The 91st edition of FAYA:80 where experts explored the scope and potential of Electric Vehicles. With breakthroughs taking place in the EV industry almost every day, this session aimed to answer pertinent questions you might have on the subject. The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know about electric vehicles - whether you want to own one, or build a career in this future-proof industry."      
+      },
+      {
         "eventID" : "T90",
         "title": "Demystifying NFT - Non Fungible Tokens",
         "technology": "Web",
@@ -20,7 +35,7 @@
           "eventID" : "T89",
           "title": "Virtual Production using Unreal Engine: The Future of Film Making",
            "technology": "Web",
-           "eventbanner":"t-89.png",
+           "eventbanner":"89.jpg",
            "speakers" : 
             {
               "speaker1" : "S124",

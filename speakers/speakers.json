@@ -2016,6 +2016,36 @@
             {
               "eventID" : "T90"
             }
-          }
+          },
+          {
+            "speakerID" : "S129",
+             "speaker": "Dr. Koshy P. Vaidyan",
+             "profile": "CEO, TrEST Research Park",
+             "speakerdesc": "Dr. Koshy P. Vaidyan has more than two decades of experience in Global Tier 1 organizations like Ernst & Young and Tata Consultancy Services, and in Government. His expertise extends to the fields of Enterprise & Business Architecture, Business Process Transformation, and Business / IT Strategy.",           
+             "thumb":"Koshy-P-Vaidyan.jpg",
+             "facebook" : "https://www.facebook.com/people/Koshy-P-Vaidyan/100001538916933/",
+             "twitter" : "https://twitter.com/koshypv",
+             "linkedIn" :"https://www.linkedin.com/in/dr-koshy-p-vaidyan-9868aa29/?originalSubdomain=in",
+             "email" : "",
+             "events" : 
+              {
+                "eventID" : "T91"
+              }
+            },
+            {
+              "speakerID" : "S130",
+               "speaker": "Gautam S.T.",
+               "profile": "Director, Gyanoholic International Pvt. Ltd.",
+               "speakerdesc": "Gautham is an Electronics and Communications Engineer who specializes in Robotics, Electronics, Programming, 3D printing, Automobile Engineering. He is also the co-founder and director of Gyanoholic International Pvt. Ltd.",           
+               "thumb":"Gautam-S-T.jpg",
+               "facebook" : "",
+               "twitter" : "",
+               "linkedIn" :"https://www.linkedin.com/in/gautamst/?originalSubdomain=in",
+               "email" : "",
+               "events" : 
+                {
+                  "eventID" : "T91"
+                }
+              }
    ]
 }
