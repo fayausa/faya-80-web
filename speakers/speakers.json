@@ -1941,6 +1941,187 @@
             {
               "event1" : "T86"
             }
-      }
+      },
+       {
+          "speakerID" : "S124",
+           "speaker": "Nikhil Chandran",
+           "profile": "Founder & Ceo - Tiltlabs ",
+           "speakerdesc": "Metaverse & Web 3.0 Strategist | Virtual Production | Games",           
+           "thumb":"Nikhil_Chandran.jpg",
+           "facebook" : "https://www.facebook.com/nikhilchandran.n",
+           "twitter" : "https://twitter.com/nikhilchandran_",
+           "linkedIn" :"https://www.linkedin.com/in/nikhil-tiltlabs/",
+           "email" : "",
+           "events" : 
+            {
+              "eventID" : "T87"
+            }
+      },
+      {
+        "speakerID" : "S125",
+         "speaker": "Joel Zachariah",
+         "profile": "Creative Director - Tiltlabs ",
+         "speakerdesc": "Narative Designer, Independent Developer, World Builder.",           
+         "thumb":"Joel-Zachariah.jpg",
+         "facebook" : "",
+         "twitter" : "",
+         "linkedIn" :"https://www.linkedin.com/in/joel-zachariah-531b1a11a/",
+         "email" : "",
+         "events" : 
+          {
+            "eventID" : "T88"
+          }
+    },
+    {
+      "speakerID" : "S126",
+       "speaker": "Melvin Thambi",
+       "profile": "Artist | Designer & Creative Entrepreneur from Texas",
+       "speakerdesc": "Creative Entrepreneur & NFT Artist. Co-Founder of Emm & Enn Art Gallery. Designer with a business focus. I help creative individuals convert passion to tangible wealth. Over 14 years of global experience influencing product design with brands including Facebook, LinkedIn, & eBay.",           
+       "thumb":"melvin_thambi.jpg",
+       "facebook" : "https://www.facebook.com/melvinthambiart",
+       "twitter" : "https://twitter.com/ThambiMelvin",
+       "linkedIn" :"https://www.linkedin.com/in/melvinthambi/",
+       "email" : "hello@melvinthambi.com",
+       "events" : 
+        {
+          "eventID" : "T87"
+        }
+      },
+      {
+        "speakerID" : "S127",
+         "speaker": "Anantha Krishnan Nadamel",
+         "profile": "NFT Artist | Visual Designer UXD at TCS Interactive",
+         "speakerdesc": "Digital artist and designer from Kerala in India. Featured by Adobe, Behance, Wacom Gallery, Indian Express, Hindu and Forbes India.",           
+         "thumb":"Anantha-Krishnan-Nadamel.jpg",
+         "facebook" : "https://www.facebook.com/ananthakrishnan.skurup",
+         "twitter" : "https://twitter.com/ANadamel",
+         "linkedIn" :"https://www.linkedin.com/in/anantha-krishnan-s-kurup-301134176/?originalSubdomain=in",
+         "email" : "",
+         "events" : 
+          {
+            "eventID" : "T88"
+          }
+        },
+        {
+          "speakerID" : "S128",
+           "speaker": "Adeeb Abdul Salam",
+           "profile": "Computer Engineer from IITD | Blockchain Researcher",
+           "speakerdesc": " ",           
+           "thumb":"Adeeb-Abdul-Salam.jpg",
+           "facebook" : "https://www.facebook.com/adeeb.abdulsalam",
+           "twitter" : "",
+           "linkedIn" :"https://www.linkedin.com/in/zeroknowledgep/?originalSubdomain=qa",
+           "email" : "",
+           "events" : 
+            {
+              "eventID" : "T89"
+            }
+          },
+          {
+            "speakerID" : "S129",
+             "speaker": "Dr. Koshy P. Vaidyan",
+             "profile": "CEO, TrEST Research Park",
+             "speakerdesc": "Dr. Koshy P. Vaidyan has more than two decades of experience in Global Tier 1 organizations like Ernst & Young and Tata Consultancy Services, and in Government. His expertise extends to the fields of Enterprise & Business Architecture, Business Process Transformation, and Business / IT Strategy.",           
+             "thumb":"Koshy-P-Vaidyan.jpg",
+             "facebook" : "https://www.facebook.com/people/Koshy-P-Vaidyan/100001538916933/",
+             "twitter" : "https://twitter.com/koshypv",
+             "linkedIn" :"https://www.linkedin.com/in/dr-koshy-p-vaidyan-9868aa29/?originalSubdomain=in",
+             "email" : "",
+             "events" : 
+              {
+                "eventID" : "T90"
+              }
+            },
+            {
+              "speakerID" : "S130",
+               "speaker": "Gautam S.T.",
+               "profile": "Director, Gyanoholic International Pvt. Ltd.",
+               "speakerdesc": "Gautham is an Electronics and Communications Engineer who specializes in Robotics, Electronics, Programming, 3D printing, Automobile Engineering. He is also the co-founder and director of Gyanoholic International Pvt. Ltd.",           
+               "thumb":"Gautam-S-T.jpg",
+               "facebook" : "",
+               "twitter" : "",
+               "linkedIn" :"https://www.linkedin.com/in/gautamst/?originalSubdomain=in",
+               "email" : "",
+               "events" : 
+                {
+                  "eventID" : "T91"
+                }
+              },
+              {
+                "speakerID" : "S131",
+                 "speaker": "Abhaya Kumar K R",
+                 "profile": "Senior Manager (Product Management), Edgeverve BFSI",
+                 "speakerdesc": "Abhaya Kumar is a Financial Services Product Executive with 21 years of experience and is passionate about driving product development initiatives from ideation to rollout. He is an expert in identifying market needs, prioritizing, defining, planning, and executing strategic objectives on new Products & Solutions for various markets.",           
+                 "thumb":"abhaya-kumar.jpg",
+                 "facebook" : "",
+                 "twitter" : "",
+                 "linkedIn" :"https://www.linkedin.com/in/abhaya-kumar-k-r-b94370/",
+                 "email" : "",
+                 "events" : 
+                  {
+                    "eventID" : "T92"
+                  }
+                },
+                {
+                  "speakerID" : "S132",
+                   "speaker": "Don Peter",
+                   "profile": "Co-founder and CTO at Finotes Inc.",
+                   "speakerdesc": "Don Peter is the Co-founder and Chief Technology Officer of Finotes - a lightweight SDK that captures and reports bugs in mobile apps. It is capable of detecting memory leaks, ANRs, App Hangs, Crashes, Slow & Frozen frames, HTTP call related issues, screen load delays, and much more. Don has 10+ years of experience in developing mobile applications and backend app development and worked on multiple frameworks with languages like Java, Objective-C, Kotlin, Dart, Swift, Python, and Ruby.",           
+                   "thumb":"don-peter.jpg",
+                   "facebook" : "",
+                   "twitter" : "",
+                   "linkedIn" :"https://www.linkedin.com/in/donpeter06/",
+                   "email" : "",
+                   "events" : 
+                    {
+                      "eventID" : "T93"
+                    }
+                  }
+                  ,
+                  {
+                    "speakerID" : "S133",
+                     "speaker": "Sujith S",
+                     "profile": "Partner & Senior AI/ML Solution Architect, Zackriya Solutions.",
+                     "speakerdesc": "Sujith is the Partner and Senior AI/ML Solution Architect at Zackriya Solutions. Also, an Entrepreneur at heart, Sujith has over half a decade of experience in delivering machine learning and analytics solutions to many midsize to large organizations across the globe. His extensive expertise in Data Science, Machine Learning, and AI has been built from projects from his startup days and is fortified with coursework from universities such as Harvardx.",           
+                     "thumb":"sujith-s.jpg",
+                     "facebook" : "",
+                     "twitter" : "",
+                     "linkedIn" :"https://www.linkedin.com/in/sujithx007/?originalSubdomain=in",
+                     "email" : "",
+                     "events" : 
+                      {
+                        "eventID" : "T94"
+                      }
+                    },
+                    {
+                      "speakerID" : "S134",
+                       "speaker": "Mr. Andrew Bastin",
+                       "profile": "Co-Founder & CTO, Hoppscotch.",
+                       "speakerdesc": "Andrew Bastin is the Co-Founder and Chief Technology Officer at Hoppscotch. Primarily a Full Stack web developer, Andrew also has a solid grasp and experience working on various technologies from mobile app development to native systems programming.",           
+                       "thumb":"andrew-bastin.jpg",
+                       "facebook" : "",
+                       "twitter" : "",
+                       "linkedIn" :"https://www.linkedin.com/in/andrew-bastin-7456771a8/?originalSubdomain=ca",
+                       "email" : "",
+                       "events" : 
+                        {
+                          "eventID" : "T95"
+                        }
+                      },
+                      {
+                        "speakerID" : "S135",
+                         "speaker": "Gurudath Sadanandan",
+                         "profile": "Gurudath is the founder of 'Videogrammer' - a Microsoft-funded project for Startups.",
+                         "speakerdesc": "He is a self-starter, who explores the world through the unique perspective of media, technology, and art. An educator by profession, he is gifted in simplifying complex technology and has conducted workshops across the globe for spreading awareness of technology and art in everyday life.",           
+                         "thumb":"gurudath-sadanandan.png",
+                         "facebook" : "",
+                         "twitter" : "",
+                         "linkedIn" :"https://www.linkedin.com/in/gurudath-sadanandan/?originalSubdomain=in",
+                         "email" : "",
+                         "events" : 
+                          {
+                            "eventID" : "T96"
+                          }
+                        }          
    ]
 }

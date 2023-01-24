@@ -104,7 +104,8 @@
   border: none;
   outline: none;
   background: transparent;
-  z-index: 999; }
+  z-index: 999;
+  text-shadow: 1px 2px 4px #2d2828; }
 
 .slick-prev:hover, .slick-prev:focus {
   color: transparent;
