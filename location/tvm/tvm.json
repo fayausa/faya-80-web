@@ -1,6 +1,48 @@
 {
    "event": [
     {
+      "eventID" : "T99",
+      "title": "Cognitive Automation & AI",
+      "technology": "Web",
+      "eventbanner":"99.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S138"
+        },
+        "date": "4/01/2023 5.00 PM",
+        "youtubeID": "",
+        "rating": "5",
+        "details": "The much-awaited release of GPT-4 is on the horizon. While the economic and technological disruptions it will likely bring are unforeseeable, one thing is for sure, this AI technology will transform the way companies operate from the ground up.  leaves us with the question, ‘Is your company prepared for an AI-powered future?’ Learn to harness the power of AI to automate cognitive tasks, implement AIOps solutions for digital systems, and integrate them with your business's digital assets and other AI-powered solutions to ignite your organization's digital transformation. The session also explores digital leadership and strategy, and the technologies you need to put in place to achieve these goals."      
+      },
+    {
+      "eventID" : "T98",
+      "title": "The Evolution of Marketing 2023",
+      "technology": "Web",
+      "eventbanner":"98.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S137"
+        },
+        "date": "14/12/2022 5.00 PM",
+        "youtubeID": "AiZLGIEvce0",
+        "rating": "5",
+        "details": "Marketing has been evolving since its inception. With the changing scenarios, it has multiple facets that traditional knowledge and textbooks often fail to address. But understanding the core skills of marketing and how you can adapt them can help you thrive in new and evolving circumstances. This talk will help you understand the building-block skills of marketing. You will be able to apply these pragmatic skills to create effective marketing strategies or high-performing marketing teams!"      
+      },
+    {
+      "eventID" : "T97",
+      "title": "Latest Cyber Security Technologies for Your Business",
+      "technology": "Web",
+      "eventbanner":"97.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S136"
+        },
+      "date": "16/11/2022 5.00 PM",
+      "youtubeID": "5sCxfBwB6Zk",
+      "rating": "5",
+      "details": "With Cybersecurity,  the strategy should be to understand the ever-evolving landscape of cybercrimes and prevent threats before they happen. Here the best way to stay ahead of the game is by keeping up with the latest technologies. This session explores the latest Cyber Security Technologies to fortify your business from even the newest forms of cyber threats."      
+    },
+    {
       "eventID" : "T96",
       "title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
       "technology": "Web",
