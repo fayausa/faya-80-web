@@ -1,6 +1,24 @@
 {
    "event": [
     {
+      "eventID" : "T00",
+      "title": "Evolve India 2023",
+      "technology": "AI",
+      "eventbanner":"100.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S141",
+          "speaker2" : "S142",
+          "speaker3" : "S122",
+          "speaker4" : "S5",
+          "speaker5" : "S28"
+        },
+        "date": "22/02/2023 4.00 PM",
+        "youtubeID": "Un9m87gOeaI",
+        "rating": "5",
+        "details": "Looking back at our 50th edition titled Disrupt Kerala 2017, the speakers almost foretold what was imminent and have served as pointers for IT SMEs in India. <br> As AI continues to shape and reshape the technological landscape, Evolve India 2023 will discuss four key points. Grab your Superpowers <br> <strong>Grab your Superpowers </strong> Raising awareness about the AI-powered tools at our disposal. Discussing to turn them into competitive advantages. <br> <strong> Redesign your Talent Filters </strong>It is time to rethink the way we find and hire talent. <br>  <strong>Talent Hunting to Talent Farming</strong>Creating learning environments that foster the development of the right skills and talents. <br> <strong>Company Strategy for AI </strong>  Exploring how Indian IT companies must approach the AI wave. <br><br>"      
+      },
+    {
       "eventID" : "T99",
       "title": "Cognitive Automation & AI",
       "technology": "Web",
