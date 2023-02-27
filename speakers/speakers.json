@@ -1996,7 +1996,7 @@
       "speakerID": "S138",
       "speaker": "Deepa KC",
       "profile": "Head of Infrastructure and Information Security, Allianz Technology India",
-      "speakerdesc": "Renju is a marketing specialist with 12+ years of experience in framing sales, devising marketing strategies, managing a social media presence, and developing products. An effective leader and mentor, he has recruited, trained, and coached high-performing marketing teams for SaaS, eCommerce, IT & EdTech businesses.",
+      "speakerdesc": "Deepa is an accomplished Senior Technology Leader with 21+ years of senior IT leadership and management experience, directing large global teams. She has a strong background in banking and insurance (BFSI). In her previous roles she fuelled digital transformation at a very fast pace underpinned by agile and culture transformation. Deepa led the implementation of “cloud first” strategy and adopted DevOps and SRE framework.",
       "thumb": "deepa.jpg",
       "facebook": "",
       "twitter": "",
@@ -2032,6 +2032,34 @@
       "email": "",
       "events": {
         "eventID": "C34"
+      }
+    },
+    {
+      "speakerID": "S141",
+      "speaker": "Sunny Gupta",
+      "profile": "Engineering Leader, Atlassian",
+      "speakerdesc": "Sunny Gupta is an accomplished Engineering Manager with Atlassian, one of the leading software companies in the world. His passion for coding started at the young age of 12, and since then, he has spent over a decade in the industry, working across various verticals such as eCommerce, SaaS, Fashion-Tech, Med-Tech, and Media, among others.",
+      "thumb": "sunny.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/sunnykgupta/",
+      "email": "",
+      "events": {
+        "event1": "T100"
+      }
+    },
+    {
+      "speakerID": "S142",
+      "speaker": "Anish Aravind",
+      "profile": "Co-Founder & Principal Consultant, SS Consulting",
+      "speakerdesc": "Mr. Anish Aravind is a renowned human resource professional with over 16 years of experience in the manufacturing, FMCG, ITES, and IT industry segments. Mr. Aravind is also a seasoned OD and HR consultant with over 8 years of experience in the field. Mr. Aravind is currently the co-founder and principal consultant at SS Consulting and has served as the Secretary of the National Institute of Personnel Management from 2016-2021. He was recently recognized as one of the top 20 HR Influencers in 2023 by ET's ETHR World.",
+      "thumb": "anish-aravind.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/anisharavind/",
+      "email": "",
+      "events": {
+        "event1": "T100"
       }
     }
   ]
