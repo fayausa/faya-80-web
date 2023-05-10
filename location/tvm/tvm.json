@@ -1,6 +1,34 @@
 {
    "event": [
     {
+      "eventID" : "T102",
+      "title": "Pixels, Frame, Action! An Intro to Motion Design in UX",
+      "technology": "UX",
+      "eventbanner":"102.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S144"
+        },
+        "date": "12/04/2023 4.00 PM",
+        "youtubeID": "XE8OxY2KFzQ",
+        "rating": "5",
+        "details": "Want to take the user experience of your website or app to the next level? Motion Design is the secret sauce you need! <br> With shifting shapes, changing colors, and other animated elements, Motion Design can make your user’s experience seamless, fun, and intuitive. This was how Apple turned its mundane notch into a delightful user experience. And you can do that too… "      
+      },
+    {
+      "eventID" : "T101",
+      "title": "Tailwind CSS: The framework you didn’t know you needed",
+      "technology": "UI",
+      "eventbanner":"101.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S143"
+        },
+        "date": "08/03/2023 4.00 PM",
+        "youtubeID": "X3jwGMKnRNM",
+        "rating": "5",
+        "details": "If you are a front-end developer, not using or at least being aware of Tailwind CSS is a missed opportunity. <br> This popular front-end framework has significantly refined the way developers handle CSS to streamline the web development process, reduce development time & costs, improve code consistency, and create beautiful responsive web applications that look great on any device. "      
+      },
+    {
       "eventID" : "T100",
       "title": "Evolve India 2023",
       "technology": "AI",

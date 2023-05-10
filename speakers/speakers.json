@@ -2061,6 +2061,34 @@
       "events": {
         "event1": "T100"
       }
+    } ,
+    {
+      "speakerID": "S143",
+      "speaker": "Shruti Balasa",
+      "profile": "Shruti Balasa is a full-stack web developer and tech educator",
+      "speakerdesc": "Shruthi is also a top-rated instructor with courses on Udemy, LinkedIn Learning, and YouTube. She has published eBooks that aim to simplify web development for beginners and her first eBook Complete Guide to CSS Flex & Grid has sold over 1400 copies across 80 countries.",
+      "thumb": "shruti-balasa.jpg",
+      "facebook": "",
+      "twitter": "https://twitter.com/shrutibalasa",
+      "linkedIn": "https://www.linkedin.com/in/shrutibalasa/ ",
+      "email": "",
+      "events": {
+        "event1": "T101"
+      }
+    },
+    {
+      "speakerID": "S144",
+      "speaker": "Ashish Anil Abraham",
+      "profile": "Lead Engineer, UX, QBurst ",
+      "speakerdesc": "Ashish is a Lead UX Engineer at QBurst with over 7 years of experience in the field. He is passionate about creating sublime digital experiences that help people achieve their goals. He is also an avid enthusiast of all things tech, design, gaming, and automobile",
+      "thumb": "ashish-anil-abraham.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/imashishanil",
+      "email": "",
+      "events": {
+        "event1": "T102"
+      }
     }
   ]
 }

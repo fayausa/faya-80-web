@@ -1,31 +1,6 @@
 {
 	"event": [
 		{
-			"eventID": "E1",
-			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
-			"technology": "web security",
-			"eventbanner": "1.jpg",
-			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S53"
-			},
-			"date": "09/12/2017 9:00 am",
-			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
-		},
-		{
-			"eventID": "E2",
-			"title": "Hands-On Digital Marketing",
-			"technology": "web security",
-			"eventbanner": "2.jpg",
-			"speakers": {
-				"speaker1": "S71"
-			},
-			"date": "03/02/2018 9:00 am",
-			"youtubeID": "",
-			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
-		},
-		{
 			"eventID": "C35",
 			"title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
 			"technology": "Web",
@@ -426,329 +401,55 @@
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
-			"eventID": "K27",
-			"title": "Beyond Basics - Joomla!",
-			"technology": "web",
-			"eventbanner": "27.jpg",
-			"speakers": {
-				"speaker1": "S115"
-			},
-			"date": "27/11/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Haven’t tried Joomla yet? Being an award-winning Content Management System (CMS), Joomla enables you to build awesome Web sites and powerful online applications. Yet, many are unfamiliar with the seemingly long list of advantages that it offers over other platforms.<br>With more than 7000 extensions, a world-class UI, and excellent security, much has to be learned about this free and open-source software. To discuss the benefits of Joomla and to check whether Joomla is right for your business, join us for the 27th FAYA:80 Kozhikode with Mr. Arun Sasi, a seasoned Joomla Template developer and an active member of the Joomla volunteering Community.<br>The discussion will benefit programmers, project managers and hobbyists alike in familiarizing them with Joomla and to test whether the platform would suit their business requirements or not. Book your tickets now, for there will be Joomla template coupon code giveaways to all attendees.<strong>Topics Covered</strong>Introduction to Joomla! - Up & Running.<br>What's New in Joomla! 4.<br>Getting started with Template Framework & Page Builder.<br>Set up an online store using Joomla!."
-		},
-		{
-			"eventID": "K26",
-			"title": "WordPress 5.0 - Beyond Blogs",
-			"technology": "web",
-			"eventbanner": "26.jpg",
-			"speakers": {
-				"speaker1": "S111"
-			},
-			"date": "23/10/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 26th edition of FAYA:80 Kozhikode for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
-		},
-		{
-			"eventID": "K25",
-			"title": "Scaling Your SaaS Applications In The Cloud",
-			"technology": "web",
-			"eventbanner": "25.jpg",
-			"speakers": {
-				"speaker1": "S113"
-			},
-			"date": "17/07/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "SAAS businesses (Software as a Service) are a booming industry all over the world. For such a rapidly growing industry, there is the need for scalability that is impossible using local server environments. For this, modern systems favor the use of cloud based servers to get the job done.<br>Scaling in the cloud has some essential benefits and risks as well. However, this seemingly difficult task of creating cloud based SAAS applications and the different database approaches are in fact easy, if you follow a few right steps. At the 25th edition of FAYA:80 Kozhikode, meet Mr. Amar C.P, the Co-founder and CTO of VinamSolutions Pvt Ltd and Luvia Global Marketing Agency, as he explains how you could start building your database to build cloud based SAAS applications.<br>The session will be beneficial for all technology enthusiasts, programmers, managers and all others who would like to get introduced to the continuously innovating field of Cloud based systems.<strong>Topics Covered</strong>Getting Started.<br>The Database Approach.<br>Comparison of Different Approaches.<br>How to Analyze DB issues.<br>Demo."
-		},
-		{
-			"eventID": "K24",
-			"title": "Offensive Approach on Cybersecurity",
-			"technology": "security",
-			"eventbanner": "24.jpg",
-			"speakers": {
-				"speaker1": "S104"
-			},
-			"date": "26/06/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Until recently, companies have relied on defensive techniques towards external threats to their systems. Although it seems to be the right thing to do, threats are becoming stronger than ever. Moreover, a strong defense is not enough to beat today’s sophisticated hackers. Offensive Security is a proactive technique using offensive methods to protect systems against potential security risks.<br>Rather than creating a system and reacting to external threats as they emerge, offensive Cybersecurity focuses not only on creating counter offensive methods to find out loopholes within the system and fortifying them, but also to devise counter-offences to stop external intrusions into systems.<br>At the 24th FAYA:80 Kozhikode, meet Mr. Karthik Kalathil, CTO and Co-Founder at Wattlecorp, as he guides you through the challenging and fast paced world of offensive Cybersecurity. The session will be beneficial for all technology enthusiasts, developers, senior-level managers and hobbyists alike who would like to plan their offence using offensive Cybersecurity.<strong>Topics Covered</strong>Introduction to Cybersecurity.<br>Breaking the defensive side of security.<br>Offensive Security."
-		},
-		{
-			"eventID": "K23",
-			"title": "Quantum Computing Basics: How, What and Why",
-			"technology": "front end",
-			"eventbanner": "23.jpg",
-			"speakers": {
-				"speaker1": "S95"
-			},
-			"date": "29/05/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name 'quantum mechanics'.<br>Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so.<br>At the 23rd edition of FAYA:80 Calicut, experience the 'entanglements' and 'superpositions' of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, the modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
-		},
-		{
-			"eventID": "K22",
-			"title": "Building Your First Web API (Ruby on Rails)",
-			"technology": "front end",
-			"eventbanner": "22.jpg",
-			"speakers": {
-				"speaker1": "S100"
-			},
-			"date": "24/04/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Being the dynamic framework with which Twitter and even Github were made, Ruby on Rails is one among the most popular server-side web application frameworks in the tech world. Apart from making a lot of conventional decisions that might otherwise slow down your app building process, Rails also provides default structures for databases, web services, and web pages. Being a developer friendly framework, Ruby on Rails makes programming way faster than the rest.<br> At the 22nd FAYA:80 Calicut, learn the ‘convention over configuration’ design style of Ruby on Rails with Ashik Salman, Co-founder at Ecart.chat, where he explains in detail the framework and helps you build your very own web API. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess on modern frameworks.<strong>Topics Covered</strong>Introduction to Ruby on Rails.<br>Introduction to RESTful APIs.<br>How to Build a Web API using Rails.<br>Live Demo & Debugging."
-		},
-		{
-			"eventID": "K21",
-			"title": "Build your first Chatbot Application",
-			"technology": "front end",
-			"eventbanner": "21.jpg",
-			"speakers": {
-				"speaker1": "S99"
-			},
-			"date": "20/03/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Business is 20 percent product and 80 percent communication; most of the communication being focused on ways to explain the products, services or benefits that your technology offers over your competition or the entire industry. In this context, it becomes crucial to find new ways to converse with customers and provide resources faster to make their search easier. Chat bots have been employed to tackle this opportunity in the most efficient and cost effective way for a while now.<br>Foreseeing this immense potential of chatbots, organizations have started investing heavily in this space. To understand how we could develop and adapt chatbots to your required industry, meet Rijin Ramesh, the co-founder and head of product and technology of Articbot Pvt Ltd, at the 21st edition of FAYA:80 Calicut.<br>The session would be beneficial for all technology enthusiasts, senior level managers, developers, entrepreneurs and hobbyists to explore the framework and challenges of chatbot development. <strong>Topics Covered</strong>Introduction to Chatbot.<br>Bot framework and Challenges.<br>Will Chatbots replace human agents?.<br>Live demo of Articbot."
-		},
-		{
-			"eventID": "K20",
-			"title": "Building Production Ready Applications with Angular 7",
-			"technology": "front end",
-			"eventbanner": "20.jpg",
-			"speakers": {
-				"speaker1": "S96"
-			},
-			"date": "20/02/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Being the most innovative platform to build native apps with ease, Angular has found a great fan followership among developers over the years. Released in late October, the latest version of Angular promises feature updates and performance upgrades that are unheard of in the past. To get in touch with the platform and to make your shift to the latest version, meet Sabeer, Technical lead at FantaCode, explain in detail the ins and outs of the latest version of Angular 7 at the 20th edition of FAYA:80 Kozhikode.<br>The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the awesome features of Angular.<strong>Topics Covered</strong>Introduction to Angular and tooling.<br>Separation of concerns and Dependency Injection in Angular.<br>Introduction to routing in Angular.<br>Communicating between components.<br>How to make your Angular applications production ready."
-		},
-		{
-			"eventID": "K19",
-			"title": "React Native - Bye to Native Development",
-			"technology": "front end",
-			"eventbanner": "19.jpg",
-			"speakers": {
-				"speaker1": "S94"
-			},
-			"date": "16/01/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked. With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kozhikode, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up<br>Layout designing.<br>Demo."
-		},
-		{
-			"eventID": "K18",
-			"title": "Data Engineering using Spark and Scala",
-			"technology": "front end",
-			"eventbanner": "18.jpg",
-			"speakers": {
-				"speaker1": "S88"
-			},
-			"date": "21/11/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
-		},
-		{
-			"eventID": "K17",
-			"title": "Hands-On Data Structures with Python",
-			"technology": "web",
-			"eventbanner": "17.jpg",
-			"speakers": {
-				"speaker1": "S86"
-			},
-			"date": "17/10/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                        Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                              The 15th edition of FAYA:80 Kozhikode will provide an opportunity for all programmers coders who are looking to fine tune their coding skills to get a good working knowledge of data structures along with its hands-on.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
-		},
-		{
-			"eventID": "K16",
-			"title": "Hands On Google Flutter",
-			"technology": "web",
-			"eventbanner": "16.jpg",
-			"speakers": {
-				"speaker1": "S87"
-			},
-			"date": "19/09/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
-		},
-		{
-			"eventID": "K15",
-			"title": "Hands-On Data Structures with Python",
-			"technology": "web",
-			"eventbanner": "15.jpg",
-			"speakers": {
-				"speaker1": "S86"
-			},
-			"date": "15/08/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
-		},
-		{
-			"eventID": "K14",
-			"title": "Hands-On Git Workflow",
-			"technology": "front end",
-			"eventbanner": "14.jpg",
-			"speakers": {
-				"speaker1": "S47"
-			},
-			"date": "19/07/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
-		},
-		{
-			"eventID": "K13",
-			"title": "Building Scalable Mobile Applications Using Firebase",
-			"technology": "front end",
-			"eventbanner": "13.jpg",
-			"speakers": {
-				"speaker1": "S85"
-			},
-			"date": "20/06/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
-		},
-		{
-			"eventID": "K12",
-			"title": "Deep Learning with Keras",
+			"eventID": "E1",
+			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
 			"technology": "web security",
-			"eventbanner": "12.jpg",
-			"speakers": {
-				"speaker1": "S81"
-			},
-			"date": "16/05/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
-		},
-		{
-			"eventID": "K11",
-			"title": "Blockchain CodeLab : No Hype Only Codes",
-			"technology": "web security",
-			"eventbanner": "11.jpg",
-			"speakers": {
-				"speaker1": "S80"
-			},
-			"date": "18/04/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
-		},
-		{
-			"eventID": "K10",
-			"title": "Exploring Augmented Reality: For Today and Tomorrow",
-			"technology": "web security",
-			"eventbanner": "10.jpg",
-			"speakers": {
-				"speaker1": "S79"
-			},
-			"date": "21/03/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
-		},
-		{
-			"eventID": "K9",
-			"title": "A Roadmap to PHP Frameworks with Laravel",
-			"technology": "web",
-			"eventbanner": "9.jpg",
-			"speakers": {
-				"speaker1": "S78"
-			},
-			"date": "21/02/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
-		},
-		{
-			"eventID": "K8",
-			"title": "Discovering Cross-platform Mobile App Development Using Xamarin",
-			"technology": "ios android",
-			"eventbanner": "8.jpg",
-			"speakers": {
-				"speaker1": "S56"
-			},
-			"date": "17/01/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Writing a single version of code and using it on multiple platforms is a chance any software developer would jump at. Cross-platform application development has been a reality for a while now, but it came with its own set of problems ranging from testing issues to maintainability and sometimes even compromised user experience.<br>The Xamarin development platform, however, was a game changer. Considered to be one of the best, it allows cross-platform mobile app development for iOS, Android, and Windows Phone in C# and .NET.<br>The 8th edition of FAYA:80 Kozhikode, Discovering Cross-platform Mobile App Development Using Xamarin, was an opportunity for all developers and other technology enthusiasts to get familiar with the concept of cross-platform development.strong>Topics Covered:</strong> Introduction to the Xamarin Ecosystem<br>How to Fight the Learning Curve<br>Demo - Xamarin Forms<br>ML, AR demo Using Xamarin"
-		},
-		{
-			"eventID": "K7",
-			"title": "Artificial Intelligence- The First Step",
-			"technology": "web",
-			"eventbanner": "7.jpg",
-			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S57"
-			},
-			"date": "20/12/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
-		},
-		{
-			"eventID": "K6",
-			"title": "Deep Learning in AI",
-			"technology": "web frontend",
-			"eventbanner": "6.jpg",
-			"speakers": {
-				"speaker1": "S10"
-			},
-			"date": "15/11/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. It’s time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep Learning is revolutionizing Artificial Intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 6th edition of FAYA:80 Kozhikode was a deep dive into the advancing trends in Deep Learning, their impact on our ecosystem and their successful application in business leading to the creation of next-generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of Different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
-		},
-		{
-			"eventID": "K5",
-			"title": "Launch it with Docker",
-			"technology": "web frontend",
-			"eventbanner": "5.jpg",
-			"speakers": {
-				"speaker1": "S12"
-			},
-			"date": "19/10/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. It provides an overall consistent environment for the application, right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 5th edition of FAYA:80 provided the right platform for the technology enthusiasts to understand Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session provided a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo"
-		},
-		{
-			"eventID": "K4",
-			"title": "The Changing Face of SEO",
-			"technology": "web",
-			"eventbanner": "4.jpg",
-			"speakers": {
-				"speaker1": "S3"
-			},
-			"date": "20/09/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 4th edition of FAYA:80- Kozhikode chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
-		},
-		{
-			"eventID": "K3",
-			"title": "Security in Web Applications",
-			"technology": "web security",
-			"eventbanner": "3.jpg",
-			"speakers": {
-				"speaker1": "S47"
-			},
-			"date": "16/08/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Money and other sensitive information change hands over web applications and these are seen as opportunities by hackers. A recent study revealed that more than half of all digital breaches are web applications-based. But review of security before and during production of applications is often neglected.<br>The fact is, securing application environments presents a unique and consistent challenge to IT teams.<br>The 3rd edition of FAYA:80 – Kozhikode Chapter, was an eye opener for all those concerned with web security.strong>Topics Covered:</strong>Basics of Web Application Security<br>OWASP Top 10 Security Vulnerabilities<br>Security in DevOps"
-		},
-		{
-			"eventID": "K2",
-			"title": "A Roadmap for Angular 4",
-			"technology": "web",
-			"eventbanner": "2.jpg",
-			"speakers": {
-				"speaker1": "S14"
-			},
-			"date": "19/07/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 2nd edition of the Kozhikode chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
-		},
-		{
-			"eventID": "K1",
-			"title": "Mining the Opportunities of Bitcoin & Blockchain",
-			"technology": "web",
 			"eventbanner": "1.jpg",
 			"speakers": {
-				"speaker1": "S5"
+				"speaker1": "S52",
+				"speaker2": "S53"
 			},
-			"date": "13/06/2017 5:00 pm",
+			"date": "09/12/2017 9:00 am",
 			"youtubeID": "",
-			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
+		},
+		{
+			"eventID": "E2",
+			"title": "Hands-On Digital Marketing",
+			"technology": "web security",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S71"
+			},
+			"date": "03/02/2018 9:00 am",
+			"youtubeID": "",
+			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
+		},
+		{
+			"eventID": "T102",
+			"title": "Pixels, Frame, Action! An Intro to Motion Design in UX",
+			"technology": "UX",
+			"eventbanner": "102.jpg",
+			"speakers": {
+				"speaker1": "S144"
+			},
+			"date": "22/02/2023 4.00 PM",
+			"youtubeID": "XE8OxY2KFzQ",
+			"rating": "5",
+			"details": "Want to take the user experience of your website or app to the next level? Motion Design is the secret sauce you need! <br> With shifting shapes, changing colors, and other animated elements, Motion Design can make your user’s experience seamless, fun, and intuitive. This was how Apple turned its mundane notch into a delightful user experience. And you can do that too… "
+		},
+		{
+			"eventID": "T101",
+			"title": "Tailwind CSS: The framework you didn’t know you needed",
+			"technology": "UI",
+			"eventbanner": "101.jpg",
+			"speakers": {
+				"speaker1": "S143"
+			},
+			"date": "22/02/2023 4.00 PM",
+			"youtubeID": "X3jwGMKnRNM",
+			"rating": "5",
+			"details": "If you are a front-end developer, not using or at least being aware of Tailwind CSS is a missed opportunity. <br> This popular front-end framework has significantly refined the way developers handle CSS to streamline the web development process, reduce development time & costs, improve code consistency, and create beautiful responsive web applications that look great on any device. "
 		},
 		{
 			"eventID": "T100",
@@ -2128,6 +1829,331 @@
 			"date": "05/06/2013 5:00 pm",
 			"youtubeID": "",
 			"details": ""
+		},
+		{
+			"eventID": "K27",
+			"title": "Beyond Basics - Joomla!",
+			"technology": "web",
+			"eventbanner": "27.jpg",
+			"speakers": {
+				"speaker1": "S115"
+			},
+			"date": "27/11/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Haven’t tried Joomla yet? Being an award-winning Content Management System (CMS), Joomla enables you to build awesome Web sites and powerful online applications. Yet, many are unfamiliar with the seemingly long list of advantages that it offers over other platforms.<br>With more than 7000 extensions, a world-class UI, and excellent security, much has to be learned about this free and open-source software. To discuss the benefits of Joomla and to check whether Joomla is right for your business, join us for the 27th FAYA:80 Kozhikode with Mr. Arun Sasi, a seasoned Joomla Template developer and an active member of the Joomla volunteering Community.<br>The discussion will benefit programmers, project managers and hobbyists alike in familiarizing them with Joomla and to test whether the platform would suit their business requirements or not. Book your tickets now, for there will be Joomla template coupon code giveaways to all attendees.<strong>Topics Covered</strong>Introduction to Joomla! - Up & Running.<br>What's New in Joomla! 4.<br>Getting started with Template Framework & Page Builder.<br>Set up an online store using Joomla!."
+		},
+		{
+			"eventID": "K26",
+			"title": "WordPress 5.0 - Beyond Blogs",
+			"technology": "web",
+			"eventbanner": "26.jpg",
+			"speakers": {
+				"speaker1": "S111"
+			},
+			"date": "23/10/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 26th edition of FAYA:80 Kozhikode for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+		},
+		{
+			"eventID": "K25",
+			"title": "Scaling Your SaaS Applications In The Cloud",
+			"technology": "web",
+			"eventbanner": "25.jpg",
+			"speakers": {
+				"speaker1": "S113"
+			},
+			"date": "17/07/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "SAAS businesses (Software as a Service) are a booming industry all over the world. For such a rapidly growing industry, there is the need for scalability that is impossible using local server environments. For this, modern systems favor the use of cloud based servers to get the job done.<br>Scaling in the cloud has some essential benefits and risks as well. However, this seemingly difficult task of creating cloud based SAAS applications and the different database approaches are in fact easy, if you follow a few right steps. At the 25th edition of FAYA:80 Kozhikode, meet Mr. Amar C.P, the Co-founder and CTO of VinamSolutions Pvt Ltd and Luvia Global Marketing Agency, as he explains how you could start building your database to build cloud based SAAS applications.<br>The session will be beneficial for all technology enthusiasts, programmers, managers and all others who would like to get introduced to the continuously innovating field of Cloud based systems.<strong>Topics Covered</strong>Getting Started.<br>The Database Approach.<br>Comparison of Different Approaches.<br>How to Analyze DB issues.<br>Demo."
+		},
+		{
+			"eventID": "K24",
+			"title": "Offensive Approach on Cybersecurity",
+			"technology": "security",
+			"eventbanner": "24.jpg",
+			"speakers": {
+				"speaker1": "S104"
+			},
+			"date": "26/06/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Until recently, companies have relied on defensive techniques towards external threats to their systems. Although it seems to be the right thing to do, threats are becoming stronger than ever. Moreover, a strong defense is not enough to beat today’s sophisticated hackers. Offensive Security is a proactive technique using offensive methods to protect systems against potential security risks.<br>Rather than creating a system and reacting to external threats as they emerge, offensive Cybersecurity focuses not only on creating counter offensive methods to find out loopholes within the system and fortifying them, but also to devise counter-offences to stop external intrusions into systems.<br>At the 24th FAYA:80 Kozhikode, meet Mr. Karthik Kalathil, CTO and Co-Founder at Wattlecorp, as he guides you through the challenging and fast paced world of offensive Cybersecurity. The session will be beneficial for all technology enthusiasts, developers, senior-level managers and hobbyists alike who would like to plan their offence using offensive Cybersecurity.<strong>Topics Covered</strong>Introduction to Cybersecurity.<br>Breaking the defensive side of security.<br>Offensive Security."
+		},
+		{
+			"eventID": "K23",
+			"title": "Quantum Computing Basics: How, What and Why",
+			"technology": "front end",
+			"eventbanner": "23.jpg",
+			"speakers": {
+				"speaker1": "S95"
+			},
+			"date": "29/05/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name 'quantum mechanics'.<br>Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so.<br>At the 23rd edition of FAYA:80 Calicut, experience the 'entanglements' and 'superpositions' of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, the modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
+		},
+		{
+			"eventID": "K22",
+			"title": "Building Your First Web API (Ruby on Rails)",
+			"technology": "front end",
+			"eventbanner": "22.jpg",
+			"speakers": {
+				"speaker1": "S100"
+			},
+			"date": "24/04/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being the dynamic framework with which Twitter and even Github were made, Ruby on Rails is one among the most popular server-side web application frameworks in the tech world. Apart from making a lot of conventional decisions that might otherwise slow down your app building process, Rails also provides default structures for databases, web services, and web pages. Being a developer friendly framework, Ruby on Rails makes programming way faster than the rest.<br> At the 22nd FAYA:80 Calicut, learn the ‘convention over configuration’ design style of Ruby on Rails with Ashik Salman, Co-founder at Ecart.chat, where he explains in detail the framework and helps you build your very own web API. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess on modern frameworks.<strong>Topics Covered</strong>Introduction to Ruby on Rails.<br>Introduction to RESTful APIs.<br>How to Build a Web API using Rails.<br>Live Demo & Debugging."
+		},
+		{
+			"eventID": "K21",
+			"title": "Build your first Chatbot Application",
+			"technology": "front end",
+			"eventbanner": "21.jpg",
+			"speakers": {
+				"speaker1": "S99"
+			},
+			"date": "20/03/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Business is 20 percent product and 80 percent communication; most of the communication being focused on ways to explain the products, services or benefits that your technology offers over your competition or the entire industry. In this context, it becomes crucial to find new ways to converse with customers and provide resources faster to make their search easier. Chat bots have been employed to tackle this opportunity in the most efficient and cost effective way for a while now.<br>Foreseeing this immense potential of chatbots, organizations have started investing heavily in this space. To understand how we could develop and adapt chatbots to your required industry, meet Rijin Ramesh, the co-founder and head of product and technology of Articbot Pvt Ltd, at the 21st edition of FAYA:80 Calicut.<br>The session would be beneficial for all technology enthusiasts, senior level managers, developers, entrepreneurs and hobbyists to explore the framework and challenges of chatbot development. <strong>Topics Covered</strong>Introduction to Chatbot.<br>Bot framework and Challenges.<br>Will Chatbots replace human agents?.<br>Live demo of Articbot."
+		},
+		{
+			"eventID": "K20",
+			"title": "Building Production Ready Applications with Angular 7",
+			"technology": "front end",
+			"eventbanner": "20.jpg",
+			"speakers": {
+				"speaker1": "S96"
+			},
+			"date": "20/02/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being the most innovative platform to build native apps with ease, Angular has found a great fan followership among developers over the years. Released in late October, the latest version of Angular promises feature updates and performance upgrades that are unheard of in the past. To get in touch with the platform and to make your shift to the latest version, meet Sabeer, Technical lead at FantaCode, explain in detail the ins and outs of the latest version of Angular 7 at the 20th edition of FAYA:80 Kozhikode.<br>The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the awesome features of Angular.<strong>Topics Covered</strong>Introduction to Angular and tooling.<br>Separation of concerns and Dependency Injection in Angular.<br>Introduction to routing in Angular.<br>Communicating between components.<br>How to make your Angular applications production ready."
+		},
+		{
+			"eventID": "K19",
+			"title": "React Native - Bye to Native Development",
+			"technology": "front end",
+			"eventbanner": "19.jpg",
+			"speakers": {
+				"speaker1": "S94"
+			},
+			"date": "16/01/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked. With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kozhikode, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up<br>Layout designing.<br>Demo."
+		},
+		{
+			"eventID": "K18",
+			"title": "Data Engineering using Spark and Scala",
+			"technology": "front end",
+			"eventbanner": "18.jpg",
+			"speakers": {
+				"speaker1": "S88"
+			},
+			"date": "21/11/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "In this era of ever growing data, the need for analyzing it for meaningful business insights becomes more and more significant. There are different Big Data processing alternatives like Hadoop, Spark, Storm etc. Spark written in Scala, however is unique in providing batch as well as streaming capabilities, thus making it a preferred choice for lightning fast Big Data Analysis platforms. Spark has beien adopted by major players like Amazon, eBay, and Yahoo! Indeed, Spark and Scala are technologies well worth taking note of and learning about.                                                                                                                                                                                                                                          The 18th edition of FAYA:80 Kochi became an open platform for all technology enthusiasts, to explore how Spark and Scala can be used in Data Engineering. The session also helped those who had already adopted Spark/Scala to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>The Data Engineering Paradigm.<br>Spark/Scala : Where does it fit?<br>Practical considerations."
+		},
+		{
+			"eventID": "K17",
+			"title": "Hands-On Data Structures with Python",
+			"technology": "web",
+			"eventbanner": "17.jpg",
+			"speakers": {
+				"speaker1": "S86"
+			},
+			"date": "17/10/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                        Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                              The 15th edition of FAYA:80 Kozhikode will provide an opportunity for all programmers coders who are looking to fine tune their coding skills to get a good working knowledge of data structures along with its hands-on.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+		},
+		{
+			"eventID": "K16",
+			"title": "Hands On Google Flutter",
+			"technology": "web",
+			"eventbanner": "16.jpg",
+			"speakers": {
+				"speaker1": "S87"
+			},
+			"date": "19/09/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every new or an experienced Android developer must have heard about the latest release from Google, called as Flutter. This new and simple framework designed development kit helps in developing cross-platform native apps. It is a platform for developing Android and iOS apps from a single codebase, written in Dart. Available in beta version, Flutter is an open source product which can assist developers in building apps which is great in UX and features.                                                                                                                                                                                                                                                     With Flutter’s growing community, it’s a great time for all mobile developers and other technology enthusiasts to jump in. The 16th edition of FAYA:80 Kozhikode provided an open platform for participants to break the ice with Flutter and try building their first app on Flutter. The participants used this session to discuss their roadblocks in development and got the help from the community to solve them.<strong>Topics Covered</strong>Introduction to Flutter.<br>Dart.<br>How to build a Flutter Application.<br>Live Demo & Debugging."
+		},
+		{
+			"eventID": "K15",
+			"title": "Hands-On Data Structures with Python",
+			"technology": "web",
+			"eventbanner": "15.jpg",
+			"speakers": {
+				"speaker1": "S86"
+			},
+			"date": "15/08/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Every development organization loses precious hours and significant resources every year, trying to work around poorly written code. Bad code can function, yes. But if your code is not built on strong data structures as required, it has the potential to bring the entire project down.                                                                                                                                                                                                                 Python ships with an extensive set of data structures in its standard library which organizes data so it can be accessed efficiently, depending on the use case at hand. However many developers are often unclear how these can be used for a specific implementation in Python.                                                                                                                                                                                                                                          The 15th edition of FAYA:80 Kozhikode provided an opportunity for all programmers and coders who were looking to fine tune their coding skills to get a good working knowledge of data structures along with a hands-on opportunity at Python.<strong>Topics Covered</strong>Introduction.<br>Bitfields.<br>Bloom filters.<br>Hands-On & Demo."
+		},
+		{
+			"eventID": "K14",
+			"title": "Hands-On Git Workflow",
+			"technology": "front end",
+			"eventbanner": "14.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "19/07/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "When it comes to version control, everybody is talking about Git these days. Many teams have already migrated to Git and many more are transitioning to it now. Git will simplify source control processes, increase the flexibility of feature development, increase code quality, and ensure smooth deployments. Sticking with old ways, your development team will continue to struggle to react to changing requirements, have error-prone deployments, and spend excessive amounts of time undoing merge conflicts.                                                                                                                                                              Changing to Git doesn’t just solve your problem. You should have knowledge to use its capabilities right. This is where many teams struggle even after switching to GIT.                                                                   The 14th edition of FAYA:80 Kozhikode, Hands-On Git Workflow, provided a starting point to learn how to use Git as well as know more about its possibilities that could help to improve the existing workflow. It also helped to ask and resolve any challenges that participants faced while implementing Git at their workflow.<strong>Topics Covered</strong>Version Control.<br>Introduction To Git.<br>Collaborating with git.<br>Merging, Forking, Pull Requests/ Merge requests.<br>Workflow with Git<br>Git branching strategies for CI/CD"
+		},
+		{
+			"eventID": "K13",
+			"title": "Building Scalable Mobile Applications Using Firebase",
+			"technology": "front end",
+			"eventbanner": "13.jpg",
+			"speakers": {
+				"speaker1": "S85"
+			},
+			"date": "20/06/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "No matter which industry you belong to, having a scalable, intuitive, and interactive app seems to be the need of the hour. Since consumers perform more than half of their tasks with the help of mobile apps, it has become imperative to build strong business applications. It’s right here that you need a robust, scalable, and dynamic framework for application development. Google’s Firebase emerges as a remarkable option, which can ensure a unified and integrated platform for dynamic mobile apps.                                                                                                                                                                                                          Join us for the 13th edition of FAYA:80 Kozhikode to explore this innovative framework to build better apps that could grow your business more successfully.<strong>Topics Covered</strong>Introduction to Firebase.<br>Real-time database.<br>Firebase Cloud Functions.<br>Firebase ML Kit Introduction.<br>Live Demo & Debugging"
+		},
+		{
+			"eventID": "K12",
+			"title": "Deep Learning with Keras",
+			"technology": "web security",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S81"
+			},
+			"date": "16/05/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>Keras is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, or MXNet. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.<br>The 12th edition of FAYA:80 Kozhikodu, Deep Learning with Keras, will be a first of its kind in the city, and will deal with various Deep Learning libraries, with special focus on Keras model. It will be a great opportunity for anyone who has started out with the concepts of Machine Learning to explore the exciting and vast world of Deep Learning through Keras.<strong>Topics Covered</strong>Introduction to Deep Learning<br>Deep Learning Libraries<br>Why Keras?<br>Building and Training Models with Keras<br>Deploying a Keras model<br>Resources to get started"
+		},
+		{
+			"eventID": "K11",
+			"title": "Blockchain CodeLab : No Hype Only Codes",
+			"technology": "web security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S80"
+			},
+			"date": "18/04/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Blockchain is one of the technologies that has generated much interest in technology circles and beyond because of the new business opportunities it opens up in many areas wider than Bitcoin or cryptocurrencies. The possibilities of the Blockchain are enormous and almost any industry that deals with some sort of transaction,such as intellectual property, productivity, workforce management, and enterprise mobility, can be disrupted by the Blockchain.<br>The 11th edition of FAYA:80 Kozhikode provides an open platform for all Blockchain enthusiasts to be a step ahead of Blockchain development with Hyperledger Fabric. It is a blockchain framework implementation and one of the Hyperledger projects hosted by The Linux Foundation.<br>The session will be an opportunity for all application developers, testers, technical managers and other technology enthusiasts to make their step into the real development using Blockchain.<strong>Topics Covered</strong>The world of permission to Blockchains<br>Hyperledger Fabric: Setting up the environment<br>Hyperledger Composer<br>Working it all out"
+		},
+		{
+			"eventID": "K10",
+			"title": "Exploring Augmented Reality: For Today and Tomorrow",
+			"technology": "web security",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S79"
+			},
+			"date": "21/03/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Augmented Reality lies right in the middle of the Mixed Reality spectrum between the real world and the virtual world. From image filters on social media to surgical procedures, AR brings us the best of both worlds and is rapidly growing in application and importance, enhancing what we see, hear and feel. AR is also slated to create a significant number of opportunities for employment across diverse sectors, especially in a post-automation world.<strong>Topics Covered</strong>Introduction to Augmented Reality<br>Impact of AR on Various Industries<br>Vuforia: AR for All<br>ARKit & ARCore<br>Introduction to Mixed Reality"
+		},
+		{
+			"eventID": "K9",
+			"title": "A Roadmap to PHP Frameworks with Laravel",
+			"technology": "web",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S78"
+			},
+			"date": "21/02/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. <br>Laravel is one of the most popular PHP frameworks for the very reason that it aims to make the development process pleasant for the developer, without sacrificing application functionality. An amazing ORM, painless routing, powerful queue library, and simple authentication are some of the many features which make Laravel the best tool for a modern, maintainable PHP.<strong>Topics Covered</strong>Introduction to PHP Frameworks<br>Laravel - Basic Concepts & Setup<br>Blade Template<br>Database Migrations, Seeds & Eloquent ORM<br>Architecture Concepts and Advanced Features<br>Code Optimization & Best Practices"
+		},
+		{
+			"eventID": "K8",
+			"title": "Discovering Cross-platform Mobile App Development Using Xamarin",
+			"technology": "ios android",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S56"
+			},
+			"date": "17/01/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Writing a single version of code and using it on multiple platforms is a chance any software developer would jump at. Cross-platform application development has been a reality for a while now, but it came with its own set of problems ranging from testing issues to maintainability and sometimes even compromised user experience.<br>The Xamarin development platform, however, was a game changer. Considered to be one of the best, it allows cross-platform mobile app development for iOS, Android, and Windows Phone in C# and .NET.<br>The 8th edition of FAYA:80 Kozhikode, Discovering Cross-platform Mobile App Development Using Xamarin, was an opportunity for all developers and other technology enthusiasts to get familiar with the concept of cross-platform development.strong>Topics Covered:</strong> Introduction to the Xamarin Ecosystem<br>How to Fight the Learning Curve<br>Demo - Xamarin Forms<br>ML, AR demo Using Xamarin"
+		},
+		{
+			"eventID": "K7",
+			"title": "Artificial Intelligence- The First Step",
+			"technology": "web",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S57"
+			},
+			"date": "20/12/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+		},
+		{
+			"eventID": "K6",
+			"title": "Deep Learning in AI",
+			"technology": "web frontend",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S10"
+			},
+			"date": "15/11/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. It’s time to take a closer look at Deep Learning to discover the advances in algorithms and methods. Deep Learning is revolutionizing Artificial Intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 6th edition of FAYA:80 Kozhikode was a deep dive into the advancing trends in Deep Learning, their impact on our ecosystem and their successful application in business leading to the creation of next-generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br>Comparison of Different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
+		},
+		{
+			"eventID": "K5",
+			"title": "Launch it with Docker",
+			"technology": "web frontend",
+			"eventbanner": "5.jpg",
+			"speakers": {
+				"speaker1": "S12"
+			},
+			"date": "19/10/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Project Deployment has always been a hassle that turns many heads in the IT industry. Docker has solved this acute problem faced by our industry to a great extent. It provides an overall consistent environment for the application, right from development to production, irrespective of the platform or infrastructure. The popularity gained by Docker in the recent times is solely due to its power to assemble and manage the applications and their dependencies on a single platform. This flexibility and portability provided by Docker has made it the most sought after technology pivots.<br>Even though there is a vast adoption of docker globally, the rate of its adoption in our community has taken a back seat. This is due to the lack of expertise and fear of failure to overcome the challenges during its initial implementation.<br>The 5th edition of FAYA:80 provided the right platform for the technology enthusiasts to understand Docker as an end-to-end entity right from its basic concepts to its implementation on the cloud. The session provided a chance for the newbies to understand Docker from the scratch and for the experts to get their roadblocks cleared, thereby providing more confidence for both the categories to initiate or fasten its implementation.strong>Topics Covered:</strong>Docker Concepts<br>VM vs Containers<br>Best Practices<br>Use Cases<br>Docker in the Cloud<br>Live Demo"
+		},
+		{
+			"eventID": "K4",
+			"title": "The Changing Face of SEO",
+			"technology": "web",
+			"eventbanner": "4.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "20/09/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 4th edition of FAYA:80- Kozhikode chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+		},
+		{
+			"eventID": "K3",
+			"title": "Security in Web Applications",
+			"technology": "web security",
+			"eventbanner": "3.jpg",
+			"speakers": {
+				"speaker1": "S47"
+			},
+			"date": "16/08/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Money and other sensitive information change hands over web applications and these are seen as opportunities by hackers. A recent study revealed that more than half of all digital breaches are web applications-based. But review of security before and during production of applications is often neglected.<br>The fact is, securing application environments presents a unique and consistent challenge to IT teams.<br>The 3rd edition of FAYA:80 – Kozhikode Chapter, was an eye opener for all those concerned with web security.strong>Topics Covered:</strong>Basics of Web Application Security<br>OWASP Top 10 Security Vulnerabilities<br>Security in DevOps"
+		},
+		{
+			"eventID": "K2",
+			"title": "A Roadmap for Angular 4",
+			"technology": "web",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "19/07/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 2nd edition of the Kozhikode chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+		},
+		{
+			"eventID": "K1",
+			"title": "Mining the Opportunities of Bitcoin & Blockchain",
+			"technology": "web",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S5"
+			},
+			"date": "13/06/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
 		}
 	]
 }
