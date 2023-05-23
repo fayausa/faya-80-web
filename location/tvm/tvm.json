@@ -1,13 +1,175 @@
 {
    "event": [
+    {
+      "eventID" : "T100",
+      "title": "Evolve India 2023",
+      "technology": "AI",
+      "eventbanner":"100.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S141",
+          "speaker2" : "S142",
+          "speaker3" : "S122",
+          "speaker4" : "S5",
+          "speaker5" : "S28"
+        },
+        "date": "22/02/2023 4.00 PM",
+        "youtubeID": "Un9m87gOeaI",
+        "rating": "5",
+        "details": "Looking back at our 50th edition titled Disrupt Kerala 2017, the speakers almost foretold what was imminent and have served as pointers for IT SMEs in India. <br> As AI continues to shape and reshape the technological landscape, Evolve India 2023 will discuss four key points. Grab your Superpowers <br> <strong>Grab your Superpowers </strong> Raising awareness about the AI-powered tools at our disposal. Discussing to turn them into competitive advantages. <br> <strong> Redesign your Talent Filters </strong>It is time to rethink the way we find and hire talent. <br>  <strong>Talent Hunting to Talent Farming</strong>Creating learning environments that foster the development of the right skills and talents. <br> <strong>Company Strategy for AI </strong>  Exploring how Indian IT companies must approach the AI wave. <br><br>"      
+      },
+    {
+      "eventID" : "T99",
+      "title": "Cognitive Automation & AI",
+      "technology": "Web",
+      "eventbanner":"99.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S138"
+        },
+        "date": "4/01/2023 5.00 PM",
+        "youtubeID": "",
+        "rating": "5",
+        "details": "The much-awaited release of GPT-4 is on the horizon. While the economic and technological disruptions it will likely bring are unforeseeable, one thing is for sure, this AI technology will transform the way companies operate from the ground up.  leaves us with the question, ‘Is your company prepared for an AI-powered future?’ Learn to harness the power of AI to automate cognitive tasks, implement AIOps solutions for digital systems, and integrate them with your business's digital assets and other AI-powered solutions to ignite your organization's digital transformation. The session also explores digital leadership and strategy, and the technologies you need to put in place to achieve these goals."      
+      },
+    {
+      "eventID" : "T98",
+      "title": "The Evolution of Marketing 2023",
+      "technology": "Web",
+      "eventbanner":"98.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S137"
+        },
+        "date": "14/12/2022 5.00 PM",
+        "youtubeID": "AiZLGIEvce0",
+        "rating": "5",
+        "details": "Marketing has been evolving since its inception. With the changing scenarios, it has multiple facets that traditional knowledge and textbooks often fail to address. But understanding the core skills of marketing and how you can adapt them can help you thrive in new and evolving circumstances. This talk will help you understand the building-block skills of marketing. You will be able to apply these pragmatic skills to create effective marketing strategies or high-performing marketing teams!"      
+      },
+    {
+      "eventID" : "T97",
+      "title": "Latest Cyber Security Technologies for Your Business",
+      "technology": "Web",
+      "eventbanner":"97.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S136"
+        },
+      "date": "16/11/2022 5.00 PM",
+      "youtubeID": "5sCxfBwB6Zk",
+      "rating": "5",
+      "details": "With Cybersecurity,  the strategy should be to understand the ever-evolving landscape of cybercrimes and prevent threats before they happen. Here the best way to stay ahead of the game is by keeping up with the latest technologies. This session explores the latest Cyber Security Technologies to fortify your business from even the newest forms of cyber threats."      
+    },
+    {
+      "eventID" : "T96",
+      "title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
+      "technology": "Web",
+      "eventbanner":"96.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S135"
+        },
+      "date": "26/10/2022 5.00 PM",
+      "youtubeID": "osAIpzD5-us",
+      "rating": "5",
+      "details": "Take your business to the next level with the power of AI. Learn about programming using AI with innovations like OpenAI, Text to Code AI processes, GPT3 Technology, Codex, etc., and how to apply them to your business."      
+    },
+    {
+      "eventID" : "T95",
+      "title": "Embrace TypeScript - A guide to sleeping peacefully at night",
+      "technology": "Web",
+      "eventbanner":"95.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S134"
+        },
+      "date": "14/09/2022 5.00 PM",
+      "youtubeID": "cIkCse1IvqE",
+      "rating": "5",
+      "details": "Typos, forgotten null checks, mixed-up types… let go of these dreads that come with pushing your JavaScript code. Embrace TypeScript and write safe code that gives you the good night’s sleep you deserve."      
+    },
+    {
+      "eventID" : "T94",
+      "title": "Software Robots - Robotic Process Automation with UIPath",
+      "technology": "Web",
+      "eventbanner":"94.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S133"
+        },
+      "date": "10/08/2022 5.00 PM",
+      "youtubeID": "ZOTTAXbisv8",
+      "rating": "5",
+      "details": "What if you can develop a script in 5 min to fetch and save the entire product listings from an Amazon search result? What if you can automate time administration to deliver 20x faster results? It's all possible with Robotic Process Automation.  Learn to optimize your workflow into a more profitable, flexible, and responsive one with Robotic Process Automation (RPA)!."      
+    },
+    {
+      "eventID" : "T93",
+      "title": "How Not To Screw Up Your Flutter App In Android ",
+      "technology": "Web",
+      "eventbanner":"93.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S132"
+        },
+      "date": "13/07/2022 5.00 PM",
+      "youtubeID": "YVx1qwL3pZA",
+      "rating": "5",
+      "details": "Flutter is an open-source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase. Although the Flutter framework is making strides in cross-platform development, there are certain things we need to take care of for each platform specifically. This session will focus on building better Flutter apps for the Android platform."      
+    },
+    {
+      "eventID" : "T92",
+      "title": "Product Management - A fine balancing act",
+      "technology": "Web",
+      "eventbanner":"92.jpg",
+      "speakers" : 
+        {
+          "speaker1" : "S131"
+        },
+      "date": "15/06/2022 5.00 PM",
+      "youtubeID": "DE2JmeBaBYg",
+      "rating": "5",
+      "details": "Product management acts as a bridge between clients and technology firms to help better understand the value of its products. But many of us are yet to fully explore, strategize or optimize this vital process through active management. Mr. Abhaya Kumar K R, Senior Manager, Product Management, Edgeverve, discusses Product Management, the process's lifecycle, challenges, expectations, and more."      
+    },
+      {
+        "eventID" : "T91",
+        "title": "Driving Disruption - Catching the New Wave of Elec",
+        "technology": "Web",
+        "eventbanner":"91.jpg",
+        "speakers" : 
+          {
+            "speaker1" : "S129",
+            "speaker2" : "S130"
+          },
+        "date": "11/05/2022 5:00 pm",
+        "youtubeID": "DfnElfQ_OgE",
+        "rating": "5",
+        "details": "The 91st edition of FAYA:80 where experts explored the scope and potential of Electric Vehicles. With breakthroughs taking place in the EV industry almost every day, this session aimed to answer pertinent questions you might have on the subject. The session is open to all tech enthusiasts, hobbyists, developers, project managers, and all others who would like to know about electric vehicles - whether you want to own one, or build a career in this future-proof industry."      
+      },
+      {
+        "eventID" : "T90",
+        "title": "Demystifying NFT - Non Fungible Tokens",
+        "technology": "Web",
+        "eventbanner":"90.jpg",
+        "speakers" : 
+          {
+            "speaker1" : "S126",
+            "speaker2" : "S127",
+            "speaker3" : "S128"
+          },
+        "date": "09/06/2021 7:30 pm",
+        "youtubeID": "",
+        "rating": "5",
+        "details": "In 2021, there has been increased interest in using NFTs, especially around digital arts and digital art creator communities. Digital artists like Beeple, Cryptopunk, etc. have excited the global press by selling their NFT Arts worth millions of dollars. They did this by leveraging the power of blockchain technology and cryptocurrencies. Many technology firms have already started exploring the possibilities of riding ahead of the NFT wave. Huge commotions are happening on the internet regarding the discussions and debates around the pros and cons of NFT arts. NFTs, or non-fungible tokens, have been 'A Thing' for a while now, but what makes NFT arts suddenly so special and unique? Is NFT yet another bubble? Or is it something that has long-term value? In this conversation, we have called in expert NFT artists to share their real-life experiences and help the community get some awareness about the fundamentals of NFT arts. We shall try our best to demystify NFT by discussing its various dimensions."      
+      },
       {
           "eventID" : "T89",
           "title": "Virtual Production using Unreal Engine: The Future of Film Making",
            "technology": "Web",
-           "eventbanner":"t-89.jpg",
+           "eventbanner":"89.jpg",
            "speakers" : 
             {
-              "speaker1" : "S124"
+              "speaker1" : "S124",
+              "speaker2" : "S125"
             },
            "date": "05/05/2021 7:00 pm",
            "youtubeID": "Le9C-PemPmQ",
@@ -1105,7 +1267,7 @@
            "details": "'Building Performance Optimized Responsive Websites' was the second of the Tri-Series on 'Mastering HTML5 & CSS3' aimed at creating awarenes on the HTML Layout and Frameworks available and how to build an optimized responsive website. This session helped set the tone for building a strong basement on best practices of front end development.strong>Topics Covered:</strong>HTML Layouts<br>HTML Frameworks<br>Optimizing Responsive Designs<br>Media Queries"
        },
       {
-          "eventID" : "TT16",
+          "eventID" : "T16",
            "title": "Mastering HTML5 & CSS3 - Leveling up to the future of Front End Development",
            "technology": "web frontend",
            "eventbanner":"16.jpg",
