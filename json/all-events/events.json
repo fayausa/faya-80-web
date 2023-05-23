@@ -1,6 +1,45 @@
 {
 	"event": [
 		{
+			"eventID": "T103",
+			"title": "Cognitive Psychology in UX",
+			"technology": "UX",
+			"eventbanner": "103.jpg",
+			"speakers": {
+				"speaker1": "S145"
+			},
+			"date": "17/05/2023 5.00 PM",
+			"youtubeID": "_PIZIZyLYi4",
+			"rating": "5",
+			"details": "Ever wondered what goes through the user’s mind as they interact with your product? <br> Understanding the principles of cognitive psychology will help you understand the mental processes behind a user’s behaviors, actions, and decisions while interacting with the product <br> At the 103rd edition of NASSCOM FAYA:80, Anjali Reghu, Senior User Experience Designer at Cusmat Technologies explores the key principles of cognitive psychology by which the designers can create intuitive and efficient interfaces that improve the overall user experience."
+		},
+		{
+			"eventID": "T102",
+			"title": "Pixels, Frame, Action! An Intro to Motion Design in UX",
+			"technology": "UX",
+			"eventbanner": "102.jpg",
+			"speakers": {
+				"speaker1": "S144"
+			},
+			"date": "22/02/2023 4.00 PM",
+			"youtubeID": "XE8OxY2KFzQ",
+			"rating": "5",
+			"details": "Want to take the user experience of your website or app to the next level? Motion Design is the secret sauce you need! <br> With shifting shapes, changing colors, and other animated elements, Motion Design can make your user’s experience seamless, fun, and intuitive. This was how Apple turned its mundane notch into a delightful user experience. And you can do that too… "
+		},
+		{
+			"eventID": "T101",
+			"title": "Tailwind CSS: The framework you didn’t know you needed",
+			"technology": "UI",
+			"eventbanner": "101.jpg",
+			"speakers": {
+				"speaker1": "S143"
+			},
+			"date": "22/02/2023 4.00 PM",
+			"youtubeID": "X3jwGMKnRNM",
+			"rating": "5",
+			"details": "If you are a front-end developer, not using or at least being aware of Tailwind CSS is a missed opportunity. <br> This popular front-end framework has significantly refined the way developers handle CSS to streamline the web development process, reduce development time & costs, improve code consistency, and create beautiful responsive web applications that look great on any device. "
+		},
+		{
 			"eventID": "E1",
 			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
 			"technology": "web security",
