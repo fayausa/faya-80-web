@@ -1,43 +1,404 @@
 {
 	"event": [
 		{
-			"eventID": "T103",
-			"title": "Cognitive Psychology in UX",
-			"technology": "UX",
-			"eventbanner": "103.jpg",
+			"eventID": "C35",
+			"title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
+			"technology": "Web",
+			"eventbanner": "35.jpg",
 			"speakers": {
-				"speaker1": "S145"
+				"speaker1": "S135"
 			},
-			"date": "17/05/2023 5.00 PM",
-			"youtubeID": "_PIZIZyLYi4",
+			"date": "26/10/2022 5.00 PM",
+			"youtubeID": "e9KHMf2SXvw&t=1s",
 			"rating": "5",
-			"details": "Ever wondered what goes through the user’s mind as they interact with your product? <br> Understanding the principles of cognitive psychology will help you understand the mental processes behind a user’s behaviors, actions, and decisions while interacting with the product <br> At the 103rd edition of NASSCOM FAYA:80, Anjali Reghu, Senior User Experience Designer at Cusmat Technologies explores the key principles of cognitive psychology by which the designers can create intuitive and efficient interfaces that improve the overall user experience."
+			"details": "Take your business to the next level with the power of AI. Learn about programming using AI with innovations like OpenAI, Text to Code AI processes, GPT3 Technology, Codex, etc., and how to apply them to your business."
 		},
 		{
-			"eventID": "T102",
-			"title": "Pixels, Frame, Action! An Intro to Motion Design in UX",
-			"technology": "UX",
-			"eventbanner": "102.jpg",
+			"eventID": "C34",
+			"title": "Introduction to Cheminformatics",
+			"technology": "web",
+			"eventbanner": "34.jpg",
 			"speakers": {
-				"speaker1": "S144"
+				"speaker1": "S139",
+				"speaker2": "S140"
 			},
-			"date": "22/02/2023 4.00 PM",
-			"youtubeID": "XE8OxY2KFzQ",
-			"rating": "5",
-			"details": "Want to take the user experience of your website or app to the next level? Motion Design is the secret sauce you need! <br> With shifting shapes, changing colors, and other animated elements, Motion Design can make your user’s experience seamless, fun, and intuitive. This was how Apple turned its mundane notch into a delightful user experience. And you can do that too… "
+			"date": "23/11/2023 5:00 pm",
+			"youtubeID": "",
+			"details": "Cheminformatics - where IT meets Chemistry - opens new vistas for programmers and helps chemists tackle issues that were once deemed impossible. From optimizing chemical data analysis and predicting the outcome of reactions to evaluating the potential of a new molecule and modeling molecules - there is a multitude of scenarios where IT solutions can be the catalyst for chemical research. Cheminformatics is also becoming increasingly popular for designing chemical pathways with Retrosynthesis tools as it can expedite the process by providing synthetic routes leading to drug molecules and supporting literature sources for each reaction."
 		},
 		{
-			"eventID": "T101",
-			"title": "Tailwind CSS: The framework you didn’t know you needed",
-			"technology": "UI",
-			"eventbanner": "101.jpg",
+			"eventID": "C31",
+			"title": "Machine Learning Made Easy with Kaggle",
+			"technology": "web",
+			"eventbanner": "31.jpg",
 			"speakers": {
-				"speaker1": "S143"
+				"speaker1": "S118"
 			},
-			"date": "22/02/2023 4.00 PM",
-			"youtubeID": "X3jwGMKnRNM",
-			"rating": "5",
-			"details": "If you are a front-end developer, not using or at least being aware of Tailwind CSS is a missed opportunity. <br> This popular front-end framework has significantly refined the way developers handle CSS to streamline the web development process, reduce development time & costs, improve code consistency, and create beautiful responsive web applications that look great on any device. "
+			"date": "22/01/2020 5:00 pm",
+			"youtubeID": "",
+			"details": "Companies all over the world have been going through a so-called AI revolution. Traditional business processes like hiring, pricing, strategy, etc have started using Artificial intelligence to make them 10 times better and easier.<br>Data Science has become an integral part of these transformations. And with popular platforms like Kaggle, users can now learn, explore and collaborate with top data science enthusiasts around the world.<br>Join us for the 30th FAYA:80 Kochi, where Mr. Shahul ES, a Data Science enthusiast, Kaggle Master and the co-founder of alrt.ai discusses the advantages and how best users could get into using Kaggle. The session will be beneficial to all DS and ML enthusiasts, project managers, tech enthusiasts and hobbyists alike who wish to get an introduction into the fascinating field of Data Science and Machine Learning.<strong>Topics Covered</strong>Getting started with Data Science.<br>What’s Kaggle?<br>How to start Kaggling?<br>Kaggle best practices.<br>How to learn DS using Kaggle<br>Ask me anything."
+		},
+		{
+			"eventID": "C30",
+			"title": "Building Intelligent applications using Azure Cognitive Services",
+			"technology": "web",
+			"eventbanner": "30.jpg",
+			"speakers": {
+				"speaker1": "S117"
+			},
+			"date": "11/12/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Look around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
+		},
+		{
+			"eventID": "C29",
+			"title": "Is That Legal? The Do’s and Dont’s of Open Source Software",
+			"technology": "web",
+			"eventbanner": "29.jpg",
+			"speakers": {
+				"speaker1": "S114"
+			},
+			"date": "20/11/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Developers, engineers, interns, all of us have come across Open Source Software, haven’t we? But did you know that these ‘open’ software almost always comes with licenses, agreements or terms and conditions that could result in serious legal trouble if you are not careful about it?<br>Turns out, there are more than a few types of licenses and there are best practices to be followed to ensure what we use is compliant to legal requirements. At the 29th FAYA:80 Kochi, Mr. Biju Nair, an independent lawyer as well as a consultant with the Open Invention Network (OIN) and License on Transfer Network (LOT Network) helps you through the legal side of Open Source licensing.<br>The session will immensely benefit developers, enthusiasts, project managers, business owners, and hobbyists to understand how to use Open Source Software the right way.<strong>Topics Covered</strong>Open Source - who uses them?.<br>Developers Agreement.<br>Open Source Licenses and Types.<br>Open Source Licensing: Compliance Requirements.<br>Open Chain Project.<br>"
+		},
+		{
+			"eventID": "C28",
+			"title": "WordPress 5.0 - Beyond Blogs",
+			"technology": "web",
+			"eventbanner": "28.jpg",
+			"speakers": {
+				"speaker1": "S111"
+			},
+			"date": "16/10/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 28th edition of FAYA:80 Kochi for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
+		},
+		{
+			"eventID": "C27",
+			"title": "Information Retrieval with AquilaDB: The Muscle Memory for your Machine",
+			"technology": "web",
+			"eventbanner": "27.jpg",
+			"speakers": {
+				"speaker1": "S112"
+			},
+			"date": "18/09/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Machine Learning is not a new thing in information technology. But often, we find the technology struggling with slow speeds, and applications that use machine learning techniques find themselves slow as well.<br>Even though we have the best practices in ML, we still lack the best tools that could fill in the gaps between Machine Learning models and existing technology. AquilaDB is one such open source project that tries to fill such gaps for some specific use cases.<br>Being a database for applications that uses machine learning, AquilaDB helps developers cache embeddings from their machine learning models for fast retrievals. It’s a clever solution for the problem without consorting to costly cloud services.<br>Come join us for the 27th edition of FAYA:80 Kochi to get introduced into the world of machine learning and the vector Database named AquilaDB. Meet Mr. Jubin Jose, a senior NLP engineer, as he guides you through the techniques of information retrieval and AquilaDB. Everyone who is keen on mastering machine learning will benefit from the session.<br>For more information on AquilaDB, check out: https://github.com/a-mma/AquilaDB<strong>Topics Covered</strong>Introduction to Machine Learning.<br>The issue of Information Retrieval.<br>AquilaDB, what’s it for?.<br>Getting started with AquilaDB.<br>Use case examples and live Demo."
+		},
+		{
+			"eventID": "C26",
+			"title": "Adoption of Agile & its Challenges",
+			"technology": "web",
+			"eventbanner": "26.jpg",
+			"speakers": {
+				"speaker1": "S106"
+			},
+			"date": "14/08/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 26th edition of FAYA:80 Kochi where Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates his story and challenges when his team implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
+		},
+		{
+			"eventID": "C25",
+			"title": "Introduction to Alexa Skills and Building your own Skill",
+			"technology": "web",
+			"eventbanner": "25.jpg",
+			"speakers": {
+				"speaker1": "S107"
+			},
+			"date": "10/07/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo."
+		},
+		{
+			"eventID": "C24",
+			"title": "Unboxing the Code for Security",
+			"technology": "security",
+			"eventbanner": "24.jpg",
+			"speakers": {
+				"speaker1": "S103"
+			},
+			"date": "19/06/2019 5:00 pm",
+			"youtubeID": "",
+			"details": " Cyber crimes are on the rise, and even systems that claim to be unhackable are falling prey. It is no wonder that most of the top notch businesses around the world are spending billions on securing their data.<br>At the 24th edition of FAYA:80 Kochi, meet Sreelakshmy, a Security researcher associated with the Big 4, as she explains how you could start out into coding securely and take the right steps toward better code review. The event will be helpful for all tech enthusiasts, developers and managers who would like to learn the basics of secure coding.  <strong>Topics Covered</strong>Secure coding basics.<br>Coding approaches and principles.<br>Source code review.<br>Steps in Source code review.<br>Automated and Manual review process."
+		},
+		{
+			"eventID": "C23",
+			"title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
+			"technology": "front end",
+			"eventbanner": "23.jpg",
+			"speakers": {
+				"speaker1": "S102"
+			},
+			"date": "15/05/2019 5:00 pm",
+			"youtubeID": "",
+			"details": " Ever tried searching for a list of data from giant textbooks? Gathering detailed structured data from free flowing textual sources could be daunting; more so when the data required is to be extracted from a large section of unstructured content. Information extraction using Natural Language Processing and Machine Learning is finding quite the traction in modern tech industry today.<br>Explaining the real world applications at the 23rd FAYA:80 Kochi is Mr.Deepu Xavier, the Co-founder of Zappyhire, who will introduce you to the challenging technology of Information Extraction and how it could benefit your business or process. Come join us for the evening as it will be helpful for for all tech enthusiasts, developers and managers who would like to learn to decode unstructured data. <strong>Topics Covered</strong>Introduction to Information Extraction.<br>The different ways of Information Extraction.<br>NLP and Information Extraction.<br>Machine Learning and Information Extraction."
+		},
+		{
+			"eventID": "C22",
+			"title": "How to Build and Deploy IOT solutions on Cloud",
+			"technology": "front end",
+			"eventbanner": "22.jpg",
+			"speakers": {
+				"speaker1": "S97"
+			},
+			"date": "10/04/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 22nd edition of FAYA:80 Kochi, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Maharuf Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems. <strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."
+		},
+		{
+			"eventID": "C21",
+			"title": "Vue.Js - The progressive framework",
+			"technology": "front end",
+			"eventbanner": "21.jpg",
+			"speakers": {
+				"speaker1": "S98"
+			},
+			"date": "13/03/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 21st edition of FAYA:80 Kochi, learn how you can start off and build your own apps and websites with Nirmal J.S, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."
+		},
+		{
+			"eventID": "C20",
+			"title": "Quantum Computing Basics: How, What and Why",
+			"technology": "front end",
+			"eventbanner": "20.jpg",
+			"speakers": {
+				"speaker1": "S95"
+			},
+			"date": "13/02/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 20th edition of FAYA:80 Kochi, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
+		},
+		{
+			"eventID": "C19",
+			"title": "React Native - Bye to Native Development",
+			"technology": "front end",
+			"eventbanner": "19.jpg",
+			"speakers": {
+				"speaker1": "S94"
+			},
+			"date": "09/01/2019 5:00 pm",
+			"youtubeID": "",
+			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked.With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kochi, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up.<br>Layout designing.<br>Demo."
+		},
+		{
+			"eventID": "C18",
+			"title": "Enterprise UX - Know thy user!",
+			"technology": "front end",
+			"eventbanner": "18.jpg",
+			"speakers": {
+				"speaker1": "S84"
+			},
+			"date": "12/12/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed?                                                                                                                   Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.                                                                                                                                                                                                                                                  The 67th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore Enterprise UX and learn how to progress with it.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
+		},
+		{
+			"eventID": "C17",
+			"title": "The evolutionary journey of RAD - Rapid application Development",
+			"technology": "front end",
+			"eventbanner": "17.jpg",
+			"speakers": {
+				"speaker1": "S92"
+			},
+			"date": "14/11/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Rapid Application Development (RAD) is a software development methodology that focuses on rapid prototyping and application development to ensure faster product delivery. Unlike Waterfall methods, RAD emphasizes working software and user feedback over strict planning and requirements recording. In other words, RAD is less talk, more action. Oh, and testing. Lots and lots of testing. (second para) RAD doesn’t work for every project and, like any organizational methodology, shouldn’t be used indiscriminately. But it does work well in a few specific instances, which we’ll discuss in the 17th edition of FAYA:80 Kochi. The session was a great opportunity for CXOs, project managers, middle level managers, developers and other technology enthusiasts to get to know RAD from its practical implementation view. The session also helped those who had already adopted RAD to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Introduction to RAD.<br>Why RAD?<br>Evolution of RAD.<br>Types of RAD.<br>The future of RAD.<br>Live Demo."
+		},
+		{
+			"eventID": "C16",
+			"title": "Practical Scrum – A guide to the most popular Agile Process",
+			"technology": "front end",
+			"eventbanner": "16.jpg",
+			"speakers": {
+				"speaker1": "S91"
+			},
+			"date": "10/10/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Scrum is a simple, yet incredibly powerful, set of principles and practices that help teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change. So says the Scrum Alliance. When implementing Scrum, people often ask ‘how do I…’ and the answer typically is ‘Scrum does not say anything about that.’ So you are left to figure it out on your own. Not everything that works for others will work for you and vice-versa.                                                                                                                                                                        The 16th edition of FAYA:80 Kochi provided an open platform to step up the Scrum game with the help of a person who had successfully implemented Scrum at his workplace. In the session, he shared his experiences in implementing Scrum, the challenges faced and improvements made, the tools used, and, also, how Scrum became an integral part of requirements gathering, roadmaps, and release management. Participants also got a chance to share what worked and didn’t work for them in Scrum and why.                                                                                                       The session was a great opportunity for CXOs, project managers, middle-level managers, developers, and other technology enthusiasts to get to know Scrum from a practical implementation point of view. The session also helped those who had already adopted Scrum to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Basics of Scrum Implementation.<br>Adoption of Scrum & its challenges.<br>Common Tools used.<br>Case Study: How scrum is implemented at RedBlack.<br>Q&A and Experience Sharing."
+		},
+		{
+			"eventID": "C15",
+			"title": "Hackproofing your Web Application for the future",
+			"technology": "security",
+			"eventbanner": "15.jpg",
+			"speakers": {
+				"speaker1": "S45"
+			},
+			"date": "12/09/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey. The top ten security risks and guidelines for preventing them published by OWSAP are a gold standard for most of the developers around the world. Despite having these guidelines, developers tend to overlook these while implementing. In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced. The 15th edition of FAYA:80 Kochi, Hackproofing your Web Application for the future, will be an opportunity for all web and mobile application developers, testers, technical managers and other technology enthusiasts to learn what exactly needs to be done to ensure that their applications are protected from cyber attacks.<strong>Topics Covered</strong>Case study of 10M users data breach.<br>Critical Security Vulnerabilities.<br>Mitigation techniques.<br>Ransomware overview.<br>Demo"
+		},
+		{
+			"eventID": "C14",
+			"title": "Design Thinking & Prototyping for Product Development",
+			"technology": "front end",
+			"eventbanner": "14.jpg",
+			"speakers": {
+				"speaker1": "S90"
+			},
+			"date": "08/08/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has to be spent on design thinking and prototyping.                                                                                                                                                                                                                                                         It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking and Prototyping to test the ideas quickly and improve them in an equally timely fashion.                                                                                                                                                            The 14th edition of FAYA:80 Kochi, Design Thinking & Prototyping for Product Development, presented an opportunity to help all developers, leads, managers and business owners who were working to solve customer’s problem, to step up their game.<strong>Topics Covered</strong>Design Thinking for Product Design<br>Design Thinking Process<br>Design Sprints<br>Prototyping."
+		},
+		{
+			"eventID": "C13",
+			"title": "Hybrid Mobile App Development using Cordova",
+			"technology": "android",
+			"eventbanner": "13.jpg",
+			"speakers": {
+				"speaker1": "S89"
+			},
+			"date": "11/07/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "From smartphones to smart watches, mobile apps have a pervasive presence. But it would be a time-consuming process to develop the same app several times for different platforms using platform-specific SDKs and APIs. How exciting it is then to have an app that will run on all platforms!                                                                                                                                                           Apache Cordova (earlier known as PhoneGap) is an open source mobile application development framework that allows programmers to build apps for multiple mobile platforms using standard Web technologies like HTML5, CSS3 and JavaScript instead of relying on platform-specific SDKs and APIs.                                                                                                                                                            The 13th edition of FAYA:80 Kochi, Hybrid Mobile App Development using Cordova, explicated on the development of hybrid mobile apps using Cordova. It was a great opportunity for all technology enthusiasts and mobile developers to delve deep into the possibilities of Cordova.<strong>Topics Covered</strong>Introduction to Cordova<br>How it works<br>How to use of Cordova CLI effectively<br>UI frameworks for Cordova<br>Build process for multiple platforms<br>Demo"
+		},
+		{
+			"eventID": "C12",
+			"title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
+			"technology": "web security",
+			"eventbanner": "12.jpg",
+			"speakers": {
+				"speaker1": "S77"
+			},
+			"date": "13/06/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "VR has proved to be a breakthrough technology for a variety of industries to improve their customer experience. This interactive computer-generated experience taking place within a simulated environment, holds enormous potential to change the future for a number of fields, including the world of retail. However, in the absence of reliable instructions supported with experience, those who want to try out this technology are still hesitant to move forward with it.<br>BuildNext is a Kerala based start-up working on elevating the customer experience in construction industry using technology. Its experience centres are Virtual Reality-enabled, and it is one of the first commercial applications of VR outside of gaming sector.<strong>Topics Covered</strong>VR intro and history<br>A case for VR<br>VR@ BuildNext<br>What's working for us<br>What's yet to work<br>What do we expect next"
+		},
+		{
+			"eventID": "C11",
+			"title": "A Closer Look at Deep Learning with Object Detection - Kochi",
+			"technology": "web security",
+			"eventbanner": "11.jpg",
+			"speakers": {
+				"speaker1": "S72"
+			},
+			"date": "09/05/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br><strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"
+		},
+		{
+			"eventID": "C10",
+			"title": "An Intro to Chatbot Development",
+			"technology": "web security",
+			"eventbanner": "10.jpg",
+			"speakers": {
+				"speaker1": "S75",
+				"speaker2": "S76"
+			},
+			"date": "11/04/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Chatbots are everywhere, from websites and social media platforms to smartphones and are an easy and fun way to assist customers in their interactions with a brand or product. Even though the bot revolution is in its early phase, we can expect a lot more advancements in this field. With the evolution of AI and Deep Learning, chatbots are expected to become more empowered to offer better language processing capabilities and extensive personalization in the coming days.<br>Chatbots are sure to get embedded in almost all the interconnected devices that will use in our day to day lives in the future. This will fundamentally transform human interactions with digital business platforms and will open up new realms of personalized customer experience. Foreseeing this immense potential of the chatbots, organizations have started investing heavily in this space.<strong>Topics Covered</strong>Introduction to chatbots<br>Evolution of chatbots<br>Potential of chatbots<br>How can businesses benefit from chatbots?<br>How can Messenger chatbots be used for marketing?<br>Why is Chatbots such a big opportunity?<br>How does a chatbot work<br>Natural language understanding<br>Response generation<br>Dialogue management<br>Chabot Training<br>Tools for chatbot development<br>Dialogflow NLU demo"
+		},
+		{
+			"eventID": "C9",
+			"title": "Java Virtual Machine 101",
+			"technology": "web security frontend",
+			"eventbanner": "9.jpg",
+			"speakers": {
+				"speaker1": "S74"
+			},
+			"date": "14/03/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Java users are well aware that the Java bytecode runs in a JRE (Java Runtime Environment). The Java Virtual Machine (JVM), which analyzes and executes the Java byte code, is the most important part of the JRE. Why should you know more about JVM? Various great applications and libraries have already been developed by developers who had no deep understanding of the JVM. However, if you grasp the concepts of JVM better, you will in turn grasp Java better leading to simpler problem solving using Java.<strong>Topics Covered</strong>Why you should Learn the VM Internals<br>Abstract Machine and its Instruction Set<br>Execution Engine and the Memory Model<br>Multilanguage VM - JVM as a Host to Python, Ruby, Scala and Groovy<br>Method Handles & Invokedynamic"
+		},
+		{
+			"eventID": "C8",
+			"title": "Hello XR: An Introduction to VR, AR and MR",
+			"technology": "web security",
+			"eventbanner": "8.jpg",
+			"speakers": {
+				"speaker1": "S51"
+			},
+			"date": "14/02/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.<br>The 8th edition of FAYA:80 Kochi, Hello XR: An Introduction to VR, AR and MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.strong>Topics Covered:</strong> Immersive Technologies and the Fine line between them<br>What's New in the XR Spectrum<br>How they can be Leveraged by Various Industries<br>Design Considerations and Best Practices for VR and AR"
+		},
+		{
+			"eventID": "C7",
+			"title": "Essential Web Security for Developers",
+			"technology": "web security",
+			"eventbanner": "7.jpg",
+			"speakers": {
+				"speaker1": "S45"
+			},
+			"date": "10/01/2018 5:00 pm",
+			"youtubeID": "",
+			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey.<br>In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced.<br>The 7th edition of FAYA:80 Kochi, Essential Web Security for Developers, was a discussion on what exactly needs to be done to ensure that applications are protected from cyber attacks.strong>Topics Covered:</strong>Understanding Hacking Techniques<br>Hackproofing Web and Mobile Applications<br>Malware, Ransomware and its Prevention<br>Demo"
+		},
+		{
+			"eventID": "C6",
+			"title": "Artificial Intelligence - The First Step",
+			"technology": "web security",
+			"eventbanner": "6.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S53"
+			},
+			"date": "13/12/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
+		},
+		{
+			"eventID": "C5",
+			"title": "Singularity Series - The Robots' Guide To World Domination",
+			"technology": "web frontend security android",
+			"eventbanner": "5.jpg",
+			"speakers": {
+				"speaker1": "S54"
+			},
+			"date": "08/11/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "The 5th edition of FAYA:80 Kochi was an opportunity for all to take a quick look at the technological advancements in Artificial Intelligence and Robotics, heralding the oncoming Singularity.<br>Human history will show that manual work has been replaced by technology and automation, time and again. For better or for worse, how has this affected the world? What is next in line to be replaced by technology? How intelligent can AI and Robots get? Will there ever be a point of time in the future where AI can perfectly replicate human creativity and the ability to procreate?<br>Will Robots threaten the superiority of human beings over all other things on the planet? This second installment of the Singularity Series by FAYA:80 was a factual narrative on the human technological history and the predicted future.strong>Topics Covered:</strong>Future of Technology<br>Technological Singularity<br>AI vs Human Brain<br>Challenges and Opportunities"
+		},
+		{
+			"eventID": "C4",
+			"title": "A Roadmap for Angular 4",
+			"technology": "web security frontend",
+			"eventbanner": "4.jpg",
+			"speakers": {
+				"speaker1": "S14"
+			},
+			"date": "11/10/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 4th edition of the Kochi chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
+		},
+		{
+			"eventID": "C3",
+			"title": "The Changing Face of SEO",
+			"technology": "web security",
+			"eventbanner": "3.jpg",
+			"speakers": {
+				"speaker1": "S3"
+			},
+			"date": "13/09/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 3rd edition of FAYA:80- Kochi chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
+		},
+		{
+			"eventID": "C2",
+			"title": "Strategic Media Production for Technology Product Companies",
+			"technology": "web security",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S55"
+			},
+			"date": "09/08/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Creating your own media, distributing it and monitoring its impact can be a long process, which may become confusing and overwhelming if it’s not well-managed and carefully planned. Designing a media strategy will help bring a competitive advantage, but only if companies have the necessary skills to make the most of the opportunity it presents.<br>The 2nd edition of FAYA:80 – Kochi Chapter dove deeper into building a sustainable competitive advantage with the help of Digital Media Strategy.strong>Topics Covered:</strong>The CAT Story<br>Technology Product Start-ups/Corporates<br>Crowdfunding Platforms<br>Successful & Failed Campaigns<br>Case Studies<br>Future Prospects"
+		},
+		{
+			"eventID": "C1",
+			"title": "Deep Learning in AI",
+			"technology": "web security",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S10"
+			},
+			"date": "12/07/2017 5:00 pm",
+			"youtubeID": "",
+			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
 			"eventID": "E1",
@@ -388,6 +749,45 @@
 			"date": "13/06/2017 5:00 pm",
 			"youtubeID": "",
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+		},
+		{
+			"eventID": "T103",
+			"title": "Cognitive Psychology in UX",
+			"technology": "UX",
+			"eventbanner": "103.jpg",
+			"speakers": {
+				"speaker1": "S145"
+			},
+			"date": "17/05/2023 5.00 PM",
+			"youtubeID": "_PIZIZyLYi4",
+			"rating": "5",
+			"details": "Ever wondered what goes through the user’s mind as they interact with your product? <br> Understanding the principles of cognitive psychology will help you understand the mental processes behind a user’s behaviors, actions, and decisions while interacting with the product <br> At the 103rd edition of NASSCOM FAYA:80, Anjali Reghu, Senior User Experience Designer at Cusmat Technologies explores the key principles of cognitive psychology by which the designers can create intuitive and efficient interfaces that improve the overall user experience."
+		},
+		{
+			"eventID": "T102",
+			"title": "Pixels, Frame, Action! An Intro to Motion Design in UX",
+			"technology": "UX",
+			"eventbanner": "102.jpg",
+			"speakers": {
+				"speaker1": "S144"
+			},
+			"date": "22/04/2023 4.00 PM",
+			"youtubeID": "XE8OxY2KFzQ",
+			"rating": "5",
+			"details": "Want to take the user experience of your website or app to the next level? Motion Design is the secret sauce you need! <br> With shifting shapes, changing colors, and other animated elements, Motion Design can make your user’s experience seamless, fun, and intuitive. This was how Apple turned its mundane notch into a delightful user experience. And you can do that too… "
+		},
+		{
+			"eventID": "T101",
+			"title": "Tailwind CSS: The framework you didn’t know you needed",
+			"technology": "UI",
+			"eventbanner": "101.jpg",
+			"speakers": {
+				"speaker1": "S143"
+			},
+			"date": "22/03/2023 4.00 PM",
+			"youtubeID": "X3jwGMKnRNM",
+			"rating": "5",
+			"details": "If you are a front-end developer, not using or at least being aware of Tailwind CSS is a missed opportunity. <br> This popular front-end framework has significantly refined the way developers handle CSS to streamline the web development process, reduce development time & costs, improve code consistency, and create beautiful responsive web applications that look great on any device. "
 		},
 		{
 			"eventID": "T100",
@@ -1767,406 +2167,6 @@
 			"date": "05/06/2013 5:00 pm",
 			"youtubeID": "",
 			"details": ""
-		},
-		{
-			"eventID": "C35",
-			"title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
-			"technology": "Web",
-			"eventbanner": "35.jpg",
-			"speakers": {
-				"speaker1": "S135"
-			},
-			"date": "26/10/2022 5.00 PM",
-			"youtubeID": "e9KHMf2SXvw&t=1s",
-			"rating": "5",
-			"details": "Take your business to the next level with the power of AI. Learn about programming using AI with innovations like OpenAI, Text to Code AI processes, GPT3 Technology, Codex, etc., and how to apply them to your business."
-		},
-		{
-			"eventID": "C34",
-			"title": "Introduction to Cheminformatics",
-			"technology": "web",
-			"eventbanner": "34.jpg",
-			"speakers": {
-				"speaker1": "S139",
-				"speaker2": "S140"
-			},
-			"date": "23/11/2023 5:00 pm",
-			"youtubeID": "",
-			"details": "Cheminformatics - where IT meets Chemistry - opens new vistas for programmers and helps chemists tackle issues that were once deemed impossible. From optimizing chemical data analysis and predicting the outcome of reactions to evaluating the potential of a new molecule and modeling molecules - there is a multitude of scenarios where IT solutions can be the catalyst for chemical research. Cheminformatics is also becoming increasingly popular for designing chemical pathways with Retrosynthesis tools as it can expedite the process by providing synthetic routes leading to drug molecules and supporting literature sources for each reaction."
-		},
-		{
-			"eventID": "C31",
-			"title": "Machine Learning Made Easy with Kaggle",
-			"technology": "web",
-			"eventbanner": "31.jpg",
-			"speakers": {
-				"speaker1": "S118"
-			},
-			"date": "22/01/2020 5:00 pm",
-			"youtubeID": "",
-			"details": "Companies all over the world have been going through a so-called AI revolution. Traditional business processes like hiring, pricing, strategy, etc have started using Artificial intelligence to make them 10 times better and easier.<br>Data Science has become an integral part of these transformations. And with popular platforms like Kaggle, users can now learn, explore and collaborate with top data science enthusiasts around the world.<br>Join us for the 30th FAYA:80 Kochi, where Mr. Shahul ES, a Data Science enthusiast, Kaggle Master and the co-founder of alrt.ai discusses the advantages and how best users could get into using Kaggle. The session will be beneficial to all DS and ML enthusiasts, project managers, tech enthusiasts and hobbyists alike who wish to get an introduction into the fascinating field of Data Science and Machine Learning.<strong>Topics Covered</strong>Getting started with Data Science.<br>What’s Kaggle?<br>How to start Kaggling?<br>Kaggle best practices.<br>How to learn DS using Kaggle<br>Ask me anything."
-		},
-		{
-			"eventID": "C30",
-			"title": "Building Intelligent applications using Azure Cognitive Services",
-			"technology": "web",
-			"eventbanner": "30.jpg",
-			"speakers": {
-				"speaker1": "S117"
-			},
-			"date": "11/12/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Look around you - the world today is moving towards a technological hot pot where AI beats chess champions and Turing tests. Although it seems difficult, Cognitive services such as the ones offered by Azure are freely available for developers to build intelligent applications without having any direct AI or data science skills or knowledge.<br>Find out how easily you could add and enable applications that see, hear, speak, understand or even begin to reason at the 30th FAYA:80 Kochi. The discussion will be headed by Ms. Liji Thomas, the Technical Manager at Valorem Reply, who is well experienced in the domain of AI.<br>The session will intrigue all AI enthusiasts, developers, project managers, hobbyists and others who would like to know the benefits of using AI for enriching human lives..<strong>Topics Covered</strong>What are Cognitive Services?<br>Capabilities of Cognitive Services.<br>Cognitive Services Containers.<br>Getting Started with Cognitive Services."
-		},
-		{
-			"eventID": "C29",
-			"title": "Is That Legal? The Do’s and Dont’s of Open Source Software",
-			"technology": "web",
-			"eventbanner": "29.jpg",
-			"speakers": {
-				"speaker1": "S114"
-			},
-			"date": "20/11/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Developers, engineers, interns, all of us have come across Open Source Software, haven’t we? But did you know that these ‘open’ software almost always comes with licenses, agreements or terms and conditions that could result in serious legal trouble if you are not careful about it?<br>Turns out, there are more than a few types of licenses and there are best practices to be followed to ensure what we use is compliant to legal requirements. At the 29th FAYA:80 Kochi, Mr. Biju Nair, an independent lawyer as well as a consultant with the Open Invention Network (OIN) and License on Transfer Network (LOT Network) helps you through the legal side of Open Source licensing.<br>The session will immensely benefit developers, enthusiasts, project managers, business owners, and hobbyists to understand how to use Open Source Software the right way.<strong>Topics Covered</strong>Open Source - who uses them?.<br>Developers Agreement.<br>Open Source Licenses and Types.<br>Open Source Licensing: Compliance Requirements.<br>Open Chain Project.<br>"
-		},
-		{
-			"eventID": "C28",
-			"title": "WordPress 5.0 - Beyond Blogs",
-			"technology": "web",
-			"eventbanner": "28.jpg",
-			"speakers": {
-				"speaker1": "S111"
-			},
-			"date": "16/10/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "34% of all websites on the internet runs on Wordpress, making it one of the most popular content management systems in the world. Most of us know it as a blogging tool, but did you know that Wordpress could be used to create websites, powerful web applications, or even mobile apps?<br>From building an eCommerce store to a full-fledged marketing or automation tool, the possibilities are endless. Wordpress is powered by exceptional content management tools, a powerful theming system, plugins for extending functionality, and a robust REST API. Now with enhanced plugins and features such as Gutenberg in the latest edition of Wordpress 5, using Wordpress is easier than ever.<br>Join us for the 28th edition of FAYA:80 Kochi for a discussion on the latest developments in Wordpress and how you can start building your websites and Apps on Wordpress with Hari Shankar R, a technical support engineer at Automattic, the parent company of Wordpress. We welcome all enthusiasts, programmers, project managers, hobbyists and all others who would like to start building interesting solutions using Wordpress 5.<strong>Topics Covered</strong>Introduction to WordPress 5 & overview of features.<br>Live demo of WordPress installation, and set up.<br>WordPress Theming system, Plugin API, and the REST API.<br>Overview of the new Block Editor (Gutenberg).<br>Building an Application - creating, developing, and extending.<br>Demo and Examples of web applications built using WordPress 5."
-		},
-		{
-			"eventID": "C27",
-			"title": "Information Retrieval with AquilaDB: The Muscle Memory for your Machine",
-			"technology": "web",
-			"eventbanner": "27.jpg",
-			"speakers": {
-				"speaker1": "S112"
-			},
-			"date": "18/09/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Machine Learning is not a new thing in information technology. But often, we find the technology struggling with slow speeds, and applications that use machine learning techniques find themselves slow as well.<br>Even though we have the best practices in ML, we still lack the best tools that could fill in the gaps between Machine Learning models and existing technology. AquilaDB is one such open source project that tries to fill such gaps for some specific use cases.<br>Being a database for applications that uses machine learning, AquilaDB helps developers cache embeddings from their machine learning models for fast retrievals. It’s a clever solution for the problem without consorting to costly cloud services.<br>Come join us for the 27th edition of FAYA:80 Kochi to get introduced into the world of machine learning and the vector Database named AquilaDB. Meet Mr. Jubin Jose, a senior NLP engineer, as he guides you through the techniques of information retrieval and AquilaDB. Everyone who is keen on mastering machine learning will benefit from the session.<br>For more information on AquilaDB, check out: https://github.com/a-mma/AquilaDB<strong>Topics Covered</strong>Introduction to Machine Learning.<br>The issue of Information Retrieval.<br>AquilaDB, what’s it for?.<br>Getting started with AquilaDB.<br>Use case examples and live Demo."
-		},
-		{
-			"eventID": "C26",
-			"title": "Adoption of Agile & its Challenges",
-			"technology": "web",
-			"eventbanner": "26.jpg",
-			"speakers": {
-				"speaker1": "S106"
-			},
-			"date": "14/08/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Superfast development, small teams, collaborations - the whole deal - are probably what Agile means for most people. Yet, almost everywhere, products end up never getting launched, or in a coma of design changes. Although the appeal is there, much has to be considered when you choose to do your project following this methodology.<br>To explain how Agile could actually be pulled off effectively and to know how they did it, join us for the 26th edition of FAYA:80 Kochi where Suresh Kumar M, Senior principal manager of Product development at Alamy India elaborates his story and challenges when his team implemented the methodology for their projects.<br>The session is intended for everyone in pursuit of superfast product deliveries, proper resource management and the overall understanding of this mode of software development. Join us for an immersive discussion into the Agile world and explore the best practices, advantages and what Agile is not, for there are more myths than truth around the field.<strong>Topics Covered</strong>Why transform to Agile.<br>Adoption of Agile & its Challenges.<br>Common Tools used.<br>Case Study: How Agile is implemented at Alamy.<br>Q&A and Experience Sharing."
-		},
-		{
-			"eventID": "C25",
-			"title": "Introduction to Alexa Skills and Building your own Skill",
-			"technology": "web",
-			"eventbanner": "25.jpg",
-			"speakers": {
-				"speaker1": "S107"
-			},
-			"date": "10/07/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Alexa - Teach me skills! - The voice activated control that Alexa provides is quickly catching up as the go-to mode for home automation - and other cool tricks when they are at it. Home automation is a growing trend in most western countries. While voice activated systems are highly beneficial for productivity, it is a cool way of energy saving and sustainable living.<br>With a single statement Alexa that could be tied to an infinite number of voice activated commands, Alexa skills are some of the best tools that could help you design and build voice activated systems.<br>Join us for the 25th edition of FAYA:80 Kochi to get introduced into the voice activated world of Alexa skills. Mr. Jeswin S George, a seasoned Alexa enthusiast and Quality assurance engineer at Qburst Technologies (Trivadrum) explains how you could learn your way into Alexa and create your very own apps using Alexa Skills. <strong>Topics Covered</strong>Introduction to Alexa device.<br>Benefits of Alexa.<br>Home Automation using Alexa.<br>Skill creation using Developer portal & Blueprints.<br>Developer Perks.<br>Skill certification and Demo."
-		},
-		{
-			"eventID": "C24",
-			"title": "Unboxing the Code for Security",
-			"technology": "security",
-			"eventbanner": "24.jpg",
-			"speakers": {
-				"speaker1": "S103"
-			},
-			"date": "19/06/2019 5:00 pm",
-			"youtubeID": "",
-			"details": " Cyber crimes are on the rise, and even systems that claim to be unhackable are falling prey. It is no wonder that most of the top notch businesses around the world are spending billions on securing their data.<br>At the 24th edition of FAYA:80 Kochi, meet Sreelakshmy, a Security researcher associated with the Big 4, as she explains how you could start out into coding securely and take the right steps toward better code review. The event will be helpful for all tech enthusiasts, developers and managers who would like to learn the basics of secure coding.  <strong>Topics Covered</strong>Secure coding basics.<br>Coding approaches and principles.<br>Source code review.<br>Steps in Source code review.<br>Automated and Manual review process."
-		},
-		{
-			"eventID": "C23",
-			"title": "The ‘N’ ways of Information Extraction: ML, NLP and more...",
-			"technology": "front end",
-			"eventbanner": "23.jpg",
-			"speakers": {
-				"speaker1": "S102"
-			},
-			"date": "15/05/2019 5:00 pm",
-			"youtubeID": "",
-			"details": " Ever tried searching for a list of data from giant textbooks? Gathering detailed structured data from free flowing textual sources could be daunting; more so when the data required is to be extracted from a large section of unstructured content. Information extraction using Natural Language Processing and Machine Learning is finding quite the traction in modern tech industry today.<br>Explaining the real world applications at the 23rd FAYA:80 Kochi is Mr.Deepu Xavier, the Co-founder of Zappyhire, who will introduce you to the challenging technology of Information Extraction and how it could benefit your business or process. Come join us for the evening as it will be helpful for for all tech enthusiasts, developers and managers who would like to learn to decode unstructured data. <strong>Topics Covered</strong>Introduction to Information Extraction.<br>The different ways of Information Extraction.<br>NLP and Information Extraction.<br>Machine Learning and Information Extraction."
-		},
-		{
-			"eventID": "C22",
-			"title": "How to Build and Deploy IOT solutions on Cloud",
-			"technology": "front end",
-			"eventbanner": "22.jpg",
-			"speakers": {
-				"speaker1": "S97"
-			},
-			"date": "10/04/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Devices integrated using IOT have been in existence for over 2 decades now. Yet this intriguing field of connected technology is still in its growth stage, inviting more and more discoveries and applications to be brought forth using some form of shared reality. Understandably, there are still several untapped applications that IOT could find its use for. Furthermore, with the advent of cloud computing, the reach of such systems could be expanded even further.<br>At the 22nd edition of FAYA:80 Kochi, explore the ins and outs of Internet of Things based systems and how you could build and deploy IOT solutions on cloud. Meet Maharuf Ali, founder of Tensorbot, as he explains how this versatile technology could be used effectively to solve problems with the help of cloud computing. The session will be helpful for all enthusiasts, developers and managers who would like to improve their knowledge and prowess in IOT based systems. <strong>Topics Covered</strong>Introduction to IOT.<br>Solution Architecture.<br>Cloud Platforms.<br>Use case evaluation.<br>Live Demo on Cloud platform."
-		},
-		{
-			"eventID": "C21",
-			"title": "Vue.Js - The progressive framework",
-			"technology": "front end",
-			"eventbanner": "21.jpg",
-			"speakers": {
-				"speaker1": "S98"
-			},
-			"date": "13/03/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Being a progressive framework to build user interfaces, Vue.Js is the latest in line of a series of Javascript frameworks that are easy to learn for integrating into libraries of existing projects or for running complex single page applications with ease.<br>While adding more interactivity to your page, Vue.js is a way to build applications or web pages in Javascript combining the features of all the major website building frameworks available today. Plus, you can experience firsthand the already great and highly supportive community of Vue.Js.<br>At our 21st edition of FAYA:80 Kochi, learn how you can start off and build your own apps and websites with Nirmal J.S, a Technology Enthusiast, Passionate Coder and Speaker with immense knowledge in the field. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the highly interesting framework of Vue.Js.<strong>Topics Covered</strong>Introduction and Overview of Vue.Js.<br>Features of Vue.<br>Getting started with Vue.<br>Live Demo.<br>Future of Vue JS."
-		},
-		{
-			"eventID": "C20",
-			"title": "Quantum Computing Basics: How, What and Why",
-			"technology": "front end",
-			"eventbanner": "20.jpg",
-			"speakers": {
-				"speaker1": "S95"
-			},
-			"date": "13/02/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Computers have become so complex and compact that the physical limits of the macro world just can't seem to contain its progress. Enter 'the Quantum realm': where the laws of nature don't seem to work and apparently runs with a set of principles known to the tech world by the name quantum mechanics.Although Quantum computers have been in existence for quite a long time now, the seemingly complex realm of quantum mechanics had restrained people from entering the field. Yet, the amazing technology of quantum computers shouldn't be hard to learn and rightfully so. At the 20th edition of FAYA:80 Kochi, experience the entanglements and superpositions of the exciting field of Quantum Computers. Meet Simsar, a Quantum computing researcher, explain in simple terms what the technology is all about, modern developments in the field, and why you should care about quantum computing. The session will be beneficial for all technology enthusiasts, senior-level managers, developers, entrepreneurs, and hobbyists to explore the expanding field of quantum computers.<strong>Topics Covered</strong>Evolution of Computing and Complexity theory.<br>Basic building blocks of a Quantum Computer.<br>Quantum Computers for Optimization, Machine Learning, Cryptography and more.<br>Design and Implementation of Quantum Algorithms."
-		},
-		{
-			"eventID": "C19",
-			"title": "React Native - Bye to Native Development",
-			"technology": "front end",
-			"eventbanner": "19.jpg",
-			"speakers": {
-				"speaker1": "S94"
-			},
-			"date": "09/01/2019 5:00 pm",
-			"youtubeID": "",
-			"details": "Doubts and myths are aplenty around the application program that goes by the name React Native. From helping you to code mobile apps using JavaScript to composing rich mobile UI using declarative components, the advantages of React Native is too great to be overlooked.With features like Hot Reloading and the lack of need to recompile, this platform offers a minimal barrier of entry in terms of skill level. At the 19th edition of FAYA:80 Kochi, Meet Mr. Georgekutty, CEO of Lookings Soft and a mentor at Reacthub, explain how beneficial this futuristic platform is for creating easy to use Web and mobile platforms.<strong>Topics Covered</strong>Introduction.<br>Basic fundamentals & setting up.<br>Layout designing.<br>Demo."
-		},
-		{
-			"eventID": "C18",
-			"title": "Enterprise UX - Know thy user!",
-			"technology": "front end",
-			"eventbanner": "18.jpg",
-			"speakers": {
-				"speaker1": "S84"
-			},
-			"date": "12/12/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Let’s face it, we’ve all faced clunky software or systems that are yet to make its transition into the modern age. And for the longest time, user experience (UX) of enterprise software was woefully neglected. Fortunately, UX is increasingly being seen as a crucial part of enterprise software development. What changed?                                                                                                                   Often, people believe UX is just another look and feel enhancing software, but it’s actually a complex interplay of look and feel as well as security, connectivity, and integration with back-office systems. Gone are the days when designers made interfaces that simply worked; the need of the day is likeability. Thus we must design products that give people a feeling of accomplishment and satisfaction while they’re working.                                                                                                                                                                                                                                                  The 67th edition of FAYA:80 provided an open platform for all technology enthusiasts, hardware entrepreneurs, and hobbyists to explore Enterprise UX and learn how to progress with it.<strong>Topics Covered</strong>Introduction to Enterprise UX.<br>Consumer App Vs Enterprise App.<br>Designing for Enterprise Users.<br>Challenges & solutions with Case studies.<br>Designing for the future of enterprise business."
-		},
-		{
-			"eventID": "C17",
-			"title": "The evolutionary journey of RAD - Rapid application Development",
-			"technology": "front end",
-			"eventbanner": "17.jpg",
-			"speakers": {
-				"speaker1": "S92"
-			},
-			"date": "14/11/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Rapid Application Development (RAD) is a software development methodology that focuses on rapid prototyping and application development to ensure faster product delivery. Unlike Waterfall methods, RAD emphasizes working software and user feedback over strict planning and requirements recording. In other words, RAD is less talk, more action. Oh, and testing. Lots and lots of testing. (second para) RAD doesn’t work for every project and, like any organizational methodology, shouldn’t be used indiscriminately. But it does work well in a few specific instances, which we’ll discuss in the 17th edition of FAYA:80 Kochi. The session was a great opportunity for CXOs, project managers, middle level managers, developers and other technology enthusiasts to get to know RAD from its practical implementation view. The session also helped those who had already adopted RAD to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Introduction to RAD.<br>Why RAD?<br>Evolution of RAD.<br>Types of RAD.<br>The future of RAD.<br>Live Demo."
-		},
-		{
-			"eventID": "C16",
-			"title": "Practical Scrum – A guide to the most popular Agile Process",
-			"technology": "front end",
-			"eventbanner": "16.jpg",
-			"speakers": {
-				"speaker1": "S91"
-			},
-			"date": "10/10/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Scrum is a simple, yet incredibly powerful, set of principles and practices that help teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change. So says the Scrum Alliance. When implementing Scrum, people often ask ‘how do I…’ and the answer typically is ‘Scrum does not say anything about that.’ So you are left to figure it out on your own. Not everything that works for others will work for you and vice-versa.                                                                                                                                                                        The 16th edition of FAYA:80 Kochi provided an open platform to step up the Scrum game with the help of a person who had successfully implemented Scrum at his workplace. In the session, he shared his experiences in implementing Scrum, the challenges faced and improvements made, the tools used, and, also, how Scrum became an integral part of requirements gathering, roadmaps, and release management. Participants also got a chance to share what worked and didn’t work for them in Scrum and why.                                                                                                       The session was a great opportunity for CXOs, project managers, middle-level managers, developers, and other technology enthusiasts to get to know Scrum from a practical implementation point of view. The session also helped those who had already adopted Scrum to get ideas to troubleshoot their roadblocks.<strong>Topics Covered</strong>Basics of Scrum Implementation.<br>Adoption of Scrum & its challenges.<br>Common Tools used.<br>Case Study: How scrum is implemented at RedBlack.<br>Q&A and Experience Sharing."
-		},
-		{
-			"eventID": "C15",
-			"title": "Hackproofing your Web Application for the future",
-			"technology": "security",
-			"eventbanner": "15.jpg",
-			"speakers": {
-				"speaker1": "S45"
-			},
-			"date": "12/09/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey. The top ten security risks and guidelines for preventing them published by OWSAP are a gold standard for most of the developers around the world. Despite having these guidelines, developers tend to overlook these while implementing. In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced. The 15th edition of FAYA:80 Kochi, Hackproofing your Web Application for the future, will be an opportunity for all web and mobile application developers, testers, technical managers and other technology enthusiasts to learn what exactly needs to be done to ensure that their applications are protected from cyber attacks.<strong>Topics Covered</strong>Case study of 10M users data breach.<br>Critical Security Vulnerabilities.<br>Mitigation techniques.<br>Ransomware overview.<br>Demo"
-		},
-		{
-			"eventID": "C14",
-			"title": "Design Thinking & Prototyping for Product Development",
-			"technology": "front end",
-			"eventbanner": "14.jpg",
-			"speakers": {
-				"speaker1": "S90"
-			},
-			"date": "08/08/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "As technology service companies and product-based companies, we are the best at thinking up and suggesting the latest business and technical solutions. However, we miss out on an integral element in the solution- the human element or the customer. Solutions that are incomplete, resulting in multiple(read painful) change requests, are commonplace. And here’s why- sufficient time has to be spent on design thinking and prototyping.                                                                                                                                                                                                                                                         It doesn't matter which industry you work in, which technology you work on or what role you play. If you have a customer and they have a problem that they want you to solve, you need Design Thinking and Prototyping to test the ideas quickly and improve them in an equally timely fashion.                                                                                                                                                            The 14th edition of FAYA:80 Kochi, Design Thinking & Prototyping for Product Development, presented an opportunity to help all developers, leads, managers and business owners who were working to solve customer’s problem, to step up their game.<strong>Topics Covered</strong>Design Thinking for Product Design<br>Design Thinking Process<br>Design Sprints<br>Prototyping."
-		},
-		{
-			"eventID": "C13",
-			"title": "Hybrid Mobile App Development using Cordova",
-			"technology": "android",
-			"eventbanner": "13.jpg",
-			"speakers": {
-				"speaker1": "S89"
-			},
-			"date": "11/07/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "From smartphones to smart watches, mobile apps have a pervasive presence. But it would be a time-consuming process to develop the same app several times for different platforms using platform-specific SDKs and APIs. How exciting it is then to have an app that will run on all platforms!                                                                                                                                                           Apache Cordova (earlier known as PhoneGap) is an open source mobile application development framework that allows programmers to build apps for multiple mobile platforms using standard Web technologies like HTML5, CSS3 and JavaScript instead of relying on platform-specific SDKs and APIs.                                                                                                                                                            The 13th edition of FAYA:80 Kochi, Hybrid Mobile App Development using Cordova, explicated on the development of hybrid mobile apps using Cordova. It was a great opportunity for all technology enthusiasts and mobile developers to delve deep into the possibilities of Cordova.<strong>Topics Covered</strong>Introduction to Cordova<br>How it works<br>How to use of Cordova CLI effectively<br>UI frameworks for Cordova<br>Build process for multiple platforms<br>Demo"
-		},
-		{
-			"eventID": "C12",
-			"title": "Exploring Virtual Reality: Conversance with VR-enabled E-commerce",
-			"technology": "web security",
-			"eventbanner": "12.jpg",
-			"speakers": {
-				"speaker1": "S77"
-			},
-			"date": "13/06/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "VR has proved to be a breakthrough technology for a variety of industries to improve their customer experience. This interactive computer-generated experience taking place within a simulated environment, holds enormous potential to change the future for a number of fields, including the world of retail. However, in the absence of reliable instructions supported with experience, those who want to try out this technology are still hesitant to move forward with it.<br>BuildNext is a Kerala based start-up working on elevating the customer experience in construction industry using technology. Its experience centres are Virtual Reality-enabled, and it is one of the first commercial applications of VR outside of gaming sector.<strong>Topics Covered</strong>VR intro and history<br>A case for VR<br>VR@ BuildNext<br>What's working for us<br>What's yet to work<br>What do we expect next"
-		},
-		{
-			"eventID": "C11",
-			"title": "A Closer Look at Deep Learning with Object Detection - Kochi",
-			"technology": "web security",
-			"eventbanner": "11.jpg",
-			"speakers": {
-				"speaker1": "S72"
-			},
-			"date": "09/05/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Deep Learning has been a real game changer in the field of Machine Learning, especially in Computer Vision. Although there have been other Machine Learning networks in use, Deep Learning has proved to outperform them exponentially with increase in data provided.<br>In Deep Learning, artificial neural networks are fed millions of images, the patterns of which are used by them to recognize other images, thus forming the basis of Object Detection. Autonomous vehicles, smart video surveillance, facial detection and various people counting applications, are all applications of this.<br><strong>Topics Covered</strong>Introduction to CNNs<br>Object Detection Approaches- RCNN, Fast RCNN, Faster RCNN, Yolo, Retinanet<br>Hands-on Object Detection with Tensorflow"
-		},
-		{
-			"eventID": "C10",
-			"title": "An Intro to Chatbot Development",
-			"technology": "web security",
-			"eventbanner": "10.jpg",
-			"speakers": {
-				"speaker1": "S75",
-				"speaker2": "S76"
-			},
-			"date": "11/04/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Chatbots are everywhere, from websites and social media platforms to smartphones and are an easy and fun way to assist customers in their interactions with a brand or product. Even though the bot revolution is in its early phase, we can expect a lot more advancements in this field. With the evolution of AI and Deep Learning, chatbots are expected to become more empowered to offer better language processing capabilities and extensive personalization in the coming days.<br>Chatbots are sure to get embedded in almost all the interconnected devices that will use in our day to day lives in the future. This will fundamentally transform human interactions with digital business platforms and will open up new realms of personalized customer experience. Foreseeing this immense potential of the chatbots, organizations have started investing heavily in this space.<strong>Topics Covered</strong>Introduction to chatbots<br>Evolution of chatbots<br>Potential of chatbots<br>How can businesses benefit from chatbots?<br>How can Messenger chatbots be used for marketing?<br>Why is Chatbots such a big opportunity?<br>How does a chatbot work<br>Natural language understanding<br>Response generation<br>Dialogue management<br>Chabot Training<br>Tools for chatbot development<br>Dialogflow NLU demo"
-		},
-		{
-			"eventID": "C9",
-			"title": "Java Virtual Machine 101",
-			"technology": "web security frontend",
-			"eventbanner": "9.jpg",
-			"speakers": {
-				"speaker1": "S74"
-			},
-			"date": "14/03/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Java users are well aware that the Java bytecode runs in a JRE (Java Runtime Environment). The Java Virtual Machine (JVM), which analyzes and executes the Java byte code, is the most important part of the JRE. Why should you know more about JVM? Various great applications and libraries have already been developed by developers who had no deep understanding of the JVM. However, if you grasp the concepts of JVM better, you will in turn grasp Java better leading to simpler problem solving using Java.<strong>Topics Covered</strong>Why you should Learn the VM Internals<br>Abstract Machine and its Instruction Set<br>Execution Engine and the Memory Model<br>Multilanguage VM - JVM as a Host to Python, Ruby, Scala and Groovy<br>Method Handles & Invokedynamic"
-		},
-		{
-			"eventID": "C8",
-			"title": "Hello XR: An Introduction to VR, AR and MR",
-			"technology": "web security",
-			"eventbanner": "8.jpg",
-			"speakers": {
-				"speaker1": "S51"
-			},
-			"date": "14/02/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Reality technologies are gaining high momentum- be it the full immersion in virtual environment offered by VR, the enhancement of the real world with digital objects of AR, or the combining of the virtual environment with real world of MR. With technology giants like Apple, Facebook and Microsoft adapting to these various forms of computer-altered reality, it is essential that we build an awareness of Extended Reality (XR), which ranges from partially sensory inputs to immersive virtuality.<br>The 8th edition of FAYA:80 Kochi, Hello XR: An Introduction to VR, AR and MR, was an opportunity for all application developers, testers, technical managers and other technology enthusiasts to take their first steps into the fascinating and exciting world of Extended Reality (XR) in all its forms.strong>Topics Covered:</strong> Immersive Technologies and the Fine line between them<br>What's New in the XR Spectrum<br>How they can be Leveraged by Various Industries<br>Design Considerations and Best Practices for VR and AR"
-		},
-		{
-			"eventID": "C7",
-			"title": "Essential Web Security for Developers",
-			"technology": "web security",
-			"eventbanner": "7.jpg",
-			"speakers": {
-				"speaker1": "S45"
-			},
-			"date": "10/01/2018 5:00 pm",
-			"youtubeID": "",
-			"details": "Cyber crimes resulting in loss of personal information, intellectual property, money and most importantly, trust, are on a rise today. Even systems that have claimed to be ‘unhackable’ are falling prey.<br>In such a scenario, it is integral that developers are armoured with the knowledge on how to ensure their applications can be maintained safely and vulnerabilities and casualties reduced.<br>The 7th edition of FAYA:80 Kochi, Essential Web Security for Developers, was a discussion on what exactly needs to be done to ensure that applications are protected from cyber attacks.strong>Topics Covered:</strong>Understanding Hacking Techniques<br>Hackproofing Web and Mobile Applications<br>Malware, Ransomware and its Prevention<br>Demo"
-		},
-		{
-			"eventID": "C6",
-			"title": "Artificial Intelligence - The First Step",
-			"technology": "web security",
-			"eventbanner": "6.jpg",
-			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S53"
-			},
-			"date": "13/12/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.<br>But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning and Neural Networks? What are their applications?<br>Artificial Intelligence: How Machines can Make Decisions, the 6th edition of FAYA:80 Kochi, unlocked answers to these and more."
-		},
-		{
-			"eventID": "C5",
-			"title": "Singularity Series - The Robots' Guide To World Domination",
-			"technology": "web frontend security android",
-			"eventbanner": "5.jpg",
-			"speakers": {
-				"speaker1": "S54"
-			},
-			"date": "08/11/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "The 5th edition of FAYA:80 Kochi was an opportunity for all to take a quick look at the technological advancements in Artificial Intelligence and Robotics, heralding the oncoming Singularity.<br>Human history will show that manual work has been replaced by technology and automation, time and again. For better or for worse, how has this affected the world? What is next in line to be replaced by technology? How intelligent can AI and Robots get? Will there ever be a point of time in the future where AI can perfectly replicate human creativity and the ability to procreate?<br>Will Robots threaten the superiority of human beings over all other things on the planet? This second installment of the Singularity Series by FAYA:80 was a factual narrative on the human technological history and the predicted future.strong>Topics Covered:</strong>Future of Technology<br>Technological Singularity<br>AI vs Human Brain<br>Challenges and Opportunities"
-		},
-		{
-			"eventID": "C4",
-			"title": "A Roadmap for Angular 4",
-			"technology": "web security frontend",
-			"eventbanner": "4.jpg",
-			"speakers": {
-				"speaker1": "S14"
-			},
-			"date": "11/10/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Angular has created a niche for itself as the most popular open-source framework in front end development. With the release of Angular 2 in September 2016, it has become inevitable for a front end developer to upgrade their skills to match this full-platform successor of Angular 1. March 2017 paved way for Angular 4, the backwards compatible upgrade, with major improvements that helps in building complex applications for both web and mobile platforms.<br>The 4th edition of the Kochi chapter of FAYA:80 provided a unique opportunity for technology enthusiasts to get a roadmap for elevating their skills to Angular 4 from the perspective of a beginner. The session unveiledroadblocks and milestones that could come up in this transformation.strong>Topics Covered:</strong>Features & Benefits<br>Architecture<br>Introduction to TypeScript<br>Angular CLI Basics<br>Live Demo"
-		},
-		{
-			"eventID": "C3",
-			"title": "The Changing Face of SEO",
-			"technology": "web security",
-			"eventbanner": "3.jpg",
-			"speakers": {
-				"speaker1": "S3"
-			},
-			"date": "13/09/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Google has revolutionised the way information reaches consumers, and with it, has brought about the era of digital marketing, which is faster, better, more versatile, and in most cases more affordable than the conventional systems of marketing.<br>SEO, the holy grail of digital marketing, has been helping businesses build a consumer base and achieve conversion for more than a decade now, and like all things digital, digital marketing is also in a state of constant flux, so keeping updated with the latest trends and practices is equally important. Stuffing your webpage with out-of-context keywords will no longer cut it in the world of digital marketing.<br>The 3rd edition of FAYA:80- Kochi chapter, explored the changing dynamics of Search Engine Optimisation and the endless possibilities of digital marketing.strong>Topics Covered:</strong>SEO & Digital Marketing<br>Going beyond Keywords<br>The New era of search"
-		},
-		{
-			"eventID": "C2",
-			"title": "Strategic Media Production for Technology Product Companies",
-			"technology": "web security",
-			"eventbanner": "2.jpg",
-			"speakers": {
-				"speaker1": "S55"
-			},
-			"date": "09/08/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Creating your own media, distributing it and monitoring its impact can be a long process, which may become confusing and overwhelming if it’s not well-managed and carefully planned. Designing a media strategy will help bring a competitive advantage, but only if companies have the necessary skills to make the most of the opportunity it presents.<br>The 2nd edition of FAYA:80 – Kochi Chapter dove deeper into building a sustainable competitive advantage with the help of Digital Media Strategy.strong>Topics Covered:</strong>The CAT Story<br>Technology Product Start-ups/Corporates<br>Crowdfunding Platforms<br>Successful & Failed Campaigns<br>Case Studies<br>Future Prospects"
-		},
-		{
-			"eventID": "C1",
-			"title": "Deep Learning in AI",
-			"technology": "web security",
-			"eventbanner": "1.jpg",
-			"speakers": {
-				"speaker1": "S10"
-			},
-			"date": "12/07/2017 5:00 pm",
-			"youtubeID": "",
-			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		}
 	]
 }
