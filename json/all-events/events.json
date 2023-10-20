@@ -1,6 +1,31 @@
 {
 	"event": [
 		{
+			"eventID": "E1",
+			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
+			"technology": "web security",
+			"eventbanner": "1.jpg",
+			"speakers": {
+				"speaker1": "S52",
+				"speaker2": "S53"
+			},
+			"date": "09/12/2017 9:00 am",
+			"youtubeID": "",
+			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
+		},
+		{
+			"eventID": "E2",
+			"title": "Hands-On Digital Marketing",
+			"technology": "web security",
+			"eventbanner": "2.jpg",
+			"speakers": {
+				"speaker1": "S71"
+			},
+			"date": "03/02/2018 9:00 am",
+			"youtubeID": "",
+			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
+		},
+		{
 			"eventID": "C35",
 			"title": "Learn To Code Any Idea In Minutes - An intro to Text to Code AI solutions with OpenAI Codex",
 			"technology": "Web",
@@ -401,31 +426,6 @@
 			"details": "Artificial Intelligence and Deep Learning are the most talked about technologies driving the disruptive innovation of the future. Deep learning is revolutionizing artificial intelligence as machines become increasingly more intelligent and are able to recognize and sort objects and understand what they are.<br>The 1st edition of Kochi edition FAYA:80 delved into the advancing trends in Deep Learning, their impact on our ecosystem and successful applications in business leading to the creation of next generation products.strong>Topics Covered:</strong>What is Deep Learning/Neural Networks?<br>Relationship b/w Neural Nets and Logistic Regression<br>Basic Learning Concepts<br>Best Practices & Applications<br> Comparison of different Neural Networks - ANN's vs CNN's<br>Case Study – Image Recognition"
 		},
 		{
-			"eventID": "E1",
-			"title": "Extended FAYA:80 on Artificial Intelligence & Machine Learning",
-			"technology": "web security",
-			"eventbanner": "1.jpg",
-			"speakers": {
-				"speaker1": "S52",
-				"speaker2": "S53"
-			},
-			"date": "09/12/2017 9:00 am",
-			"youtubeID": "",
-			"details": "The last decade saw the building of a mobile-first world where smartphones took control over the advancements in technology and lifestyle. However, all technology giants have now shifted sail to focus on an AI-first world, unlocking capabilities that were the stuff of science fiction in the past. Google Assistant, Amazon Echo, Facebook Spaces and Tesla’s self-driving cars are all testimonies to this technology shake-up.But what exactly is this Artificial Intelligence? And how is it related to all the other terms that you hear in association with it, such as Machine Learning, Deep Learning, and Neural Networks? What are their applications? <strong>Topics Covered:</strong>Defining Artificial Intelligence<br>A Brief History<br>What Has Made AI possible now?<br>An Introduction to the Terminologies : Machine Learning, Neural Networks, Deep Learning, NLP, Computer Vision<br>Weak AI & Strong AI<br>How Machines can Make Decisions<br>"
-		},
-		{
-			"eventID": "E2",
-			"title": "Hands-On Digital Marketing",
-			"technology": "web security",
-			"eventbanner": "2.jpg",
-			"speakers": {
-				"speaker1": "S71"
-			},
-			"date": "03/02/2018 9:00 am",
-			"youtubeID": "",
-			"details": "Digital Marketing is one of the most integral tools in any business’ marketing activities. Although information on the best Digital Marketing strategies are aplenty, most are hazy when it comes to applying this knowledge and coming up with the best strategies to suit their unique needs, often leading to redundant and misplaced marketing strategies that drain your money and even adversely affect your goals.<br>Hands-On Digital Marketing, an extended FAYA:80 event, in association with NASSCOM, will be a one-day workshop that aims to leave you with a clear idea about the concept behind and application of the most effective digital marketing strategies that you can leverage to ensure that your business gets to the right people at the right time.<br>Armed with the knowledge that no two company’s marketing needs are the same, you will be guided on how to identify digital marketing solutions unique to your business needs, rather than with just an overview of the topic, or general strategies that need not necessarily work for your business.<br> "
-		},
-		{
 			"eventID": "K27",
 			"title": "Beyond Basics - Joomla!",
 			"technology": "web",
@@ -749,6 +749,68 @@
 			"date": "13/06/2017 5:00 pm",
 			"youtubeID": "",
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
+		},
+		{
+			"eventID": "T108",
+			"title": "Securing the Digital Frontier",
+			"technology": "AI",
+			"eventbanner": "108.jpg",
+			"speakers": {
+				"speaker1": "T149"
+			},
+			"date": "18/10/2023 5.00 PM",
+			"youtubeID": "6CWIYDpCKf8",
+			"rating": "5",
+			"details": "As the cyber security industry keeps evolving with greater threats and newer attack vectors it’s important to stay updated on current and future trends in the domain. The session will look into currently followed application security practices, commonly observed security vulnerabilities(including root causes and remediation strategies) and how companies can build on a security forward approach. <br> It will also focus on upcoming and rising trends in application security from ‘shifting left’ strategies to AI integration in threat detection and how security testing solutions adapt to modern day application development workflows."
+		},
+		{
+			"eventID": "T107",
+			"title": "GUI for AI: Unlocking Creativity with Stable Diffusion & Llama2",
+			"technology": "AI",
+			"eventbanner": "107.jpg",
+			"speakers": {
+				"speaker1": "T148"
+			},
+			"date": "13/09/2023 5.00 PM",
+			"youtubeID": "oZF6vVlXn7s",
+			"rating": "5",
+			"details": "Discover the Potential Of Self-Healing IT Systems and how to enhance Incident Detection. See how  Cutting-Edge Automation provides real-time insights for continuous optimization and rapid response. Learn why seamless integration with existing ecosystems is key for AI-driven solutions."
+		},
+		{
+			"eventID": "T106",
+			"title": "AIOps: Revolutionizing IT Operations with Extreme",
+			"technology": "AIOps",
+			"eventbanner": "106.jpg",
+			"speakers": {
+				"speaker1": "T147"
+			},
+			"date": "9/08/2023 5.00 PM",
+			"youtubeID": "1JSU8D1J6K4",
+			"rating": "5",
+			"details": "Discover the Potential Of Self-Healing IT Systems and how to enhance Incident Detection. See how  Cutting-Edge Automation provides real-time insights for continuous optimization and rapid response. Learn why seamless integration with existing ecosystems is key for AI-driven solutions."
+		},
+		{
+			"eventID": "T105",
+			"title": "Branding: The Power of Storytelling",
+			"technology": "Marketing",
+			"eventbanner": "105.jpg",
+			"speakers": {
+				"speaker1": "S146"
+			},
+			"date": "26/07/2023 5.00 PM",
+			"youtubeID": "qvxk5f2nhgE",
+			"rating": "5",
+			"details": "Want to create an emotional, value-driven connection between your customers and your brand? The key is to speak about origin, missions, and goals in a way that resonates with your audience. <br> But how do you tell your brand’s story so captivatingly that it strikes a chord? Join the 105th NASSCOM FAYA:80 session as Sreejith Nair, Brand Communication Leader and Assistant Director of Marketing in one of the Big4 professional services firms explores how you can use the power of storytelling in branding. <br> The session helps you understand how our lives start with a story. It also explores how you can Monetize narratives by creating stories that are immortal. The talk also looks into how you can make your stories in the times of AI and Technology. Whether you're a marketing professional, an entrepreneur, or simply curious about the art of storytelling in branding, this event is your gateway to elevating your expertise."
+		},
+		{
+			"eventID": "T104",
+			"title": "FAYA:80 Unconference",
+			"technology": "",
+			"eventbanner": "104.jpg",
+			"date": "14/06/2023 5.00 PM",
+			"youtubeID": "00IQHS0Euac",
+			"rating": "5",
+			"details": "As NASSCOM FAYA:80 completes a successful decade, we are going one step forward. This Unconference will be the first step in initiating hardcore developer communities that explore technologies in-depth. <br>The Unconference will follow a unique method of an interactive and participant-driven format. The program will also have open discussions, collaborations, networking opportunities, and knowledge exchange."
 		},
 		{
 			"eventID": "T103",

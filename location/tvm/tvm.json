@@ -1,6 +1,68 @@
 {
    "event": [
     {
+			"eventID": "T108",
+			"title": "Securing the Digital Frontier",
+			"technology": "AI",
+			"eventbanner": "108.jpg",
+      "speakers": {
+				"speaker1": "T149"
+			},
+			"date": "18/10/2023 5.00 PM",
+			"youtubeID": "6CWIYDpCKf8",
+			"rating": "5",
+			"details": "As the cyber security industry keeps evolving with greater threats and newer attack vectors it’s important to stay updated on current and future trends in the domain. The session will look into currently followed application security practices, commonly observed security vulnerabilities(including root causes and remediation strategies) and how companies can build on a security forward approach. <br> It will also focus on upcoming and rising trends in application security from ‘shifting left’ strategies to AI integration in threat detection and how security testing solutions adapt to modern day application development workflows."
+		},
+    {
+			"eventID": "T107",
+			"title": "GUI for AI: Unlocking Creativity with Stable Diffusion & Llama2",
+			"technology": "AI",
+			"eventbanner": "107.jpg",
+      "speakers": {
+				"speaker1": "T148"
+			},
+			"date": "13/09/2023 5.00 PM",
+			"youtubeID": "oZF6vVlXn7s",
+			"rating": "5",
+			"details": "Discover the Potential Of Self-Healing IT Systems and how to enhance Incident Detection. See how  Cutting-Edge Automation provides real-time insights for continuous optimization and rapid response. Learn why seamless integration with existing ecosystems is key for AI-driven solutions."
+		},
+    {
+			"eventID": "T106",
+			"title": "AIOps: Revolutionizing IT Operations with Extreme",
+			"technology": "AIOps",
+			"eventbanner": "106.jpg",
+      "speakers": {
+				"speaker1": "T147"
+			},
+			"date": "9/08/2023 5.00 PM",
+			"youtubeID": "1JSU8D1J6K4",
+			"rating": "5",
+			"details": "Discover the Potential Of Self-Healing IT Systems and how to enhance Incident Detection. See how  Cutting-Edge Automation provides real-time insights for continuous optimization and rapid response. Learn why seamless integration with existing ecosystems is key for AI-driven solutions."
+		},
+    {
+			"eventID": "T105",
+			"title": "Branding: The Power of Storytelling",
+			"technology": "Marketing",
+			"eventbanner": "105.jpg",
+      "speakers": {
+				"speaker1": "S146"
+			},
+			"date": "26/07/2023 5.00 PM",
+			"youtubeID": "qvxk5f2nhgE",
+			"rating": "5",
+			"details": "Want to create an emotional, value-driven connection between your customers and your brand? The key is to speak about origin, missions, and goals in a way that resonates with your audience. <br> But how do you tell your brand’s story so captivatingly that it strikes a chord? Join the 105th NASSCOM FAYA:80 session as Sreejith Nair, Brand Communication Leader and Assistant Director of Marketing in one of the Big4 professional services firms explores how you can use the power of storytelling in branding. <br> The session helps you understand how our lives start with a story. It also explores how you can Monetize narratives by creating stories that are immortal. The talk also looks into how you can make your stories in the times of AI and Technology. Whether you're a marketing professional, an entrepreneur, or simply curious about the art of storytelling in branding, this event is your gateway to elevating your expertise."
+		},
+    {
+			"eventID": "T104",
+			"title": "FAYA:80 Unconference",
+			"technology": "",
+			"eventbanner": "104.jpg",
+			"date": "14/06/2023 5.00 PM",
+			"youtubeID": "00IQHS0Euac",
+			"rating": "5",
+			"details": "As NASSCOM FAYA:80 completes a successful decade, we are going one step forward. This Unconference will be the first step in initiating hardcore developer communities that explore technologies in-depth. <br>The Unconference will follow a unique method of an interactive and participant-driven format. The program will also have open discussions, collaborations, networking opportunities, and knowledge exchange."
+		},
+    {
 			"eventID": "T103",
 			"title": "Cognitive Psychology in UX",
 			"technology": "UX",

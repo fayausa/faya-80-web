@@ -11,7 +11,7 @@
       "linkedIn": "https://www.linkedin.com/in/sonyjohnbronzon/",
       "email": "",
       "events": {
-        "event1": "T57"
+        "event1": "T157"
       }
     },
     {
@@ -2103,6 +2103,62 @@
 			"events": {
 			  "event1": "T103"
 			}
+		  },
+		  {
+			"speakerID": "S146",
+			"speaker": "Sreejith Nair",
+			"profile": "Brand Marketing Communication Leader",
+      "speakerdesc": "Sreejith's love affair with brands and the power of stories had been natural, intuitive, and seamless. He had been hooked on it since childhood, and now it was his career!. <br> He had led marketing teams at Reliance Retail, IndusInd Bank, CSB Bank, Kotak Mahindra Bank, and currently, he was working at one of the Big4 professional services firms. His goal had been to synthesize new-age technology and age-old marketing concepts. Donning his work hat made him a chaos tamer and an innovative thinker.",
+      "thumb": "sreejith-nair.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/mrsreejithnair/",
+      "email": "",
+      "events": {
+        "event1": "T105"
+      }
+		  },
+		  {
+        "speakerID": "T147",
+        "speaker": "Binish Moulana",
+        "profile": "Head of Platform Enablement APAC, Finastra",
+        "speakerdesc":"Binish Moulana is an accomplished professional with over 22 years of experience in the software industry, demonstrating proven expertise in leading teams to architect solutions, with a particular emphasis on SRE and Automation on Cloud. His passion lies in driving innovation and modernization while ensuring the delivery of high-quality services to clients. <br> As a Cloud Architect on AWS and Azure, Binish Moulana has successfully delivered cloud-native solutions and facilitated platform adoption focusing on AIOps. Currently, he is researching generative AI-based automation and AI ethics.",
+        "thumb": "binish-moulana.jpg",
+        "facebook": "",
+        "twitter": "",
+        "linkedIn": "https://www.linkedin.com/in/binish-moulana/",
+        "email": "",
+        "events": {
+          "event1": "T106"
+        }
+		  },
+		  {
+        "speakerID": "T148",
+      "speaker": "Amal Shehu",
+      "profile": "Co-Founder, StoryBrain",
+      "speakerdesc":"Amal transcended beyond being a quintessential tech enthusiast into a futurist who worships the transformative power of technology. A chemist of Technology, Amal brews innovative, smart solutions that present a gateway for brands to optimize their workflows by wielding the right technologies the right way.",
+      "thumb": "Amal-Shehu.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/amalshehu",
+      "email": "",
+      "events": {
+        "event1": "T107"
+        }
+		  },
+		  {
+        "speakerID": "T149",
+      "speaker": "Jugal J",
+      "profile": "Application Security Specialist, EY GDS",
+      "speakerdesc":"A senior cyber security consultant at EY GDS with more than 4 years of Industry experience in offensive security. His primary focus areas include penetration testing and application security(DAST) for web, web services, mobile and network infrastructure. <br>He is currently working on innovation and automation of application security operations and building new cyber security solutions. <br> Jugal is a tech enthusiast with a passion for emerging technologies.",
+      "thumb": "jugal.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://www.linkedin.com/in/jugal-j-59a81111a ",
+      "email": "",
+      "events": {
+        "event1": "T108"
+        }
 		  }
   ]
 }
