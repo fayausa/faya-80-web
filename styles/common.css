@@ -446,9 +446,9 @@ h4.filter-title {
   .contact .form-area .form-group {
     margin-bottom: 20px; }
     .contact .form-area .form-group .form-control {
-      height: 38px;
+      height: 47px;
       padding: 6px 20px 6px 20px;
-      font-size: 18px;
+      font-size: 16px;
       line-height: 24px;
       color: #8a8a8a;
       border: 2px solid #F1F1F1;
@@ -714,3 +714,14 @@ h4.filter-title {
     padding: 5px 10px; }
     .gallery-wrap .content-gallery .gallery {
       padding-bottom: 0; }
+.register-wrap {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.register-list {
+  width: 48%;
+  display: flex;
+}
