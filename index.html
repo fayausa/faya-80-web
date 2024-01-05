@@ -67,7 +67,9 @@
               </a>
              </div> -->
              <div>
-              <img src="/images/slider-evolve.jpg">
+                <a href="/latest.html">
+                  <img src="/images/latest/slider.jpg">
+                </a>
             </div>
             <div class="carousel-inner" role="listbox">
               <iframe width="100%" height="200px" src="https://www.youtube.com/embed/MB1xjwpaE88" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -222,7 +224,8 @@ FAYA:80 celebrated its 50th edition in July, 2017 with DISRUPT KERALA 2017, a da
         
         $(".lazy").slick({
           lazyLoad: 'ondemand', // ondemand progressive anticipated
-          infinite: true
+          infinite: true,
+          adaptiveHeight: true
         });
         //Examples of how to assign the Colorbox event to elements
         $(".group1").colorbox({rel:'group1'});
