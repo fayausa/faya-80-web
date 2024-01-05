@@ -643,7 +643,7 @@ h4.filter-title {
         margin-left: -15px; }
   .event-detail {
     width: 100%;
-    float: left; }
+    float: left; margin-bottom: 20px; }
   .speaker-detail-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -714,3 +714,4 @@ h4.filter-title {
     padding: 5px 10px; }
     .gallery-wrap .content-gallery .gallery {
       padding-bottom: 0; }
+      
