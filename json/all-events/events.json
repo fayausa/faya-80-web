@@ -751,6 +751,45 @@
 			"details": "The digital currency has undergone a vibrant makeover with the evolution of Blockchain, the underpinning technology of Bitcoin. Blockchain and Bitcoin have taken the technology enthusiasts by awe as it revolutionises the way we do business by paving way for open finance. A Blockchain is a public ledger of all Bitcoin transactions that have ever been executed. This ledger is not stored in one place. It is distributed across hundreds or even thousands of computers around the world. It stands proof to all the transactions on the network.<br>No doubt, this paradigm shift in business opens door for a gold mine of opportunities that has to be tapped by the developers and companies. The need of the hour is a session that gives awareness of the theories and concepts of Blockchain along with ideas on how to transfigure daily business using it. The October edition of FAYA:80 provided some much-needed insight into Blockchain and build a futuristic eco system in Kerala.strong>Topics Covered:</strong>History of Bitcoin<br>Whats Bitcoin<br>Whats AltCoins<br>Technology Behind CryptoCurrencies<br>Current State of Affairs<br>Example use cases where Blockchain is being used<br>How to get in?<br>Whats coming?"
 		},
 		{
+			"eventID": "T111",
+			"title": "Decoding Beckn: Building The Interconnected World Of Tomorrow",
+			"technology": "Web",
+			"eventbanner": "111.jpg",
+			"speakers": {
+				"speaker1": "T152"
+			},
+			"date": "10/01/2024 5.00 PM",
+			"youtubeID": "roCp2ud3s7c",
+			"rating": "5",
+			"details": "Discover the future of e-commerce with Beckn – a groundbreaking decentralized protocol. It’s like HTTP for the internet or SMTP for email, giving businesses the freedom to conduct transactions independently. <br> Beckn is designed as a set of lightweight, open specifications, allowing buyers and sellers to choose any digital application for seamless commerce – no middleman platform required."
+		},
+		{
+			"eventID": "T110",
+			"title": "Decoding the Giants: A Deep Dive into Large Language Models",
+			"technology": "Web",
+			"eventbanner": "110.jpg",
+			"speakers": {
+				"speaker1": "T151"
+			},
+			"date": "20/12/2023 5.00 PM",
+			"youtubeID": "qvcuire3pOc",
+			"rating": "5",
+			"details": "In today’s rapidly evolving professional landscape, the need to continuously learn and adapt is more critical than ever, especially when it comes to mastering cutting-edge technologies like Large Language Models (LLMs). Embrace this opportunity to stay ahead of the curve with us! <br> Whether you’re new to LLMs or an AI practitioner desiring a deeper understanding, this session is tailor-made for you. Join us at FAYA’s “Floor of Madness” for an in-depth exploration into LLMs and their application in our dynamic world. This session aims to enlighten attendees on the significance of LLMs, their multimodal capabilities, and practical uses in various industries."
+		},
+		{
+			"eventID": "T109",
+			"title": "Automation Tools Showdown Cypress vs Selenium vs PlayWright",
+			"technology": "Web",
+			"eventbanner": "109.jpg",
+			"speakers": {
+				"speaker1": "T150"
+			},
+			"date": "15/11/2023 5.00 PM",
+			"youtubeID": "Rk3TJwqFF_8",
+			"rating": "5",
+			"details": "Join us on Wednesday, November 15 and navigate through the features and applicability of Cypress, Selenium and Playwright. <br> Delve deeper into understanding what it means to leverage the right automation solution for projects, as Niji S. Das surgically demonstrates the three most sought-after automation testing tools. <br> Mine Niji’s expertise and valuable insights to refine your testing strategies for ensuring quality assurance in the dynamic digital solutions landscape. <br> Register now for the 109th NASSCOM FAYA:80 on 15th Nov, 2023 for a fascinating analysis of Cypress, Selenium & Playwright."
+		},
+		{
 			"eventID": "T108",
 			"title": "Securing the Digital Frontier",
 			"technology": "AI",

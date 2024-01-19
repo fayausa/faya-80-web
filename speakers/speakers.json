@@ -2159,6 +2159,49 @@
       "events": {
         "event1": "T108"
         }
+		  },
+		  {
+        "speakerID": "T150",
+      "speaker": "Niji S. Das",
+      "profile": "Lead Test EngineerExperion Technologies",
+      "speakerdesc":"Niji is a seasoned professional who passionately built her career in the Quality Assurance field. With over 9 years of experience in the ever-evolving landscape of software and application testing, Niji honed her skills at some of the finest organizations we’ve heard of. She holds the coveted ISTQB and CATe certifications - a testament to her expertise in engineering the best quality in digital solutions",
+      "thumb": "niji.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://in.linkedin.com/in/niji-das-28ab2512a",
+      "email": "",
+      "events": {
+        "event1": "T109"
+        }
+		  },
+		  {
+        "speakerID": "T151",
+      "speaker": "Niyas Mohammed",
+      "profile": "Co-Founder, NeuralCraft",
+      "speakerdesc":"With over 8 years in AI solution development, Niyas Mohammed’s journey began with an internship at EY, evolving into Advanced Data Analytics and NLP. His extensive experience includes building research platforms for pharmaceutical companies, content flagging systems for law enforcement, and real-time machine learning applications in eCommerce. Niyas is not just a speaker; he’s a UX expert, a digital intelligence artisan, and an NLP prodigy ready to guide you through the fascinating world of LLMs.",
+      "thumb": "niyas-mohammed.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://in.linkedin.com/in/niyasmohammed",
+      "email": "",
+      "events": {
+        "event1": "T110"
+        }
+		  },
+		  {
+        "speakerID": "T152",
+      "speaker": "Faiz Mohammed",
+      "profile": "Head of Engineering, FIDE",
+      "speakerdesc":"An Engineering Leader at FIDE, Faiz is responsible for managing and delivering all critical tech projects related to the Beckn Protocol. With over 17 years of experience in software engineering, he has a strong track record in ideating and implementing strategies for large-scale engineering projects. His prior roles at Crossover, Morgan Stanley, and Bank of America reflect his extensive experience in the industry. Faiz's expertise in software engineering and global client engagements has a profound impact on FIDE's technological advancements. His notable technological contributions include spearheading the implementation of open networks such as ONEST, Open Gambia, UEI, and Open Belem.",
+      "thumb": "faiz-mohammed.jpg",
+      "facebook": "",
+      "twitter": "",
+      "linkedIn": "https://in.linkedin.com/in/faizvm",
+      "email": "",
+      "events": {
+        "event1": "T111"
+        }
 		  }
+      
   ]
 }
